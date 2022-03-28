@@ -1,0 +1,7 @@
+---
+id: "480"
+post_id: "379"
+author: "Paul Gehl"
+date: "2013-03-11 19:43:36"
+---
+Interesting that you make this geographical leap, Courtney. The printer's mark certainly identified his firm, and usually printers had only one location, but most of the marks do not have geographical references. They tend to be based on literary sources, just as other emblems do. And some of them were deliberately international -- firms like the Giunta had branches in several cities in Italy, Spain, and France but they always used some form of a lily mark. As for dates, they are rare in very early printed books but become pretty much universal by the end of the fifteenth century --except in exactly the case where the mark might be omitted, when the printer did not want his work to be easily identified or traced.

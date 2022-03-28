@@ -1,0 +1,7 @@
+---
+id: "583"
+post_id: "229"
+author: "paigeanderson"
+date: "2016-02-03 18:15:54"
+---
+I feel as though this paragraph really captures the essence of Humanism. The two purposes of the work that Mancinelli mentions to his son are morals and Latin. This is a representation of the Humanist era because it was a movement from medieval times that began to focus more on the goodness of man. The teaching of Latin during this time was important as well since the Renaissance, and the Humanism movement in particular, stressed the newfound importance of language. Mentioning the different meanings of words between Humanism and feudal times is another representation of the movement away from medieval society and towards a new appreciation of Greek and Roman thought and of language. \n\nHowever, I thought it was interesting that he made a mention to the Pope since Humanism started the movement away from the church and towards the importance of man's own thought. Does this reference show the importance of the balance of discovery and spirituality during this period?

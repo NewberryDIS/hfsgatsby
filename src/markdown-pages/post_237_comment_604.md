@@ -1,0 +1,22 @@
+---
+id: "604"
+post_id: "237"
+author: "Lily"
+date: "2016-02-04 12:16:16"
+---
+From what I gathered in this chapter, Mancinelli was truly a humanist writer and publisher. He fostered the importance of education, but also stressed the need for correction. He contested the works of major authors and didn't take any of his own knowledge for granted. Mancinelli encouraged students to diversify their knowledge and opinions by looking at different interpretations of certain subjects. 
+
+
+
+
+
+
+I see many similarities between Mancinelli and Montaigne, a humanist in Renaissance France. They both draw upon the ideas of contesting ancient works that were never before doubted, discovering new knowledge at every point in life, and being open to different opinions.
+
+
+
+However, in Chapter 25 "Sur l'education des enfants" in Book One of "Essais," Montaigne draws upon the importance of conversation between students and teachers. He says that is essential for students to question the teachings they are being taught in class. This can come from having discussions with the teacher or opening their mind to new worldly experiences. 
+
+
+
+From what I gathered, Mancinelli mainly focuses on the discussion between teachers to figure out the best methods to teach students. He does not seem to mention much about the discussions in the classroom. Did Mancinelli see any good coming from conversation within in the classroom or was he more concerned with he discussions between editors, publishers, and teachers outside of the lesson plan?

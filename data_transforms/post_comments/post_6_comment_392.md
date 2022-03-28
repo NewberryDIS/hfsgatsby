@@ -1,0 +1,7 @@
+---
+id: "392"
+post_id: "6"
+author: "Greta Westerwald"
+date: "2011-11-26 11:47:51"
+---
+Hello, Mr. Gehl,\nI am aware that, during the Middle Ages and a good part of the Renaissance, the Virgin Mary was presented as the ideal woman in Christian parts of the world. Women who did not live up to such a standard of purity, submissiveness, and gentleness were often looked upon as deviants, whores, or worse. How have you seen this dichotomy played out in the emblems, woodcuts, and engravings of the period? What effects do you think these representations of women had in the lives of the men and few women who were able to access books?\nWhat Thomas Laquer has called â€œthe One-Sex Modelâ€ was still being taught during this period. I have seen several illustrations of this model in medical textbooks from the time, and I am curious to know if you have seen examples in non-medical books for students of other disciplines, and also in books of literature and/or poetry. I agree that people of lower classes and women in general would have been ignorant of how their bodies and their genders were being defined, but how aware of the One-Sex construction of the human body were people who could access education? Is there any evidence to suggest that anyone was aware or suspected that sex and thus gender were/are social constructions, and that these constructions serve not only to materialize the body, but also to form our conceptions of â€œnatureâ€ itself, as Judith Butler has argued?

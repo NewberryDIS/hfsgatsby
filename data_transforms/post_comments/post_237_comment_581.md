@@ -1,0 +1,7 @@
+---
+id: "581"
+post_id: "237"
+author: "Alissa"
+date: "2016-02-03 17:14:37"
+---
+I believe Mancinelli's willingness to continually correct and make changes to his printed texts shows his humanistic mindset that his personal experiences can change they way he learns and educates, and what he knows to be true. He was not content with the knowledge that he knew to be true in the past and he continually wanted to improve his texts for himself and his students. On the other hand, even if the mistakes in his texts really were the printer's errors, it still shows the idea that education is always changing and can be improved. The invention of the printing press was revolutionary in more ways than one-- it allowed for a continual conversation between scholars. Mancinelli also proves his humanistic educational style by urging other scholars, most likely other grammar scholars, to inspect his work and provide commentary. This shows the he valued the importance of community and understanding others' opinions. I also think he embodies another human characteristic of diversity by teaching in several different cities; however, I do not see this sense of diversity in his general teaching since he mainly teaches about grammar and its related subjects.\n\nIt is obvious that Mancinelli was a competitive writer and educator throughout his entire life, which I think is extremely important to learning. However, is this necessarily a humanistic characteristic in education/ in general?

@@ -1,0 +1,159 @@
+1 0.00 INTRODUCTION: The Problem of School Books
+2 About
+4 Comments By Section
+5 Comments By User
+6 General Comments
+18 0.01 Humanism in Crisis
+24 0.02 Regionalisms
+26 0.03 Some Perils of Generalization
+28 0.04 Moralizing Pedagogy
+31 0.05 Seen and Not Heard
+33 0.06 Voices Nonetheless
+35 0.07 The Case of Francesco Negro
+37 0.08 Graphics Too
+39 0.09 Economics
+41 0.10 Cultural Appropriations
+43 0.11 Past and Future Histories
+79 1.00 CHAPTER ONE: From School Author to School Book: Terence in Manuscript and Print
+84 1.01 Why Terence?
+86 1.02 Terence in Mind
+88 1.03 School Authors
+90 1.04 Printing and the Canon
+92 1.05 Terence in Manuscript
+94 1.06 The Folio Terence
+96 1.07 Illustrating Terence
+98 1.08 Less Than Folio
+100 1.09 Octavo and Smaller Formats
+102 1.10 Giovanni Griffio & Co.
+104 1.11 Can You Sell Philology?
+106 1.12 Lazzaro Soardi's Mixed Messages
+108 1.13 More and More Advertising
+110 1.14 Teachers' Editions, Mid-Century and Beyond
+112 1.15 Design in Decline
+115 1.16 Vocabulary Drills and General Rules
+117 1.17 Giovanni Fabrini and Self-Study
+122 1.18 More Controversy
+124 1.19 Literary Joke or Careerism?
+126 1.20 Epilogue: On the Market
+134 2.00 CHAPTER TWO: Getting Started: Learning to Latinize
+138 2.01 Learning Reading / Learning Latin
+142 2.02 The Donat and the Cato
+144 2.03 Pseudo-Donatus
+146 2.04 Printing the Donat
+149 2.05 Red and Black
+153 2.06 Beyond the Donat
+155 2.07 Guarino Guarini of Verona
+157 2.08 Improving Guarino
+160 2.09\tA Best Seller: NiccolÃ² Perotti
+163 2.10\tAdvertising an Old Standby
+166 2.11\tHumanist Critiques of the Donat
+169 2.12\tReplacing the Donat
+171 2.13\tRadical Grammarians
+173 2.14\tCatonis Disticha
+176 2.15\tPrinting the Cato
+178 2.16\tPackaging Morals
+180 2.17\tDesiderius Erasmus, Ad Man
+189 2.18\tErasmus Picking Fights
+191 2.19 Kaspar Schoppe, Master Anthologizer
+194 2.20 How and Why to Drill
+197 2.21 Modern Teachers
+199 3.00 CHAPTER THREE: Antonio Mancinelli and the Humanist Classroom
+201 3.01 A Teacher in Print
+204 3.02 Advertising Oneself
+207 3.03 Printer's Errors
+209 3.04 Teaching With Print
+211 3.05 Urban Schools, Urban Patrons
+213 3.06 Elementary Schoolbooks
+215 3.07 Off to Rome
+217 3.08 Scholarly Work
+219 3.09 More Basic Schoolbooks
+221 3.10 In the Capital of Printing
+223 3.11 Presenting Cicero, Fixing Lorenzo Valla
+225 3.12 Impressing the Printers
+227 3.13 Midlife
+229 3.14 Late Works
+231 3.15 Collecting Himself
+233 3.16 Packaging Celebrity
+235 3.17 A Slippery Heritage
+237 3.18 Grammatical Publishing at the Turn of the Century
+240 4.00 CHAPTER FOUR: Crossing Borders: Northern Textbooks on the Italian Market
+244 4.01 Transitions / Translations
+246 4.02 Publishing Celebrity
+248 4.03 Despauterian Grammar
+250 4.04 Ciceronianisms
+252 4.05 De Spauter and the Reform of Pedagogy
+254 4.06 Re-Formatting the Reformer
+256 4.07 Josse Bade, Editor and Printer
+258 4.08 Advertising Grammar Books
+260 4.09 Jean Pellisson, Company Man
+262 4.10 Marketing a New De Spauter
+264 4.11 Late-Century Readings
+266 4.12 Textbook Packages
+268 4.13 Packaging Pedagogy Too
+270 4.14 Geographical Fiction and Fact
+272 4.15 Itineraries
+274 4.16 Toponomy
+276 4.17 Imported Geographies, Italian Packages
+278 4.18 Geography in Italian Classrooms
+280 4.19 Imports from the Empire of Latin
+282 5.00 CHAPTER FIVE: Universal and Instrumental: the Jesuit Grammar of Manuel Alvares
+284 5.01 Syntax Sells, Somewhat
+286 5.02 The Jesuit Market
+288 5.03 An Evolving Textbook
+290 5.04 Demands of the Market
+292 5.05 The Rhetoric of the Preface
+294 5.06 Addressing the Teachers
+296 5.07 Resistance is Futile
+298 5.08 In the Classroom
+300 5.09 Typography for the Classroom
+302 5.10 A View from Outside
+305 5.11 Adversus Emmanuelis Alvari
+307 5.12 Reviewing and Defending a Textbook
+309 5.13 Conservative Alternatives
+311 5.14 Conservative Typography
+313 5.15 A Radical Reformer
+315 5.16 Progressive Alternatives
+317 5.17 A Long Afterlife
+319 6.00 CHAPTER SIX: Vernacular Literacy, Commercial Education, and How To Do Stuff
+321 6.01 Class and Gender, In School and Out
+323 6.02 Alternative Educations
+325 6.03 Commercial Skills
+327 6.04 Better Arithmetic Books
+329 6.05 Math for the Future
+331 6.06 Bookkeeping Textbooks
+333 6.07 Who's Learning Math?
+335 6.08 Writing Manuals
+337 6.09 Advertising a Fine Hand
+339 6.10 Down-Market Handwriting Books
+341 6.11 Vernacular Literacy
+343 6.12 Catechism and Condescension
+345 6.13 Whither How-To?
+347 6.14 Ricettari
+349 6.15\tBooks to Formula
+351 6.16 Teaching Music Theory and Practice
+353 6.17 Poor Churchfolk
+355 6.18\tHumanist Music Education
+357 6.19 Professionals or Amateurs?
+359 6.20 Conclusion: Into the Future
+361 7.00 CHAPTER SEVEN: Emblems in the Classroom
+363 7.01\tMarketing and Moralizing
+365 7.02\tAuthors and Audiences
+367 7.03\tEmblem as Machine
+369 7.04\tVisualizing the Text
+371 7.05\tEmblem Books
+373 7.06\tReading Emblems Every Day
+375 7.07\tTitle Page Emblems
+377 7.08\tTrademarks Good or Bad?
+379 7.09\tClassroom Title Pages
+381 7.10\tBreaking the Rules
+383 7.11\tEmblem Books in the Classroom
+385 7.12\tPrimers of Virtue
+387 7.13\tJesuit Emblems
+388 7.14\tChubby Children and the Blessed Virgin
+390 7.15\tItalians Out of Step
+392 7.16\tConclusion: Schools of Emblematic Thought
+394 8.00 CONCLUSIONS: Selling Books and Selling Ideas
+396 8.01\tA Market for Humanism
+398 8.02\tThe Rhetoric of Print
+400 8.03\tReal and Rhetorical Innovations
+402 8.04\tProfits

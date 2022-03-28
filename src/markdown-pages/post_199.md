@@ -1,0 +1,7 @@
+---
+title: "3.00 CHAPTER THREE: Antonio Mancinelli and the Humanist Classroom"
+slug: /text/199
+---
+[caption id="attachment_937" align="aligncenter" width="288"]<a href="http://www.humanismforsale.org/text/images_full/3.00_Chapter_Three/Inc.-5438.4(Vault)De-arte-grammatica,-sive,-De-octo-partibus-DETAIL.jpg" rel="pop-up"><img class="size-full wp-image-937" title="inc-54384vaultde-arte-grammatica-sive-de-octo-partibus-detail-thumb" src="http://www.humanismforsale.org/text/wp-content/uploads/2008/09/inc-54384vaultde-arte-grammatica-sive-de-octo-partibus-detail-thumb.jpg" alt="A Grammar classroom, from Sulpizio, 1495 (click to enlarge - 498 KB jpeg image)" width="288" height="217" /></a> A Grammar classroom, from Sulpizio, 1495 (click to enlarge - 498 KB jpeg image)[/caption]
+
+This chapter traces the professional activities of Antonio Mancinelli (ca. 1452-1505) as an example of a Latin grammar master whose career began in the age of manuscript textbooks but who quickly exploited the new technology of printing to create textbooks of his own devising. Mancinelli is one of the most self-conscious witnesses we have to the birth of the printed textbook and we discover that he influenced the design of his textbooks too.
