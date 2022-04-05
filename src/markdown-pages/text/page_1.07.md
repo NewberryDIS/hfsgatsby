@@ -1,0 +1,41 @@
+---
+title: "1.07 Illustrating Terence"
+slug: /text/107
+postid: 96
+---
+<p style="text-align: center;"></p>
+
+
+<figure class="mkdn-figure">
+    <a href="/images_full/1.00_Chapter_One/HFS_107.03.jpg" class="mkdn-image-link">
+    <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_107.03.jpg" />
+    <figcaption class="mkdn-figcaption">1493 Illustrations for a play of Terence (click to enlarge - 962 KB JPEG image)</figcaption>
+    </a>
+</figure>
+
+Beginning in the fourteen nineties, it became common to ornament the more ambitious Italian editions of Terence with small woodcuts at the start of each scene showing the characters on a stage that more or less accurately imagined the interior of a classical Roman theater. These illustrations were based on those in medieval codices discovered and studied by humanists in the fifteenth century. The first illustrated edition was that published by Jean Trechsel at Lyon in 1493. The program of its illustrations is to be attributed to Josse Bade (1462-1535), a Flemish schoolmaster working for Trechsel in the period. Bade also edited the text, as he did for many other schoolbooks, and he provided a preface suggesting the pictures were added for the edification of those illiterate in Latin (presumably those who might hear the plays read aloud from this edition without themselves being able to read Latin with facility). The book was immediately imitated throughout Europe. The first illustrated Italian edition dates from later in the same year, 1493, supervised by Milan printer/publisher Lazzaro Soardi, who reprinted Bade's text and commentary as well as the illustrations. Soardi applied for several privileges from the Venetian authorities to protect his investment in the text, commentaries, and woodcuts. He reprinted the book with additional commentaries into the first decade of the sixteenth century. (37)
+
+<figure class="mkdn-figure">
+    <a href="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-pg.25.jpg" class="mkdn-image-link">
+    <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-pg.25.jpg" />
+    <figcaption class="mkdn-figcaption">Schematic illustrations (click to enlarge - 705 KB jpeg image)</figcaption>
+    </a>
+</figure>
+
+Since the illustrative scheme was complex, only a few sets of woodcuts for the six plays of Terence were ever made. These were used and reused by printers across the half-century in which this style of illustration was popular. Typically they consist of one cut per scene with many repeats, to a total of about 150 cuts for the 300-odd scenes in the six plays, plus an author portrait which typically stood at the head of the prologue to each play. Almost all the sequences that survive are close copies of the Trechsel/Bade cuts. (38) Giorgio Rusconi made an attempt to simplify the Trechsel illustrations in 1518. Rusconi created blocks to represent each single character, arranged against a uniform background of drapery. These were assembled in various combinations to represent the persona in each scene. (39)
+
+<figure class="mkdn-figure">
+    <a href="/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum-interpretationibus,-DETAIL.jpg" class="mkdn-image-link">
+    <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum-interpretationibus,-DETAIL.jpg" />
+    <figcaption class="mkdn-figcaption">&quot;Comic Strip&quot; Illustrations (click to enlarge - 433 KB jpeg image)</figcaption>
+    </a>
+</figure>
+
+Only one alternative sequence of illustrations is known, also derived from the Trechsel cuts, but vastly simplified. This was made for an edition published by Giovanni Tacuino of Venice in 1522. In this scheme, each of the six plays was given a comic-strip style series of scenes arranged in two strips of four scenes. There are always just eight cells irrespective of the actual number of scenes in the play. As in the Trechsel scenes, the characters are labeled with abbreviated forms (Pan for Pamphilus, Da for Davus and the like) that anticipate the order of arrival of the characters in the plays. Such scenes in comic-strip form, however, cannot in fact be read as representing the full dramatic action. Indeed it is hard to imagine how they were read at all. At best they functioned as an aide-memoire for a reader who already knew the plot, characters, and major turns of events. This reader could only have been a teacher familiar with the plays, and even he could only use them to help students in the classroom imagine a theater. The Tacuino blocks were used in later editions by Guglielmo de Fontaneta and Venturino Ruffinelli and they were copied at least once in smaller format for a 1526 quarto edition by Alessandro Paganino. (40)
+
+<strong>NOTES</strong>
+<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
+(37)Â  Fulin 1882a, 124, 132; Richmond 1955, 16; Rhodes 1988, 289; Walters 1988, 107-109.
+(38)Â  Mortimer French, 623-626; Mortimer Italian, 683-687. A set pirated at Milan is described by Petrella 2006, 171-173.
+(39)Â  Mortimer Italian, 686-687, describing Terence 1518. The homely results apparently prompted Rusconi to abandon the practice; he returned to a more traditional, Trechsel-based set of blocks for Terence 1521a.
+(40)Â  Terence 1522, 1528, 1539, 1546. These Terence "comics" are earlier by twenty years than most Italian prints using the strip form, on which Matthews Grieco 1997, 65-70.

@@ -1,0 +1,7 @@
+---
+id: 354
+post_id: 250
+author: "Paul Gehl"
+date: "2011-09-23 20:32:51"
+---
+Kristeller's 1974 essays and Rummel's study, cited in the notes, are still the best treatments I know on this subject. It's not one that I can claim to have done original research on. Rereading my own prose at this point, I can see that I may seem to have intended to suggest a direct, derivative relationship of genre between humanist invective and scholastic disputation. I really meant to say instead that the habit of antagonism typical of scholastic debate was still so much a part of scholarly life in the early Renaissance that it fed naturally into humanist forms. When dealing as I do in this book with the prefaces and other paratexts of published textbooks, it is striking how frequently authors refer to polemical attacks -- often ones that do not survive or cannot easily be found in the record-- that were violent and personal enough to merit replies in print. In the case of famous figures like Erasmus, we have a record of a great deal of the back and forth. For textbook authors (like Mancinelli to whom I refer here) we will probably never know who or how influential his critics were. We know only that he felt it necessary to take them on in second and subsequent editions of his textbooks, in letters that became a permanent part of these textbooks as they were printed and reprinted for fifty years and more.

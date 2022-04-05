@@ -1,0 +1,22 @@
+---
+id: 31
+post_id: 1
+author: "pzelchenko"
+date: "2009-02-14 21:42:42"
+---
+Paul, I've been trying to sort out my frustrations about CommentPress. (There's also a competing product called Diigo that I was comparing a couple of months ago.) I think the problem lies not necessarily in the products themselves, but possibly in the fact that works like yours are really already so practically comprehensive and complete that it seems almost a little late for individuals to interact with them.
+
+
+
+
+ 
+
+If I were to get into this book (actually, I can't wait to delve into the stuff on Erasmus!), I would need to set aside a significant amount of time -- at my desktop computer. But the product is so well constructed already that it actually merits being locked up and printed so that I can read it in a comfortable chair! I also find myself looking for structure, illustrations, and so on, and being disappointed.
+
+ 
+
+I don't know if it's my old-fashioned "book" mind that craves the staticity and controlled nature of a printed and bound product (would a younger, more postmodern reader prefer this format?) or if there is something objectively qualitative about a "ludic reading" experience (cf. Sven Birkerts) that calls for being away from the depths of the machine and precludes too much interaction.
+
+ 
+
+Every discussion like this first calls to mind talmudist concentric marginalia and then the joyous "conversation" of scribbling notes in the margins of our own books. Maybe I just need to find more quiet time and space to be able to read these works carefully. I just went through the Rime of the Ancient Mariner online and I was fidgeting for half of it!

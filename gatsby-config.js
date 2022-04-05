@@ -41,6 +41,20 @@ module.exports = {
       "path": "./src/markdown-pages/"
     },
     __key: "markdown-pages"
+  },{
+    resolve: 'gatsby-source-filesystem',
+    options: {
+      "name": "markdown-text",
+      "path": "./src/markdown-pages/text/"
+    },
+    __key: "markdown-text"
+  },{
+    resolve: 'gatsby-source-filesystem',
+    options: {
+      "name": "comments",
+      "path": "./src/markdown-pages/comments/"
+    },
+    __key: "comments"
   }, { resolve: `gatsby-transformer-remark` }
   ]
 };
