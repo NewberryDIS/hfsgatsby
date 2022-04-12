@@ -37,10 +37,10 @@ The Tagliente math books, like others of Tagliente's textbooks, were precisely c
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(12)Â  On Pacioli, Antinori 1994, 11-25; Crosby 1997, 210-222; Ciocci 2003, 30-36.
-(13)Â  Bariola 1897, 374-376; Tagliente 1978a: <em>a li nostri magnifici gentilhomeni &amp; adaltri mercantanti</em>, trans. Morison and Potter 1968, 38-39. Compare Tagliente 1978b: a<em> diversi mercanti et a molti artesani li quali fanno le sue mercantie nelle loro botege</em>. Both books appeared in 1525. On the Venetian merchant class, Tucci 1973, 346-361.
-(14)Â  The chalice is illustrated but not explained by Jaffe 1999, 74.
-(15)Â  Jaffe 1999, 35-37; Grendler 1989, 306-317; Morison and Potter 1968, 34-35.
-(16)Â  Tagliente 1525, copy at Perugia, Biblioteca Augusta I.N.325 purchased by <em>Nicola di Michelangelo genuese tessitor di veluto</em>.
-(17)Â  Tagliente 1548: <em>sporco, &amp; da diverse macole fadato volitava per le mani de molti della arithmetica arte studiosi</em>. Padovano's heirs repeated this assertion in editions of 1554 and 1557.
-(18)Â  Tagliente 1548: <em>Questo... se offerisce alli discreti, &amp; modesti giovani, alli quali piacera (remosso ogni furore) con diligentia studiarlo, &amp; ritrovandi molti luochi acconciati, &amp; assai cose a questo pertinente aggionte havendone con il piacere, commoda utilitate, degneranno render gratie a Iesu Christo, il quale ha concesso poter a commune beneficio de buoni operare.</em>
+(12) On Pacioli, Antinori 1994, 11-25; Crosby 1997, 210-222; Ciocci 2003, 30-36.
+(13) Bariola 1897, 374-376; Tagliente 1978a: <em>a li nostri magnifici gentilhomeni &amp; adaltri mercantanti</em>, trans. Morison and Potter 1968, 38-39. Compare Tagliente 1978b: a<em> diversi mercanti et a molti artesani li quali fanno le sue mercantie nelle loro botege</em>. Both books appeared in 1525. On the Venetian merchant class, Tucci 1973, 346-361.
+(14) The chalice is illustrated but not explained by Jaffe 1999, 74.
+(15) Jaffe 1999, 35-37; Grendler 1989, 306-317; Morison and Potter 1968, 34-35.
+(16) Tagliente 1525, copy at Perugia, Biblioteca Augusta I.N.325 purchased by <em>Nicola di Michelangelo genuese tessitor di veluto</em>.
+(17) Tagliente 1548: <em>sporco, &amp; da diverse macole fadato volitava per le mani de molti della arithmetica arte studiosi</em>. Padovano's heirs repeated this assertion in editions of 1554 and 1557.
+(18) Tagliente 1548: <em>Questo... se offerisce alli discreti, &amp; modesti giovani, alli quali piacera (remosso ogni furore) con diligentia studiarlo, &amp; ritrovandi molti luochi acconciati, &amp; assai cose a questo pertinente aggionte havendone con il piacere, commoda utilitate, degneranno render gratie a Iesu Christo, il quale ha concesso poter a commune beneficio de buoni operare.</em>

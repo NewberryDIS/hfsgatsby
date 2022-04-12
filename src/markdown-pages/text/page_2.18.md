@@ -27,8 +27,8 @@ Erasmus advocated a new kind of pedagogy for collections of moral sayings, one t
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(108)Â  Boas 1938, 281-283 and Boas 1940, 64-68; Perraud 1988, 89-91; Thompson and Perraud 1990, 55-58; Henkel 1995, 219-221. Erasmus conveniently omits mention of the fact that these two scholarly commentaries were intended for university use, not for elementary classrooms.
-(109)Â  Erasmus 1538, 3: <em>Porro cuius auctoris sit hoc opus, &amp; utrum unius, an plurium, non admodum referre puto. Catonis ob id tantum arbitror dici, quod sententias habeat Catone dignas.</em>
-(110)Â  Perraud 1988, 90; Cherchi 1998, 55.
-(111)Â  Erasmus 1538, 3: <em>Sed interim clamabit vitiligator aliquis: hui Theologum tam frivolis versari nugis? Primum ego nichil fastidiendum duco, quantumvis humile, quod ad bonas pertinet literas, nedum hosce versus, tanta Romani sermonis munditie, tamque ad bonos mores conducibiles. Quanquam cur me pudeat in hoc genere paulas horas collocare, in quo non pauci scriptotes Graeci non mediocri cum laude sunt versati?</em>
-(112)Â Â  Further on this humanist theme, Chomart 1981, 234-237.
+(108) Boas 1938, 281-283 and Boas 1940, 64-68; Perraud 1988, 89-91; Thompson and Perraud 1990, 55-58; Henkel 1995, 219-221. Erasmus conveniently omits mention of the fact that these two scholarly commentaries were intended for university use, not for elementary classrooms.
+(109) Erasmus 1538, 3: <em>Porro cuius auctoris sit hoc opus, &amp; utrum unius, an plurium, non admodum referre puto. Catonis ob id tantum arbitror dici, quod sententias habeat Catone dignas.</em>
+(110) Perraud 1988, 90; Cherchi 1998, 55.
+(111) Erasmus 1538, 3: <em>Sed interim clamabit vitiligator aliquis: hui Theologum tam frivolis versari nugis? Primum ego nichil fastidiendum duco, quantumvis humile, quod ad bonas pertinet literas, nedum hosce versus, tanta Romani sermonis munditie, tamque ad bonos mores conducibiles. Quanquam cur me pudeat in hoc genere paulas horas collocare, in quo non pauci scriptotes Graeci non mediocri cum laude sunt versati?</em>
+(112)Â  Further on this humanist theme, Chomart 1981, 234-237.

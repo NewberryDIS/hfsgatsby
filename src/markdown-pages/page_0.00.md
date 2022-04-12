@@ -12,6 +12,6 @@ slug: /test/
 </figure>asdf
 
 
-At this point in each chapter, I give a quick summary of its contents.Â  The blog format is aimed at inviting discussion.Â  This spot right here is a good place for readers to offer comments on the overall structure of the book, the formatting of theÂ  blog, and generally how the whole thing functions.
+At this point in each chapter, I give a quick summary of its contents. The blog format is aimed at inviting discussion. This spot right here is a good place for readers to offer comments on the overall structure of the book, the formatting of the blog, and generally how the whole thing functions.
 
 This Introduction describes the sources and methodological issues involved in studying the textbook history of the Renaissance. It also outlines some themes of the remainder of the book: moral instruction as part of elementary education, student-teacher relations, successful marketing strategies, and the growth of textbooks for vernacular language instruction.

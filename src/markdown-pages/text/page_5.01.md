@@ -9,14 +9,14 @@ Given the lack of systematic guides to syntax, it is no surprise that the larges
 
 Before 1570, however, we cannot point to any textbook that was consistently used throughout Italy. The closest contenders were Perotti, used widely in Italy and France, (5) and De Spauter, whose <em>Grammaticae Institutionis libri septem</em> as edited by Josse Bade was used extensively in France and the Low Countries and spottily elsewhere. Versions of it (usually partial) also found ready, local markets in Italy after 1550. Also frequently printed was the introductory grammar of Aldo Manuzio, an important case studied by Kristian Jensen. Interestingly, more editions 
 
-Even with perennial favorites like De Spauter and Aldo, then, there is little evidence that systematic marketing of elementary and intermediate textbooks extended beyond a few major urban markets; and only Venice had a major export trade. The best marketing of the period failed to forward broad curricular reform. The limited market success, moreover, reflected teachers' continuing dissatisfaction withÂ  the quality of the textbooks available. This situation would change radically with the advent of the Jesuit colleges and later, schools of other religious orders. (7)
+Even with perennial favorites like De Spauter and Aldo, then, there is little evidence that systematic marketing of elementary and intermediate textbooks extended beyond a few major urban markets; and only Venice had a major export trade. The best marketing of the period failed to forward broad curricular reform. The limited market success, moreover, reflected teachers' continuing dissatisfaction with the quality of the textbooks available. This situation would change radically with the advent of the Jesuit colleges and later, schools of other religious orders. (7)
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  Sabbadini 1902, 309-313; Percival 1988a; Jensen 2001, 117-118.
-(2)Â  Colombat 1999, 31-36. 470-475. Compare the <em>Epitomies</em> of Valla by Mancinelli treated in sections 3.10 and 3.11.
-(3)Â  Percival 1988b, 250-256; Colombat 1999, 465-475. The principal exception to the general acquiescence in using medieval vocabulary was Pomponio Leto, who invented highly original schemata for teaching the declensions and conjugations, but later abandoned them; see Zabughin 1910, 219-222.
-(4)Â  Jensen 1998, 248-251; Jensen 2001, 113-115, 118-123.
-(5)Â  Wortsbrock 2001; Jensen 2001, 117.
-(6)Â  Jensen 1998, 247-250.
-(7)Â  Bianchi 1995, 769-772, 793-796, 807-808.
+(1) Sabbadini 1902, 309-313; Percival 1988a; Jensen 2001, 117-118.
+(2) Colombat 1999, 31-36. 470-475. Compare the <em>Epitomies</em> of Valla by Mancinelli treated in sections 3.10 and 3.11.
+(3) Percival 1988b, 250-256; Colombat 1999, 465-475. The principal exception to the general acquiescence in using medieval vocabulary was Pomponio Leto, who invented highly original schemata for teaching the declensions and conjugations, but later abandoned them; see Zabughin 1910, 219-222.
+(4) Jensen 1998, 248-251; Jensen 2001, 113-115, 118-123.
+(5) Wortsbrock 2001; Jensen 2001, 117.
+(6) Jensen 1998, 247-250.
+(7) Bianchi 1995, 769-772, 793-796, 807-808.

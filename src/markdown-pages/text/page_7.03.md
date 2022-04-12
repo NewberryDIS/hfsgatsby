@@ -41,5 +41,5 @@ This poem is not entirely self-explanatory, but at least it identifies the sourc
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(7)Â  My translations, here and elsewhere in this chapter, are adapted from the online Alciati, www.mun.ca/alciato.
-(8)Â Â  On mnemonic dimensions of emblems, Neuber 1990, 245-248, 255-257; on Heraclitus and moral analogy, Stafford 1999, 105. For the <em>manus oculata</em> symbol as a merchant's device, see Sabbioneta 2003, 61; it also appeared as an entirely decorative element in at least one mathematics textbook, Bettini 1642, vol. 2, pt. 2, p. 9.
+(7) My translations, here and elsewhere in this chapter, are adapted from the online Alciati, www.mun.ca/alciato.
+(8)Â  On mnemonic dimensions of emblems, Neuber 1990, 245-248, 255-257; on Heraclitus and moral analogy, Stafford 1999, 105. For the <em>manus oculata</em> symbol as a merchant's device, see Sabbioneta 2003, 61; it also appeared as an entirely decorative element in at least one mathematics textbook, Bettini 1642, vol. 2, pt. 2, p. 9.

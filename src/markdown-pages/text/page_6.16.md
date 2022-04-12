@@ -49,6 +49,6 @@ Music textbooks had a distinctive look. Illustrated with diagrams, depictions of
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(87)Â Â  Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
-(88)Â Â  Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
-(89)Â Â  Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.
+(87)Â  Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
+(88)Â  Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
+(89)Â  Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.

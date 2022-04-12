@@ -21,10 +21,10 @@ Although there was no direct mention of the Jesuits, this portrait of the pious 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(48)Â  Ballerini 1985, 226-236; Lucchi 1985, 30-35.
-(49)Â  Further on these themes among other pedagogues, Turchini 1996, 314 -329.
-(50)Â  On the welcome of the Jesuits, here and elsewhere: Farrell 1938, 99-100;Â  Tacchi-Venturi 1961, 397-410, 482-88; Scaduto 1964, 410-435; Marchi 1979, 53; Brizzi 1984, 157-159; O'Malley 1993, 228-232; Brizzi 1995, 40-42; Rurale, 1998, 94-98, 104-106; Sangalli 1999, 91-103, 292-295; Grendler 2002, 479-483; Carlsmith 2002, 226-233.
-(51)Â  Pescetti 1592; there is no modern edition but extensive extracts are offered by Secco 1973, 195-201 and Sani 1999, 98-107. See also Marchi 1979, 50-54.
-(52)Â  On the matter of textbooks, only the orthography of Aldo Manuzio is named, but Pescetti also specifies a seven-book grammar that divides conveniently among the nine classes in his school. I know of no published grammar book that divides exactly this way, but Pescetti might have had Pellisson's <em>Contextus universae grammatices Despauterianae</em> in mind, since as usually published in Italy it included six books of Despauterian exercises plus the <em>Rudimenta</em> of Pellisson. Another possible candidate would be the six books plus <em>Epitome</em> of Lucio Giovanni Scoppa. Pescetti's nine classes may also have been modeled on theÂ  nine-book grammar of the Veronese humanist Bernardino Donato.
-(53)Â  Marchi 1979, 53-54.
-(54)Â  Brizzi 1984, 160-170.
+(48) Ballerini 1985, 226-236; Lucchi 1985, 30-35.
+(49) Further on these themes among other pedagogues, Turchini 1996, 314 -329.
+(50) On the welcome of the Jesuits, here and elsewhere: Farrell 1938, 99-100; Tacchi-Venturi 1961, 397-410, 482-88; Scaduto 1964, 410-435; Marchi 1979, 53; Brizzi 1984, 157-159; O'Malley 1993, 228-232; Brizzi 1995, 40-42; Rurale, 1998, 94-98, 104-106; Sangalli 1999, 91-103, 292-295; Grendler 2002, 479-483; Carlsmith 2002, 226-233.
+(51) Pescetti 1592; there is no modern edition but extensive extracts are offered by Secco 1973, 195-201 and Sani 1999, 98-107. See also Marchi 1979, 50-54.
+(52) On the matter of textbooks, only the orthography of Aldo Manuzio is named, but Pescetti also specifies a seven-book grammar that divides conveniently among the nine classes in his school. I know of no published grammar book that divides exactly this way, but Pescetti might have had Pellisson's <em>Contextus universae grammatices Despauterianae</em> in mind, since as usually published in Italy it included six books of Despauterian exercises plus the <em>Rudimenta</em> of Pellisson. Another possible candidate would be the six books plus <em>Epitome</em> of Lucio Giovanni Scoppa. Pescetti's nine classes may also have been modeled on the nine-book grammar of the Veronese humanist Bernardino Donato.
+(53) Marchi 1979, 53-54.
+(54) Brizzi 1984, 160-170.

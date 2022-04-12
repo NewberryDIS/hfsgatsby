@@ -47,8 +47,8 @@ Paganino had taken up some Aldine ideas but did not merely copy them. At its ori
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(45)Â  Cataldi Palau 1988, 83-85, 336-341.
-(46)Â  On the typographical conservatism of Paolo Manuzio, see Baldachini 1994, 286-288.]
-(47)Â Â  On the humanist publishing program of the Giunta, see Godman 1998, 207-217.
-(48)Â  Balsamo 1969, 18-22; Nuovo 1990, 36-62.
-(49)Â  Nuovo 1990, 39 is right in this judgement, notwithstanding the contrary opinion of Stanley Morison, Morison and Day 1963, 32-34.
+(45) Cataldi Palau 1988, 83-85, 336-341.
+(46) On the typographical conservatism of Paolo Manuzio, see Baldachini 1994, 286-288.]
+(47)Â  On the humanist publishing program of the Giunta, see Godman 1998, 207-217.
+(48) Balsamo 1969, 18-22; Nuovo 1990, 36-62.
+(49) Nuovo 1990, 39 is right in this judgement, notwithstanding the contrary opinion of Stanley Morison, Morison and Day 1963, 32-34.

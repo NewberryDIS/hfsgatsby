@@ -17,7 +17,7 @@ Instead, he proposed a three-step overall plan for basic Latin. The first step i
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(44)Â  Pellisson 1562, quoted in section 3.02.
-(45)Â  See section 2.09.
-(46)Â  Orlandi 1975, 40: <em>Alterum quod vos meminisse velim est, nequid nisi doctissimorum authorum ediscere cogatis adolescentulos. Immo ne grammaticas quidem regulas, nisi compendia quaedam brevissima, quae teneri facile memoria queant, laudo eos ediscere; sed tantum ut illas assidue accurateque legant, nominaque et verba declinare optime sciant. Nam, dum lucubrationes nostras vel carmine vel prosa oratione, etiam de arte, commendare memoriae eos cogimus, erramus, ut mihi quidem videtur, multis modis. Primum quod, quae summo labore edidicerunt, dediscunt paucis diebus.</em> Compare the 1493 preface, ibid., 165-166.
-(47)Â  Pellisson 1562, 105v-106r. Starting with prayers this way reversed the order of De Spauter's <em>Rudimenta</em>, in which grammatical rules were rehearsed first, in question and answer form, and then the student was exercised with "short questions concerning penitence, confession, sins, and articles of faith" (De Spauter 1537, fol. 3r).
+(44) Pellisson 1562, quoted in section 3.02.
+(45) See section 2.09.
+(46) Orlandi 1975, 40: <em>Alterum quod vos meminisse velim est, nequid nisi doctissimorum authorum ediscere cogatis adolescentulos. Immo ne grammaticas quidem regulas, nisi compendia quaedam brevissima, quae teneri facile memoria queant, laudo eos ediscere; sed tantum ut illas assidue accurateque legant, nominaque et verba declinare optime sciant. Nam, dum lucubrationes nostras vel carmine vel prosa oratione, etiam de arte, commendare memoriae eos cogimus, erramus, ut mihi quidem videtur, multis modis. Primum quod, quae summo labore edidicerunt, dediscunt paucis diebus.</em> Compare the 1493 preface, ibid., 165-166.
+(47) Pellisson 1562, 105v-106r. Starting with prayers this way reversed the order of De Spauter's <em>Rudimenta</em>, in which grammatical rules were rehearsed first, in question and answer form, and then the student was exercised with "short questions concerning penitence, confession, sins, and articles of faith" (De Spauter 1537, fol. 3r).

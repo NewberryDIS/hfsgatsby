@@ -15,6 +15,6 @@ This choice of subjects betrays considerable ambition. The sayings were intended
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(113)Â  On the English textbooks for language study which may well have been models for Schoppe, Wyatt 2005, esp. 163-180. On his influence in Italy, Bianchi 1995, 806-807.
-(114)Â Â  Schoppe 1698.
-(115)Â Â  On the perceived need for strict orthodoxy at the elementary level, Marchetti 1975, 212-215.
+(113) On the English textbooks for language study which may well have been models for Schoppe, Wyatt 2005, esp. 163-180. On his influence in Italy, Bianchi 1995, 806-807.
+(114)Â  Schoppe 1698.
+(115)Â  On the perceived need for strict orthodoxy at the elementary level, Marchetti 1975, 212-215.

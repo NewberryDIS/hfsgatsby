@@ -22,8 +22,8 @@ In the course of rewriting and popularizing learned emblems for schoolboys and o
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(43)Â Â  Alciati 1542, 5-6; KÃ¶hler 1986, 58; Saunders 1988, 62-70.
-(44)Â Â  KÃ¶hler 1986, 61-64; Biot 1996, 86-92, 272-213.
-(45)Â Â  KÃ¶hler 1986, 64-69.
-(46)Â Â  Manning 2002, 154-157.
-(47)Â Â  Harms 1973, 59-62; Elkins 1999, 201.
+(43)Â  Alciati 1542, 5-6; KÃ¶hler 1986, 58; Saunders 1988, 62-70.
+(44)Â  KÃ¶hler 1986, 61-64; Biot 1996, 86-92, 272-213.
+(45)Â  KÃ¶hler 1986, 64-69.
+(46)Â  Manning 2002, 154-157.
+(47)Â  Harms 1973, 59-62; Elkins 1999, 201.

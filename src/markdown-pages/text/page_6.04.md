@@ -26,11 +26,11 @@ Like other early arithmetics for the reckoning schools, Borghi's presented the e
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(19)Â  It is important not to confuse the <em>abaco</em> or reckoning-school course and its textbooks with the sophisticated <em>abaco</em> treatises or with humanist mathematics; for the distinctions, see especially Van Egmond 1986, 59-66. Futher on the elementary course, Black 2007, 52-54, 162-163.
-(20)Â  The Treviso book, printed in folio, is about three times the length of the quarto <em>Luminario</em> or the octavo <em>Thesoro</em>. A facsimile edition is Abbaco 1995; Swetz 1987 is a full translation. See also Smith 1908, 3-7. That it was published in the same place and year as the first known <em>Babuino</em> cannot be a coincidence; they were part of the same commercial course. On the standard course: Arrighi 1968; Goldthwaite 1972; Van Egmond 1976; Lucchi 2000; on Florence, Witt 1995, 93, 111-113.
-(21)Â  Smith 1908, 16-22. Compare Borghi 1517: <em>Chi de arte matematiche ha piacere / che tengon di certeza el primo grado / avanti che di quelli tenti el vado / vogli la presente opera vedere.</em> This advertisement would translate more literally, "Whoever would take pleasure in mathematics / (which holds the first step to certain knowledge), / before he crosses the riverÂ  into higher maths], / he'll want to read this book." It is repeated in the Bindoni edition of 1540.
-(22)Â  Calandri 1491, 2v-3r. A reprint in similar typographic style appeared in 1518. See also Jaffe 1999, 33-35.
-(23)Â  Hobart and Schiffman 1998, 120-123.
-(24)Â  Jackson 1906, 45-46, 61-65, 183-184; Davis 1960, 29-31; Antinori 1994, 13-16; Ciocci 2003, 177-189.
-(25)Â  Jackson 1906, 94-95.
-(26)Â  Jackson 1906, 61-64, 184; Ciocci 2003, 190-193. Cataneo 1559, 7v still strenuously commended memorizing the multiplication tables, as if others might have thought it was not needed.
+(19) It is important not to confuse the <em>abaco</em> or reckoning-school course and its textbooks with the sophisticated <em>abaco</em> treatises or with humanist mathematics; for the distinctions, see especially Van Egmond 1986, 59-66. Futher on the elementary course, Black 2007, 52-54, 162-163.
+(20) The Treviso book, printed in folio, is about three times the length of the quarto <em>Luminario</em> or the octavo <em>Thesoro</em>. A facsimile edition is Abbaco 1995; Swetz 1987 is a full translation. See also Smith 1908, 3-7. That it was published in the same place and year as the first known <em>Babuino</em> cannot be a coincidence; they were part of the same commercial course. On the standard course: Arrighi 1968; Goldthwaite 1972; Van Egmond 1976; Lucchi 2000; on Florence, Witt 1995, 93, 111-113.
+(21) Smith 1908, 16-22. Compare Borghi 1517: <em>Chi de arte matematiche ha piacere / che tengon di certeza el primo grado / avanti che di quelli tenti el vado / vogli la presente opera vedere.</em> This advertisement would translate more literally, "Whoever would take pleasure in mathematics / (which holds the first step to certain knowledge), / before he crosses the river into higher maths], / he'll want to read this book." It is repeated in the Bindoni edition of 1540.
+(22) Calandri 1491, 2v-3r. A reprint in similar typographic style appeared in 1518. See also Jaffe 1999, 33-35.
+(23) Hobart and Schiffman 1998, 120-123.
+(24) Jackson 1906, 45-46, 61-65, 183-184; Davis 1960, 29-31; Antinori 1994, 13-16; Ciocci 2003, 177-189.
+(25) Jackson 1906, 94-95.
+(26) Jackson 1906, 61-64, 184; Ciocci 2003, 190-193. Cataneo 1559, 7v still strenuously commended memorizing the multiplication tables, as if others might have thought it was not needed.

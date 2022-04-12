@@ -13,5 +13,5 @@ There is evidence that some Jesuits were considering this same change in the fif
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(29)Â  During the review of the entire <em>Ratio Studiorum</em> initiated across the order in 1586, one Polish Jesuit was astounded to discover how much some northern European editions of Alvares published in the fifteen seventies differed from the Roman edition of 1584 that he had been asked to review; see MPSI 6:331
-(30)Â  MPSI 6:320; 7:375-76.
+(29) During the review of the entire <em>Ratio Studiorum</em> initiated across the order in 1586, one Polish Jesuit was astounded to discover how much some northern European editions of Alvares published in the fifteen seventies differed from the Roman edition of 1584 that he had been asked to review; see MPSI 6:331
+(30) MPSI 6:320; 7:375-76.

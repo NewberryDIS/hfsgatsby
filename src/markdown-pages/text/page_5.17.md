@@ -20,6 +20,6 @@ In 1859, Alvares's full, scholarly grammar received a handsome edition at Paris,
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(82)Â  Deutscher 2002, 1013 provides figures that suggest that even in a diocese like Novara, where the education of priests was dominated by a Jesuit-run seminary, other grammars continued to be used.
-(83)Â  Brizzi 1976, 265; Ballerini 1985, 259-268, 279-282; Colombat 1999, 46; Zwartjes 2000, 240-41; Waquet 2001, 26-36.
-(84)Â  Waswo 1999, 410-412; Waquet 2001, 124-151.
+(82) Deutscher 2002, 1013 provides figures that suggest that even in a diocese like Novara, where the education of priests was dominated by a Jesuit-run seminary, other grammars continued to be used.
+(83) Brizzi 1976, 265; Ballerini 1985, 259-268, 279-282; Colombat 1999, 46; Zwartjes 2000, 240-41; Waquet 2001, 26-36.
+(84) Waswo 1999, 410-412; Waquet 2001, 124-151.

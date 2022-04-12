@@ -3,7 +3,7 @@ title: "2.15 Printing the Cato"
 slug: /text/215
 postid: 176
 ---
-Unlike <em>Ianua</em>, the regional variant of the Donat Italians knew, the Cato text used in medieval and Renaissance Italy was much the same as the one used beyond the Alps. It circulated under the rubric <em>Catonis Disticha</em> because most of the proverbs it contained were two-line verses. There is no distinct Italian manuscript tradition; and the base texts in printed versions were much the same North and South of the Alps. Once the Cato text began to appear in elaborate editions with extensive annotations for teachers, it was common for these printed texts to cross the Alps, just as other scholarly books did.Â  (90)
+Unlike <em>Ianua</em>, the regional variant of the Donat Italians knew, the Cato text used in medieval and Renaissance Italy was much the same as the one used beyond the Alps. It circulated under the rubric <em>Catonis Disticha</em> because most of the proverbs it contained were two-line verses. There is no distinct Italian manuscript tradition; and the base texts in printed versions were much the same North and South of the Alps. Once the Cato text began to appear in elaborate editions with extensive annotations for teachers, it was common for these printed texts to cross the Alps, just as other scholarly books did. (90)
 
 We have already noted, however, that in Italy Pseudo-Cato often circulated together with the <em>Ianua</em> in a single manuscript booklet subsumed under the name of the Donat. In the North the <em>Ars minor</em> of Aelius Donatus and the Cato were usually treated as separate texts both in manuscripts and in early printed versions. In origin, the Donat and the Cato had different roles in the curriculum, since Aelius Donatus wrote a book of grammatical rules (and the Italian Donat was an equivalent set of rules), while the Cato was offered as a first literary reader. This functional distinction was preserved in Northern European printed editions. In the North, the Cato was often paired with the fables of Avianus. (91) Both these texts also appeared in an anthology of medieval elementary reading texts that was partly standardized before the introduction of printing and which circulated widely in print as the <em>Eight Authors</em> (<em>Auctores octo</em>). Many of these same school texts circulated in medieval Italy too, but not in standardized collections. (92) With the exception of the Cato, they were slowly eliminated from the curriculum by humanist teachers for exactly the reasons cited by Bebel -- bad Latin and insufficient attention to simple, commonplace moral themes. None of them appeared with the Cato in printed Italian editions. Instead, humanist teachers continued to use the Cato together with or immediately after Pseudo-Donatus and then went on to more complex reading texts in parallel with an intermediate grammar book. This was the pattern on the eve of the invention of printing, and it continued into the seventeenth century. The Donat -- in the sense of Pseudo-Donatus plus Pseudo-Cato -- became the standard printed package in Italy for the first course in Latin. (93)
 
@@ -44,13 +44,13 @@ Josse Bade, editor of this and many other schoolbooks, is a particular case whos
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(90)Â Â  Gehl 1993, 109-122; Baldzuhn 2006, 34-40. See also sections 4.01 and 402.
-(91)Â Â  Baldzuhn 2006, 354.
-(92)Â Â  Glauche 1970; Gehl 1993, 13, 114.
-(93)Â Â  Blasio 2005, 15. Black 2007, 123-126, recognizes the combination as "a standard duo" for basic reading instruction in fourteenth-century Tuscany; but elsewhere (46, 110) treats the Cato as a reading text in the elementary Latin course, especially in the late fifteenth century. It seems more logical to me to see both texts as one highly traditional and conservatively preserved unit across the whole manuscript period, adopted as such by printers from the fourteen seventies on.
-(94)Â Â  Pseudo-Donatus 1500b, GW9014; the only recorded copy is at the Newberry Library, Chicago.
-(95)Â Â  fol. b8r: <em>Marci Catonis viri singularis ad vitam adolescentulorum liberis artibus instruendam utriusque virtutis felicissima instituta.</em>
-(96)Â Â  Pseudo Donatus 1496; GW 9027, IGI 3562.
-(97)Â Â  Mancinelli 1518. It survives in this form in many libraries, sometimes with a general title page for the whole set; see section 3.16.
-(98)Â  Pseudo-Donatus 1548 prints the distichs in the usual large gothic type but also provides thematic notes in the margin in minuscule roman type. On commonplace and paraphrase: Ong 1977, 147-181; Grafton and Jardine 1986, 22-25; Grendler 1989, 194-201; Moss 1999, 148-154; Frazier 2005, 192-202.
-(99)Â  Renouard 1908 ii, 264-267; on Bade's commentaries, Schmidt 1975, 67-70; on the <em>Sylvae</em>, Crane 2005, 29-35. On Bade and Erasmus, Vanautgaerden 2008, 89-11, 200-213, 229-232.
+(90)Â  Gehl 1993, 109-122; Baldzuhn 2006, 34-40. See also sections 4.01 and 402.
+(91)Â  Baldzuhn 2006, 354.
+(92)Â  Glauche 1970; Gehl 1993, 13, 114.
+(93)Â  Blasio 2005, 15. Black 2007, 123-126, recognizes the combination as "a standard duo" for basic reading instruction in fourteenth-century Tuscany; but elsewhere (46, 110) treats the Cato as a reading text in the elementary Latin course, especially in the late fifteenth century. It seems more logical to me to see both texts as one highly traditional and conservatively preserved unit across the whole manuscript period, adopted as such by printers from the fourteen seventies on.
+(94)Â  Pseudo-Donatus 1500b, GW9014; the only recorded copy is at the Newberry Library, Chicago.
+(95)Â  fol. b8r: <em>Marci Catonis viri singularis ad vitam adolescentulorum liberis artibus instruendam utriusque virtutis felicissima instituta.</em>
+(96)Â  Pseudo Donatus 1496; GW 9027, IGI 3562.
+(97)Â  Mancinelli 1518. It survives in this form in many libraries, sometimes with a general title page for the whole set; see section 3.16.
+(98) Pseudo-Donatus 1548 prints the distichs in the usual large gothic type but also provides thematic notes in the margin in minuscule roman type. On commonplace and paraphrase: Ong 1977, 147-181; Grafton and Jardine 1986, 22-25; Grendler 1989, 194-201; Moss 1999, 148-154; Frazier 2005, 192-202.
+(99) Renouard 1908 ii, 264-267; on Bade's commentaries, Schmidt 1975, 67-70; on the <em>Sylvae</em>, Crane 2005, 29-35. On Bade and Erasmus, Vanautgaerden 2008, 89-11, 200-213, 229-232.

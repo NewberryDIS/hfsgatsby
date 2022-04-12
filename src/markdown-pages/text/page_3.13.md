@@ -15,10 +15,10 @@ In both the Strabo and the Herodotus editions the lengthy indexes and the brief 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(63)Â  On the competitive climate among humanists in Venice at the period, Perosa 1981, 602-608; Cox 2003, 662-664.
-(64)Â  Mellidi 2002, 62-63, 70-73.
-(65)Â  Mancinelli 1493b is the first edition.
-(66)Â  Strabo 1494. The exemplars were probably copies of the two earlier Venetian editions (1472 and 1480) since their text and prefatory matter are followed closely and since there is no indication that Mancinelli knew the other two earlier editions (both Roman, from the presses of Sweynheim and Pannartz).
-(67)Â  Noted by BMC 5:345, 418.
-(68)Â  Strabo 1494: <em>Sicubi depravatum quid legitur, non mihi at impressorum potius festinantiae imputabitur.</em>
-(69)Â  Perhaps the success of the first printing was already clear when the front matter was in press, so the printer deliberately did an overrun of the indexes at that time, or at least decided then to let the type stand.
+(63) On the competitive climate among humanists in Venice at the period, Perosa 1981, 602-608; Cox 2003, 662-664.
+(64) Mellidi 2002, 62-63, 70-73.
+(65) Mancinelli 1493b is the first edition.
+(66) Strabo 1494. The exemplars were probably copies of the two earlier Venetian editions (1472 and 1480) since their text and prefatory matter are followed closely and since there is no indication that Mancinelli knew the other two earlier editions (both Roman, from the presses of Sweynheim and Pannartz).
+(67) Noted by BMC 5:345, 418.
+(68) Strabo 1494: <em>Sicubi depravatum quid legitur, non mihi at impressorum potius festinantiae imputabitur.</em>
+(69) Perhaps the success of the first printing was already clear when the front matter was in press, so the printer deliberately did an overrun of the indexes at that time, or at least decided then to let the type stand.

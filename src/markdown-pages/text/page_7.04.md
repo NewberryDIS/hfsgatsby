@@ -35,6 +35,6 @@ Almost all emblems are based on literary sources and imply a comparative reading
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(9)Â Â  Manning 1989, 129-134; Manning 2002, 51-54, 277-279.
-(10)Â Â  <em>In exultatione metent</em>. Tinto 1987, 44.
-(11)Â Â  Manning 2002, 48-51.
+(9)Â  Manning 1989, 129-134; Manning 2002, 51-54, 277-279.
+(10)Â  <em>In exultatione metent</em>. Tinto 1987, 44.
+(11)Â  Manning 2002, 48-51.

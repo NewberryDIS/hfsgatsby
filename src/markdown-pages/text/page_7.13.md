@@ -35,8 +35,8 @@ Almost all the original Jesuit emblem books were composed in Northern Europe and
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(48)Â Â  Codina Mir 1968, 300-305; Brizzi 1984, 165-170.
-(49)Â Â  Insolera 2004, 198.
-(50)Â Â  Palumbo 1990, 23-37; O'Malley 1993, 11-14; Dimmler 2002, 71-72; Insolera 2004, 192-196.
-(51)Â Â  Bauer 1986.
-(52)Â Â  Hugo 1627 and 1679, now at BNCRome.
+(48)Â  Codina Mir 1968, 300-305; Brizzi 1984, 165-170.
+(49)Â  Insolera 2004, 198.
+(50)Â  Palumbo 1990, 23-37; O'Malley 1993, 11-14; Dimmler 2002, 71-72; Insolera 2004, 192-196.
+(51)Â  Bauer 1986.
+(52)Â  Hugo 1627 and 1679, now at BNCRome.

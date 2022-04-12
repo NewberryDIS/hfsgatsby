@@ -9,6 +9,6 @@ Italians called not only the attributed author and his text but also the physica
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(3)Â  Thompson and Perraud 1990, 49-58.
-(4)Â  Sabbadini 1896; Grendler 1989, 174-194, 413-16; Black 2001, 42-63, 366-378; Black 2007, 44-45.
-(5)Â  Gehl 1993, 59-61; Black 2001, 85 n. 139; Banker 2003, 65-71.
+(3) Thompson and Perraud 1990, 49-58.
+(4) Sabbadini 1896; Grendler 1989, 174-194, 413-16; Black 2001, 42-63, 366-378; Black 2007, 44-45.
+(5) Gehl 1993, 59-61; Black 2001, 85 n. 139; Banker 2003, 65-71.

@@ -13,10 +13,10 @@ Calligraphic manuals in print played a major part in creating the personal reput
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(50)Â  Petrucci 1988, 838-839, and 1993, 614-615.
-(51)Â  Petrucci 1988, 839-842 and 1993, 615-616; compare Mosley 1964, 18-20; Morison and Barker 1990, 130-142.
-(52)Â  Osley 1980, 62. Cox 2003, 686-690 points to the strong class-consciousness of bourgeois teachers whose students came from the Venetian aristocracy.
-(53)Â  Osley 1980, 79; this elegant simile may be a direct response to Tagliente's homelier one, since it does not appear in Arrighi's first book (which appeared before Tagliente's) but in his second (which appeared later).
-(54)Â  Petrucci 1988, 841-842; Mosley 1996.
-(55)Â  Osley 1980, 119.
-(56)Â  Further on professional manuals, Petrucci 1993, 620-628.
+(50) Petrucci 1988, 838-839, and 1993, 614-615.
+(51) Petrucci 1988, 839-842 and 1993, 615-616; compare Mosley 1964, 18-20; Morison and Barker 1990, 130-142.
+(52) Osley 1980, 62. Cox 2003, 686-690 points to the strong class-consciousness of bourgeois teachers whose students came from the Venetian aristocracy.
+(53) Osley 1980, 79; this elegant simile may be a direct response to Tagliente's homelier one, since it does not appear in Arrighi's first book (which appeared before Tagliente's) but in his second (which appeared later).
+(54) Petrucci 1988, 841-842; Mosley 1996.
+(55) Osley 1980, 119.
+(56) Further on professional manuals, Petrucci 1993, 620-628.

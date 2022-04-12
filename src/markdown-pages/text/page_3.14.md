@@ -3,7 +3,7 @@ title: "3.14 Late Works"
 slug: /text/314
 postid: 229
 ---
-Mancinelli's late works all aim to inculcate morals in Latin students. The <em>Mirror of Morals and Duties</em> (<em>Speculum de moribus et officiis</em>) is a verse treatment of the four cardinal virtues. It bears an interesting double dedication. A short, affectionate verse commending the work was addressed to Mancinelli's youngest son Festus. Mancinelli says the purpose of his work is double, to instruct in morals and to teach Latin. The first is the leader (or duke, <em>dux</em>) of the poem, the second its companion (or count, <em>comes</em>). Here Mancinelli offers his son both fatherly advice and also a schoolroom clarificationÂ  (the technical term in grammar is <em>differentia</em>) between terms whose classical meaning had been distorted by their long use in feudal society. The verses to Festus are preceded by fourteen lines in praise of Cardinal Alessandro Farnese (later Pope Paul III), a rare address by Mancinelli to a prince of the church. Farnese had been a student of Pomponio Leto and so was part of the Roman humanist circle by reason of real learning and intelligence as well as birth. Mancinelli's poem is punningly conventional. The cardinal exemplifies the cardinal virtues, so he is the perfect judge (<em>optimus censor</em>) of a poem on morals.
+Mancinelli's late works all aim to inculcate morals in Latin students. The <em>Mirror of Morals and Duties</em> (<em>Speculum de moribus et officiis</em>) is a verse treatment of the four cardinal virtues. It bears an interesting double dedication. A short, affectionate verse commending the work was addressed to Mancinelli's youngest son Festus. Mancinelli says the purpose of his work is double, to instruct in morals and to teach Latin. The first is the leader (or duke, <em>dux</em>) of the poem, the second its companion (or count, <em>comes</em>). Here Mancinelli offers his son both fatherly advice and also a schoolroom clarification (the technical term in grammar is <em>differentia</em>) between terms whose classical meaning had been distorted by their long use in feudal society. The verses to Festus are preceded by fourteen lines in praise of Cardinal Alessandro Farnese (later Pope Paul III), a rare address by Mancinelli to a prince of the church. Farnese had been a student of Pomponio Leto and so was part of the Roman humanist circle by reason of real learning and intelligence as well as birth. Mancinelli's poem is punningly conventional. The cardinal exemplifies the cardinal virtues, so he is the perfect judge (<em>optimus censor</em>) of a poem on morals.
 
 <em>Marketplace of Latin Speech</em> (<em>Latini sermonis emporium</em>) is an Italian-to-Latin proverb and phrase book. Nearly seven hundred short phrases in Italian are given elegant Latin dress. There are proverbs like "œIt's better to be a doctor than an unlearned man, said Aristippus" or "œDon't be slow to learn," but also commonplace and even colloquial phrases, "œI was forced to do it" and "œSet the table." The logic of such a compilation is set out in the brief dedication. Even young children, Mancinelli says, should be encouraged to use Latin conversationally. (70)
 
@@ -17,9 +17,9 @@ Lastly, we should remark four apparently lost works. Mancinelli seems to claim i
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(70)Â  The <em>Emporium</em> was printed as late asÂ  the 1550's with the preface redated to 1543, perhaps in error but more likely in an attempt to make the book seem more modern; Bersano 1966, 302.
-(71)Â  Mellidi 2002, 143-150.
-(72)Â  Mancinelli 1503b and 1504.
-(73)Â  Rowland 1998, 83-85, 183.
-(74)Â  Mellidi 2002, 148-150.
-(75)Â  CTC 5:379.
+(70) The <em>Emporium</em> was printed as late as the 1550's with the preface redated to 1543, perhaps in error but more likely in an attempt to make the book seem more modern; Bersano 1966, 302.
+(71) Mellidi 2002, 143-150.
+(72) Mancinelli 1503b and 1504.
+(73) Rowland 1998, 83-85, 183.
+(74) Mellidi 2002, 148-150.
+(75) CTC 5:379.

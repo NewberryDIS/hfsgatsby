@@ -13,6 +13,6 @@ By the middle of the seventeenth century, preaching, iconographic programs, and 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(64)Â Â  Bregoli Russo 1990, 225-240; Ciardi 1995, 38-45; Maggi 1997, 17-23; Maggi 1998b, 368-369; Maggi 2000a, 116-121 and 2000b, 212-215; Manning 2002, 73-79.
-(65)Â Â  <em>Imprese</em> 1603, 2-6, 36-40; Maggi 1998b, 370-371.
-(66)Â Â  Turchini 1996, 317.
+(64)Â  Bregoli Russo 1990, 225-240; Ciardi 1995, 38-45; Maggi 1997, 17-23; Maggi 1998b, 368-369; Maggi 2000a, 116-121 and 2000b, 212-215; Manning 2002, 73-79.
+(65)Â  <em>Imprese</em> 1603, 2-6, 36-40; Maggi 1998b, 370-371.
+(66)Â  Turchini 1996, 317.

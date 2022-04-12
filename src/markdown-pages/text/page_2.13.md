@@ -32,5 +32,5 @@ By 1550, then, there were so many alternatives in print that the grip of the Don
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(83)Â  Redig de Campos, 166-168.
-(84)Â  Further on Priscianese, see section 7.10; also Redig de Campos 1938; Ridolfi 1941; Padoan 1978, 371-393;Vignali 1979; Vignali 1980; Jensen 1996a, 67-68.
+(83) Redig de Campos, 166-168.
+(84) Further on Priscianese, see section 7.10; also Redig de Campos 1938; Ridolfi 1941; Padoan 1978, 371-393;Vignali 1979; Vignali 1980; Jensen 1996a, 67-68.

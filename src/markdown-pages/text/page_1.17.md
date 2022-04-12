@@ -54,10 +54,10 @@ While Fabrini's grammar was a sort of translation manual, he compiled the append
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(75)Â  Fabrini was not alone in his ambitions to teach by translation of Terence; indeed his inspiration may have been French translations and studies of Terence by Etienne Dolet and Charles Estienne in the early fifteen forties; see Fabre 1995, 70. Further on Fabrini, Zaccaria 1993.
-(76)Â  These claims appear on every edition from the first, Terence 1548, onward. Fabrini's work was published in Venice both by the Sessa firm and by that of Vincenzo Valgrisi. They make slightly different claims on their title pages, as can be seen in Valgrisi editions of 1548, 1558 and 1567 and Sessa printings of 1556, 1570, 1580 and 1594.
-(77)Â  This last claim appeared first in Terence 1556, still as far as we know supervised directly by Fabrini. Compare Kaspar Schoppe's tri-lingual grammars, discussed in section 2.19.
-(78)Â  Terence 1583, fol. Â¶ 2v-7r. On Abril, Morreale de Castro 1949. esp. 56-59, 178-80; Breva-Claramonte 1990, esp. 279-282.
-(79)Â  <em>... di tutti gli infiniti volgari, e quali hanno Ã  esser infiniti Latini, e quali gerundi.</em>
-(80)Â  <em>... le qual cose tutte sono mostrate con regole generali, e confirmate con l'autoritÃ  de gli scrittori latini, &amp; massimamente con l'autoritÃ  di Tullio, e di Terentio.</em>
-(81)Â  At least eleven editions before 1600.
+(75) Fabrini was not alone in his ambitions to teach by translation of Terence; indeed his inspiration may have been French translations and studies of Terence by Etienne Dolet and Charles Estienne in the early fifteen forties; see Fabre 1995, 70. Further on Fabrini, Zaccaria 1993.
+(76) These claims appear on every edition from the first, Terence 1548, onward. Fabrini's work was published in Venice both by the Sessa firm and by that of Vincenzo Valgrisi. They make slightly different claims on their title pages, as can be seen in Valgrisi editions of 1548, 1558 and 1567 and Sessa printings of 1556, 1570, 1580 and 1594.
+(77) This last claim appeared first in Terence 1556, still as far as we know supervised directly by Fabrini. Compare Kaspar Schoppe's tri-lingual grammars, discussed in section 2.19.
+(78) Terence 1583, fol. Â¶ 2v-7r. On Abril, Morreale de Castro 1949. esp. 56-59, 178-80; Breva-Claramonte 1990, esp. 279-282.
+(79) <em>... di tutti gli infiniti volgari, e quali hanno Ã  esser infiniti Latini, e quali gerundi.</em>
+(80) <em>... le qual cose tutte sono mostrate con regole generali, e confirmate con l'autoritÃ  de gli scrittori latini, &amp; massimamente con l'autoritÃ  di Tullio, e di Terentio.</em>
+(81) At least eleven editions before 1600.

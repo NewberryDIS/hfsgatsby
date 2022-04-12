@@ -60,12 +60,12 @@ Another <em>Rudimenta grammatices</em>, that of Niccolo Perotti (1430-1480), sta
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(17)Â  Chartier 1987, 6-12, 183-197; McKenzie 1989, 89-90, 101-106; Wheatley 2000, 52-57; Pawley 2002, 143-160; Ruffini 2002, 144-147; Cormack and Mazzio 2005, 1-8.
-(18)Â  The hundred-odd titles I <em>have</em> examined are listed in the bibliography, as a Short Title List of Editions Cited.
-(19)Â  Milde 1988, 7-11; Chartier 1995, 83-90; McKenzie 2002, 201-209.
-(20)Â  Jensen 2001, 104-105; Sandal 2006, 55-57.
-(21)Â  This version of the Donat is discussed at greater length in sections 2.04 and 2.05. Leto also wrote a more general (and equally innovative) grammar published in 1484. It too had very limited influence; see Zabughin 1910, vol. 2, 208-223; Ruysschaert 1954.
-(22)Â  Kirkenheim 1951, 54-55.
-(23)Â  Cittadella 1535, fol. 1v.
+(17) Chartier 1987, 6-12, 183-197; McKenzie 1989, 89-90, 101-106; Wheatley 2000, 52-57; Pawley 2002, 143-160; Ruffini 2002, 144-147; Cormack and Mazzio 2005, 1-8.
+(18) The hundred-odd titles I <em>have</em> examined are listed in the bibliography, as a Short Title List of Editions Cited.
+(19) Milde 1988, 7-11; Chartier 1995, 83-90; McKenzie 2002, 201-209.
+(20) Jensen 2001, 104-105; Sandal 2006, 55-57.
+(21) This version of the Donat is discussed at greater length in sections 2.04 and 2.05. Leto also wrote a more general (and equally innovative) grammar published in 1484. It too had very limited influence; see Zabughin 1910, vol. 2, 208-223; Ruysschaert 1954.
+(22) Kirkenheim 1951, 54-55.
+(23) Cittadella 1535, fol. 1v.
 (24) Â HÃ©brard 1983, 79-80; Colombat 1999, 37.
-(25)Â  Ricardini 1510, apparently the only edition.
+(25) Ricardini 1510, apparently the only edition.

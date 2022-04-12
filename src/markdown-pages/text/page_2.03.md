@@ -20,11 +20,11 @@ Whether as a last text in the basic reading course or as a useful summary gramma
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(6)Â  Follak 2007, 151-152.
-(7)Â  <em>Partes orationis quot sunt? octo, que nomen, pronomen, ...</em>
-(8)Â  <em>Poeta que pars est? nomen est. quare est nomen? quia significat substantiam...</em>
-(9)Â  Black 2001, 47-48.
-(10)Â  Black 2001, 45-83.
-(11)Â  Cervani, 400-401; see the bibliopgraphy for editions I have examined.
-(12)Â  Black 2001, 48-62 and 2007, 44-47.
-(13)Â  Ortalli 1993, 60-65.
+(6) Follak 2007, 151-152.
+(7) <em>Partes orationis quot sunt? octo, que nomen, pronomen, ...</em>
+(8) <em>Poeta que pars est? nomen est. quare est nomen? quia significat substantiam...</em>
+(9) Black 2001, 47-48.
+(10) Black 2001, 45-83.
+(11) Cervani, 400-401; see the bibliopgraphy for editions I have examined.
+(12) Black 2001, 48-62 and 2007, 44-47.
+(13) Ortalli 1993, 60-65.

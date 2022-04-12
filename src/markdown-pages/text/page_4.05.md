@@ -19,12 +19,12 @@ Schoolboys hated De Spauter's system for it gave them endless lines of bad verse
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(15)Â  HÃ©brard 1983, 74-76; Colombat 1999, 36-38. On the Trilingual College and its milieu, Henderson 1988, 184-185; Jardine 1993, 17-23; on textbook publishing in this circle, Perraud 1988, 84.
-(16)Â  Medieval and Renaissance grammarians repeatedly and obsessively concerned themselves with irregular forms; see esp. Ford 2000, 164-166; Colombat 1993, 104-106.
-(17)Â  Spauter 1518; for this commonplace (later turned against Spauter), Kukenheim 1951, 55-57.
-(18)Â  HÃ©brard 1983, 76-79 describes the typography. The most comprehensive discussion of De Spauter's method, Colombat 1993, 97-127, barely mentions typographic elements. Most of the typographical devices were not original to De Spauter and his printers; see Henkel 1995, esp. 215-218 on Caxton's use of some of them.
-(19)Â  Harkness 1898, 245.
-(20)Â  Spauter 1536c, fol. 64v-65r: <em>Tu sextum casum si quando per unde rogaris / aut qua: responde. Si per quo: ponito quartum / in propriis. quibus usque cupit rus cum domus addi</em>. More literally, of course, this doggerel would translate, "If you are asked 'from where' or 'where,' answer in the sixth case with proper nouns; if asked 'to what place' use the fourth case; and always when 'country' is to be added to 'house.'"
-(21)Â  Ford 2000, 165-166 gives another instructive example.
-(22)Â  HÃ©brard 1983, 79; Colombat 1993, 37.
-(23)Â  Grafton and Jardine 1986, 20-28, 122-125; Waquet 2001, 129-145.
+(15) HÃ©brard 1983, 74-76; Colombat 1999, 36-38. On the Trilingual College and its milieu, Henderson 1988, 184-185; Jardine 1993, 17-23; on textbook publishing in this circle, Perraud 1988, 84.
+(16) Medieval and Renaissance grammarians repeatedly and obsessively concerned themselves with irregular forms; see esp. Ford 2000, 164-166; Colombat 1993, 104-106.
+(17) Spauter 1518; for this commonplace (later turned against Spauter), Kukenheim 1951, 55-57.
+(18) HÃ©brard 1983, 76-79 describes the typography. The most comprehensive discussion of De Spauter's method, Colombat 1993, 97-127, barely mentions typographic elements. Most of the typographical devices were not original to De Spauter and his printers; see Henkel 1995, esp. 215-218 on Caxton's use of some of them.
+(19) Harkness 1898, 245.
+(20) Spauter 1536c, fol. 64v-65r: <em>Tu sextum casum si quando per unde rogaris / aut qua: responde. Si per quo: ponito quartum / in propriis. quibus usque cupit rus cum domus addi</em>. More literally, of course, this doggerel would translate, "If you are asked 'from where' or 'where,' answer in the sixth case with proper nouns; if asked 'to what place' use the fourth case; and always when 'country' is to be added to 'house.'"
+(21) Ford 2000, 165-166 gives another instructive example.
+(22) HÃ©brard 1983, 79; Colombat 1993, 37.
+(23) Grafton and Jardine 1986, 20-28, 122-125; Waquet 2001, 129-145.

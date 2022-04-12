@@ -1,9 +1,8 @@
 import React from 'react'
 import { useStaticQuery, graphql } from "gatsby"
 import styled from "@emotion/styled"
-import { css } from "@emotion/react"
 
-const Comments = ({id}) => {
+const Comments = ({postid}) => {
     const data = useStaticQuery(graphql`
         query HeaderQuery {
             allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___id] }) {
@@ -24,7 +23,7 @@ const Comments = ({id}) => {
             }
         }
     `)
-    const commentData = data.allMarkdownRemark.edges.filter( edge => edge.node.frontmatter.post_id && edge.node.frontmatter.post_id === id )
+    const commentData = data.allMarkdownRemark.edges.filter( edge => edge.node.frontmatter.post_id && edge.node.frontmatter.post_id === postid )
     // console.log(commentData)
     const comments = commentData.map(c => <CommentBox key={c.node.frontmatter.id} >
         <p className="comment-author">{c.node.frontmatter.author}</p>

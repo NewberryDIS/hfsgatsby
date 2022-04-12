@@ -54,7 +54,7 @@ Apparently, <em>Nil candidius</em> did not suffice for Grand Duke Cosimo I (1519
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(28)Â Â  Renouard 1834, 410-419; Wolkenhauer 2002, 165-185.
-(29)Â Â  John 4, 7-26. These devices are explicated in Stevens and Gehl 2003, 275-277 citing the pertinent earlier literature.
-(30)Â Â  Pinkus 1996, 43-45, 130; Sandal 2003, 589-90.
-(31)Â Â  Bertoli 1999, 89-93.
+(28)Â  Renouard 1834, 410-419; Wolkenhauer 2002, 165-185.
+(29)Â  John 4, 7-26. These devices are explicated in Stevens and Gehl 2003, 275-277 citing the pertinent earlier literature.
+(30)Â  Pinkus 1996, 43-45, 130; Sandal 2003, 589-90.
+(31)Â  Bertoli 1999, 89-93.

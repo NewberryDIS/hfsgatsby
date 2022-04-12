@@ -76,14 +76,14 @@ Inventing emblems was part of the rhetoric curriculum in Italy too, but few Jesu
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(53)Â Â  Emblem I,5; Ps 68, 6: <em>Deus tu scis insipientiam meam</em>.
-(54)Â Â  Manning 2002, 179 adduces "local visual convention" for these child figures and claims that Hugo could not have intended his complex baroque poetry for children. In fact the poems are no more complicated than any other classical or neo-classical poetry given to Latin schoolboys; and the images are simpler than most emblems.
-(55)Â Â  Emblem I,10; Ps 142,2.
-(56)Â Â  Emblem I,13: <em>Numquid non paucitas dierum meorum finietur brevi</em>?
-(57)Â Â  Emblem I,6: <em>Miserere me, domini, quoniam infirmus sum</em>.
-(58)Â  Hugo 1634 (CLEJ, no. J637) is dedicated to Lucrezia Maria Sfondrati, prioress of San Paolo Converso at Milan, on which see Baernstein 2002. Compare Hugo 1678 (CLEJ, no. J750), a second Italian edition, also dedicated to an abbess.
-(59)Â  2003, 165.
-(60)Â Â  The inclusion of children was widely practiced in mannerist literature of all sorts; see for example, Gareffi 1981, 70-76.
-(61)Â  <em>Typus</em> 1697, p. 9: <em>Juvenes sumus, Rhetores sumus. Si grande quid expectas, ludimus</em>. The words for studying and playing, of course, are the same in Latin; <em>ludimus</em> here means both "œwe study" and "œwe play."
-(62)Â  Maggi 1998a, 123, 129-31; Maggi 1998b, 373-377; further on the Italian tradition of Marian emblems, Caldwell 2004, 259-273.
-(63)Â Â  <em>Imprese</em> 1603, 33: <em>...dalle quali parole, e pitture traher potrÃ  qualsivoglia mezzano ingegno nobilissimo sentimento</em>.
+(53)Â  Emblem I,5; Ps 68, 6: <em>Deus tu scis insipientiam meam</em>.
+(54)Â  Manning 2002, 179 adduces "local visual convention" for these child figures and claims that Hugo could not have intended his complex baroque poetry for children. In fact the poems are no more complicated than any other classical or neo-classical poetry given to Latin schoolboys; and the images are simpler than most emblems.
+(55)Â  Emblem I,10; Ps 142,2.
+(56)Â  Emblem I,13: <em>Numquid non paucitas dierum meorum finietur brevi</em>?
+(57)Â  Emblem I,6: <em>Miserere me, domini, quoniam infirmus sum</em>.
+(58) Hugo 1634 (CLEJ, no. J637) is dedicated to Lucrezia Maria Sfondrati, prioress of San Paolo Converso at Milan, on which see Baernstein 2002. Compare Hugo 1678 (CLEJ, no. J750), a second Italian edition, also dedicated to an abbess.
+(59) 2003, 165.
+(60)Â  The inclusion of children was widely practiced in mannerist literature of all sorts; see for example, Gareffi 1981, 70-76.
+(61) <em>Typus</em> 1697, p. 9: <em>Juvenes sumus, Rhetores sumus. Si grande quid expectas, ludimus</em>. The words for studying and playing, of course, are the same in Latin; <em>ludimus</em> here means both "œwe study" and "œwe play."
+(62) Maggi 1998a, 123, 129-31; Maggi 1998b, 373-377; further on the Italian tradition of Marian emblems, Caldwell 2004, 259-273.
+(63)Â  <em>Imprese</em> 1603, 33: <em>...dalle quali parole, e pitture traher potrÃ  qualsivoglia mezzano ingegno nobilissimo sentimento</em>.

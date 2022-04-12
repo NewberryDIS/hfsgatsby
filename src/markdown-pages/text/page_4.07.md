@@ -15,11 +15,11 @@ It is interesting to note how frequently Bade reprinted certain texts and in wha
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(26)Â  On Bade's life, Crane 2005, 13-27; on family ties in such careers, Armstrong 2005, 8-13.
-(27)Â  Lebel 1981, 65-67; Bade 1988, 3-27; Crane 2005, 35-46.
-(28)Â  On the markets for French humanism, see Martin and Dureau 1982; Winn 1997; Crane 2005, 7-11; on the analogous mix of books on the market of university town Bologna, Galli, 129-132.
-(29)Â  Crane 2005, 72-102.
-(30)Â  Lebel 1981 68-69; Bade 1988, 5-8.
-(31)Â  Lebel 1981, 63.
-(32)Â  Renouard 1908 iii, 279-299.
-(33)Â  Crane 2005, 76-89.
+(26) On Bade's life, Crane 2005, 13-27; on family ties in such careers, Armstrong 2005, 8-13.
+(27) Lebel 1981, 65-67; Bade 1988, 3-27; Crane 2005, 35-46.
+(28) On the markets for French humanism, see Martin and Dureau 1982; Winn 1997; Crane 2005, 7-11; on the analogous mix of books on the market of university town Bologna, Galli, 129-132.
+(29) Crane 2005, 72-102.
+(30) Lebel 1981 68-69; Bade 1988, 5-8.
+(31) Lebel 1981, 63.
+(32) Renouard 1908 iii, 279-299.
+(33) Crane 2005, 76-89.

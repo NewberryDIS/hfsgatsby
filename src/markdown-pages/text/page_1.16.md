@@ -31,11 +31,11 @@ Even truly learned Latinists like Bartolomeo Ricci (1490-1560) and Aldo Manuzio 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(67)Â  Moss 1999, 147-149.
-(68)Â  The Pesudo-Ciceronian <em>Synonyma</em> was a highly unstable text. The brief form known to Salutati, on which see Ullman, 1963, 224-225, was published in the 1480s (GW 7031 and 7032). A considerable expansion by Bartolomeo Facio (d. 1457) saw numerous editions from 1490 onward. Facio 1490 and 1519 were issued by printers who also produced textbooks of Antonio Mancinelli.
-(69)Â  There were many editions, e.g. Scoppa 1507, 1512, 1534, 1567; see Fuiano 1971, 41-48. A good example of the kind of annotation that produced such vocabulary lists is a copy of Terence 1545 at the Biblioteca Ambrosiana, Milan, where there is also a loose sheet of notes on style and vocabulary of exactly the sort used to compile lists.
-(70)Â  Most famously perhaps, Nizolio 1538 and many subsequent editions under the title <em>Thesaurus Ciceronianus</em>. Another popular and much-reprinted anthology was Cafaro 1568. On the genre, Trovato 1994, 30-32.
-(71)Â  Both these goals are enunciated by Facio 1519, fol. 16v.
-(72)Â  See Terence, Selections 1533a and 1533b.
-(73)Â  Dionisotti 1962; Peirone 1968.
-(74)Â  Ricci 1533 was a spectacularly unsuccessful speculation; see Gerini 1897, 152-153. Manuzio 1584 and 1585 were equally probably money-making projects; Deutsch 2002, 1017 found that this work was in use well into the next century.
+(67) Moss 1999, 147-149.
+(68) The Pesudo-Ciceronian <em>Synonyma</em> was a highly unstable text. The brief form known to Salutati, on which see Ullman, 1963, 224-225, was published in the 1480s (GW 7031 and 7032). A considerable expansion by Bartolomeo Facio (d. 1457) saw numerous editions from 1490 onward. Facio 1490 and 1519 were issued by printers who also produced textbooks of Antonio Mancinelli.
+(69) There were many editions, e.g. Scoppa 1507, 1512, 1534, 1567; see Fuiano 1971, 41-48. A good example of the kind of annotation that produced such vocabulary lists is a copy of Terence 1545 at the Biblioteca Ambrosiana, Milan, where there is also a loose sheet of notes on style and vocabulary of exactly the sort used to compile lists.
+(70) Most famously perhaps, Nizolio 1538 and many subsequent editions under the title <em>Thesaurus Ciceronianus</em>. Another popular and much-reprinted anthology was Cafaro 1568. On the genre, Trovato 1994, 30-32.
+(71) Both these goals are enunciated by Facio 1519, fol. 16v.
+(72) See Terence, Selections 1533a and 1533b.
+(73) Dionisotti 1962; Peirone 1968.
+(74) Ricci 1533 was a spectacularly unsuccessful speculation; see Gerini 1897, 152-153. Manuzio 1584 and 1585 were equally probably money-making projects; Deutsch 2002, 1017 found that this work was in use well into the next century.

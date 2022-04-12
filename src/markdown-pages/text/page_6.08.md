@@ -15,9 +15,9 @@ The reason for a sudden burst of activity precisely in the fifteen twenties is l
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(44)Â  De Blasi 1993, 385-387.
-(45)Â  The only known survival of a notebook with exercises of the sort was published by Cherubini 1996.
-(46)Â  Petrucci 1993, 622-624.
-(47)Â  Morison and Barker 1990, 51-66.
-(48)Â  Eamon 1994, 126 for this epithet and the Europe-wide phenomenon; see also Cormack and Mazzio 2005, 23-25, 79-93. Compare Quondam 1977, 84-88; Petrucci 1993, 613-614; and Bell 1999, 2-16 on Italy.
-(49)Â  Casamassima 1966, 25, 46, 49-50; Osley 1980, 47-48, 56-59; Gehl 2008a.
+(44) De Blasi 1993, 385-387.
+(45) The only known survival of a notebook with exercises of the sort was published by Cherubini 1996.
+(46) Petrucci 1993, 622-624.
+(47) Morison and Barker 1990, 51-66.
+(48) Eamon 1994, 126 for this epithet and the Europe-wide phenomenon; see also Cormack and Mazzio 2005, 23-25, 79-93. Compare Quondam 1977, 84-88; Petrucci 1993, 613-614; and Bell 1999, 2-16 on Italy.
+(49) Casamassima 1966, 25, 46, 49-50; Osley 1980, 47-48, 56-59; Gehl 2008a.

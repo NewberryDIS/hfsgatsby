@@ -13,6 +13,6 @@ There is no direct evidence for it, but the 1572 Rome reprint of the student ver
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(22)Â  For this practice and on Tramezzino: Nuovo 2002, 138.
-(23)Â  On these editions, Tinto 1966, 84-88.
-(24)Â  MPSI 4:243-244; Tinto 1966,Â  83-85.
+(22) For this practice and on Tramezzino: Nuovo 2002, 138.
+(23) On these editions, Tinto 1966, 84-88.
+(24) MPSI 4:243-244; Tinto 1966, 83-85.

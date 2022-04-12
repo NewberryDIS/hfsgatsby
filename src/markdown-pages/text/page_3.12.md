@@ -92,8 +92,8 @@ Even in the collected editions of Mancinelli's works that began to appear about 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(58)Â  Mancinelli 1498c.
-(59)Â  Mellidi 2002, 127-130.
-(60)Â  Booklets of <em>differentiae</em> posed particular layout problems because the lists of words were often wasteful of valuable paper. One solution in sharp contrast to Mancinelli's was to fill the inevitable blank spaces with ornamental cuts, as did the printer of the 1549 Guarino <em>differentiae</em> described by Bersano 1966, 300-302, and ascribed by Malaguzzi 2004, 97 to the Mondella family press. The result was, as Malaguzzi remarks, aesthetically at variance with any typographic norms; but, since this printer was capable of more sophisticated work, we must also conclude that the odd, fussy look of these pages was deliberate attempt to appeal to the children's market in a provincial town. This one-of-a-kind book probably represents many similar, "naÃ¯ve" products that do not survive.
-(61)Â  This epigram had migrated to the <em>Scribendi orandique</em> title page from that of Mancinelli's <em>Lima in Vallam</em> and <em>Rhetorica ad Herennium</em>. The <em>Vocum proprietas</em> chapter went on to have a life of its own, distinct from the main part of the treatise, as one of many humanist treatises on <em>differentiae</em>.
-(62)Â  Mancinelli 1499c, 1499d.
+(58) Mancinelli 1498c.
+(59) Mellidi 2002, 127-130.
+(60) Booklets of <em>differentiae</em> posed particular layout problems because the lists of words were often wasteful of valuable paper. One solution in sharp contrast to Mancinelli's was to fill the inevitable blank spaces with ornamental cuts, as did the printer of the 1549 Guarino <em>differentiae</em> described by Bersano 1966, 300-302, and ascribed by Malaguzzi 2004, 97 to the Mondella family press. The result was, as Malaguzzi remarks, aesthetically at variance with any typographic norms; but, since this printer was capable of more sophisticated work, we must also conclude that the odd, fussy look of these pages was deliberate attempt to appeal to the children's market in a provincial town. This one-of-a-kind book probably represents many similar, "naÃ¯ve" products that do not survive.
+(61) This epigram had migrated to the <em>Scribendi orandique</em> title page from that of Mancinelli's <em>Lima in Vallam</em> and <em>Rhetorica ad Herennium</em>. The <em>Vocum proprietas</em> chapter went on to have a life of its own, distinct from the main part of the treatise, as one of many humanist treatises on <em>differentiae</em>.
+(62) Mancinelli 1499c, 1499d.

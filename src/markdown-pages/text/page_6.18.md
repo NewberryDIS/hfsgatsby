@@ -33,7 +33,7 @@ Aaron's <em>Compendiolo</em> appeared in 1545, about the time of the author's de
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(96)Â Â  Judd 2000, 117-120.
-(97)Â Â  Aaron 1516, trans. and quoted by Blackburn 2001, 2-4.
-(98)Â Â  Aaron 1545.
-(99Â Â  E.g. Aiguino 1581 and Tigrini 1588; the possible German models include Rhaw 1538.
+(96)Â  Judd 2000, 117-120.
+(97)Â  Aaron 1516, trans. and quoted by Blackburn 2001, 2-4.
+(98)Â  Aaron 1545.
+(99Â  E.g. Aiguino 1581 and Tigrini 1588; the possible German models include Rhaw 1538.

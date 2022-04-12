@@ -74,6 +74,6 @@ On the other hand they are true pocket books, running to a mere seventy-eight pa
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(76)Â  Karrow 1993, 52-56.
-(77)Â  Fritzsche 1890, 91-93.
-(78)Â  On the octavo form, see sections 1.08-1.11. Northern texts on scientific subjects had been repackaged for the Italian market from the late fifteenth century onward. For the example of Johannes Lichtenberger's astrological prognostications, see Fava 1930, 136-143 and Petrella 2007, 36-42.
+(76) Karrow 1993, 52-56.
+(77) Fritzsche 1890, 91-93.
+(78) On the octavo form, see sections 1.08-1.11. Northern texts on scientific subjects had been repackaged for the Italian market from the late fifteenth century onward. For the example of Johannes Lichtenberger's astrological prognostications, see Fava 1930, 136-143 and Petrella 2007, 36-42.

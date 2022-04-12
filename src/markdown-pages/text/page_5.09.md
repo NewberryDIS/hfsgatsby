@@ -11,5 +11,5 @@ Even with the extensive revisions undertaken in the fifteen eighties, and after 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(46)Â  This book is now Biblioteca Nazionale Centrale, Roma: 204.23.D.13.
-(47)Â  MPSI 5:404. We know that Alvares's grammar was used outside the Jesuit schools fairly early on but we do not know how selectively; see Grendler 1989, 175, 192 for its use at Venice in 1587. When the Barnabites adopted Alvares for use in their Latin courses, which were much shorter and less in-depth than the Jesuit curriculum, they had to adapt it for different grades; see Bianchi 1995, 805.
+(46) This book is now Biblioteca Nazionale Centrale, Roma: 204.23.D.13.
+(47) MPSI 5:404. We know that Alvares's grammar was used outside the Jesuit schools fairly early on but we do not know how selectively; see Grendler 1989, 175, 192 for its use at Venice in 1587. When the Barnabites adopted Alvares for use in their Latin courses, which were much shorter and less in-depth than the Jesuit curriculum, they had to adapt it for different grades; see Bianchi 1995, 805.

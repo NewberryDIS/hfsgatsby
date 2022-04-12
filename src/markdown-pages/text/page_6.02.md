@@ -35,8 +35,8 @@ Giovanni Antonio Tagliente himself was a key figure in Italian textbook history;
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(7)Â  On the problematic notion of textbook authorship in the period, Maccagni 1993, 646-654; Houston 2002, 220-222.
-(8)Â  <em>Abbaco</em> 1995; Lucchi 2000, 209-215; cf. Schutte 1986, 8-9 and Lucchi 1978, 608-610.
-(9)Â  On classroom materials of the sort, Owens 1997, 74-82, 101-107.
-(10)Â  Borlandi 1963, 47-52, 151-157; Maccagni 1993, 640-648.
-(11)Â  Schutte 1986, 5-7, 14-16. For a self-composed description of the family enterprise, see their 1524 application for a privilege, Fulin 1882a, 204.
+(7) On the problematic notion of textbook authorship in the period, Maccagni 1993, 646-654; Houston 2002, 220-222.
+(8) <em>Abbaco</em> 1995; Lucchi 2000, 209-215; cf. Schutte 1986, 8-9 and Lucchi 1978, 608-610.
+(9) On classroom materials of the sort, Owens 1997, 74-82, 101-107.
+(10) Borlandi 1963, 47-52, 151-157; Maccagni 1993, 640-648.
+(11) Schutte 1986, 5-7, 14-16. For a self-composed description of the family enterprise, see their 1524 application for a privilege, Fulin 1882a, 204.

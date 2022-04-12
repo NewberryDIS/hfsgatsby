@@ -56,8 +56,8 @@ Early modern reading was rarely straightforwardly informational, and so too, rea
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(15)Â Â  Daly 1979, 9-36; Saunders 1988, 29-43.
-(16)Â Â  Gentile 1981, 224-227.
-(17)Â Â  On early broadside design, Schilling 1990, 285-192; Honemann 1996, 17-24; Rautenberg 2000, 131-134; Eisermann 2003, 162-168, 172-175.
-(18)Â  Duffy 1992, 238-248; Honemann 1996, 20-21 and plate 5; Areford 1998; Henkel 2000, 219-221; Schmidt 2000, 254-262.
-(19)Â Â  KÃ¶hler 1986, 77-86; Scholz 2002, 303-305, 316-327.
+(15)Â  Daly 1979, 9-36; Saunders 1988, 29-43.
+(16)Â  Gentile 1981, 224-227.
+(17)Â  On early broadside design, Schilling 1990, 285-192; Honemann 1996, 17-24; Rautenberg 2000, 131-134; Eisermann 2003, 162-168, 172-175.
+(18) Duffy 1992, 238-248; Honemann 1996, 20-21 and plate 5; Areford 1998; Henkel 2000, 219-221; Schmidt 2000, 254-262.
+(19)Â  KÃ¶hler 1986, 77-86; Scholz 2002, 303-305, 316-327.

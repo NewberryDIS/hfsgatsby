@@ -15,6 +15,6 @@ Terence is a useful case study because the comedies were so widely read, or, mor
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(10)Â  The best summary of the complex historical and critical problem of medieval <em>auctoritas</em> and modern authorship is Ascoli 2008, 5-12 and 29-44. See also useful discussions by Carruthers 1990, 189-220; Wheatley 2000, 13-31; Lerer 2008, 24-56.
-(11)Â  <em>Commedie latine</em> 1976-1980; on neo-Terentian comedies of the sixteenth century, Bloemendal 2003, 49-63.
-(12)Â  Fubini 2003, 47-53.
+(10) The best summary of the complex historical and critical problem of medieval <em>auctoritas</em> and modern authorship is Ascoli 2008, 5-12 and 29-44. See also useful discussions by Carruthers 1990, 189-220; Wheatley 2000, 13-31; Lerer 2008, 24-56.
+(11) <em>Commedie latine</em> 1976-1980; on neo-Terentian comedies of the sixteenth century, Bloemendal 2003, 49-63.
+(12) Fubini 2003, 47-53.

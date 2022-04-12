@@ -11,6 +11,6 @@ Most editions of De Spauter that appeared in Italy derived from and were accompa
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(9)Â  Colombat 1993, 99; Colombat 1999, 38; Crane 2005, 76-89.
-(10)Â  Some portions of this chapter that concern the marketing of Pellisson's textbooks have already appeared in Gehl 2008c. On the circle of Erasmus, see the important treatment of Jardine 1993, esp. 17-23, 102-122, 175-189; with reference to De Spauter, Henderson 1988, 181-185; for Bade and Erasmus, Crane 2005, 153-159; Vanautgaerden 2008, 89-111, 200-213.
-(11)Â  <em>Rudimenta</em>, preface of 1529, cited here from Pellisson 1562a. The reputation of the Paris humanist schools would make them the model for the Jesuit colleges in the fifteen forties and fifties; see Codina Mir 1968, 50-150.
+(9) Colombat 1993, 99; Colombat 1999, 38; Crane 2005, 76-89.
+(10) Some portions of this chapter that concern the marketing of Pellisson's textbooks have already appeared in Gehl 2008c. On the circle of Erasmus, see the important treatment of Jardine 1993, esp. 17-23, 102-122, 175-189; with reference to De Spauter, Henderson 1988, 181-185; for Bade and Erasmus, Crane 2005, 153-159; Vanautgaerden 2008, 89-111, 200-213.
+(11) <em>Rudimenta</em>, preface of 1529, cited here from Pellisson 1562a. The reputation of the Paris humanist schools would make them the model for the Jesuit colleges in the fifteen forties and fifties; see Codina Mir 1968, 50-150.

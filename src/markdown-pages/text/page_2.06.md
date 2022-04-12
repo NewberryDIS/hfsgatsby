@@ -13,11 +13,11 @@ The fifteenth century, moreover, saw the invention of humanist Latin grammars wh
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(25)Â  Highly conservative formatting characterizes Pseudo-Donat 1525, 1548, 1570a and b, and 1597a.
-(26)Â  Milan, Biblioteca Nazionale Braidense, A. B. XI. 73.
-(27)Â  Pseudo-Donatus 1597b and c and 1611.
-(28)Â  Donatus 1465, 1473, 1475 and 1495; Henkel 1995, 212-218; Jensen 2001, 105-106, 118-123.
-(29)Â  Ising, 31-33.
-(30)Â  An exception is Bonfini 1533 (originally published in 1515), a thorough reworking of the <em>Ars minor</em> which takes into account a great deal of material from the larger <em>Ars maior</em> and links it to a new set of <em>Regulae</em> of Bonfini's own devising. It seems to have been the basis of a further revision undertaken at Modena in the fifteen fifties by Giovanni Briani, Donatus 1555 and 1585.
-(31)Â  See the works of Percival, Rizzo, Worstbrock, Jensen, Black listed in the bibliogrpahy.
-(32)Â  Pilade 1508b, fol. 1v. Further on Alexander, Rico 1978, 14-27; Grendler 1989, 139, 236; Jensen 1996b, 32-36; Jensen 2001, 109-111; Black 2001, 87-90,129-133; Worstbrock 2001, 60-63; Crane 2005, 76-87; see also the opinions of Antonio Mancinelli and Josse Bade, discussed in chaptrs 3 and 4.
+(25) Highly conservative formatting characterizes Pseudo-Donat 1525, 1548, 1570a and b, and 1597a.
+(26) Milan, Biblioteca Nazionale Braidense, A. B. XI. 73.
+(27) Pseudo-Donatus 1597b and c and 1611.
+(28) Donatus 1465, 1473, 1475 and 1495; Henkel 1995, 212-218; Jensen 2001, 105-106, 118-123.
+(29) Ising, 31-33.
+(30) An exception is Bonfini 1533 (originally published in 1515), a thorough reworking of the <em>Ars minor</em> which takes into account a great deal of material from the larger <em>Ars maior</em> and links it to a new set of <em>Regulae</em> of Bonfini's own devising. It seems to have been the basis of a further revision undertaken at Modena in the fifteen fifties by Giovanni Briani, Donatus 1555 and 1585.
+(31) See the works of Percival, Rizzo, Worstbrock, Jensen, Black listed in the bibliogrpahy.
+(32) Pilade 1508b, fol. 1v. Further on Alexander, Rico 1978, 14-27; Grendler 1989, 139, 236; Jensen 1996b, 32-36; Jensen 2001, 109-111; Black 2001, 87-90,129-133; Worstbrock 2001, 60-63; Crane 2005, 76-87; see also the opinions of Antonio Mancinelli and Josse Bade, discussed in chaptrs 3 and 4.

@@ -26,10 +26,10 @@ The same suspicion of heresy that limited the reception of Erasmus's works in It
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(2)Â  On the iconography, Rozzo 1998, 43-44.
-(3)Â  Seidel Menchi 1987, 123-142.
-(4)Â  Manuzio 1543 and 1551; the copies at University of Illinois/Urbana-Champaign have title pages with this cancellation. On Aldo and Erasmus, Vanautgaerten 2008, 115-175.
-(5)Â  Aeschylus et al. 1567; Brunfels ca. 1530; both censored copies are at the Newberry Library. A thoroughly censored Terence 1545, which by association linked Erasmus with Melanchthon, Rivius, and Dolet, is the copy at the Biblioteca Ambrosiana, Milan.
-(6)Â  Adorni-Braccesi 1986, 582.
-(7)Â  Seidel Menchi 1987, 123.
-(8)Â  Marchetti 1975, 212-215; Seidel Menchi 1987, 122-25; Jensen 1998, 268-273.
+(2) On the iconography, Rozzo 1998, 43-44.
+(3) Seidel Menchi 1987, 123-142.
+(4) Manuzio 1543 and 1551; the copies at University of Illinois/Urbana-Champaign have title pages with this cancellation. On Aldo and Erasmus, Vanautgaerten 2008, 115-175.
+(5) Aeschylus et al. 1567; Brunfels ca. 1530; both censored copies are at the Newberry Library. A thoroughly censored Terence 1545, which by association linked Erasmus with Melanchthon, Rivius, and Dolet, is the copy at the Biblioteca Ambrosiana, Milan.
+(6) Adorni-Braccesi 1986, 582.
+(7) Seidel Menchi 1987, 123.
+(8) Marchetti 1975, 212-215; Seidel Menchi 1987, 122-25; Jensen 1998, 268-273.

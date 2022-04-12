@@ -15,6 +15,6 @@ The controversialists of the fifteen sixties assigned a different meaning to the
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(82)Â  Croce 1945, vol.2, 125-133.
-(83)Â  MPSI 1:528; Codina Mir 1968, 305-316; Brizzi 1984, 164-169; Fabre 1995, 60-73; Bianchi 1993, 77-79. Further on resistence to the Jesuit reforms, sections 5.02, 5.10, 5.13.
-(84)Â  Academia Veneta. 1559: <em>Terentius cum brevibus, &amp; eruditis annotationibus, quibus ostenditur sermonis puritas, qua ipse usus est: deinde quemadmodum in eius comoediis sparsae sint humanae vitae virtutes, ac vitia, ratione habita tamen privatarum personarum, quae in ipsis inducuntur, cum in ceteris comicis ea tantum, quae risum movere possint, cernantur.</em>
+(82) Croce 1945, vol.2, 125-133.
+(83) MPSI 1:528; Codina Mir 1968, 305-316; Brizzi 1984, 164-169; Fabre 1995, 60-73; Bianchi 1993, 77-79. Further on resistence to the Jesuit reforms, sections 5.02, 5.10, 5.13.
+(84) Academia Veneta. 1559: <em>Terentius cum brevibus, &amp; eruditis annotationibus, quibus ostenditur sermonis puritas, qua ipse usus est: deinde quemadmodum in eius comoediis sparsae sint humanae vitae virtutes, ac vitia, ratione habita tamen privatarum personarum, quae in ipsis inducuntur, cum in ceteris comicis ea tantum, quae risum movere possint, cernantur.</em>

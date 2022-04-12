@@ -63,6 +63,6 @@ An emblem on the last page displayed the world turned upside down and an impreca
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(57)Â  The same preface occurs in Giunta editions of 1509 and 1513. Godman 1998, 208 points out that Riccardini's claim is false; he did not in fact avail himself fully of Poliziano's textual work.
-(58)Â  Terence 1511.
-(59)Â  E.g. that at the Newberry Library, Chicago.
+(57) The same preface occurs in Giunta editions of 1509 and 1513. Godman 1998, 208 points out that Riccardini's claim is false; he did not in fact avail himself fully of Poliziano's textual work.
+(58) Terence 1511.
+(59) E.g. that at the Newberry Library, Chicago.

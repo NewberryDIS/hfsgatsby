@@ -11,6 +11,6 @@ However eternal these authors seemed in 1949, they had not always been so. Some 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  Newberry Library Archives, James M. Wells Papers, subject files.
-(2)Â  Waquet 2001, 109-117, 195-206; Celenza 2004a, 28-49; Sanders1961; for this mentality at the Newberry at this period, Gehl and Zurawski 1993.
-(3)Â  Rhodes 1988; Milway 2000, 143.
+(1) Newberry Library Archives, James M. Wells Papers, subject files.
+(2) Waquet 2001, 109-117, 195-206; Celenza 2004a, 28-49; Sanders1961; for this mentality at the Newberry at this period, Gehl and Zurawski 1993.
+(3) Rhodes 1988; Milway 2000, 143.

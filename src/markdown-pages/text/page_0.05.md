@@ -13,7 +13,7 @@ Images, of course, had always been labeled and often incorporated words in antiq
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(32)Â  Useful discusssions in McKenzie 1989, 104-106; Cahn 1994, 53-57; Crosby 1997, 129-137, 227-238; Coppens 2005, 34-37; Follak 2007, 155-157.
-(33)Â  Carruthers 1990, 229-257 and 1998, 135-142; B. Smith 1999.
-(34)Â  Erasmus 1963, 6-7; Jardine 1993, 129-132, 141-145.
-(35)Â  Elkins 1999, 211-212.
+(32) Useful discusssions in McKenzie 1989, 104-106; Cahn 1994, 53-57; Crosby 1997, 129-137, 227-238; Coppens 2005, 34-37; Follak 2007, 155-157.
+(33) Carruthers 1990, 229-257 and 1998, 135-142; B. Smith 1999.
+(34) Erasmus 1963, 6-7; Jardine 1993, 129-132, 141-145.
+(35) Elkins 1999, 211-212.

@@ -19,7 +19,7 @@ Perotti also attempted to enliven the course with direct addresses to the studen
 
 More than rules, Perotti invited his students to memorize long lists of words that occur in classical literature. We know from early annotations in editions of Perotti, moreover, that these vocabulary lists were attractive and useful. These sections of the grammar served as hooks on which owners of Perotti's book could hang notes from their own readings of classical authors. Annotations of this sort effectively rewrote the grammar book, making it over from a standard-issue word list into a personalized dictionary of usage as observed by the individual humanist reader. (53)
 
-In their work of annotating Perotti, readers were helped along by the format of the printed book, although it is clear that Perotti's own manuscript fair copy was formatted for study and consultation in an even more thorough way than the earliest editions. (54)Â  Perotti numbered the rules in each section of his grammar and used other mnemonic devices derived from teaching practice. (55) Printers dealt with these innovations with differing degrees of success. Early editions used broad margins and centered, all-caps section heads to imitate the spacious look of humanist manuscripts. This was true whether the printed book was in quarto, imitating small-format manuscript schoolbooks, or in folio, more closely resembling larger and more luxurious humanist manuscripts. The numbering of the rules was emphasized by centering even simple heads like "First rule on supines," "Second rule," etc. (56)
+In their work of annotating Perotti, readers were helped along by the format of the printed book, although it is clear that Perotti's own manuscript fair copy was formatted for study and consultation in an even more thorough way than the earliest editions. (54) Perotti numbered the rules in each section of his grammar and used other mnemonic devices derived from teaching practice. (55) Printers dealt with these innovations with differing degrees of success. Early editions used broad margins and centered, all-caps section heads to imitate the spacious look of humanist manuscripts. This was true whether the printed book was in quarto, imitating small-format manuscript schoolbooks, or in folio, more closely resembling larger and more luxurious humanist manuscripts. The numbering of the rules was emphasized by centering even simple heads like "First rule on supines," "Second rule," etc. (56)
 <p style="text-align: center;"></p>
 
 
@@ -38,15 +38,15 @@ Instead of centering the heading for each rule, the cheaper editions set the tex
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(48)Â  The <em>Rudimenta</em> went through hundreds of editions in the fifteenth and sixteenth centuries. In France in the sixteenth century "Perot" became a synonym for an elementary Latin grammar, like "Donat" in English or German. See Colombat 1998, 78-79; Jensen 1998, 251; Milway 2000, 137.
+(48) The <em>Rudimenta</em> went through hundreds of editions in the fifteenth and sixteenth centuries. In France in the sixteenth century "Perot" became a synonym for an elementary Latin grammar, like "Donat" in English or German. See Colombat 1998, 78-79; Jensen 1998, 251; Milway 2000, 137.
 (49) Percival 1981; Lombardi 1991, 123-128; Worstbrock 2001, 72; Black 2001, 355-359. Percival's essay appeared in a special issue of <em>Res Publica Litterarum</em> 4(1981) devoted entirely to the figure of Perotti. On letter writing as a formal study, Witt 2000, 16-18,182-185, 310-311.
 (50) A good example of a grammar master following Perotti's lead in the next century is Lucio Giovanni Scoppa, who authored vocabulary study books, a letter-writing manual, a fulsome grammar and an epitome of grammar; see Fuiano 1971, 41-53.
 (51) Percival 1981, 237; Lombardi 1991, 124; Jensen 1996a, 68-70; Worstbrock 2001, esp. 73-78; Black 2001, 134-138.
-(52)Â  It is most explicit as an ideal in the preface and afterward to Pilade 1543 by Lorenzo Cerreto. See also Grendler 1989, 170-171; Rizzo and De Nonno 1997, 1584 and 1607; on empirical grammars, see also sections 5.02, 5.03, and 5.05.
-(53)Â  For example a copy of Perotti 1474, one of the earliest printed editions, now at the Marciana is annotated throughout, but heavily only in sections that detail <em>differentiae</em>; further on the importance of vocabulary study in humanist grammar, Jensen 1998, 257-261; Trovato 1994, 28.
-(54)Â  Mercati 1925, 131-132 and tav. IV, identified an autograph marked for the first edition of 1473; Lombardi 1991, esp. 137-148, studied this manuscript from the point of view of the printer's work.
-(55)Â  Black 2001, 135.
-(56)Â  <em>De supinis prima regula ... Secunda regula</em>, Treviso 1476, fol. 28v. For formats, compare Perotti 1474, 1476a, 1476b,1478, 1480, 1485 and 1488.
-(57)Â  In quarto: Perotti 1476a, fol. k3v-4v] = 79v-80v. In folio: Perotti 1478, g1v-g2r = 60v-51r and Perotti 1480, fol. g1r-g2v = 48v-49.
-(58)Â  As did the Padua bookstore described by Fulin 1882b, 396-400.
-(59)Â  Perotti 1501; compare Perotti 1497 and 1508 which have very crowded pages but relatively generous tabulations.
+(52) It is most explicit as an ideal in the preface and afterward to Pilade 1543 by Lorenzo Cerreto. See also Grendler 1989, 170-171; Rizzo and De Nonno 1997, 1584 and 1607; on empirical grammars, see also sections 5.02, 5.03, and 5.05.
+(53) For example a copy of Perotti 1474, one of the earliest printed editions, now at the Marciana is annotated throughout, but heavily only in sections that detail <em>differentiae</em>; further on the importance of vocabulary study in humanist grammar, Jensen 1998, 257-261; Trovato 1994, 28.
+(54) Mercati 1925, 131-132 and tav. IV, identified an autograph marked for the first edition of 1473; Lombardi 1991, esp. 137-148, studied this manuscript from the point of view of the printer's work.
+(55) Black 2001, 135.
+(56) <em>De supinis prima regula ... Secunda regula</em>, Treviso 1476, fol. 28v. For formats, compare Perotti 1474, 1476a, 1476b,1478, 1480, 1485 and 1488.
+(57) In quarto: Perotti 1476a, fol. k3v-4v] = 79v-80v. In folio: Perotti 1478, g1v-g2r = 60v-51r and Perotti 1480, fol. g1r-g2v = 48v-49.
+(58) As did the Padua bookstore described by Fulin 1882b, 396-400.
+(59) Perotti 1501; compare Perotti 1497 and 1508 which have very crowded pages but relatively generous tabulations.

@@ -17,10 +17,10 @@ Modena, by contrast to Perugia, had no very lively publishing tradition. A gramm
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(10)Â  On such localism, Sandal 1986, 248-249, 255; Houston 2002,120-123. A clear index of the persistence of local markets is offered by the way two Neapolitan grammar masters dominate the South Italian inventories at the very end of the century analyzed by Campare 2006, Cosi 2006, and Ottone 2006. For some perceptive pages on regionalisms in the larger humanist movement, Cox 2003, 687-689. Another example of the value of inventories for studying textbook history is offered by Franceschini 2003, 52-54.
-(11)Â  For examples, Kind and Rix in their introduction to Erasmus 1963, 6-7; Villa 1984, 263-271; Black 2001, 126.
-(12)Â  Pico 1560.
-(13)Â  Greene 1986, 11-17; Copeland 1991, 83-86; Moss 1999, 148-154; Jeanneret 2001, 247-256; Frazier 2005, 192-202.
-(14)Â  On educational conservativism generally, Sandal 1986, 243, 301-306; Rummel 1995, 15-17; Jensen 1996, 70-71; Black 2001, 270-273 and 2007, 50; on the <em>Doctrinale</em>, Ford 2000, 161-168; Milway 2000, 118, 121, 135-136.
-(15)Â  The earliest recorded printing in fact was made at Venice in 1562 by Giovanni Griffio, who was certainly an effective distributor to the school market; but that book is very rare today, suggesting it had no great success. All the later printings were at Perugia or Florence.
-(16)Â  Briani 1581; Donatus 1585. On Sassi and Perugian provincialism, Carlsmith 2002, 215-216. For the comparable case of Brescia, Querini 1739, part II, 1-76; Veneziani 1988 and Signaroli 2003. On Naples and localism in an earlier period, Santoro 2007, 40-44. On Counter-Reformation localisms more generally, Ceriotti 1999, 491-496.
+(10) On such localism, Sandal 1986, 248-249, 255; Houston 2002,120-123. A clear index of the persistence of local markets is offered by the way two Neapolitan grammar masters dominate the South Italian inventories at the very end of the century analyzed by Campare 2006, Cosi 2006, and Ottone 2006. For some perceptive pages on regionalisms in the larger humanist movement, Cox 2003, 687-689. Another example of the value of inventories for studying textbook history is offered by Franceschini 2003, 52-54.
+(11) For examples, Kind and Rix in their introduction to Erasmus 1963, 6-7; Villa 1984, 263-271; Black 2001, 126.
+(12) Pico 1560.
+(13) Greene 1986, 11-17; Copeland 1991, 83-86; Moss 1999, 148-154; Jeanneret 2001, 247-256; Frazier 2005, 192-202.
+(14) On educational conservativism generally, Sandal 1986, 243, 301-306; Rummel 1995, 15-17; Jensen 1996, 70-71; Black 2001, 270-273 and 2007, 50; on the <em>Doctrinale</em>, Ford 2000, 161-168; Milway 2000, 118, 121, 135-136.
+(15) The earliest recorded printing in fact was made at Venice in 1562 by Giovanni Griffio, who was certainly an effective distributor to the school market; but that book is very rare today, suggesting it had no great success. All the later printings were at Perugia or Florence.
+(16) Briani 1581; Donatus 1585. On Sassi and Perugian provincialism, Carlsmith 2002, 215-216. For the comparable case of Brescia, Querini 1739, part II, 1-76; Veneziani 1988 and Signaroli 2003. On Naples and localism in an earlier period, Santoro 2007, 40-44. On Counter-Reformation localisms more generally, Ceriotti 1999, 491-496.

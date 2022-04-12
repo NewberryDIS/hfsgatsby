@@ -13,5 +13,5 @@ The commonest and most obviously commercial humanist commonplaces were sold in p
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  See the important recent study of the Florentine publisher Marescotti by Bertoli 2007, esp. 87-92.
-(2)Â  One exception, discussed in section 7.10, was Girolamo Cafaro. The first edition of his grammar bears all the hallmarks of a vanity press publication, but his gamble for fame succeeded, since the book went on, in revised form, to have a long life on the competitive market.
+(1) See the important recent study of the Florentine publisher Marescotti by Bertoli 2007, esp. 87-92.
+(2) One exception, discussed in section 7.10, was Girolamo Cafaro. The first edition of his grammar bears all the hallmarks of a vanity press publication, but his gamble for fame succeeded, since the book went on, in revised form, to have a long life on the competitive market.

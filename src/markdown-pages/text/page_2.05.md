@@ -31,7 +31,7 @@ The pressmen of the Giunta firm at Florence in 1519 used a red-and-black style f
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(21)Â Â  See Haebler 1933, 127-134; Scholderer 1966, 265-270. On the De Gregori brothers and the style,Â  Pesenti 1984, 303.
-(22)Â  Turchini 1996, 314; Jensen 1998, 252-264; Lucchi 2000, 204-206. Lorenzo Cerreto (dates unknown) complained that Aldus's grammar, like that of Perotti, was too long and detailed for many if not most students; see Pilade 1543, fol. 1v.
-(23)Â  Manuzio 1519a, 1519b, 1523, 1533, 1543, 1551.
-(24)Â  The same illogical practice occurs in an edition of 1551.
+(21)Â  See Haebler 1933, 127-134; Scholderer 1966, 265-270. On the De Gregori brothers and the style, Pesenti 1984, 303.
+(22) Turchini 1996, 314; Jensen 1998, 252-264; Lucchi 2000, 204-206. Lorenzo Cerreto (dates unknown) complained that Aldus's grammar, like that of Perotti, was too long and detailed for many if not most students; see Pilade 1543, fol. 1v.
+(23) Manuzio 1519a, 1519b, 1523, 1533, 1543, 1551.
+(24) The same illogical practice occurs in an edition of 1551.

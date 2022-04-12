@@ -20,9 +20,9 @@ Advertising was part of the success of Perotti's <em>Rudimenta</em> from the sta
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(60)Â  Borgarucci would go on to a significant career in Venice as an editor of classical texts, see DBI 12:567.
-(61)Â  This may be the import of an application for a new privilege to print Perotti "in meliore forma" presented to the Venetian Senate in 1526; see Fulin 1882a, 206. The earliest reference I have found to correcting large numbers of earlier printers' errors is Bartolomeo Mascara's claim in Perotti 1539.
-(62)Â  Perotti 1582: <em>ad veterum codicum fidem totum negotium confectum est.</em>
-(63)Â  Two copies appear in the inventory of the Antoni shop at Milan cited by Stevens 1992, 411-412, for which information I am indebted to Professor Stevens. A surviving copy of Perotti 1560 at Ravenna has ownership marks of students dated 1634 and 1648; Deutscher 2002, 1014 reports a single copy in use at Novara in the same period.
-(64)Â  <em>...quaedam insulsa rudimenta &amp; opuscula doctrinae crassioris, quibus pueri falso erudirentur.</em>
-(65)Â  Perotti 1501, 1v: <em>Nec video qua excusatione digni post hac accipiantur qui Alexandri barbari carmen ineptum.</em> See also Worstbrock 2001, 62-63.
+(60) Borgarucci would go on to a significant career in Venice as an editor of classical texts, see DBI 12:567.
+(61) This may be the import of an application for a new privilege to print Perotti "in meliore forma" presented to the Venetian Senate in 1526; see Fulin 1882a, 206. The earliest reference I have found to correcting large numbers of earlier printers' errors is Bartolomeo Mascara's claim in Perotti 1539.
+(62) Perotti 1582: <em>ad veterum codicum fidem totum negotium confectum est.</em>
+(63) Two copies appear in the inventory of the Antoni shop at Milan cited by Stevens 1992, 411-412, for which information I am indebted to Professor Stevens. A surviving copy of Perotti 1560 at Ravenna has ownership marks of students dated 1634 and 1648; Deutscher 2002, 1014 reports a single copy in use at Novara in the same period.
+(64) <em>...quaedam insulsa rudimenta &amp; opuscula doctrinae crassioris, quibus pueri falso erudirentur.</em>
+(65) Perotti 1501, 1v: <em>Nec video qua excusatione digni post hac accipiantur qui Alexandri barbari carmen ineptum.</em> See also Worstbrock 2001, 62-63.

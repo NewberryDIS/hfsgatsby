@@ -16,14 +16,14 @@ Meanwhile, Terence got a broader immediate reception in print, but a slower crit
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(13)Â  The <em>Remedia</em> was also far more common than the other minor Ovidian works, Hexter 1986, 18-23.
-(14)Â  Black 2001, 250-253.
-(15)Â  Villa 1984, 217-236; Black 2001, 209, 254-56.
-(16)Â  Villa 1984, 262-276; compare Celenza 2004b, 59. Terence's reputation in this regard went back to his own day; see Bloomer 1997, 15.
-(17)Â  Monfasani 1988b; Farenga 1994, 61-67; Avellani 1994, 114-123; Davies 1996, 55-58; Rossini 1997, 104-109; Jones 2004, 200-206.
-(18)Â  Moog-GrÃ¼newad 1979, 15-20.
-(19)Â  Quaquarelli 1994, 42-47.
+(13) The <em>Remedia</em> was also far more common than the other minor Ovidian works, Hexter 1986, 18-23.
+(14) Black 2001, 250-253.
+(15) Villa 1984, 217-236; Black 2001, 209, 254-56.
+(16) Villa 1984, 262-276; compare Celenza 2004b, 59. Terence's reputation in this regard went back to his own day; see Bloomer 1997, 15.
+(17) Monfasani 1988b; Farenga 1994, 61-67; Avellani 1994, 114-123; Davies 1996, 55-58; Rossini 1997, 104-109; Jones 2004, 200-206.
+(18) Moog-GrÃ¼newad 1979, 15-20.
+(19) Quaquarelli 1994, 42-47.
 (20) These figures based on IGI; compare Jones 2004, 31-100.
-(21)Â  Lamarque 1981, 17-19.
-(22)Â  Fulin 1882b, 396, 399.
-(23)Â  Cupaiuolo 1984; Rhodes 1988, 292-296; Jones 2004, 30-102.
+(21) Lamarque 1981, 17-19.
+(22) Fulin 1882b, 396, 399.
+(23) Cupaiuolo 1984; Rhodes 1988, 292-296; Jones 2004, 30-102.

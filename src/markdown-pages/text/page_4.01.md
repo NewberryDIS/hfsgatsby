@@ -13,4 +13,4 @@ In this chapter, then, we will explore several kinds of "importation," for it wa
 
 <strong>NOTE</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  Durand 1943, 1-9; Auzzas 1986, 343-344; Cornish 2000, 167-171.
+(1) Durand 1943, 1-9; Auzzas 1986, 343-344; Cornish 2000, 167-171.

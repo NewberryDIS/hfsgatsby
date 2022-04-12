@@ -28,13 +28,13 @@ The results of the international poll were incorporated into the definitive <em>
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(31)Â  Springhetti 1961, 291; Rodrigues 1917, 204-207.
-(32)Â  MPSI 6:319-332 and 7:375-377; see also the account of Farrell 1938, 448-451.
-(33)Â  On the stages in the development of the <em>Ratio</em>, Padberg 2000, 86-93.
-(34)Â  MPSI 3:326 and 6:330-332; Farrell 1938, 448-452; Springhetti 1961, 293-94.
-(35)Â  MPSI 327-328; Farrell 1938, 449; Springhetti 1961, 294.
-(36)Â  MSPI 326; Springhetti 1961, 294.
-(37)Â  Alvares 1599; Rodrigues 1939, II.2, 55-57; Springhetti 1961, 295-287. According to Rodrigues (57n), the mnemonics of VelÃªs were so disliked that the Portuguese province forbade their use in 1603.
-(38)Â  Dainville 1978, 283-285.
-(39)Â  Zwartjes 2002.
-(40)Â  Bianchi 1995, 802-805.
+(31) Springhetti 1961, 291; Rodrigues 1917, 204-207.
+(32) MPSI 6:319-332 and 7:375-377; see also the account of Farrell 1938, 448-451.
+(33) On the stages in the development of the <em>Ratio</em>, Padberg 2000, 86-93.
+(34) MPSI 3:326 and 6:330-332; Farrell 1938, 448-452; Springhetti 1961, 293-94.
+(35) MPSI 327-328; Farrell 1938, 449; Springhetti 1961, 294.
+(36) MSPI 326; Springhetti 1961, 294.
+(37) Alvares 1599; Rodrigues 1939, II.2, 55-57; Springhetti 1961, 295-287. According to Rodrigues (57n), the mnemonics of VelÃªs were so disliked that the Portuguese province forbade their use in 1603.
+(38) Dainville 1978, 283-285.
+(39) Zwartjes 2002.
+(40) Bianchi 1995, 802-805.

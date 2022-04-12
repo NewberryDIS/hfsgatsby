@@ -21,10 +21,10 @@ The Roman Jesuits also created a new <em>Epitome</em> or <em>Compendiolum</em> o
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(15)Â  BCJ 1:223-247 and 8:615-1620; Rodrigues 1917. 202-207 and 1939, II.2, 49-56.
-(16)Â  Springhetti 1961, 290-91; Bauer 1986, 142-144; Colmbat 1993, 210-217.
-(17)Â  See Gehl 2003, 441-445; the error derives from the complicated entry in BCJ 1:223-247, and rests on the assumption that the first Italian edition was that of 1575, actually the first Italian teacher's edition. See also Springhetti 1961, 291-92, where Alvares' project for an "arte pequeÃ±a sin commentos" seems to refer to a revision of the <em>Syntaxis</em>; Ballerini 1985, 228n7.
-(18)Â  Rodrigues 1939, II.2, 55.
-(19)Â  Alvares 1588, for example.
-(20)Â  Farrell 1938, 447-448.
-(21)Â  It seems to be that referred to in 1590 as <em>revista et accomodata...da questi padri del Collegio Romano</em>, Rurale 1998, 162. The complex early history of Alvares' text is summarized in a table presented in Gehl 2003, 442; where portions of this chapter appeared.
+(15) BCJ 1:223-247 and 8:615-1620; Rodrigues 1917. 202-207 and 1939, II.2, 49-56.
+(16) Springhetti 1961, 290-91; Bauer 1986, 142-144; Colmbat 1993, 210-217.
+(17) See Gehl 2003, 441-445; the error derives from the complicated entry in BCJ 1:223-247, and rests on the assumption that the first Italian edition was that of 1575, actually the first Italian teacher's edition. See also Springhetti 1961, 291-92, where Alvares' project for an "arte pequeÃ±a sin commentos" seems to refer to a revision of the <em>Syntaxis</em>; Ballerini 1985, 228n7.
+(18) Rodrigues 1939, II.2, 55.
+(19) Alvares 1588, for example.
+(20) Farrell 1938, 447-448.
+(21) It seems to be that referred to in 1590 as <em>revista et accomodata...da questi padri del Collegio Romano</em>, Rurale 1998, 162. The complex early history of Alvares' text is summarized in a table presented in Gehl 2003, 442; where portions of this chapter appeared.

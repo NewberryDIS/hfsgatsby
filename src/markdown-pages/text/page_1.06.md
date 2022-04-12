@@ -70,8 +70,8 @@ Starting about 1495, especially in editions with four or five commentaries, some
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(32)Â  Terence 1501; Rhodes 1988, 287.
-(33)Â  Terence 1474. On Sabino as editor, Blasio 1986, 487-489.
-(34)Â  Soardi editions from 1493 to 1508 have such a cut with five commentators; the Scinzenzeler of 1501 has a similar image with three commentators. The woodcut blocks could be modified for successive editions to indicate different numbers or different combinations of commentaries, Petrella 2006, 161-163.
-(35)Â  Lawton 1926, 291-309; on Rivius, Saxenberger 1886; on Gouveia, Carvalho 1916.
-(36)Â  Lawton 1926, 306-07: <em>... in quem tot extant hodie iampridem edita commenta, tot annotationes, tot assuta emblemata, ut singularis impudentiae vederi possit in eundem plura conscribere. Atqui ... comperiet sana pauca alicuius momenti, multa inepta, multa perperam prodita.</em> This pessimism in 1540 contrasts sharply with the optimism about new philology in print expressed a generation earlier by Marcello Virgilio Adriani (1464-1521); see Godman 1998, 177-178.
+(32) Terence 1501; Rhodes 1988, 287.
+(33) Terence 1474. On Sabino as editor, Blasio 1986, 487-489.
+(34) Soardi editions from 1493 to 1508 have such a cut with five commentators; the Scinzenzeler of 1501 has a similar image with three commentators. The woodcut blocks could be modified for successive editions to indicate different numbers or different combinations of commentaries, Petrella 2006, 161-163.
+(35) Lawton 1926, 291-309; on Rivius, Saxenberger 1886; on Gouveia, Carvalho 1916.
+(36) Lawton 1926, 306-07: <em>... in quem tot extant hodie iampridem edita commenta, tot annotationes, tot assuta emblemata, ut singularis impudentiae vederi possit in eundem plura conscribere. Atqui ... comperiet sana pauca alicuius momenti, multa inepta, multa perperam prodita.</em> This pessimism in 1540 contrasts sharply with the optimism about new philology in print expressed a generation earlier by Marcello Virgilio Adriani (1464-1521); see Godman 1998, 177-178.

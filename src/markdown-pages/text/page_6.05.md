@@ -10,7 +10,7 @@ postid: 329
     </a>
 </figure>
 
-Historians have made much of the sophistication of Pacioli's 600-page treatise, of his early, thoroughgoing utilization of Hindu-Arabic numerals, and of his numerous forms of visualizing mathematical functions. His <em>Summa de arithmetica</em> was indeed well ahead of its time and remained the single most influential academic arithmetic for many decades. Pacioli's <em>Summa</em>, however, had only two editions in the early modern period, and the book was expensive. It was studied by professional mathematicians. (27) The merchants' sons who made up the largest part of the audience for math textbooks learned their considerable computing skills from much more practical and down-to-earth textbooks. As we have seen, Tagliente's <em>Luminario</em> of 1525 concentrated single-mindedly on bookkeeping, while Borghi's 1484 <em>Libro de abacho</em> attempted to ground merchant practice in a somewhat broader study of arithmetic based on the traditional abaco school course. An early printed imitation of Borghi was Calandri's 1491 <em>De arithmetica</em>, but books of this type continued to be produced in manuscript too, especially at Florence. (28)Â  Books in both these general formats persisted well into the seventeenth century and offered practical courses increasingly divorced from pure arithmetic, to say nothing of higher mathematics.
+Historians have made much of the sophistication of Pacioli's 600-page treatise, of his early, thoroughgoing utilization of Hindu-Arabic numerals, and of his numerous forms of visualizing mathematical functions. His <em>Summa de arithmetica</em> was indeed well ahead of its time and remained the single most influential academic arithmetic for many decades. Pacioli's <em>Summa</em>, however, had only two editions in the early modern period, and the book was expensive. It was studied by professional mathematicians. (27) The merchants' sons who made up the largest part of the audience for math textbooks learned their considerable computing skills from much more practical and down-to-earth textbooks. As we have seen, Tagliente's <em>Luminario</em> of 1525 concentrated single-mindedly on bookkeeping, while Borghi's 1484 <em>Libro de abacho</em> attempted to ground merchant practice in a somewhat broader study of arithmetic based on the traditional abaco school course. An early printed imitation of Borghi was Calandri's 1491 <em>De arithmetica</em>, but books of this type continued to be produced in manuscript too, especially at Florence. (28) Books in both these general formats persisted well into the seventeenth century and offered practical courses increasingly divorced from pure arithmetic, to say nothing of higher mathematics.
 
 A turning point came in the fifteen thirties, when the market matured to the degree that various elementary textbooks competed directly with each other. At just this period, moreover, writers for the elementary book market also began to feel the broader impulse to write in standard Tuscan. (29) The elaborate introduction to Giovanni Sfortunati's 1534 <em>New Beacon, a Book of Arithmetic</em> pointed to these new linguistic and market conditions. Sfortunati (b. ca. 1500) introduced himself as a Sienese schoolmaster who had taught arithmetic all over Italy and Sicily. He was a native speaker of Tuscan, then, but one with broad experience of other Italian students. This self-advertisement quickly turned into a claim that he was uniquely q
 
@@ -51,11 +51,11 @@ The book concluded with geometry problems, all carefully attached to real-life s
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(27Â  Antinori 1994, 26-45; Macve 1996, 5-19; Crosby 1997, 210-222; Ciocci 2003, 35-37, 236-237. On ther persistence of Latin as the language of university-level mathematics instruction, Marazzini 1993, 19-20.
-(28)Â  Others, like that of Francesco Galigai (d. 1537), also saw multiple editions in the sixteenth century; see Goldthwaite 1972, 430-432; Ulivi 1998.
-(29)Â  On the general phenomenon of sixteenth-century Tuscanizing in technical literature of all sorts, Trovato 1994, 37-44.
-(30)Â Â  Sfortunati 1545, 3r: <em>lingua Veneta et ruda, et con propositioni piu al veneto che al Toscano costume appartenenti</em>.
-(31)Â  Smith 1908, 242-245.
-(32)Â  For this approach, using arithmetic notions to solve algebraic problems before the invention of proper algebraic notation, see Radford 1997, 30-33; Simi 2003, 184-191.
-(33)Â  Cataneo 1559, 55v: <em>Regola del cataino overo false positioni</em>; Grendler 1989, 317-318; Simi 2003, 173-178.
-(34)Â  On the market, Simi 2003, 189-191.
+(27 Antinori 1994, 26-45; Macve 1996, 5-19; Crosby 1997, 210-222; Ciocci 2003, 35-37, 236-237. On ther persistence of Latin as the language of university-level mathematics instruction, Marazzini 1993, 19-20.
+(28) Others, like that of Francesco Galigai (d. 1537), also saw multiple editions in the sixteenth century; see Goldthwaite 1972, 430-432; Ulivi 1998.
+(29) On the general phenomenon of sixteenth-century Tuscanizing in technical literature of all sorts, Trovato 1994, 37-44.
+(30)Â  Sfortunati 1545, 3r: <em>lingua Veneta et ruda, et con propositioni piu al veneto che al Toscano costume appartenenti</em>.
+(31) Smith 1908, 242-245.
+(32) For this approach, using arithmetic notions to solve algebraic problems before the invention of proper algebraic notation, see Radford 1997, 30-33; Simi 2003, 184-191.
+(33) Cataneo 1559, 55v: <em>Regola del cataino overo false positioni</em>; Grendler 1989, 317-318; Simi 2003, 173-178.
+(34) On the market, Simi 2003, 189-191.

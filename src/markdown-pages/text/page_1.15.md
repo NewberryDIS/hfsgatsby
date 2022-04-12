@@ -29,5 +29,5 @@ The single, nearly universal decorative element across the whole of the fifteent
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(65)Â  It could cause typesetting problems, as described by Petrella 2006, 168-171.
-(66)Â  Nardelli 1991 treats this phenomenon but does not offer examples from editions of Terence. The several series she attributes to Giolitto, nos. 1-17 and 27-34, and to Valgrisi, nos. 28-34, appear in Terences from several publishers of the period. On the copying of such woodcut initials in metal, see Mosley 1994 and 1998.
+(65) It could cause typesetting problems, as described by Petrella 2006, 168-171.
+(66) Nardelli 1991 treats this phenomenon but does not offer examples from editions of Terence. The several series she attributes to Giolitto, nos. 1-17 and 27-34, and to Valgrisi, nos. 28-34, appear in Terences from several publishers of the period. On the copying of such woodcut initials in metal, see Mosley 1994 and 1998.

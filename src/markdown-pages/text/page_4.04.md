@@ -11,6 +11,6 @@ One thing humanists all over Europe in the fifteenth and sixteenth century share
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(12)Â  The best, recent overview of Italian Ciceronianism is Dellaneva 2007, esp. vii-xxvi. Other useful treatments include Breen 1954, 53-55; Streckenbach 1979, 27-35; D'Amico 1983, 132-143; D'Amico 1988, 280-285; Jensen 1996, 73-77; Rowland 1998, 199-203; Godman 1998, 39-51; Gensini 1999, 13-15, 48-57; Cox 2003, 679-683; Bloemendal 2003, 9-14; Celenza 2004, 145-146; Crane 2005, 39-46.
-(13)Â  Monfasani 1988, 187-203; Henderson 1988, 181-184; Jenson 1996, 76; Tateo 1999, 290-298.
-(14)Â  Kristeller 1965, 11-18; Kristeller 1974, 8-11; Rummel 1995, 6-10, 41-52, 77-85; Celenza 2004, 91-93, 127-131; Bommarito 2005, 34-38.
+(12) The best, recent overview of Italian Ciceronianism is Dellaneva 2007, esp. vii-xxvi. Other useful treatments include Breen 1954, 53-55; Streckenbach 1979, 27-35; D'Amico 1983, 132-143; D'Amico 1988, 280-285; Jensen 1996, 73-77; Rowland 1998, 199-203; Godman 1998, 39-51; Gensini 1999, 13-15, 48-57; Cox 2003, 679-683; Bloemendal 2003, 9-14; Celenza 2004, 145-146; Crane 2005, 39-46.
+(13) Monfasani 1988, 187-203; Henderson 1988, 181-184; Jenson 1996, 76; Tateo 1999, 290-298.
+(14) Kristeller 1965, 11-18; Kristeller 1974, 8-11; Rummel 1995, 6-10, 41-52, 77-85; Celenza 2004, 91-93, 127-131; Bommarito 2005, 34-38.

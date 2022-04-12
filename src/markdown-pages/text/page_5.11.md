@@ -11,6 +11,6 @@ Pescetti's brief critique of Alvares survives only in the context of the extensi
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(55)Â  Calò 1940, 83-90; Pirri 1959, 168-189; Rurale 1998, 220-225; Pavone 2000, 227-235; De Vivo 2001, 179-190.
-(56)Â  BCJ 1:247; on the existence of the pamphlet, Gehl 2003, 445-458.
-(57)Â  This is admittedly a speculative scenario; but we do know there was a secondary market for Alvares's texbook, as for other grammars, witness the Milan inventory of 1594 (Stevens 1992, 411-412) with three used copies of a "Grammatica Manuello" and one new copy.
+(55) Calò 1940, 83-90; Pirri 1959, 168-189; Rurale 1998, 220-225; Pavone 2000, 227-235; De Vivo 2001, 179-190.
+(56) BCJ 1:247; on the existence of the pamphlet, Gehl 2003, 445-458.
+(57) This is admittedly a speculative scenario; but we do know there was a secondary market for Alvares's texbook, as for other grammars, witness the Milan inventory of 1594 (Stevens 1992, 411-412) with three used copies of a "Grammatica Manuello" and one new copy.

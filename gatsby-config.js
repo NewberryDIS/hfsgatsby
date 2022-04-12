@@ -15,7 +15,7 @@ module.exports = {
     "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      "icon": "src/images/icon.png"
+      "icon": "src/images/drawing.svg"
     }
   }, 
     "gatsby-plugin-mdx", 

@@ -40,7 +40,7 @@ Whether because the book was criticized as too long and detailed or just because
     </a>
 </figure>
 
-InÂ  1517, the Neapolitan printer Antonio Frezza offered Scoppa's <em>Introductory Grammar</em> and the <em>Epitome</em> in separate but uniform editions.
+In 1517, the Neapolitan printer Antonio Frezza offered Scoppa's <em>Introductory Grammar</em> and the <em>Epitome</em> in separate but uniform editions.
 <p style="text-align: center;"></p>
 
 
@@ -81,12 +81,12 @@ The surviving Pseudo-Palaemon text, however, only presented grammatical informat
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(74)Â  D'Amico 1983, 91-102; Rizzo 1996, 16-18; Rizzo and De Nonno 1997, 1597-1598; Black 2001, 137-139.
-(75)Â  There are many examples. In addition to the Roman ones cited by Grendler 1989, 189, see: Donat and Guarino at Florence, in Sermartelli's editions of in 1597 and 1596Â  and at Modena, ca. 1590; Donat and Bossi at Milan, edd. of 1595, 1597, and 1611.
-(76)Â  The opening words of the title vary from edition to edition, the most common being <em>Summa perutilis</em>, while others are called <em>Compendium</em> or <em>Canones grammatices</em>; this last appears in the earliest editons and was probably Cantalicio's own title. Editions I have seen are listed in the Bibliography. On Cantalicio, Sanford 1953, 267-269; Blasio 1992, 289-294; Trovato 1994, 28; SÃ¡nchez GarcÃ­a 2007, 19-42. Morici 1905, 24 says Cantalicio's grammar was so popular that his name became a common word in Tuscan for "grammar book."'
-(77)Â  Jensen 1998, 247-252, 272-273, and 279-283 describes some sixty editions in all, twenty eight of them Italian. The largest number appeared before 1530; significantly fewer came out between 1530 and 1556. Paolo Manuzio revived the work in 1558 for the Italian market after other Italian printers had largely left off publishing it; and he and his son Aldo Jr. published a dozen editions before 1575. Manuzio's 1558 edition was presumably that on offer at the Lanciano fair in 1559; see Marciani 1958, 434.
-(78)Â  Fuiano 1971, 44-45; Sabbatino 1995, 76-86.
-(79)Â  See Scoppa 1517a, 1517b, 1524, 1534,1566 and 1616 for this pattern. It was not by any means universal, however: Scoppa 1540 relegates the <em>Epitome</em> to an appendix in tiny type. Scoppa's textbooks remained influential, especially in the Kingdom of Naples, as evidenced by the inventories edited by Cosi 2006, 645-656. The same source lists a number of works by Scoppa's student, Luigi Antonio Sompano, called Sidicinus (d. 1557), as does another inventory edited by Ottone 2006, 694-699.
-(80)Â  Pseudo Rhemnius ed. Rosellini 2001, xxxiv-xxxv, l-lv.
-(81)Â  (Pseudo-)Rhemnius Palaemon 1523, 2: <em>... summam grammatices is perstrinxerit tanta brevitate, ut Donatus ei collatus prolixior, eoque fortasse nomine posthabendus uideri possit; quem nobis e` situ Iovianus Pontanus, sui temporis eloquentissimus poeta, protulit.</em>
-(82)Â  Pseudo-Rhemnius Palaemon 1523, 3.
+(74) D'Amico 1983, 91-102; Rizzo 1996, 16-18; Rizzo and De Nonno 1997, 1597-1598; Black 2001, 137-139.
+(75) There are many examples. In addition to the Roman ones cited by Grendler 1989, 189, see: Donat and Guarino at Florence, in Sermartelli's editions of in 1597 and 1596 and at Modena, ca. 1590; Donat and Bossi at Milan, edd. of 1595, 1597, and 1611.
+(76) The opening words of the title vary from edition to edition, the most common being <em>Summa perutilis</em>, while others are called <em>Compendium</em> or <em>Canones grammatices</em>; this last appears in the earliest editons and was probably Cantalicio's own title. Editions I have seen are listed in the Bibliography. On Cantalicio, Sanford 1953, 267-269; Blasio 1992, 289-294; Trovato 1994, 28; SÃ¡nchez GarcÃ­a 2007, 19-42. Morici 1905, 24 says Cantalicio's grammar was so popular that his name became a common word in Tuscan for "grammar book."'
+(77) Jensen 1998, 247-252, 272-273, and 279-283 describes some sixty editions in all, twenty eight of them Italian. The largest number appeared before 1530; significantly fewer came out between 1530 and 1556. Paolo Manuzio revived the work in 1558 for the Italian market after other Italian printers had largely left off publishing it; and he and his son Aldo Jr. published a dozen editions before 1575. Manuzio's 1558 edition was presumably that on offer at the Lanciano fair in 1559; see Marciani 1958, 434.
+(78) Fuiano 1971, 44-45; Sabbatino 1995, 76-86.
+(79) See Scoppa 1517a, 1517b, 1524, 1534,1566 and 1616 for this pattern. It was not by any means universal, however: Scoppa 1540 relegates the <em>Epitome</em> to an appendix in tiny type. Scoppa's textbooks remained influential, especially in the Kingdom of Naples, as evidenced by the inventories edited by Cosi 2006, 645-656. The same source lists a number of works by Scoppa's student, Luigi Antonio Sompano, called Sidicinus (d. 1557), as does another inventory edited by Ottone 2006, 694-699.
+(80) Pseudo Rhemnius ed. Rosellini 2001, xxxiv-xxxv, l-lv.
+(81) (Pseudo-)Rhemnius Palaemon 1523, 2: <em>... summam grammatices is perstrinxerit tanta brevitate, ut Donatus ei collatus prolixior, eoque fortasse nomine posthabendus uideri possit; quem nobis e` situ Iovianus Pontanus, sui temporis eloquentissimus poeta, protulit.</em>
+(82) Pseudo-Rhemnius Palaemon 1523, 3.

@@ -22,9 +22,9 @@ Tagliente's complex understanding of the public for his textbooks was possible o
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  Grendler 1989, 86-108.
-(2)Â  <em>Libro maistrevole</em>, Tagliente 1524d, 3: <em>li grandi &amp; li piccoli &amp; ... le Donne che niente sanno</em>; this translation is that of Anne Schutte 1986; later in this chapter I also follow her translations. Bossi's poem is edited and translated by Marzorati et al. 2003, 72: <em>Discit inops quantum si dives</em>.
-(3)Â  This asymmetry had also been true of the Middle Ages. Dante was explicit about it in the Convivio, fully two centuries before Tagliente: Cestaro 2003, 70-72. See also Farenga 1983, 403-405; Witt 1995, 84-87; Stevenson 2005, 143, 152-156. Cornish 2000, 170-178 explains how the late medieval female audience differed from that of the sixteenth century and the degree to which "vulgarization" aimed at a particular non-Latin elite, not merely a broader audience.
-(4)Â  Tagliente 1524d.
-(5)Â  Well nuanced discussions of social class and educational norms are those of Matthews Grieco 1991, 34-38; Lucchi 1992, 124-127; Maccagni 1993, 643-647; Ortalli 1993, 60-70; Trovato 1994, 24-35; Houston 2002, 141-171.
-(6)Â  Waswo 1999, 410-412.
+(1) Grendler 1989, 86-108.
+(2) <em>Libro maistrevole</em>, Tagliente 1524d, 3: <em>li grandi &amp; li piccoli &amp; ... le Donne che niente sanno</em>; this translation is that of Anne Schutte 1986; later in this chapter I also follow her translations. Bossi's poem is edited and translated by Marzorati et al. 2003, 72: <em>Discit inops quantum si dives</em>.
+(3) This asymmetry had also been true of the Middle Ages. Dante was explicit about it in the Convivio, fully two centuries before Tagliente: Cestaro 2003, 70-72. See also Farenga 1983, 403-405; Witt 1995, 84-87; Stevenson 2005, 143, 152-156. Cornish 2000, 170-178 explains how the late medieval female audience differed from that of the sixteenth century and the degree to which "vulgarization" aimed at a particular non-Latin elite, not merely a broader audience.
+(4) Tagliente 1524d.
+(5) Well nuanced discussions of social class and educational norms are those of Matthews Grieco 1991, 34-38; Lucchi 1992, 124-127; Maccagni 1993, 643-647; Ortalli 1993, 60-70; Trovato 1994, 24-35; Houston 2002, 141-171.
+(6) Waswo 1999, 410-412.

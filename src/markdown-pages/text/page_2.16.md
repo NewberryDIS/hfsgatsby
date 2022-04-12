@@ -15,6 +15,6 @@ Astemio's anthology bears no title (its first page is blank); but it's author an
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(100)Â  Astemio 1502; Castellani 1926, 274-275 and 1929, 442-445; Sandal 1997, 102-103.
-(101)Â Â  Castellani 1926, 269: <em>quae ad sanctimoniam vitae pertinent.</em>
-(102)Â  Castellani 1926, 269;Sandal 1997, 99-106; Scapecchi 2001, 182.
+(100) Astemio 1502; Castellani 1926, 274-275 and 1929, 442-445; Sandal 1997, 102-103.
+(101)Â  Castellani 1926, 269: <em>quae ad sanctimoniam vitae pertinent.</em>
+(102) Castellani 1926, 269;Sandal 1997, 99-106; Scapecchi 2001, 182.

@@ -27,7 +27,7 @@ Other publishers who offered the Muret text, however, took up the theme of repea
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(60)Â  Baldachini 1994, 287 and 2004, 75-76; Godman 1998, 211.
-(61)Â  E.g. Terence 1555a and 1558a.
-(62)Â  Ceretti 1954, 523-556; Faerno called the older Aldine text a <em>vulgata</em> and insisted it was preferable in many ways to Muret's.
-(63)Â  This wording derived ultimately from a Plantin edition, 1574b but apparently took this full form in the 1582 edition cited. It appears unaltered on other editions in Venice and Verona until at least 1606. Further on repeated correction as an advertisement, see sections 4.05 and 4.06 At least one grammatical author, Bernardino Donato in 1529, took exception to florid title-page rhetoric; he included a title-page note that tells the reader to look beyond the title page and scan the chapter headings in the book to find out what it really contains.
+(60) Baldachini 1994, 287 and 2004, 75-76; Godman 1998, 211.
+(61) E.g. Terence 1555a and 1558a.
+(62) Ceretti 1954, 523-556; Faerno called the older Aldine text a <em>vulgata</em> and insisted it was preferable in many ways to Muret's.
+(63) This wording derived ultimately from a Plantin edition, 1574b but apparently took this full form in the 1582 edition cited. It appears unaltered on other editions in Venice and Verona until at least 1606. Further on repeated correction as an advertisement, see sections 4.05 and 4.06 At least one grammatical author, Bernardino Donato in 1529, took exception to florid title-page rhetoric; he included a title-page note that tells the reader to look beyond the title page and scan the chapter headings in the book to find out what it really contains.

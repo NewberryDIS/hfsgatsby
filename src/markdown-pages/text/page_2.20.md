@@ -17,5 +17,5 @@ Schoppe framed his collection of proverbs as the start of a comprehensive beginn
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(116)Â  Schoppe 1699,Â  767: <em>Ista, &amp; horum similia eum vernaculis vocalibus idem significantibus scribere eos iubebit, non, ut ea ediscant, sed ut aliquoties domi relegant. Sic. n. eorum facile in memoriam redibunt ab ijs, quae sententiae continent, admoniti. Hanc autem ad rem usui Magister erit vocabularium, in quo semper una cum primitivis et simplicibus derivata, &amp; composita sequuntur, quod in Graeco suo Lexico Scapula in Latino, Germanico Rasyppodius &amp; Basilius Faber praestiterunt.</em>
-(117)Â  Schoppe 1628b, 1629, 1671. Further on Schoppe, Hausmann 1995; Grafton 1998.
+(116) Schoppe 1699, 767: <em>Ista, &amp; horum similia eum vernaculis vocalibus idem significantibus scribere eos iubebit, non, ut ea ediscant, sed ut aliquoties domi relegant. Sic. n. eorum facile in memoriam redibunt ab ijs, quae sententiae continent, admoniti. Hanc autem ad rem usui Magister erit vocabularium, in quo semper una cum primitivis et simplicibus derivata, &amp; composita sequuntur, quod in Graeco suo Lexico Scapula in Latino, Germanico Rasyppodius &amp; Basilius Faber praestiterunt.</em>
+(117) Schoppe 1628b, 1629, 1671. Further on Schoppe, Hausmann 1995; Grafton 1998.

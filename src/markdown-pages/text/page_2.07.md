@@ -42,13 +42,13 @@ In the fifteen fifties, Antonio Palmieri corrected and edited the received text 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(33)Â  Pilade 1508a and 1543 are among the many editions of his constructive grammars; 1508b is his critique of Alexander.
-(34)Â  One small bookstore in Padua had nine copies in stock in February 1480 and received a shipment of fourteen more in April of the same year; a more established merchant in Venice handled at least thirty one copies in a single year. Fulin 1882b, 398-400; Brown 1891, 436-450. Further on these inventories, Nuovo 2003, 41-43, 128-129.
-(35)Â  Kallendorf 2002, 272-273; see also Percival 1978; Grendler 1989, 167-170; Jensen 1996a, 66-67; Jensen 1998, 255-256; Jensen 2001, 114-115; Black 2001, 124-129.
-(36)Â  Malaguzzi 2004, 97, 104-05; Colombat 1999, 25-26; Bersano1966, 190, 300-302.
-(37)Â  Guarino 1474, 1493, 1506, 1507, 1516, 1545, 1564; other editions of this version appeared as late as 1642. Compare the slightly enlarged version in Guarino 1535, 1549, and 1551.
+(33) Pilade 1508a and 1543 are among the many editions of his constructive grammars; 1508b is his critique of Alexander.
+(34) One small bookstore in Padua had nine copies in stock in February 1480 and received a shipment of fourteen more in April of the same year; a more established merchant in Venice handled at least thirty one copies in a single year. Fulin 1882b, 398-400; Brown 1891, 436-450. Further on these inventories, Nuovo 2003, 41-43, 128-129.
+(35) Kallendorf 2002, 272-273; see also Percival 1978; Grendler 1989, 167-170; Jensen 1996a, 66-67; Jensen 1998, 255-256; Jensen 2001, 114-115; Black 2001, 124-129.
+(36) Malaguzzi 2004, 97, 104-05; Colombat 1999, 25-26; Bersano1966, 190, 300-302.
+(37) Guarino 1474, 1493, 1506, 1507, 1516, 1545, 1564; other editions of this version appeared as late as 1642. Compare the slightly enlarged version in Guarino 1535, 1549, and 1551.
 (38) Guarino 1566, 1573, and 1616.
 (39) Guarino 1535, 1549, 1551, 1561.
-(40)Â  Battista Guarino described his father's course; seeÂ  Kallendorf 2002, 268-273. See also Grendler 1989, 188-189. The title page to the <em>Donato construtto</em> published at Venice in 1532 advertises that it also contains a Guarino, but this must have been a separate since it does not appear in the only surviving copies.
-(41)Â  E.g. Antonio Putelletto's Guarino 1540 was intended to follow upon Gian Giorgio Trissino's introductory work, Trissino 1540, to the exclusion of the Donat.
-(42)Â  Compare Guarino 1570 and 1596 which did likewise.
+(40) Battista Guarino described his father's course; see Kallendorf 2002, 268-273. See also Grendler 1989, 188-189. The title page to the <em>Donato construtto</em> published at Venice in 1532 advertises that it also contains a Guarino, but this must have been a separate since it does not appear in the only surviving copies.
+(41) E.g. Antonio Putelletto's Guarino 1540 was intended to follow upon Gian Giorgio Trissino's introductory work, Trissino 1540, to the exclusion of the Donat.
+(42) Compare Guarino 1570 and 1596 which did likewise.

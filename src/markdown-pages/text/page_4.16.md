@@ -61,7 +61,7 @@ Lilio published his work in Latin; an Italian translation appeared in 1551. Both
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(68)Â  Pastore Stocchi 1963; Bacchi della Lega 1875, 19-20.
-(69)Â  On Lilio, Ravegnani 2005.
-(70)Â  Lilio 1493, 1v, copy now at the Newberry Library: <em>Cuius rei auctoritas penes illos est quos secuti sumus. Quid enim novi afferre possumus quod proprium nostrum esse possit: cum nichil maiores nostri omiserint, quod intactum ad hoc usque tempus permaneret?</em>
-(71)Â  Toponomy remained a popular literary and geographical form for centuries. However, Carlo Passi 1575 would complain that it was handicapped by the lack of comprehensive modern geographies.
+(68) Pastore Stocchi 1963; Bacchi della Lega 1875, 19-20.
+(69) On Lilio, Ravegnani 2005.
+(70) Lilio 1493, 1v, copy now at the Newberry Library: <em>Cuius rei auctoritas penes illos est quos secuti sumus. Quid enim novi afferre possumus quod proprium nostrum esse possit: cum nichil maiores nostri omiserint, quod intactum ad hoc usque tempus permaneret?</em>
+(71) Toponomy remained a popular literary and geographical form for centuries. However, Carlo Passi 1575 would complain that it was handicapped by the lack of comprehensive modern geographies.

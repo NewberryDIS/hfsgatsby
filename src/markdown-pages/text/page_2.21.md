@@ -9,5 +9,5 @@ These themes were not new. Some had been inherited directly from medieval pedago
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(118)Â  Contrast Grafton and Jardine 1986 and Black 2007, 466-468 to Garin 1976, 95-108, Grendler 1989, 201-02, 208-211 and Black 2007, 297-306.
-(119)Â  Gehl 2002, 1-3, 15-16; Lerer 2002.
+(118) Contrast Grafton and Jardine 1986 and Black 2007, 466-468 to Garin 1976, 95-108, Grendler 1989, 201-02, 208-211 and Black 2007, 297-306.
+(119) Gehl 2002, 1-3, 15-16; Lerer 2002.

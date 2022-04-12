@@ -26,11 +26,11 @@ With Abril, we leave the question of the suitability of Terence unresolved in th
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(85)Â  Giraldi Cinzio 2002, esp. xliv, xc-xci.
-(86)Â  Croce 1945, 125-126, 129; Jossa 1996, 23-180; Grendler 2002b, 42-43.
-(87)Â  Croce 1945, 127-129.
-(88)Â  Giraldi 1566, fol. 2]v: <em>... parlare in ogni materia latinamente, &amp; elegantemente, &amp; con dignitÃ .</em>
-(89)Â  Of Grasso, he says <em>...volendosi mostrare un santoccio, od un picchia petto, il vuole bandire dal Mondo, perche egli non corrumpa, gli animi de giovanni.</em>
-(90)Â  Fabre 1995, 67-71. Giraldi's weak defense contrasts with that of seventeenth-century champions of Terence who claimed that the characters were all salutary insofar as they were realistic, and less obscene than those of Plautus; see Bury 1996, 127-135.
-(91)Â  Terence 1583, fol. Â¶ 4v-6r.
-(92)Â  For a useful explication of how censorship worked more or less invisibly to consumers of books in the late sixteenth century, Guglileminetti 1989, 123-128.
+(85) Giraldi Cinzio 2002, esp. xliv, xc-xci.
+(86) Croce 1945, 125-126, 129; Jossa 1996, 23-180; Grendler 2002b, 42-43.
+(87) Croce 1945, 127-129.
+(88) Giraldi 1566, fol. 2]v: <em>... parlare in ogni materia latinamente, &amp; elegantemente, &amp; con dignitÃ .</em>
+(89) Of Grasso, he says <em>...volendosi mostrare un santoccio, od un picchia petto, il vuole bandire dal Mondo, perche egli non corrumpa, gli animi de giovanni.</em>
+(90) Fabre 1995, 67-71. Giraldi's weak defense contrasts with that of seventeenth-century champions of Terence who claimed that the characters were all salutary insofar as they were realistic, and less obscene than those of Plautus; see Bury 1996, 127-135.
+(91) Terence 1583, fol. Â¶ 4v-6r.
+(92) For a useful explication of how censorship worked more or less invisibly to consumers of books in the late sixteenth century, Guglileminetti 1989, 123-128.

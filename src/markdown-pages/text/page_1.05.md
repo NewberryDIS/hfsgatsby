@@ -26,11 +26,11 @@ The chronology of critical studies on Terence is important for understanding his
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(24)Â  Villa 1984.
-(25)Â  Loeffler 1882; Jones and Morey 1932; Wright 1993.
-(26)Â  Villa 1984, 114, 150, 197, 269-271; Wright 1993, 190-192.
-(27)Â  The basic list is that of Villa 1984, 296-453; other descriptive lists of interest in Prete 1970 and Black 2001, 254-256.
-(28)Â  On the labors of the humanist editor when texts were complex, the classic statement is that of Erasmus, discussed at length by Jardine 1993, 41-48; see also Lerer 2002, 15-53.
-(29)Â  The most complete treatment is Ribuoli 1981. On the Bembinus, see also Prete 1970, 7-15, 23-24; Giannetto 1985, 201-101,287-191, 261-266; Grant 1988, 220-237.
-(30)Â  Lawton 1926, 297-298; further on Renaissance editors and their claims, Richardson 1996, 19-27; Jones 2004, 195-199, 206-208.
-(31)Â  Ribuoli 1981, 73-80; Cesarini Martinelli 1985; Grant 1988, 214, 219-220.
+(24) Villa 1984.
+(25) Loeffler 1882; Jones and Morey 1932; Wright 1993.
+(26) Villa 1984, 114, 150, 197, 269-271; Wright 1993, 190-192.
+(27) The basic list is that of Villa 1984, 296-453; other descriptive lists of interest in Prete 1970 and Black 2001, 254-256.
+(28) On the labors of the humanist editor when texts were complex, the classic statement is that of Erasmus, discussed at length by Jardine 1993, 41-48; see also Lerer 2002, 15-53.
+(29) The most complete treatment is Ribuoli 1981. On the Bembinus, see also Prete 1970, 7-15, 23-24; Giannetto 1985, 201-101,287-191, 261-266; Grant 1988, 220-237.
+(30) Lawton 1926, 297-298; further on Renaissance editors and their claims, Richardson 1996, 19-27; Jones 2004, 195-199, 206-208.
+(31) Ribuoli 1981, 73-80; Cesarini Martinelli 1985; Grant 1988, 214, 219-220.

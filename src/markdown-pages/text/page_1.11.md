@@ -33,7 +33,7 @@ From the start, however, the marketing claims of printers and publishers reflect
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(53)Â  Lawton 1926, 323-333; offered a brief appendix inviting such a study, but to my knowledge it has never been undertaken. Important specialized studies are those of Ceretti 1954, Prete 1970.
-(54)Â  Until 1600 at least; Ceretti 1954, 525-526, 528; further on the influence of Muret and Faerno, Bury 1996, 125-127.
-(55)Â  Dane 1999.
-(56)Â  Lawton1926, 307; Ribuoli 1981, 73-74.
+(53) Lawton 1926, 323-333; offered a brief appendix inviting such a study, but to my knowledge it has never been undertaken. Important specialized studies are those of Ceretti 1954, Prete 1970.
+(54) Until 1600 at least; Ceretti 1954, 525-526, 528; further on the influence of Muret and Faerno, Bury 1996, 125-127.
+(55) Dane 1999.
+(56) Lawton1926, 307; Ribuoli 1981, 73-74.

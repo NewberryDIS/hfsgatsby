@@ -52,9 +52,9 @@ There continued to be a market for small, rudimentary manuals of plainchant righ
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(90)Â Â  Crawford 1982, 176.
-(91)Â  Bonaventura 1518, fol. 1v: <em>poveri e simplici religiosi necnon de li desiderosi de havere vero fondamento de musica plana</em>.
-(92)Â Â  On the commonplace of the poor and simple reader, West 2006, 257-260.
-(93)Â Â  Crawford 1982, 176-187; <em>Compendium</em> 1985, 15-26.
-(94)Â Â  Lanfranco 1533, 39; Lanfranco 1970, ii; Lee 1961, 60; see also 11-20, 52-63.
-(95)Â Â  On Banchieri's manuals, Cranna 1981, 14-15. The <em>Scala di musica</em> of Scaletta, concerning plainchant, appeared in at least eight editions between 1622 and 1665; he also published a Primo scalino on counterpoint in the same booklet format.
+(90)Â  Crawford 1982, 176.
+(91) Bonaventura 1518, fol. 1v: <em>poveri e simplici religiosi necnon de li desiderosi de havere vero fondamento de musica plana</em>.
+(92)Â  On the commonplace of the poor and simple reader, West 2006, 257-260.
+(93)Â  Crawford 1982, 176-187; <em>Compendium</em> 1985, 15-26.
+(94)Â  Lanfranco 1533, 39; Lanfranco 1970, ii; Lee 1961, 60; see also 11-20, 52-63.
+(95)Â  On Banchieri's manuals, Cranna 1981, 14-15. The <em>Scala di musica</em> of Scaletta, concerning plainchant, appeared in at least eight editions between 1622 and 1665; he also published a Primo scalino on counterpoint in the same booklet format.

@@ -17,5 +17,5 @@ Given these conventions of creation and use, the emblematic printer's mark was a
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(67)Â Â  Cf. Moss 1999, 146-148.
-(68)Â Â  Elkins 1999, 209-212.
+(67)Â  Cf. Moss 1999, 146-148.
+(68)Â  Elkins 1999, 209-212.

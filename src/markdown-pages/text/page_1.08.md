@@ -40,7 +40,7 @@ There were hundreds of octavo editions of Terence in the sixteenth century. The 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(41)Â  Lawton 1926, 284.
-(42)Â  Lawton 1926, 283-286.
-(43)Â  It is (according to the title page) a second printing, but no earlier one by Paganino in this format survives. The title page might refer to a 24mo Paganino of 1516 that survives in a single copy, but the note noviter impressae and the fact that this edition lacks a dedication present in the 1516 book suggests that there actually was an earlier printing in this format. Paganino had pioneered the use of such quartos for other Latin textbooks in 1522; see Nuovo 1990, 53-55, 83-89, 161, 185.
-(44)Â  Kallendorf 1999, 46-50.
+(41) Lawton 1926, 284.
+(42) Lawton 1926, 283-286.
+(43) It is (according to the title page) a second printing, but no earlier one by Paganino in this format survives. The title page might refer to a 24mo Paganino of 1516 that survives in a single copy, but the note noviter impressae and the fact that this edition lacks a dedication present in the 1516 book suggests that there actually was an earlier printing in this format. Paganino had pioneered the use of such quartos for other Latin textbooks in 1522; see Nuovo 1990, 53-55, 83-89, 161, 185.
+(44) Kallendorf 1999, 46-50.

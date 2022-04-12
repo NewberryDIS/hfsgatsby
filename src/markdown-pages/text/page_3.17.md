@@ -28,10 +28,10 @@ Presumably Bade thought he had clarified the obscure verses of Mancinelli or imp
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(94)Â  On the instability of such texts of "modesta cultura" see Franceschini 2003, 63-65.
-(95)Â  Rossini 1997, 104-111.
-(96)Â  E.g. Mancinelli 1507d; Reichling 1880, 48-51, 132-135. This version of <em>Versilogus</em> continued to be printed well into the sixteenth century, at least in part because Murmellius called it the best of all books on versification. A particularly handsome edition is Mancinelli 1540.
-(97)Â  Renouard 1908 gives a detailed account of his career; an important, recent addition to the literature is Crane 2005.
-(98)Â  For the <em>Carmen de figuris</em> in the larger history of rhetoric, Green 1999, 81-83.
-(99)Â  Which we may translate, "The barbarous figure may occur in speech or writing when one word with an unaccustomed form or meaning is substituted, replaced, changed or transformed in place of another, for example, using <em>mavors</em> for <em>mars</em> and <em>fates</em> for <em>fantes</em>, <em>asvenio</em> for <em>advenio</em>; perhaps you will read <em>tymbrae</em> for <em>timber</em> and for the sake of the meter <em>domina</em> will be said for both forms."
-(100)Â  "Barbarism occurs in writing or speaking when one word is added, altered or even changed and transformed into another. Thus <em>mavors, vates, asvenio</em> and <em>tymbrae</em> stand in for <em>mars, fantes, tymber</em>, and <em>advenio</em>. So also <em>domina</em> may be said for <em>dominus</em>."
+(94) On the instability of such texts of "modesta cultura" see Franceschini 2003, 63-65.
+(95) Rossini 1997, 104-111.
+(96) E.g. Mancinelli 1507d; Reichling 1880, 48-51, 132-135. This version of <em>Versilogus</em> continued to be printed well into the sixteenth century, at least in part because Murmellius called it the best of all books on versification. A particularly handsome edition is Mancinelli 1540.
+(97) Renouard 1908 gives a detailed account of his career; an important, recent addition to the literature is Crane 2005.
+(98) For the <em>Carmen de figuris</em> in the larger history of rhetoric, Green 1999, 81-83.
+(99) Which we may translate, "The barbarous figure may occur in speech or writing when one word with an unaccustomed form or meaning is substituted, replaced, changed or transformed in place of another, for example, using <em>mavors</em> for <em>mars</em> and <em>fates</em> for <em>fantes</em>, <em>asvenio</em> for <em>advenio</em>; perhaps you will read <em>tymbrae</em> for <em>timber</em> and for the sake of the meter <em>domina</em> will be said for both forms."
+(100) "Barbarism occurs in writing or speaking when one word is added, altered or even changed and transformed into another. Thus <em>mavors, vates, asvenio</em> and <em>tymbrae</em> stand in for <em>mars, fantes, tymber</em>, and <em>advenio</em>. So also <em>domina</em> may be said for <em>dominus</em>."

@@ -29,8 +29,8 @@ Any modern ad man would recognize some classic strategies here. Praise the produ
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(103)Â Â  Perraud 1988, 84. An important study of Erasmus and his printers is Vanautgaerden 2008.
-(104)Â Â  Perraud 1988, 85-86; Thompson and Perraud 1990, 55-58; Jardine 1993, 113-115; Jensen 1996a, 72.
-(105)Â  Erasmus 1978, 280-283; Greene 1986, 8-15; Jardine 1993, 42-45; Cherchi 1998, 53-58; Jeanneret 2001, 207-212, 248-252; Bisello 1998, xii-xix, 33-45.
-(106)Â Â  Jardine 1993, 113-115.
-(107)Â  Erasmus 1538, 3: <em>Erasmus Roterodamus Ioanni Nevio S. Disticha moralia uulgo Catonis scripta titulo, Neui Theologorum decus, primum diligenter a mendis, repurgauimus, collata Planudis interpretatione tametsi Graeculus ille Romani carminis sententiam saepenumero non assequitur. Addidimus &amp; scholia, perbreuia quidem illa, sed aliquanto commodiora, ni fallor, iis commentariis, quibus duo quidam opusculum hoc contaminaverant, quorum alter insulsissime rhetoricatur, homo ipsa infantior infantia, alter ineptissime philosophatur, uterque [in Greek:] ouden pros epos loquitur.</em>
+(103)Â  Perraud 1988, 84. An important study of Erasmus and his printers is Vanautgaerden 2008.
+(104)Â  Perraud 1988, 85-86; Thompson and Perraud 1990, 55-58; Jardine 1993, 113-115; Jensen 1996a, 72.
+(105) Erasmus 1978, 280-283; Greene 1986, 8-15; Jardine 1993, 42-45; Cherchi 1998, 53-58; Jeanneret 2001, 207-212, 248-252; Bisello 1998, xii-xix, 33-45.
+(106)Â  Jardine 1993, 113-115.
+(107) Erasmus 1538, 3: <em>Erasmus Roterodamus Ioanni Nevio S. Disticha moralia uulgo Catonis scripta titulo, Neui Theologorum decus, primum diligenter a mendis, repurgauimus, collata Planudis interpretatione tametsi Graeculus ille Romani carminis sententiam saepenumero non assequitur. Addidimus &amp; scholia, perbreuia quidem illa, sed aliquanto commodiora, ni fallor, iis commentariis, quibus duo quidam opusculum hoc contaminaverant, quorum alter insulsissime rhetoricatur, homo ipsa infantior infantia, alter ineptissime philosophatur, uterque [in Greek:] ouden pros epos loquitur.</em>

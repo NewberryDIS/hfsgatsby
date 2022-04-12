@@ -15,7 +15,7 @@ The fact that Bonciari and Corradi linked the revised text of Guarino's grammar 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(43)Â  Pseudo-Donatus 1597a and Guarino 1596 survive together in at least one case: Rimini, Biblioteca Gambalunga A 525. Compare the equally homely Pseudo-Donatus 1595 and Guarino 1642.
+(43) Pseudo-Donatus 1597a and Guarino 1596 survive together in at least one case: Rimini, Biblioteca Gambalunga A 525. Compare the equally homely Pseudo-Donatus 1595 and Guarino 1642.
 (44) Bonciari 1593a and 1593b.
 (45) Bonciari 1596, 1597, 1598a and b, 1611; Negri 1969, 676-77. Further on Bonciari and other versions of "Guarino," Grendler 1989, 189-191.
 (46) Corradi 1644, 1647, and 1654. On Corradi, Grendler 1989, 191.

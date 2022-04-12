@@ -28,8 +28,8 @@ Book Two on syntax, then, was somewhat rearranged and the examples were revised.
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(41)Â  MPSI 4:524.
-(42)Â  MPSI 4:17-18.
-(43)Â  See copies at the Biblioteca Nazionale Centrale, Roma: 204.23.D.13 is the 1583 <em>Libri Tres</em> used at Rome with many additional classical examples; and 6.3.B.24 is a copy of the Venice 1570-71 <em>Syntaxis</em> with epigraphic notes on the flyleaves by Fra Tomaso Inglese, presumably an English Franciscan schoolmaster in Rome.
-(44)Â  Comparison based on 1570 Venice fols. 2r-v and 1583 Lisbon, 85r-v, with 1588 Rome, pp. 173-174.
-(45)Â  Compare Alvares 1588 Rome with Alvares 1583 Lisbon.
+(41) MPSI 4:524.
+(42) MPSI 4:17-18.
+(43) See copies at the Biblioteca Nazionale Centrale, Roma: 204.23.D.13 is the 1583 <em>Libri Tres</em> used at Rome with many additional classical examples; and 6.3.B.24 is a copy of the Venice 1570-71 <em>Syntaxis</em> with epigraphic notes on the flyleaves by Fra Tomaso Inglese, presumably an English Franciscan schoolmaster in Rome.
+(44) Comparison based on 1570 Venice fols. 2r-v and 1583 Lisbon, 85r-v, with 1588 Rome, pp. 173-174.
+(45) Compare Alvares 1588 Rome with Alvares 1583 Lisbon.

@@ -18,4 +18,4 @@ As the fifteenth century turned to the sixteenth, it became more and more common
 
 <strong>NOTE</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(36)Â  On the humanist commendatory preface: Jardine 1993, 175-180; Farenga 1994; Munzi 1994, 103-106; Flood 2003, 145-147; Jones 2004, 196-206; Crane 2005, 32-59; Kaufman 2006, 166-167, 178-181.
+(36) On the humanist commendatory preface: Jardine 1993, 175-180; Farenga 1994; Munzi 1994, 103-106; Flood 2003, 145-147; Jones 2004, 196-206; Crane 2005, 32-59; Kaufman 2006, 166-167, 178-181.

@@ -48,7 +48,7 @@ Each individual recipe was distinctly labeled with its title and a new paragraph
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(78)Â Â  On the epistemology of the recipe, Eamon 1994, 131-134.
-(79)Â Â  Serrai 1988, 338-343. Eamon 1994, 10-37; Bell 1999, 6-16.
-(80)Â Â  The German equivalent was the <em>Kunstbuchlein</em> described by Eamon 1994, 112-126. Compare Bardi and other essays in <em>Alambichi di parole</em> 1999. On the conversational nature of ephemeral printing, McKenzie 1989, 101.
-(81)Â Â  I describe it, and cite from, an edition of 1528 in a copy now at the Newberry Library. Other editions of 1529, 1530, 1534, 1543, 1546, 1550 are recorded by Ferguson, Eamon and Bardi; Eamon also describes how it was translated into French and Dutch and became a standard chapbook publication for centuries.
+(78)Â  On the epistemology of the recipe, Eamon 1994, 131-134.
+(79)Â  Serrai 1988, 338-343. Eamon 1994, 10-37; Bell 1999, 6-16.
+(80)Â  The German equivalent was the <em>Kunstbuchlein</em> described by Eamon 1994, 112-126. Compare Bardi and other essays in <em>Alambichi di parole</em> 1999. On the conversational nature of ephemeral printing, McKenzie 1989, 101.
+(81)Â  I describe it, and cite from, an edition of 1528 in a copy now at the Newberry Library. Other editions of 1529, 1530, 1534, 1543, 1546, 1550 are recorded by Ferguson, Eamon and Bardi; Eamon also describes how it was translated into French and Dutch and became a standard chapbook publication for centuries.

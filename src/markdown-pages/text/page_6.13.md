@@ -11,5 +11,5 @@ In some cases these booklets were authored by the same supposed experts who wrot
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(76)Â Â  For the quotations here: Girolamo Tagliente 1557; Walther Hermann Ryff, quoted and trans. Eamon 1994, 99. Eamon is expansive on this subject of the growth of the how-to model. For the Italian phenomenon and the relative importance of Latin and vernacular in technical literature, Marazzini 1993, 29-41; for language study as a kind of courtesy literature, Wyatt 2005, 180-185.
-(77)Â Â  Casali 1982, 35-52; Houston 1991, 948-952 and 2002, 99-123.
+(76)Â  For the quotations here: Girolamo Tagliente 1557; Walther Hermann Ryff, quoted and trans. Eamon 1994, 99. Eamon is expansive on this subject of the growth of the how-to model. For the Italian phenomenon and the relative importance of Latin and vernacular in technical literature, Marazzini 1993, 29-41; for language study as a kind of courtesy literature, Wyatt 2005, 180-185.
+(77)Â  Casali 1982, 35-52; Houston 1991, 948-952 and 2002, 99-123.

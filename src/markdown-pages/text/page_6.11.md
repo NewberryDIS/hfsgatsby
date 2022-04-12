@@ -62,9 +62,9 @@ The <em>Libro maistrevole</em> is very handsome. Less fussily prettified than mo
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(65)Â  Lucchi 1992, 150-51.
-(66)Â  Houston 2002, 62-65.
-(67)Â  Schutte 1986, esp. 14-15. Tagliente and Arrighi also largely excluded religious texts from their handwriting manuals of the fifteen twenties. This practice reflects their target audience of secular scribes in training. Tagliente did use an occasional religious text to display black letter forms of the sort used in liturgical manuscripts.
-(68)Â  Schutte 1986, 8. On the family as a locus for literacy learning, Bartoli-Langeli 1991, esp. 76-78.
-(69)Â  Schutte 1986, 15-16.
-(70)Â  <em>Cronichetta</em>, quoted by Ross 1976, 557.
+(65) Lucchi 1992, 150-51.
+(66) Houston 2002, 62-65.
+(67) Schutte 1986, esp. 14-15. Tagliente and Arrighi also largely excluded religious texts from their handwriting manuals of the fifteen twenties. This practice reflects their target audience of secular scribes in training. Tagliente did use an occasional religious text to display black letter forms of the sort used in liturgical manuscripts.
+(68) Schutte 1986, 8. On the family as a locus for literacy learning, Bartoli-Langeli 1991, esp. 76-78.
+(69) Schutte 1986, 15-16.
+(70) <em>Cronichetta</em>, quoted by Ross 1976, 557.

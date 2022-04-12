@@ -17,7 +17,7 @@ Even for beginners, then, it is essential to stay close to classical models, for
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(25)Â  Sebastiano Morales, S.J. in MPSI 4:347; 1998,Â  161-162.
-(26)Â  Colombat 1999, 210-217.
-(27)Â  Colombat 1993, 214-217 remarks that in this regard Alvares' claims to be an empiricist were disingenuous; in fact he depended heavily on De Spauter and Thomas Linacre (1450-1524).
-(28)Â  Alvares 1575, 245: <em>etiam eos rogatos velim, qui hunc libellum sunt lecturi, ut ne aegre ferant, si Syntaxeos praecepta pluribus interdum illustrata exemplis offenderint; neque enim casu, aut temere, sed consulte, et cogitato id factum est. Nam cum Grammatica praeceptiones aridae, ieiuniae, et insulsae ipsae per se sint, nisi veterum scriptorum nitore et elegantia condiantur, brevi domestica barbarie Latinae linguae rudes infuscabunt</em>.
+(25) Sebastiano Morales, S.J. in MPSI 4:347; 1998, 161-162.
+(26) Colombat 1999, 210-217.
+(27) Colombat 1993, 214-217 remarks that in this regard Alvares' claims to be an empiricist were disingenuous; in fact he depended heavily on De Spauter and Thomas Linacre (1450-1524).
+(28) Alvares 1575, 245: <em>etiam eos rogatos velim, qui hunc libellum sunt lecturi, ut ne aegre ferant, si Syntaxeos praecepta pluribus interdum illustrata exemplis offenderint; neque enim casu, aut temere, sed consulte, et cogitato id factum est. Nam cum Grammatica praeceptiones aridae, ieiuniae, et insulsae ipsae per se sint, nisi veterum scriptorum nitore et elegantia condiantur, brevi domestica barbarie Latinae linguae rudes infuscabunt</em>.

@@ -9,7 +9,7 @@ These non-commercial ideals of persuasive rhetoric did not fail or even weaken w
 
 Printing, however, slowly became the primary rhetorical medium, and the new medium imposed new norms. Philology, not just morality, became both a selling point and a goal in life. The case of Terence shows how productive the new print reality could be but also how constraining the classroom context was. In the first forty years of printing Terence, the market was almost exclusively for teaching editions that contained poorly edited texts. The value added by printers was largely in the form of old and new commentaries. These editions looked solemnly the same and were in fact largely unoriginal. But the philological work embodied in the many competing commentaries slowly built momentum for a
 
-The sixteenth century also saw many new packages for teaching Terence. These classroom formats determined competitiveness in the market. The text of Terence was so intimately connected with Latin-language learning that it never quite had a literary life of its own. The great moments of philological progress on the text (Poliziano's notes, Aldo's edition, and later Faerno's) caused a certain amount of scholarly excitement, it is true; but philological advances were quickly absorbed by the textbook market and the competition reverted to being one between publishers who touted new classroom formats or teacher-editors of note. However belovedÂ  and imitated, Terence remained a school author.
+The sixteenth century also saw many new packages for teaching Terence. These classroom formats determined competitiveness in the market. The text of Terence was so intimately connected with Latin-language learning that it never quite had a literary life of its own. The great moments of philological progress on the text (Poliziano's notes, Aldo's edition, and later Faerno's) caused a certain amount of scholarly excitement, it is true; but philological advances were quickly absorbed by the textbook market and the competition reverted to being one between publishers who touted new classroom formats or teacher-editors of note. However beloved and imitated, Terence remained a school author.
 
 The market for elementary Latin grammars displayed many of the same characteristics as that for intermediate school authors like Terence. Originality was rarely an issue, and what novelties there were usually concerned bringing old rules and proof-texts up to date by reference to ongoing philological research on the classics. Grammar textbooks were particularly unstable because they were almost never more than exercise pieces. Every teacher at every period felt free to modify them for his own classroom. Marketing for such textbooks relied heavily on the reputations of modern authors and editors. Guarino, Perotti, Mancinelli, De Spauter, Priscianese, and Bonciari each in turn became a brand name for a kind of textbook or a kind of pedagogy.
 
@@ -17,5 +17,5 @@ The rhetoric of selling textbooks changed relatively little before the mid-sixte
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-3Â  Elkins 1999, 209-212.
-4Â  Rummel 1995, 3-7, 193-195.
+3 Elkins 1999, 209-212.
+4 Rummel 1995, 3-7, 193-195.

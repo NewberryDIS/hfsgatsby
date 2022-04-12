@@ -15,10 +15,10 @@ The period from 1550 to 1575, then, was one of intense experimentation with text
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(8)Â  The fundamental sources are to be found in MPSI; see also Anselmi, 17-22; Brizzi 1976, 211-214; Brizzi 1984, 156-157; Ballerini 1985, 226-236; Bauer 1986, 140-150; Carlsmith 2002, 218-223; Quondam 2004, 454-465. On the Jesuit realization of humanist philology, Bianchi 1995, 804.
-(9)Â  Codina Mir 1968, 300-305; MPSI 1:93-106; see also Brizzi 1984, 155-170; O'Malley 1993, 216-232.
+(8) The fundamental sources are to be found in MPSI; see also Anselmi, 17-22; Brizzi 1976, 211-214; Brizzi 1984, 156-157; Ballerini 1985, 226-236; Bauer 1986, 140-150; Carlsmith 2002, 218-223; Quondam 2004, 454-465. On the Jesuit realization of humanist philology, Bianchi 1995, 804.
+(9) Codina Mir 1968, 300-305; MPSI 1:93-106; see also Brizzi 1984, 155-170; O'Malley 1993, 216-232.
 (10) BCJ 2:1261-1264; Farrell 1938, 444-45; Zwartjes 2002.
 (11) Rome: Blado, 1556; it was, however, later published at Cologne, Vienna, Antwerp, and Douai; BCJ 3:1046; see also MPSI 1:529; Farrell 1938, 444; Tacchi-Venturi 1961, 350; Brizzi 1976, 211.
-(12)Â  BCJ 4:1648-49; Tacchi-Venturi 1961, 351; Tinto 1966, 81-82; on Ledesma, MPSI 2:519-627; Farrell 1936, 445-446, 450; and Anselmi 1981, 22; on the 1570 Torino ed., Rurale 1998, 161.
-(13)Â  MPSI 1:529, 4:242-244: <em>donec aliam a nostris compositam habeamus</em>; Springhetti 1961, 285. See also Tacchi-Venturi 1961, 349-352; Codina Mir 1968, 301-305; Battistini 1981, 82-89. On rhetoric texts, Bauer 1986, 142-147.
-(14)Â  The evidence for these usages are respectively: MGSI 4:524; Rurale 1998, 161-166; BAV Loreto V.138; the copies of De Spauter 1563 and Pellisson 1566 presently at the University of Genova. Further on Sempere, GÃ³mez i Font 1997, esp. lxviii-lxxii.
+(12) BCJ 4:1648-49; Tacchi-Venturi 1961, 351; Tinto 1966, 81-82; on Ledesma, MPSI 2:519-627; Farrell 1936, 445-446, 450; and Anselmi 1981, 22; on the 1570 Torino ed., Rurale 1998, 161.
+(13) MPSI 1:529, 4:242-244: <em>donec aliam a nostris compositam habeamus</em>; Springhetti 1961, 285. See also Tacchi-Venturi 1961, 349-352; Codina Mir 1968, 301-305; Battistini 1981, 82-89. On rhetoric texts, Bauer 1986, 142-147.
+(14) The evidence for these usages are respectively: MGSI 4:524; Rurale 1998, 161-166; BAV Loreto V.138; the copies of De Spauter 1563 and Pellisson 1566 presently at the University of Genova. Further on Sempere, GÃ³mez i Font 1997, esp. lxviii-lxxii.

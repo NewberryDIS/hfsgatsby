@@ -21,7 +21,7 @@ Somewhat more practical than Petrarch's guide but still highly literary was the 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(60)Â  Petrarch 2002, i-ix.
-(61)Â  Segatto 1983, 164-165; Auzzas 1986, 343-344; Cachey 1996, 62-64; Cornish 2000, 167-168: Cook 2002, 51-52; Petrarch 2002. At the far end of literarry imagination stands the "travel" narrative of Fazio degli Uberti, an allegorical journey through real places, probably aimed at a courtly audience; see Ragni 1986, 224-227.
-(62)Â  Segatto 1983, 159, 174-178.
-(63)Â  Segatto 1983, 152-154; Clement 2001; Cook 2002, 52-55.
+(60) Petrarch 2002, i-ix.
+(61) Segatto 1983, 164-165; Auzzas 1986, 343-344; Cachey 1996, 62-64; Cornish 2000, 167-168: Cook 2002, 51-52; Petrarch 2002. At the far end of literarry imagination stands the "travel" narrative of Fazio degli Uberti, an allegorical journey through real places, probably aimed at a courtly audience; see Ragni 1986, 224-227.
+(62) Segatto 1983, 159, 174-178.
+(63) Segatto 1983, 152-154; Clement 2001; Cook 2002, 52-55.

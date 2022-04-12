@@ -13,6 +13,6 @@ The mid- and late-century editions of Bossi's work are entitled <em>Institutione
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(63)Â  Bianchi 1993, 74-92; Bianchi 1995, 772-784, 795-806. On the Barnabite textbooks of Vincenzo Gallo, see Boffito 1933, vol. 2, 117-119.
-(64)Â  The early editions are so rare that I was unaware of their existence when I wrote about Bossi in Gehl 2003, 456. Balsamo 1993, 74 describes the first edition in full from the only surviving copy, now at Modena; on it, Ceriotti, 1998, 104-109. Ceriotti also discusses the later editions, 126 n. 28 and 134 n. 117. That of 1521 also survives in a single copy but must have been printed in fairly large numbers since over 600 copies are listed in an inventory of 1537, Ganda 1988, 135. Further on Bossi, Bondioli 1927; Ballestrieri 1971, 307-309; Grendler 1989, 420; Marzorati et al. 2003, 21-45.
-(65)Â  On Moirani, Ceriotti 1998, 126-128.
+(63) Bianchi 1993, 74-92; Bianchi 1995, 772-784, 795-806. On the Barnabite textbooks of Vincenzo Gallo, see Boffito 1933, vol. 2, 117-119.
+(64) The early editions are so rare that I was unaware of their existence when I wrote about Bossi in Gehl 2003, 456. Balsamo 1993, 74 describes the first edition in full from the only surviving copy, now at Modena; on it, Ceriotti, 1998, 104-109. Ceriotti also discusses the later editions, 126 n. 28 and 134 n. 117. That of 1521 also survives in a single copy but must have been printed in fairly large numbers since over 600 copies are listed in an inventory of 1537, Ganda 1988, 135. Further on Bossi, Bondioli 1927; Ballestrieri 1971, 307-309; Grendler 1989, 420; Marzorati et al. 2003, 21-45.
+(65) On Moirani, Ceriotti 1998, 126-128.

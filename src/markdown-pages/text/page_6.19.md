@@ -38,11 +38,11 @@ Cerone's forty-page <em>Regole</em> contrasts sharply with his larger manual, <e
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(100)Â Â  Ganassi 1535: <em>cho tutta l'arte opportuna a esso istrumento</em>.
-(101)Â  These epithets from Diruta 1609, part 2.
-(102)Â Â  The first edition of part one dates from 1593, that of part 2 from 1609; see Diruta 1984; Gargiulo 2004, 173n.
-(103)Â Â  Boorman 1986, 227-230; Owens 1996, 13-14.
-(104)Â Â  Cerone 1609, 3: <em>poveri Ecclesiastici ed altresi de lÃ¬ desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati</em>. On Cerone, SÃ¡nchez GarcÃ­a 2007, 67, 171-172.
-(105)Â Â  Cerone 1609, 37: ... <em>nÃ¨ di molte altere cosette: per quanto mi pare no essere tanto necessario ad un semplice cantore, quanto utile ad un perfetto Chorista: che per servitio del Choro, lo detto fin qui, basta</em>.
-(106)Â Â  Gargiulo 2004, 180-182; Cerone1989, ix-xv.
-(107)Â  For this ideal in chancery manuals, Trovato 1994, 71-74.
+(100)Â  Ganassi 1535: <em>cho tutta l'arte opportuna a esso istrumento</em>.
+(101) These epithets from Diruta 1609, part 2.
+(102)Â  The first edition of part one dates from 1593, that of part 2 from 1609; see Diruta 1984; Gargiulo 2004, 173n.
+(103)Â  Boorman 1986, 227-230; Owens 1996, 13-14.
+(104)Â  Cerone 1609, 3: <em>poveri Ecclesiastici ed altresi de lÃ¬ desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati</em>. On Cerone, SÃ¡nchez GarcÃ­a 2007, 67, 171-172.
+(105)Â  Cerone 1609, 37: ... <em>nÃ¨ di molte altere cosette: per quanto mi pare no essere tanto necessario ad un semplice cantore, quanto utile ad un perfetto Chorista: che per servitio del Choro, lo detto fin qui, basta</em>.
+(106)Â  Gargiulo 2004, 180-182; Cerone1989, ix-xv.
+(107) For this ideal in chancery manuals, Trovato 1994, 71-74.

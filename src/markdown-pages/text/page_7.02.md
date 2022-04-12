@@ -33,6 +33,6 @@ Like the textbook market, however, the emblem market allowed for many regional v
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(4)Â Â  Manning 2002, 42-45 ; Wolkenhauer 2002, 55, 207-208; Grendler 2002a, 439-443; Alciati, ed. Daly and Callahan 1988; Alciati 1953, 45-47.
-(5)Â Â  II,i.1. The first version was penned about 1508; it appeared in extended form in the 1520 Froben edition of Erasmus, which Alciati surely knew. (He lists Froben's mark among his inspirations.) Later, Erasmus added a diatribe against printers who did not live up to the high standards of Aldo. See Wolkenhauer 2002, 165-185.
-(6)Â Â  Scholz 1993, 150-151; Jeanneret 2001, 212-214; Coppens 2005, 34-37.
+(4)Â  Manning 2002, 42-45 ; Wolkenhauer 2002, 55, 207-208; Grendler 2002a, 439-443; Alciati, ed. Daly and Callahan 1988; Alciati 1953, 45-47.
+(5)Â  II,i.1. The first version was penned about 1508; it appeared in extended form in the 1520 Froben edition of Erasmus, which Alciati surely knew. (He lists Froben's mark among his inspirations.) Later, Erasmus added a diatribe against printers who did not live up to the high standards of Aldo. See Wolkenhauer 2002, 165-185.
+(6)Â  Scholz 1993, 150-151; Jeanneret 2001, 212-214; Coppens 2005, 34-37.

@@ -15,9 +15,9 @@ Hunger situated his interest in Alciati in the context of his own humanist educa
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(37)Â Â  Carruthers 1990, 221-228.
-(38)Â Â  KÃ¶hler 1986, 109 note 4 mentions two copies now at WolfenbÃ¼ttel of the Augsburg 1531 first edition that show signs of school use, but he does not describe them.
-(39)Â Â  What follow depends heavily on the important work of Johannes KÃ¶hler 1986, esp. 56-64.
-(40)Â Â  Alciati 1542, 10-11: <em>pueris quoque nostratibus, &amp; paedagogis, aureus hic libelllus futurus sut carhior forte, &amp; comendiatior... virtutum splendorem &amp; vitiorum foeditatem non aliter quam in tabella perspiciant</em>. See KÃ¶hler 1986, 59.
-(41)Â Â  Gareffi 1981, 55-61; Matthews Grieco 1991, 34-38.
-(42)Â Â  Alciati 1542, 4-7.
+(37)Â  Carruthers 1990, 221-228.
+(38)Â  KÃ¶hler 1986, 109 note 4 mentions two copies now at WolfenbÃ¼ttel of the Augsburg 1531 first edition that show signs of school use, but he does not describe them.
+(39)Â  What follow depends heavily on the important work of Johannes KÃ¶hler 1986, esp. 56-64.
+(40)Â  Alciati 1542, 10-11: <em>pueris quoque nostratibus, &amp; paedagogis, aureus hic libelllus futurus sut carhior forte, &amp; comendiatior... virtutum splendorem &amp; vitiorum foeditatem non aliter quam in tabella perspiciant</em>. See KÃ¶hler 1986, 59.
+(41)Â  Gareffi 1981, 55-61; Matthews Grieco 1991, 34-38.
+(42)Â  Alciati 1542, 4-7.

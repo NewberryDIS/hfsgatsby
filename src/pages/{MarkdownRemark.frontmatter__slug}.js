@@ -7,8 +7,6 @@ import Helmet from 'react-helmet'
 import ModeSwitch from '../components/modeswitch'
 import Comments from "../components/{MarkdownRemark.frontmatter.__id}"
 
-
-
 export default function Template({
     data, location
 }) {
@@ -20,9 +18,8 @@ export default function Template({
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
     const prev = pages[pages.indexOf(page) - 1]
     const next = pages[pages.indexOf(page) + 1]
-
     return (
-        <PageCss className={darkMode ? "dark" : "light" } >
+        <PageCss className={darkMode ? "dark" : "light" } dmstate={darkMode} >
           <Helmet title="Humanism for Sale" />
 
           <div className="middle">
@@ -31,26 +28,26 @@ export default function Template({
         <Sidebar pageSlug={frontmatter.slug} darkMode={darkMode} main={frontmatter.slug?.indexOf('text') > -1} />
       </div>
       <div className="main">
-        <div className="text-content">
-          <div className="scrollable-content">
+        <div className="text-content" id="top">
+          <div className="scrollable-content" >
             {frontmatter.title.length > 0 ? <h2 className="page-title">{frontmatter.title}</h2> :""}
               <div
                 className="blog-post-content"
                 dangerouslySetInnerHTML={{ __html: html }}
               />
-              {showComments ? <Comments id={frontmatter.postid} /> : ""}
+          <div id="comments-section" />
+              {showComments ? <Comments  id="comments-start" postid={frontmatter.postid} /> : ""}
             </div>
           </div>
-
       {frontmatter.slug?.length > 6 ? <div className="pager">
           {prev ? <Link className="previous-page" to={"/text/" + prev} >Previous Page </Link> : <div className="previous-page grey-text">Previous Page</div>}
           {next ? <Link className="next-page" to={"/text/" + next} >Next Page </Link> : <div className="next-page grey-text">Next Page</div>}
-        </div> : <></>}
+        </div> : ""}
         </div>
       </div>
 
       <ModeSwitch dmstate={darkMode} dmswitch={setDarkMode} />
-      <CommentsButton darkMode={darkMode} setShowComments={setShowComments} showComments={showComments} />
+      {!frontmatter.slug || frontmatter.slug.indexOf('text') === -1 ? "" : <CommentsButton darkMode={darkMode} setShowComments={setShowComments} showComments={showComments} />}
     </PageCss>
     )
 }
@@ -71,8 +68,9 @@ const PageCss = styled.div`
   line-height: 32px;
   font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
   .middle {
-    // background-color: rgba(255,255,255,0.2);
-    background: url('bgimage.png');
+    background: url('/bgimage3.png');
+    background-size: cover;
+    background-position: 50% 50%;
     background-attachment: fixed;
   }
   h1, h2 {
@@ -133,7 +131,6 @@ const PageCss = styled.div`
     }
   }
 
-
   // header {
   //   display: flex;
   //   align-items: center;
@@ -164,7 +161,7 @@ const PageCss = styled.div`
       top: 0;
       bottom: 0;
       position: relative;
-      padding: 0 20vw 0 5vw;
+      padding: 0 15vw 0 5vw;
       display: flex;
       flex-direction: column;
       .text-content {
@@ -180,7 +177,7 @@ const PageCss = styled.div`
       // margin-top: 60px;
       margin: 60px 0 0 2vw;
       padding-top: 10px;
-      width: 400px;
+      width: 25vw;
       overflow-x: hidden;
       text-overflow: ellipsis;
       details, summary, ul, li, a {
@@ -255,21 +252,6 @@ const PageCss = styled.div`
       text-decoration: underline;
   }
 
-  .main {
-    background-size: 200% 100%;
-    background-image: linear-gradient(to right, ${props => props.colorOne} 50%, ${props => props.colorTwo} 50%);
-
-    transition: background-position 1s;
-  }
-  .main:hover {
-    background-position: -100% 0;
-}
-.color-one {
-
-}
-  .color-two {
-    
-}
 #comments-button {
   position: fixed;
   bottom: 19px;
@@ -279,14 +261,41 @@ const PageCss = styled.div`
   width:  32px;
   height: 32px;
   color: blue;
+  transition: 0.2s;
+  &:hover {
+      filter: ${props=>props.dmstate ? "drop-shadow(0 0 5px rgba(232, 233, 202, 1))": "drop-shadow(0 0 5px rgba(0, 0, 0, 0.8))" };
+  }
 }
+// .blog-post-content p img {
+//   width: 20vw;
+//   margin: 5vh auto;
+//   transition: 0.3s;
+//   width: 100%;
+//   padding: 0;
+// }
 
+// .mkdn-figcaption {
+//   // width: 100%;
+//   text-align: center;
+//   padding: 0 1vh 1vw 1vh;
+//   font-size: 16px;
+//   line-height: 20px
+// }
+  #comments-section {
+    padding-top: 100px;
+    margin-top: -100px;
+  }
 `
 
 const CommentsButton = ({darkMode, setShowComments, showComments}) => {
   const filll = darkMode ? "#e8e9ca" : "#000000" 
-  return <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={filll}  x="0px" y="0px"
-	 viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
+  const commentsAlt = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={filll} viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
+    <title>Hide Comments</title>
+    <g>
+      <path d="M424.7,31H87.3C56.2,31,31,56.2,31,87.2v253.1c0,31,25.2,56.2,56.2,56.2h84.4v73.8c0,8.6,9.8,13.6,16.8,8.5l109.8-82.3h126.6c31,0,56.2-25.2,56.2-56.2V87.2C481,56.2,455.8,31,424.7,31z"/>
+    </g>
+  </svg>
+  const commentsMain = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={filll}  x="0px" y="0px" viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
     <title>Show Comments</title>
     <g>
       <path d="M424.8,31H87.2C56.2,31,31,56.2,31,87.2v253.1c0,31,25.2,56.2,56.2,56.2h84.4v73.8c0,6.2,5.1,10.5,10.5,10.5
@@ -295,6 +304,9 @@ const CommentsButton = ({darkMode, setShowComments, showComments}) => {
         c7.7,0,14.1,6.3,14.1,14.1V340.4z"/>
     </g>
   </svg>
+  return <Link to={showComments ? "#top" : "#comments-section"} >
+      {showComments ? commentsAlt : commentsMain}
+  </Link>
 }
 
 export const pageQuery = graphql`

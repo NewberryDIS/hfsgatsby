@@ -17,6 +17,6 @@ We will also discover that book workers -- from authors and editors to scribes, 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1)Â  Hobart and Schiffman 1998, 96-104; Stafford 1999, 10-15; Waquet 2001, 36-40; 190-200.
-(2)Â Â  It is not useful here to enter into the debate over the definition of an emblem; the most important contributions are Harms 1975, 8-17; Scholz 1993, 154-157; Elkins 1999, 196-203, 209-212; Manning 2002, 24-31, 37-38; and, as regards emblematic printer's marks, Bregoli Russo 1990, 27-73; Wolkenhauer 1998, 169-70 and 2002, 53-71.
-(3)Â  On the commercial functions of emblems, Elkins 1999, 209-211; Stevens and Gehl 2003, 274-277.
+(1) Hobart and Schiffman 1998, 96-104; Stafford 1999, 10-15; Waquet 2001, 36-40; 190-200.
+(2)Â  It is not useful here to enter into the debate over the definition of an emblem; the most important contributions are Harms 1975, 8-17; Scholz 1993, 154-157; Elkins 1999, 196-203, 209-212; Manning 2002, 24-31, 37-38; and, as regards emblematic printer's marks, Bregoli Russo 1990, 27-73; Wolkenhauer 1998, 169-70 and 2002, 53-71.
+(3) On the commercial functions of emblems, Elkins 1999, 209-211; Stevens and Gehl 2003, 274-277.

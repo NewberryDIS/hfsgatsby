@@ -28,7 +28,7 @@ Mancinelli's Horace commentary had few independent editions, but it was quickly 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(36)Â  I summarize here from the earliest edition available to me, Virgil 1493. Mancinelli presumably worked from the Landino edition, Virgil 1489.
-(37)Â  IGI 5575, 5581-5596. On these and other Juvenal commentaries, Sanford 1953, 101-108; Blasio 1986, 481-492; Campanelli 2001, 21-33.
-(38)Â  Juvenal 1492, preface, partly reproduced in CTC 1:229:Â  <em>...nihil fere intactum, nichil implicitum, nodosum nichil reliqui.</em> Sanford 1948, 108 considers this an idle boast, especially by comparison to earlier, more original commentaries; but it seems clear Mancinelli meant it as an address to the specific needs of young students.
-(39)Â  Roberts 1995, 295-300; D'Amico 1989, 274-77.
+(36) I summarize here from the earliest edition available to me, Virgil 1493. Mancinelli presumably worked from the Landino edition, Virgil 1489.
+(37) IGI 5575, 5581-5596. On these and other Juvenal commentaries, Sanford 1953, 101-108; Blasio 1986, 481-492; Campanelli 2001, 21-33.
+(38) Juvenal 1492, preface, partly reproduced in CTC 1:229: <em>...nihil fere intactum, nichil implicitum, nodosum nichil reliqui.</em> Sanford 1948, 108 considers this an idle boast, especially by comparison to earlier, more original commentaries; but it seems clear Mancinelli meant it as an address to the specific needs of young students.
+(39) Roberts 1995, 295-300; D'Amico 1989, 274-77.

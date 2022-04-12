@@ -31,4 +31,4 @@ The Scoto-Cesano-Bonelli model influenced other Venetian printers as well, thoug
 
 <strong>NOTE</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(64)Â  E.g. copies of Terence 1539 at the Newberry Library; Terence 1545 at the Biblioteca Ambrosiana; and Terence 1553 at Washington University Library.
+(64) E.g. copies of Terence 1539 at the Newberry Library; Terence 1545 at the Biblioteca Ambrosiana; and Terence 1553 at Washington University Library.

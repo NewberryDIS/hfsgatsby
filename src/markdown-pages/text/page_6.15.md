@@ -28,8 +28,8 @@ So there was little new here. Verini thought that his secrets were more in the m
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(82)Â Â  Verini 1535.
-(83)Â Â  Verini 1535; this book does not appear in the lists of <em>ricettari</em> by Ferguson or Eamon; on it, see Verini 1966a, 36.
-(84)Â Â  Verini 1535, fol. 3v: <em>bufssftf ipmipsib tra la c.vtt.in</em>. Â¶<em>Recipe uno cuore de una tortola e dallo a mangiare a quella persona ut supra</em>. I have not figured out the coded description of the person to be ill-treated thus.
-(85)Â Â  Verini 1535, fol. 7v: Â¶<em>Affare gentilezza a qualche persona strana che non potra dormire in letto che parra che gli abi adosso mille pidocchi ..questa gentilezza e daffare a qualche persona fastidiosa : &amp; rincrescievole.</em>
-(86)Â  Ibid.: Â¶ <em>Secreto dignissimo per uno che avessi assaltare o per forza o per amore qualche finestra o altra sommita</em>. This is one of "secrets" Verini did not copy directly from the <em>Dificio</em>.
+(82)Â  Verini 1535.
+(83)Â  Verini 1535; this book does not appear in the lists of <em>ricettari</em> by Ferguson or Eamon; on it, see Verini 1966a, 36.
+(84)Â  Verini 1535, fol. 3v: <em>bufssftf ipmipsib tra la c.vtt.in</em>. Â¶<em>Recipe uno cuore de una tortola e dallo a mangiare a quella persona ut supra</em>. I have not figured out the coded description of the person to be ill-treated thus.
+(85)Â  Verini 1535, fol. 7v: Â¶<em>Affare gentilezza a qualche persona strana che non potra dormire in letto che parra che gli abi adosso mille pidocchi ..questa gentilezza e daffare a qualche persona fastidiosa : &amp; rincrescievole.</em>
+(86) Ibid.: Â¶ <em>Secreto dignissimo per uno che avessi assaltare o per forza o per amore qualche finestra o altra sommita</em>. This is one of "secrets" Verini did not copy directly from the <em>Dificio</em>.

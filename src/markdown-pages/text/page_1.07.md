@@ -35,7 +35,7 @@ Only one alternative sequence of illustrations is known, also derived from the T
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(37)Â  Fulin 1882a, 124, 132; Richmond 1955, 16; Rhodes 1988, 289; Walters 1988, 107-109.
-(38)Â  Mortimer French, 623-626; Mortimer Italian, 683-687. A set pirated at Milan is described by Petrella 2006, 171-173.
-(39)Â  Mortimer Italian, 686-687, describing Terence 1518. The homely results apparently prompted Rusconi to abandon the practice; he returned to a more traditional, Trechsel-based set of blocks for Terence 1521a.
-(40)Â  Terence 1522, 1528, 1539, 1546. These Terence "comics" are earlier by twenty years than most Italian prints using the strip form, on which Matthews Grieco 1997, 65-70.
+(37) Fulin 1882a, 124, 132; Richmond 1955, 16; Rhodes 1988, 289; Walters 1988, 107-109.
+(38) Mortimer French, 623-626; Mortimer Italian, 683-687. A set pirated at Milan is described by Petrella 2006, 171-173.
+(39) Mortimer Italian, 686-687, describing Terence 1518. The homely results apparently prompted Rusconi to abandon the practice; he returned to a more traditional, Trechsel-based set of blocks for Terence 1521a.
+(40) Terence 1522, 1528, 1539, 1546. These Terence "comics" are earlier by twenty years than most Italian prints using the strip form, on which Matthews Grieco 1997, 65-70.

@@ -27,6 +27,6 @@ Already in 1567 the elder Griffio had begun to experiment with the placement of 
 
 <strong>NOTES</strong>
 <a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-50Â  Terence 1567b, 1569b; compare Terence 1555b, 1557, etc.
-51Â  Terence 1575, 1576.
-52Â  The block is similar to one of the Prologus that appears in the influential Scoto and Bonelli editions (Terence 1545 and 1561). On the blocks see also Rozzo 1998, 120-121.
+50 Terence 1567b, 1569b; compare Terence 1555b, 1557, etc.
+51 Terence 1575, 1576.
+52 The block is similar to one of the Prologus that appears in the influential Scoto and Bonelli editions (Terence 1545 and 1561). On the blocks see also Rozzo 1998, 120-121.
