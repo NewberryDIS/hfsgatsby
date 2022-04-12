@@ -3,7 +3,7 @@ module.exports = {
       title: ``,
     siteUrl: `https://newberrydis.github.io`
   },
-  pathPrefix: `/hfs`,
+  pathPrefix: `/hfsgatsby`,
   plugins: ["gatsby-plugin-emotion", {
     resolve: 'gatsby-plugin-google-analytics',
     options: {

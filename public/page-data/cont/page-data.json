@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/cont/",
+    "result": {"data":{"markdownRemark":{"html":"<p>Your thoughts about Humanism For Sale are welcome. The easiest way to communicate them is to use the comment feature on the blog. This allows you to make a note beside any portion of the text that catches your eye, raises a question, or suggests an alternative opinion. As owner of the blog, I review these comments regularly and respond promptly.</p>\n<p>Thanks in advance for your feedback,\r\nPaul Gehl</p>","frontmatter":{"slug":"/cont","title":"Contact","postid":null}}},"pageContext":{"id":"a6966646-3dc5-5778-850d-9bb6da255eb3","frontmatter__slug":"/cont","__params":{"frontmatter__slug":"cont"}}},
+    "staticQueryHashes": ["4191026804"]}
