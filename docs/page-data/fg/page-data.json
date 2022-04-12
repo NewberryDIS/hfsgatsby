@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/fg/",
+    "result": {"data":{"markdownRemark":{"html":"<p><em>Generalist readers</em> and <em>scholars in other fields</em> who want to know more about the Renaissance and the way people were educated then, how they read, and what publishing and marketing was like can find interesting material here.</p>\n<p>You may wish to start with the <a href=\"/abs\">Abstract</a> or <a href=\"/text/000\">Table of Contents</a> and click through to other parts of the text using the links there. You can also browse a list of <a href=\"/mja\">Major Authors</a> treated at length.</p>\n<p>But this is way too cumbersome! I want to do better and invite your input on how to do so. I provide a <a href=\"/qs\">Quick Summary</a> with a list of major themes and links.</p>","frontmatter":{"slug":"/fg","title":"For Generalists","postid":null}}},"pageContext":{"id":"305beb72-bab6-5c02-a074-c5e278623829","frontmatter__slug":"/fg","__params":{"frontmatter__slug":"fg"}}},
+    "staticQueryHashes": ["4191026804"]}
