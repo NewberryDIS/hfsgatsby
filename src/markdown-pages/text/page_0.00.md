@@ -15,3 +15,4 @@ At this point in each chapter, I give a quick summary of its contents. The blog 
 
 This Introduction describes the sources and methodological issues involved in studying the textbook history of the Renaissance. It also outlines some themes of the remainder of the book: moral instruction as part of elementary education, student-teacher relations, successful marketing strategies, and the growth of textbooks for vernacular language instruction.
 
+test.
