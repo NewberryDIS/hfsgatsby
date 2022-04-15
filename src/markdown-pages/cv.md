@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 slug: "/cv"
 ---
-PROFESSIONAL POSITIONS:toot
+PROFESSIONAL POSITIONS:
 * 1987-	Custodian of the John M. Wing Foundation on the History of Printing, The Newberry Library, Chicago
 * 1984-87	Associate Director of Research and Education, The Newberry Library
 * 1981-84	Assistant Director of Research and Education, The Newberry Library
