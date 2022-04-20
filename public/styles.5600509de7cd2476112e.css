@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0}body{--bg:#eaebe7;--bgTwo:#c8cac9;--textNormal:#111a2a;--textTitle:#2d3542;--textLink:#6c71c4;--hr:rgba(0,0,0,.2);background-color:var(--bg)}body.dark{-webkit-font-smoothing:antialiased;--bg:#111a2a;--bgTwo:#2d3542;--textNormal:#eaebe7;--textTitle:#c8cac9;--textLink:#6c71c4;--hr:hsla(0,0%,100%,.2)}
