@@ -23,7 +23,6 @@ export default function Template({
           <Helmet title="Humanism For Sale" />
           <div className="middle">
       <div className="sidebar">
-        {console.log(localStorage.theme)}
         <Link to="/" ><h1>Humanism For Sale</h1></Link>
         <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
         <Nogo />
