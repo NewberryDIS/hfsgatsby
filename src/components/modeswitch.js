@@ -1,11 +1,29 @@
 import React from "react"
 import styled from "@emotion/styled"
 import { css } from "@emotion/react"
+import { ThemeToggler } from 'gatsby-plugin-dark-mode'
+
+
 
 
 const ModeSwitch = ({dmstate, dmswitch}) => {
-    return  <ModeSwitchCss dmstate={dmstate} className="icons" onClick={() => dmswitch(!dmstate)} >{dmstate ? <Sun /> : <Moon />}</ModeSwitchCss>
+  return  <ThemeToggler>
+  {({ theme, toggleTheme }) => (
+     <ModeSwitchCss className="icons" onClick={() => toggleTheme(theme === 'dark' ? 'light' : 'dark')} >{theme === 'dark' ? <Sun /> : <Moon />}</ModeSwitchCss>
+    // <label>
+    //   <input
+    //     type="checkbox"
+    //     onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
+    //     checked={theme === 'dark'}
+    //   />{' '}
+    //   Dark mode
+    // </label>
+  )}
+</ThemeToggler>
 }
+// const ModeSwitch = ({dmstate, dmswitch}) => {
+//     return  <ModeSwitchCss dmstate={dmstate} className="icons" onClick={() => dmswitch(!dmstate)} >{dmstate ? <Sun /> : <Moon />}</ModeSwitchCss>
+// }
 
 export default ModeSwitch
 

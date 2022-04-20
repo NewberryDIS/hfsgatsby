@@ -4,7 +4,9 @@ module.exports = {
     siteUrl: `https://newberrydis.github.io`
   },
   pathPrefix: `/hfsgatsby`,
-  plugins: ["gatsby-plugin-emotion", {
+  plugins: [
+    "gatsby-plugin-dark-mode",
+    "gatsby-plugin-emotion", {
     resolve: 'gatsby-plugin-google-analytics',
     options: {
       "trackingId": "UA-5551324-4"

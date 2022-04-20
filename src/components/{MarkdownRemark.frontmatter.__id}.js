@@ -40,7 +40,7 @@ const Comments = ({postid}) => {
 export default Comments
 
 const CommentBox = styled.div`
-    border: 1px solid black;
+    border: 1px solid var(--textNormal);
     margin: 3px 10px;
     padding: 5px;
     font-size: 0.85rem;

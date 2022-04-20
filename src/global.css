@@ -2,3 +2,76 @@ html, body {
     padding: 0;
     margin: 0;
 }
+/* global.css */
+
+body {
+    --bg: #EAEBE7;
+    --bgTwo: #C8CAC9;
+    --textNormal: #111A2A;
+    --textTitle: #2D3542;
+    --textLink: #6c71c4;
+    --hr: hsla(0, 0%, 0%, 0.2);
+  
+    background-color: var(--bg);
+  }
+  
+  body.dark {
+    -webkit-font-smoothing: antialiased;
+  
+    --bg: #111A2A;
+    --bgTwo: #2D3542;
+    --textNormal: #EAEBE7;
+    --textTitle: #C8CAC9;
+    --textLink: #6c71c4;
+    --hr: hsla(0, 0%, 100%, 0.2);
+  }
+  /* body {
+      --bg: #fdf6e3;
+      --bgTwo: #eee8d5;
+      --textNormal: #002b36;
+      --textTitle: #073642;
+      --textLink: #6c71c4;
+      --hr: hsla(0, 0%, 0%, 0.2);
+    
+      background-color: var(--bg);
+    }
+    
+    body.dark {
+      -webkit-font-smoothing: antialiased;
+    
+      --bg: #002b36;
+      --bgTwo: #073642;
+      --textNormal: #fdf6e3;
+      --textTitle: #eee8d5;
+      --textLink: #6c71c4;
+      --hr: hsla(0, 0%, 100%, 0.2);
+    } */
+  /* body {
+      --bg: white;
+      --textNormal: #222;
+      --textTitle: #222;
+      --textLink: blue;
+      --hr: hsla(0, 0%, 0%, 0.2);
+    
+      background-color: var(--bg);
+    }
+    
+    body.dark {
+      -webkit-font-smoothing: antialiased;
+    
+      --bg: darkslategray;
+      --textNormal: rgba(255, 255, 255, 0.88);
+      --textTitle: white;
+      --textLink: yellow;
+      --hr: hsla(0, 0%, 100%, 0.2);
+    } */
+/* 
+light: #fdf6e3
+lighter dark: base02: #073642
+dark: $base03: #002b36
+darker light: #eee8d5
+active link? $violet: #6c71c4
+*/
+
+/* dark: 111A2A
+light: EAEBE7 */

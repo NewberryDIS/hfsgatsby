@@ -15,4 +15,4 @@ In the interests of full disclosure, I should point out that *Humanism For Sale*
 
 I'm afraid *Humanism For Sale* still looks and works a lot like a traditional book. But given the potential of the blog, this "book" can get better as time passes, something a published volume cannot do.
 
-Curriculum Vitae of Paul F. Gehl
+[Curriculum Vitae of Paul F. Gehl](/cv)

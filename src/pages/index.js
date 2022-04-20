@@ -410,12 +410,12 @@
 //   let page = pages.indexOf(pages.find(el => el[0] === pageSlug))
 //   // console.log(pages.indexOf(page))
 //   return  <Container className={darkMode ? "dark" : "light"} colorOne={colorOne} colorTwo={colorOne}>
-//     <Helmet title="Humanism for Sale" />
+//     <Helmet title="Humanism For Sale" />
 //     {/* <ModeSwitch dmstate={darkMode} dmswitch={setDarkMode} /> */}
 //     <div className="middle">
 //       <CommentsButton showComments={showComments} setShowComments={setShowComments} />
 //       <div className="sidebar">
-//       <a href="/"><h1>Humanism for Sale</h1></a>
+//       <a href="/"><h1>Humanism For Sale</h1></a>
 //          <Sidebar setPageSlug={setPageSlug} pageSlug={pageSlug} main={pageSlug.length > 6} />
 //       </div>
 //       <div className="main">

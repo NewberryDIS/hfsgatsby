@@ -6,26 +6,27 @@ import Sidebar from '../components/tree'
 import Helmet from 'react-helmet'
 import ModeSwitch from '../components/modeswitch'
 import Comments from "../components/{MarkdownRemark.frontmatter.__id}"
+import Nogo from '../components/nogo'
 
 export default function Template({
-    data, location
+    data
 }) {
     const { markdownRemark } = data 
     const { frontmatter, html } = markdownRemark
-    const [ darkMode, setDarkMode ] = useState(false )
     const [ showComments, setShowComments ] = useState(false)
     // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
     const prev = pages[pages.indexOf(page) - 1]
     const next = pages[pages.indexOf(page) + 1]
     return (
-        <PageCss className={darkMode ? "dark" : "light" } dmstate={darkMode} >
-          <Helmet title="Humanism for Sale" />
-
+        <PageCss  >
+          <Helmet title="Humanism For Sale" />
           <div className="middle">
       <div className="sidebar">
-      <Link to="/"><h1>Humanism for Sale</h1></Link>
-        <Sidebar pageSlug={frontmatter.slug} darkMode={darkMode} main={frontmatter.slug?.indexOf('text') > -1} />
+        {console.log(localStorage.theme)}
+        <Link to="/" ><h1>Humanism For Sale</h1></Link>
+        <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
+        <Nogo />
       </div>
       <div className="main">
         <div className="text-content" id="top">
@@ -46,8 +47,9 @@ export default function Template({
         </div>
       </div>
 
-      <ModeSwitch dmstate={darkMode} dmswitch={setDarkMode} />
-      {!frontmatter.slug || frontmatter.slug.indexOf('text') === -1 ? "" : <CommentsButton darkMode={darkMode} setShowComments={setShowComments} showComments={showComments} />}
+      <ModeSwitch />
+      {!frontmatter.slug || frontmatter.slug.indexOf('text') === -1 ? "" : <CommentsButton setShowComments={setShowComments} showComments={showComments} />}
+      
     </PageCss>
     )
 }
@@ -67,81 +69,47 @@ const PageCss = styled.div`
   font-size: 20px;
   line-height: 32px;
   font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+  color: var(--textNormal);
+  background-color: var(--bg);
+
+  h1, h2 {
+    padding: 2px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    z-index: 100;
+  }
+  h1 {
+
+    color: var(--textTitle);
+    border: 4px solid var(--textTitle);
+    background: var(--bg);
+  }
+  h2 {
+
+    color: var(--textNormal);
+    border: 4px solid var(--textNormal);
+    background: var(--bgTwo);
+  }
+  a {
+    color: var(--textTitle);
+  }
+  .next-page, .previous-page {
+    background: var(--bg);
+  }
+  .mkdn-figure, .next-page, .previous-page {
+    border: 1px solid var(--textNormal);
+  }
+  .mkdn-figure:hover, .next-page:hover, .previous-page:hover {
+    box-shadow: 0 4px 8px 0 var(--textNormal);
+  }
+  .previous-page, .next-page  {
+    border: 1px solid var(--textNormal);
+  }
   .middle {
-    background: url('/bgimage3.png');
+    // background: url('/bgimage3.png');
     background-size: cover;
     background-position: 50% 50%;
     background-attachment: fixed;
   }
-  h1, h2 {
-    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-  &.light {
-    color: #333;
-    background-color: white;
-
-    h1, h2 {
-      color: black;
-      border: 4px solid black;
-      padding: 2px;
-    }
-    a {
-      color: #333;
-    }
-    .next-page, .previous-page {
-      background: rgba(255,255,255,0.5);
-    }
-    .mkdn-figure, .next-page, .previous-page {
-      border: 1px solid black;
-    }
-    .mkdn-figure:hover, .next-page:hover, .previous-page:hover {
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    }
-    .previous-page, .next-page  {
-      border: 1px solid black;
-    }
-  
-  }
-  &.dark {
-    color: #e8e9ca;
-    background-color: #000;
-   
-    a {
-      color: #e8e9ca;
-    }
-    .next-page, .previous-page {
-      background: rgba(0,0,0,0.5);
-    }
-    h1, h2 {
-
-      border: 4px solid #e8e9ca;
-    }
-    .mkdn-figure, .next-page, .previous-page {
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
-      border: 1px solid #e8e9ca;
-    }
-    .mkdn-figure:hover, .next-page:hover, .previous-page:hover {
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
-    }
-    .previous-page, .next-page {
-
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
-      // box-shadow: 0 4px 8px 0 rgba(255,255,255,0.5);
-      border: 1px solid #e8e9ca;
-    }
-  }
-
-  // header {
-  //   display: flex;
-  //   align-items: center;
-  //   align-content: center;
-  //   justify-content: space-between;
-  //   flex-basis: 60px;
-  //   height: 60px;
-  //   padding: 0 2vw;
-  //   position: sticky;
-  //   top: 0;
-  // }
   .middle {
     h1 {
       position: fixed;
@@ -170,13 +138,11 @@ const PageCss = styled.div`
         padding: 2vh 2vw;
       }
     }
-    // .scrollable-content {
-    //   padding-top: 60px;
-    // }
+
     .sidebar {
       // margin-top: 60px;
-      margin: 60px 0 0 2vw;
-      padding-top: 10px;
+      margin: 0 0 0 2vw;
+      padding-top: 60px;
       width: 25vw;
       overflow-x: hidden;
       text-overflow: ellipsis;
@@ -184,6 +150,7 @@ const PageCss = styled.div`
         overflow-x: hidden;
         text-overflow: ellipsis;
       }
+      background: var(--bgTwo);
     }
   }
   .pager {
@@ -196,13 +163,13 @@ const PageCss = styled.div`
     flex: 1;
     text-align: center;
     cursor: pointer;
-    border: 1px solid black;
+    border: 1px solid var(--textNormal);
     margin: 5px;
     padding: 5px;
     transition: 0.2s;
   }
   .comments {
-    border: 1px solid black;
+    border: 1px solid var(--textNormal);
     margin: 3px 10px;
     padding: 5px;
     font-size: 0.85rem;
@@ -238,7 +205,6 @@ const PageCss = styled.div`
   }
 
   .mkdn-figcaption {
-      // width: 100%;
       text-align: center;
       padding: 0 1vh 1vw 1vh;
       font-size: 16px;
@@ -263,24 +229,10 @@ const PageCss = styled.div`
   color: blue;
   transition: 0.2s;
   &:hover {
-      filter: ${props=>props.dmstate ? "drop-shadow(0 0 5px rgba(232, 233, 202, 1))": "drop-shadow(0 0 5px rgba(0, 0, 0, 0.8))" };
+      filter: drop-shadow(0 0 5px var(--textNormal);
   }
 }
-// .blog-post-content p img {
-//   width: 20vw;
-//   margin: 5vh auto;
-//   transition: 0.3s;
-//   width: 100%;
-//   padding: 0;
-// }
 
-// .mkdn-figcaption {
-//   // width: 100%;
-//   text-align: center;
-//   padding: 0 1vh 1vw 1vh;
-//   font-size: 16px;
-//   line-height: 20px
-// }
   #comments-section {
     padding-top: 100px;
     margin-top: -100px;
@@ -289,13 +241,13 @@ const PageCss = styled.div`
 
 const CommentsButton = ({darkMode, setShowComments, showComments}) => {
   const filll = darkMode ? "#e8e9ca" : "#000000" 
-  const commentsAlt = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={filll} viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
+  const commentsAlt = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={'var(--textNormal)'} viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
     <title>Hide Comments</title>
     <g>
       <path d="M424.7,31H87.3C56.2,31,31,56.2,31,87.2v253.1c0,31,25.2,56.2,56.2,56.2h84.4v73.8c0,8.6,9.8,13.6,16.8,8.5l109.8-82.3h126.6c31,0,56.2-25.2,56.2-56.2V87.2C481,56.2,455.8,31,424.7,31z"/>
     </g>
   </svg>
-  const commentsMain = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={filll}  x="0px" y="0px" viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
+  const commentsMain = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={'var(--textNormal)'}  x="0px" y="0px" viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
     <title>Show Comments</title>
     <g>
       <path d="M424.8,31H87.2C56.2,31,31,56.2,31,87.2v253.1c0,31,25.2,56.2,56.2,56.2h84.4v73.8c0,6.2,5.1,10.5,10.5,10.5

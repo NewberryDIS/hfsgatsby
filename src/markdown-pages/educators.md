@@ -2,7 +2,7 @@
 title: "For Educators"
 slug: "/ed"
 ---
-If you are a teacher interested in the history of education, there is a great deal of material about the early years of textbook publishing (1450-1650) in Humanism for Sale.
+If you are a teacher interested in the history of education, there is a great deal of material about the early years of textbook publishing (1450-1650) in Humanism For Sale.
 At this point, you can find plenty of examples here, but if you want to go further you need to use the [Table of Contents](/text/000), look at my discussion, and then follow the links to the footnotes and [bibliography. (323 KB PDF file)](/bibliography.pdf) It is like working through a scholarly monograph in print.
 
 Way too cumbersome! So I want to do better for you.

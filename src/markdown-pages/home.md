@@ -2,7 +2,7 @@
 title: ""
 slug: "/"
 ---
-## Humanism for Sale: 
+## Humanism For Sale: 
 ### Making and Marketing Schoolbooks in Italy, 1450-1650 by Paul F. Gehl
 
 Welcome to *Humanism For Sale*, which concerns the ways books were written, designed, printed, and marketed for schools in Renaissance Italy.
