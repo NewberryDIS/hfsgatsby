@@ -13,6 +13,9 @@ body {
     --hr: hsla(0, 0%, 0%, 0.2);
   
     background-color: var(--bg);
+
+    --fontSerif: "Bembo W01", "Cardo", serif;
+    --fontNoSerif: "Basic Commercial W01", Helvetica, sans-serif;
   }
   
   body.dark {

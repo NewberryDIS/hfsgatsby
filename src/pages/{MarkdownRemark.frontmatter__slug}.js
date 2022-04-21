@@ -14,13 +14,16 @@ export default function Template({
     const { markdownRemark } = data 
     const { frontmatter, html } = markdownRemark
     const [ showComments, setShowComments ] = useState(false)
+    const [serif, setSerif] = useState(false)
     // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
     const prev = pages[pages.indexOf(page) - 1]
     const next = pages[pages.indexOf(page) + 1]
     return (
-        <PageCss  >
-          <Helmet title="Humanism For Sale" />
+        <PageCss serif={serif} >
+          <Helmet title="Humanism For Sale" >
+            <link rel="stylesheet" href="//fast.fonts.net/cssapi/fc8f8385-7e78-4c4b-a85e-9fa8bb57a66a.css"></link>
+          </Helmet>
           <div className="middle">
       <div className="sidebar">
         <Link to="/" ><h1>Humanism For Sale</h1></Link>
@@ -48,12 +51,25 @@ export default function Template({
 
       <ModeSwitch />
       {!frontmatter.slug || frontmatter.slug.indexOf('text') === -1 ? "" : <CommentsButton setShowComments={setShowComments} showComments={showComments} />}
-      
+      <div className="fontswitcher" onClick={()=>setSerif(!serif)}>switch fonts</div>
     </PageCss>
     )
 }
 
 const PageCss = styled.div`
+.fontswitcher {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: .2s;
+  border: 1px solid black;
+  padding: 5px;
+  line-height: 20px;
+  &:hover {
+    box-shadow: 0 4px 8px 0 var(--textNormal);
+  }
+}
   padding: 0;
   margin: 0;
   
@@ -67,13 +83,13 @@ const PageCss = styled.div`
   
   font-size: 20px;
   line-height: 32px;
-  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: ${props => props.serif ? 'var(--fontSerif)' : 'var(--fontNoSerif)'};
   color: var(--textNormal);
   background-color: var(--bg);
 
   h1, h2 {
     padding: 2px;
-    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: ${props => props.serif ? 'var(--fontNoSerif)' : 'var(--fontSerif)'};
     z-index: 100;
   }
   h1 {

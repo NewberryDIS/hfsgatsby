@@ -5,6 +5,20 @@ module.exports = {
   },
   pathPrefix: `/hfsgatsby`,
   plugins: [
+    `gatsby-remark-images`,
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+        ],
+      },
+    },
     "gatsby-plugin-dark-mode",
     "gatsby-plugin-emotion", {
     resolve: 'gatsby-plugin-google-analytics',
