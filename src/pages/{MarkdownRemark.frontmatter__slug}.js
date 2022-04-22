@@ -70,8 +70,8 @@ const PageCss = styled.div`
   flex-direction: column;
   align-content: space-between;
 
-  height: 100%;
-  min-height: 100vh;
+  // max-height: 100vh;
+  // min-height: 100vh;
   
   font-size: 20px;
   line-height: 32px;
@@ -82,14 +82,13 @@ const PageCss = styled.div`
   h1, h2 {
     padding: 2px;
     font-family: var(--fontSerif);
-    margin: 2px;
   }
   h1 {
     // background: var(--bg);
   }
   h2 {
     color: var(--textNormal);
-    // border: 1px solid var(--textNormal);
+    border: 1px solid var(--textNormal);
     background: var(--bgTwo);
   }
   a {
@@ -102,14 +101,14 @@ const PageCss = styled.div`
     border: 1px solid var(--textNormal);
   }
   .mkdn-figure:hover, .next-page:hover, .previous-page:hover {
-    box-shadow: 0 4px 8px 0 var(--textNormal);
+    box-shadow: 0 4px 8px 0 rgba(17,26,42,0.5);
   }
   .previous-page, .next-page  {
-    border: 1px solid var(--textNormal);
+    border: 1px solid rgba(17,26,42,0.5);
   }
   .middle {
     position: relative;
-    height: 100vh;
+    height: 99vh;
     display: flex;
     flex-direction: row;
     .main {
@@ -127,6 +126,10 @@ const PageCss = styled.div`
         margin: 2vh 2vw;
         padding: 2vh 2vw;
       }
+      a {
+
+      font-weight: bold;
+      }
     }
 
     .sidebar {
@@ -141,6 +144,8 @@ const PageCss = styled.div`
       overflow-x: hidden;
       text-overflow: ellipsis;
       padding: 1px;
+      border-right: 1px solid var(--textNormal);
+
       details, summary, ul, li, a {
         overflow-x: hidden;
         text-overflow: ellipsis;
@@ -157,6 +162,8 @@ const PageCss = styled.div`
         overflow-y: auto;
       }
       .homelink h1 {
+
+        margin: 2px;
         color: var(--fontTitle);
         border: 1px solid var(--textTitle);
         text-align: center;
@@ -232,7 +239,6 @@ const PageCss = styled.div`
   }
   a {
       text-decoration: none;
-      font-weight: bold;
   }
   a:hover {
       text-decoration: underline;

@@ -31,7 +31,9 @@ Commentaries were increasingly part of the marketing strategy of printers. As ea
 </figure>
 
 In the first half of the sixteenth century the number of available commentaries expanded again. To the names we have already mentioned must be added brief or thorough notes by Pietro Marso (1442-1512), Desiderius Erasmus (1466-1536), Bartholomaeus Latomus (1485?-1570), Adriaan van Baarland (1486-1538), Heinrich Glareanus (1488-1563), Philipp Melanchthon (1497-1560), Johann Rivius (1500-1553), Antònio Gouveia (1504-1565), Etienne Dolet (1506-1546), Georg Fabricius (1516-1571), and Theodor Poelmann (1510-1607?). Like earlier commentators, most of these writers were teachers and they came from all over Europe. (35) In order to reflect all this additional apparatus, page layouts became more intricate and title pages got increasingly detailed in their marketing claims. Glareanus, writing in 1540, expressed no small exasperation at the state of Terence in print:
-<blockquote>Concerning [Terence] today, there are so many commentaries recently printed, so many annotations, such a patched-together mosaic-work that it could appear singularly shameless to compose more. And yet...very little [of what is in print] will prove to be of any moment, while much of it instead is inept and falsely published. (36)</blockquote>
+
+> Concerning [Terence] today, there are so many commentaries recently printed, so many annotations, such a patched-together mosaic-work that it could appear singularly shameless to compose more. And yet...very little [of what is in print] will prove to be of any moment, while much of it instead is inept and falsely published. (36)
+
 Glareanus had the exaggerated claims of publishers in mind as well as the work of the annotators and editors.
 
 <figure class="mkdn-figure">

@@ -32,7 +32,9 @@ The *Ragione* was apparently never reprinted, but the *Thesoro* in its original 
 </figure>
 
 Padovano's editor also described the audience of commercial workers he envisioned, in a string of pieties more appropriate to the Venice of the Counter-Reformation than to the more secular-minded city that the Taglientes had inhabited:
-<blockquote>This book is offered to those thoughtful and modest youths, whom it will please to study it with diligence (all agitation put aside). Finding it corrected in many places and with several pertinent additions, and taking pleasure in its convenient usefulness, they will take care to give thanks to Jesus Christ, who has granted that they be able to work for the common benefit of good folk. (18)</blockquote>
+
+> This book is offered to those thoughtful and modest youths, whom it will please to study it with diligence (all agitation put aside). Finding it corrected in many places and with several pertinent additions, and taking pleasure in its convenient usefulness, they will take care to give thanks to Jesus Christ, who has granted that they be able to work for the common benefit of good folk. (18)
+
 The Tagliente math books, like others of Tagliente's textbooks, were precisely calibrated to teach discrete skills at a basic level and to exercise students with a limited number of problems to solve. The authors did not pretend to cover an entire field, nor were their books designed for a specific school course. The treatments are highly incomplete even for the limited fields they addressed. It may be that Tagliente had in mind to simplify these skills to the point where how-to manuals could substitute for professional tuition. More likely still, he intended them as pocket-sized books of reference that would remind adults what they had learned in school. Whatever his intent, his pretty little booklets found a ready market.
 
 **NOTES**

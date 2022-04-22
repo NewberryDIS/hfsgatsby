@@ -26,7 +26,9 @@ The printed image could complicate the reading of the emblem or simplify it. In 
 </figure>
 
 Many of Alciati's emblems, however, were less naturalistic in form and lent themselves less easily both to visualization and to reading. Emblem 16 in modern editions is also from the 1546 collection and is among the more mysterious, at least on the face of it. Certainly it requires a complex reading. The picture shows an enormous, disembodied hand floating over a rural landscape. In some versions the artist dotted the fields with flowers; in others, a single oversize flower floats alongside the hand. On the open palm of the hand, an eye stares out at the viewer. The motto appeared in both Greek and Latin, telling the reader at once that the author had found an interesting Greek text and was going to translate it both literally and into an emblem. The Latin translation was unusually wordy for Alciati; it exhorted the reader to be careful, not to believe too easily, for "these are the limbs of the mind" (*haec sunt membra mentis*). No reader could be expected to resolve the enigma posed by the image and motto with any degree of certainty unless he could also get some hints from the poem. Even then, the reader was made to work. The entire poem reads:
-<blockquote>Do not be credulous, do not be incautious, says Epicharmus. These will be the sinews and limbs of the human mind. Behold a hand with an eye, believing what it sees. Behold the pennyroyal flower, ancient symbol of sobriety. By displaying it [the flower] Heraclitus calmed the crowd and charmed it, though it was threatening with swelling sedition.</blockquote>
+
+> Do not be credulous, do not be incautious, says Epicharmus. These will be the sinews and limbs of the human mind. Behold a hand with an eye, believing what it sees. Behold the pennyroyal flower, ancient symbol of sobriety. By displaying it [the flower] Heraclitus calmed the crowd and charmed it, though it was threatening with swelling sedition.
+
 <p style="text-align: center;"></p>
 
 

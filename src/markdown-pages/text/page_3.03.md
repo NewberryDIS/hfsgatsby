@@ -26,7 +26,9 @@ Readers, too, often calmly took the imperfections of printed books in stride. Th
     <figcaption class="mkdn-figcaption">Missing text supplied by a reader (click to enlarge - 635 KB jpeg image)</figcaption>
     </div>
 </figure>
-<blockquote>These two articles were omitted by the printer at the place in order where they belonged, and so I have supplied them from another source. The Reader. Nor is this omission to be ascribed to the author. Farewell, and love me. (16)</blockquote>
+
+> These two articles were omitted by the printer at the place in order where they belonged, and so I have supplied them from another source. The Reader. Nor is this omission to be ascribed to the author. Farewell, and love me. (16)
+
 <p style="text-align: center;"></p>
 
 

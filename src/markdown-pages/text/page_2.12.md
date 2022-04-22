@@ -65,7 +65,8 @@ By 1524, the Nicolini da Sabbio firm in Venice advertised that they had much imp
 The learned Basle printer Adam Petri tried a different strategy of substitution in the fifteen twenties, following the same anthologizing method that Giovanni Sulpizio had used. Petri stitched together a more or less complete basic course composed entirely of texts and extracts from classical sources. His choice for a first grammar was the *Regulae* of (Pseudo-)Rhemnius Palaemon. This brief text bore the name of a second-century grammarian, though it is now believed to have been written in the fourth century. It was discovered and assigned to Palaemon in the middle of the fifteenth century by Giovanni Gioviano Pontano (1426-1503). Scholars in the circle of Pomponio Leto, the so-called Accademia Romana, copied and studied it. (80)
 
 Petri briefly introduced the text by situating it as an ancient one rediscovered in modern times. Moreover, he says, Palaemon beat Aelius Donatus at his own game:
-<blockquote>
+
+> 
 <p style="text-align: left;">This man [Palaemon] compacted the whole of grammar into so brief a package that even Donatus is more prolix than he, and some day he may come to have as enduring a name. Gioviano Pontano, a poet most eloquent in his own day, discovered this text. (81)</p>
 
 
@@ -74,7 +75,8 @@ Petri briefly introduced the text by situating it as an ancient one rediscovered
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (1).jpg" />
     <figcaption class="mkdn-figcaption">Commending Donatus (click to enlarge - 784 jpeg image)</figcaption>
     </div>
-</figure></blockquote>
+</figure>
+
 Notice that the role of the Donat as described here is to give a quick, exceedingly brief summary of grammar and to rehearse the paradigms, not to give a fuller structure to the subsequent course. This role, Petri says, is better played by Palaemon than by Donatus who in the common mind is synonymous with the brief introduction. (82)
 
 The surviving Pseudo-Palaemon text, however, only presented grammatical information about nouns and pronouns. Petri therefore filled it out with a patchwork of grammatical doctrines by such late antique authors as Quintus Terentius Scaurus, Aelius Donatus, and Marius Victorinus. In a preface Petri described these authors briefly with their credentials in terms of ancient or modern opinions; as a minimum he gave a clear statement of the time at which they wrote. Thus, Petri managed to provide the basics of a full grammar course without ever having to employ the teachings of any suspiciously modern grammarian, and he also laid the foundation for his student public to understand the importance of ancient Latin usage as the creation of a specific historical period. The result was slightly repetitive, but no more so than seemed useful in the elementary classroom. It is a tour-de-force of antiquarian pastiche.

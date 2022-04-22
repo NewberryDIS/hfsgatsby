@@ -24,7 +24,9 @@ This Cato represents, moreover, a small installment in Erasmus's ongoing project
 </figure>
 
 There is little doubt that Erasmus himself devised the precise outline of the new Cato, although Lisa Jardine has argued convincingly that it also represents a collaboration with theologian Maarten van Dorp (1485-1525). (106) The preface begins:
-<blockquote>Erasmus of Rotterdam to Jan de Neve, greeting. The moral distichs commonly ascribed to Cato, O Nevius glory among theologians, we first purged of their errors by comparing them to the translation of Planudes, even if that little Greek frequently did not follow the sense of the Roman poem. We added also annotations which though very brief are somewhat more useful, if I am not mistaken, than the two commentaries with which certain men have hitherto contaminated this little work. One of those commentators, more idiotic than idiocy itself, pontificates like a fool; the other philosophizes ineptly. But neither says anything to the point. (107)</blockquote>
+
+> Erasmus of Rotterdam to Jan de Neve, greeting. The moral distichs commonly ascribed to Cato, O Nevius glory among theologians, we first purged of their errors by comparing them to the translation of Planudes, even if that little Greek frequently did not follow the sense of the Roman poem. We added also annotations which though very brief are somewhat more useful, if I am not mistaken, than the two commentaries with which certain men have hitherto contaminated this little work. One of those commentators, more idiotic than idiocy itself, pontificates like a fool; the other philosophizes ineptly. But neither says anything to the point. (107)
+
 Any modern ad man would recognize some classic strategies here. Praise the product. Praise the packaging. When possible, slam the competition.
 
 **NOTES**

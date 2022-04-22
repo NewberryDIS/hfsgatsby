@@ -12,18 +12,22 @@ A clear example of the unstable afterlife of grammatical schoolbooks is the whol
 One of the clearest cases in which Bade both appropriated another scholar's work with attribution and also tampered with it without stating the changes was Mancinelli's *Carmen de figuris*. Mancinelli's short didactic poems were eminently practical; they were much reproduced both within and outside his immediate circle. The *Carmen de figuris* originally appeared as a separate booklet in August 1489, just five days before its companion piece the *Carmen de floribus*. Thereafter, these two works usually appeared in combined editions. In 1493 at Venice, for example, Mancinelli supervised a printing of this combination together with his newly composed autobiographical poem, the *Vitae carmen*. Subsequently, the *Carmen de figuris* was linked with other didactic poetry in small booklets published more or less under Mancinelli's direct supervision. In the collections made late in Mancinelli's life it had a clear position in the sequence of classroom poetry labeled *Carminum opuscula* that included as many as a dozen works. The *Carmen de figuris* almost always occurs together with the *de floribus* immediately after the *Versilogus* and before Mancinelli's extensive collection of epigrams. As such it has a place in a system of verse instruction that moves from simple moral instruction (the first work is *Speculum de moribus et officiis*), through technical instruction embodied in verse, and on to an anthology of moral sayings useful as starting points for composition even more than for moral self-education. (98)
 
 Already in 1505, the year before Mancinelli's death, Josse Bade began to publish a series of Mancinelli's classroom works. Usually the learned Paris printer furnished the texts with additional annotations. Sometimes he anthologized Mancinelli with other humanists. In 1508, for example, he included the *Carmen de figuris* in an edition of the grammar book of Giovanni Sulpizio (a contemporary of Mancinelli and like him a member of the circle of Pomponio Leto) as part of an appendix of several writers on the figures of speech. Curiously, Bade substituted six lines of his own composition for the first five lines of Mancinelli's poem. Clearly labeled *Mancinellus de figuris*, these read:
-<blockquote><em>Barbara scribendo fit siue loquendo figura
+
+> <em>Barbara scribendo fit siue loquendo figura
 Una in uoce; aliud more insueto superaddens
 Demens aut mutans seu transmutans: uti mavors
 Pro mars; &amp; fates pro fantes; asuenio pro
 Aduenio, fors tymbrae legas pro timber eritque
-Accentu veluti dicendo domina eodemque.</em> (99)</blockquote>
+Accentu veluti dicendo domina eodemque.</em> (99)
+
 Compare this with Mancinelli's original, five verses which had stood for twenty years in all earlier editions:
-<blockquote><em>Fit barbarismus scribendo sive loquendo
+
+> <em>Fit barbarismus scribendo sive loquendo
 Adiicit ac demit mutat transmutat et idem
 Una in voce tamen mavors fates bene pandunt
 Asuenio tymbrae &amp; pro mars fantes quoque tymber
-Advenio: sic et dicendo domina dominus.</em> (100)</blockquote>
+Advenio: sic et dicendo domina dominus.</em> (100)
+
 Presumably Bade thought he had clarified the obscure verses of Mancinelli or improved the meter. But both versions were complex enough to require explanatory comment. Mancinelli had produced such a note, twenty three lines of prose to explicate five of poetry. The poem and commentary stand together in all earlier editions. Bade reproduced this commentary word for word in 1508 (though it refers to a different poem!) and then added his own notes, at about the same length as Mancinelli's, so that these few lines of poor mnemonic verse swell to a full page loaded down with learned commentary.
 
 **NOTES**
