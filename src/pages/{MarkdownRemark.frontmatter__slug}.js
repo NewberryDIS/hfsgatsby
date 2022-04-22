@@ -26,6 +26,7 @@ export default function Template({
           <Helmet title="Humanism For Sale" >
             <link rel="stylesheet" href="//fast.fonts.net/cssapi/fc8f8385-7e78-4c4b-a85e-9fa8bb57a66a.css"></link>
             <script src="/extras.js"></script>
+            <script src="/hfsgatsby/extras.js"></script>
 
           </Helmet>
           <div className="middle">
@@ -133,7 +134,6 @@ const PageCss = styled.div`
     }
 
     .sidebar {
-      transition: 1s;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
