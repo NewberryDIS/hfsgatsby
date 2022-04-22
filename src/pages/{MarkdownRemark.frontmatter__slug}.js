@@ -109,7 +109,7 @@ const PageCss = styled.div`
   }
   .middle {
     position: relative;
-    height: 99vh;
+    height: 99.75vh;
     display: flex;
     flex-direction: row;
     .main {
