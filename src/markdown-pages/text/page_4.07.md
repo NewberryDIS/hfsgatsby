@@ -11,15 +11,15 @@ Bade's participation in the liturgical/devotional market was typical of another 
 
 As for school books, these represent Bade's greatest achievement, since it was in this field that he did his most innovative and experimental work. (29) We know a great deal about his marketing of these books because he provided so many of them with prefaces. Lebel counts forty five prefaces addressed directly to students, professors or booksellers; and, although he rarely spoke of printing or design, Bade frequently discussed the content and use of a given book, its intended audience or effect, and the scholarly controversies that raged in the field of literary education. (30) It is clear, moreover, that Bade devised an international strategy. He deliberately brought to the French market as many elementary and intermediate school texts as he could find in Italy, Germany, and the Netherlands. His long residence in Italy, where he had met scholar-teachers like Aldo Manuzio, Agnolo Poliziano, and Battista Spagnuoli Mantuanus, no doubt helped him acquire new texts for his press as well as the good will of their authors. (31)
 
-It is interesting to note how frequently Bade reprinted certain texts and in what varying guises. We have seen in an earlier chapter (section 2.15) that he first published his own commentary on the <em>Distichs of Cato</em> as part of a larger reference work on morals, then allowed it to be published as a separate by others, and only toward the end of his life reprinted it on his own presses. Bade's notes on Terence, intended from the first to supplement those of other commentators already in print, were similarly published by others -- no fewer than forty times within his lifetime -- but never from his own presses. (32) His editions of the medieval verse grammar of Alexander of Villa Dei represent a continuous process of improving and updating this still-standard work and adapting it to humanist norms of style. (33)
+It is interesting to note how frequently Bade reprinted certain texts and in what varying guises. We have seen in an earlier chapter (section 2.15) that he first published his own commentary on the *Distichs of Cato* as part of a larger reference work on morals, then allowed it to be published as a separate by others, and only toward the end of his life reprinted it on his own presses. Bade's notes on Terence, intended from the first to supplement those of other commentators already in print, were similarly published by others -- no fewer than forty times within his lifetime -- but never from his own presses. (32) His editions of the medieval verse grammar of Alexander of Villa Dei represent a continuous process of improving and updating this still-standard work and adapting it to humanist norms of style. (33)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(26) On Bade's life, Crane 2005, 13-27; on family ties in such careers, Armstrong 2005, 8-13.
-(27) Lebel 1981, 65-67; Bade 1988, 3-27; Crane 2005, 35-46.
-(28) On the markets for French humanism, see Martin and Dureau 1982; Winn 1997; Crane 2005, 7-11; on the analogous mix of books on the market of university town Bologna, Galli, 129-132.
-(29) Crane 2005, 72-102.
-(30) Lebel 1981 68-69; Bade 1988, 5-8.
-(31) Lebel 1981, 63.
-(32) Renouard 1908 iii, 279-299.
-(33) Crane 2005, 76-89.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (26) On Bade's life, Crane 2005, 13-27; on family ties in such careers, Armstrong 2005, 8-13.
+* (27) Lebel 1981, 65-67; Bade 1988, 3-27; Crane 2005, 35-46.
+* (28) On the markets for French humanism, see Martin and Dureau 1982; Winn 1997; Crane 2005, 7-11; on the analogous mix of books on the market of university town Bologna, Galli, 129-132.
+* (29) Crane 2005, 72-102.
+* (30) Lebel 1981 68-69; Bade 1988, 5-8.
+* (31) Lebel 1981, 63.
+* (32) Renouard 1908 iii, 279-299.
+* (33) Crane 2005, 76-89.

@@ -9,8 +9,8 @@ For the purposes of this chapter, I will discuss these three grammarians separat
 
 Most editions of De Spauter that appeared in Italy derived from and were accompanied by work of Bade or Pellisson or both, and many of the editions of Pellisson's original schoolbooks were merely add-ons to his adaptation of De Spauter's better-known work. To borrow a term from one of Pellisson's titles, all three of them (and many other Northern teachers of the period) were "Despauterian" grammar masters, by sharp distinction to native Italian traditions of teaching and publishing. Of the three, De Spauter had by far the largest reputation, in Italy as elsewhere, because his innovative teaching methods were claimed by many who published him or who rewrote his work for new markets. The other two pedagogues sold in Italy largely as editors of De Spauter or of other humanist authors. We might view them, therefore, as parasitical in Italian publishing terms, no matter how great their personal reputations for learning and teaching were at home. A reading of the printing history of these three renowned grammar masters will offer an index of the degree to which the textbook markets of Italy were open to foreigners.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(9) Colombat 1993, 99; Colombat 1999, 38; Crane 2005, 76-89.
-(10) Some portions of this chapter that concern the marketing of Pellisson's textbooks have already appeared in Gehl 2008c. On the circle of Erasmus, see the important treatment of Jardine 1993, esp. 17-23, 102-122, 175-189; with reference to De Spauter, Henderson 1988, 181-185; for Bade and Erasmus, Crane 2005, 153-159; Vanautgaerden 2008, 89-111, 200-213.
-(11) <em>Rudimenta</em>, preface of 1529, cited here from Pellisson 1562a. The reputation of the Paris humanist schools would make them the model for the Jesuit colleges in the fifteen forties and fifties; see Codina Mir 1968, 50-150.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (9) Colombat 1993, 99; Colombat 1999, 38; Crane 2005, 76-89.
+* (10) Some portions of this chapter that concern the marketing of Pellisson's textbooks have already appeared in Gehl 2008c. On the circle of Erasmus, see the important treatment of Jardine 1993, esp. 17-23, 102-122, 175-189; with reference to De Spauter, Henderson 1988, 181-185; for Bade and Erasmus, Crane 2005, 153-159; Vanautgaerden 2008, 89-111, 200-213.
+* (11) *Rudimenta*, preface of 1529, cited here from Pellisson 1562a. The reputation of the Paris humanist schools would make them the model for the Jesuit colleges in the fifteen forties and fifties; see Codina Mir 1968, 50-150.

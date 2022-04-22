@@ -7,13 +7,13 @@ postid: 160
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/2.00_Chapter_Two/HFS_116.01.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_116.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_116.01.jpg" />
     <figcaption class="mkdn-figcaption">Perotti in quarto, opening page (click to enlarge - 658 KB JPEG image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Niccolò Perotti's <em>Rudimenta grammatices</em> was a longer and more ambitious work than Guarino's and proposed a more significant substitution for the <em>Doctrinale</em>. It was the most successful Latin grammar authored in the fifteenth century. (48) Perotti begins with the usual presentations of morphology and syntax, employing mostly classical examples, and then goes on to a section on letter-writing which is actually an ambitious introduction to stylistics. Letter writing had long been the excuse for Italian schoolmasters to teach Latin style, but Perotti broke with the formulaic medieval tradition of <em>ars dictaminis</em> and presented the letter as an opportunity to master proper Ciceronian Latin. (49) Perotti's approach to grammar -- as a discipline that embraces morphology, syntax, and stylistics in one integrated course -- would set the measure for grammarians' marketing ambitions for several centuries. From Perotti onward, many publishers and printers looked to produce packages of grammatical texts that would either embrace an entire course of grammatical study or else correspond to parts of an integrated grammar course. (50)
+Niccolò Perotti's *Rudimenta grammatices* was a longer and more ambitious work than Guarino's and proposed a more significant substitution for the *Doctrinale*. It was the most successful Latin grammar authored in the fifteenth century. (48) Perotti begins with the usual presentations of morphology and syntax, employing mostly classical examples, and then goes on to a section on letter-writing which is actually an ambitious introduction to stylistics. Letter writing had long been the excuse for Italian schoolmasters to teach Latin style, but Perotti broke with the formulaic medieval tradition of *ars dictaminis* and presented the letter as an opportunity to master proper Ciceronian Latin. (49) Perotti's approach to grammar -- as a discipline that embraces morphology, syntax, and stylistics in one integrated course -- would set the measure for grammarians' marketing ambitions for several centuries. From Perotti onward, many publishers and printers looked to produce packages of grammatical texts that would either embrace an entire course of grammatical study or else correspond to parts of an integrated grammar course. (50)
 
 Perotti also attempted to enliven the course with direct addresses to the student. Even more remarkably he claimed to abandon the medieval notion that grammatical rules are worth memorizing in and of themselves. He wanted his students to master classical style through the analysis of classical usage. To this end he defined grammar in a new way, as the art of speaking and writing well based on the observation of writers and poets worth imitating, especially the authors from Cicero to Pliny the Younger. (51) Perotti was influenced by the resounding success of the <em>Elegantia
 
@@ -24,10 +24,10 @@ In their work of annotating Perotti, readers were helped along by the format of 
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/2.00_Chapter_Two/HFS_116.02.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_116.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_116.02.jpg" />
     <figcaption class="mkdn-figcaption">Perotti's word lists in quarto format (Click to enlarge - 662 KB JPEG image)</figcaption>
-    </a>
+    </div>
 </figure>
 
 Early printers set up Perotti's long lists of vocabulary words in columns that clarify their inflectional patterns, variable roots, and meanings. For example, Perotti invited his students to memorize forty-five third declension transitive deponent verbs. He placed a tabulated list of them within the text. It gives the first person singular in present, perfect, and past perfect form and an equivalent meaning for each verb. In one early quarto edition this tabulated list occupies almost two full pages. The same layout in large-format editions could take up well over a folio page. Such layouts, of course, were prodigal of paper and resulted in relatively bulky and expensive books. (57)
@@ -36,17 +36,17 @@ More economical editions of Perotti began to appear around 1480, typically using
 
 Instead of centering the heading for each rule, the cheaper editions set the text in solid paragraphs and simply indicated the start of each rule with a section or paragraph mark ( Â¶ ). They preserved the tabulated word lists, but sometimes squeezed them in, using far less white space. (59) Almost immediately after Perotti's death, moreover, editions began to appear in black-letter types instead of the romans that more closely imitated humanist manuscripts. Other printers mixed roman and black-letter. Such editions appear first at Reggio Emilia, Milan and Rome. After the turn of the century, some Venetian editions also appear with mixed black-letter and roman. The trend toward more economical editions probably reflects the increasingly widespread use of Perotti in classrooms. The cheapening of the book culminated in a Florentine edition of 1543 in which the Giunta firm, which usually turned out handsome products, presented Perotti in a particularly crowded and homely layout. They used cracked and worn woodblocks, badly locked up forms, and sloppy inking.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(48) The <em>Rudimenta</em> went through hundreds of editions in the fifteenth and sixteenth centuries. In France in the sixteenth century "Perot" became a synonym for an elementary Latin grammar, like "Donat" in English or German. See Colombat 1998, 78-79; Jensen 1998, 251; Milway 2000, 137.
-(49) Percival 1981; Lombardi 1991, 123-128; Worstbrock 2001, 72; Black 2001, 355-359. Percival's essay appeared in a special issue of <em>Res Publica Litterarum</em> 4(1981) devoted entirely to the figure of Perotti. On letter writing as a formal study, Witt 2000, 16-18,182-185, 310-311.
-(50) A good example of a grammar master following Perotti's lead in the next century is Lucio Giovanni Scoppa, who authored vocabulary study books, a letter-writing manual, a fulsome grammar and an epitome of grammar; see Fuiano 1971, 41-53.
-(51) Percival 1981, 237; Lombardi 1991, 124; Jensen 1996a, 68-70; Worstbrock 2001, esp. 73-78; Black 2001, 134-138.
-(52) It is most explicit as an ideal in the preface and afterward to Pilade 1543 by Lorenzo Cerreto. See also Grendler 1989, 170-171; Rizzo and De Nonno 1997, 1584 and 1607; on empirical grammars, see also sections 5.02, 5.03, and 5.05.
-(53) For example a copy of Perotti 1474, one of the earliest printed editions, now at the Marciana is annotated throughout, but heavily only in sections that detail <em>differentiae</em>; further on the importance of vocabulary study in humanist grammar, Jensen 1998, 257-261; Trovato 1994, 28.
-(54) Mercati 1925, 131-132 and tav. IV, identified an autograph marked for the first edition of 1473; Lombardi 1991, esp. 137-148, studied this manuscript from the point of view of the printer's work.
-(55) Black 2001, 135.
-(56) <em>De supinis prima regula ... Secunda regula</em>, Treviso 1476, fol. 28v. For formats, compare Perotti 1474, 1476a, 1476b,1478, 1480, 1485 and 1488.
-(57) In quarto: Perotti 1476a, fol. k3v-4v] = 79v-80v. In folio: Perotti 1478, g1v-g2r = 60v-51r and Perotti 1480, fol. g1r-g2v = 48v-49.
-(58) As did the Padua bookstore described by Fulin 1882b, 396-400.
-(59) Perotti 1501; compare Perotti 1497 and 1508 which have very crowded pages but relatively generous tabulations.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (48) The *Rudimenta* went through hundreds of editions in the fifteenth and sixteenth centuries. In France in the sixteenth century "Perot" became a synonym for an elementary Latin grammar, like "Donat" in English or German. See Colombat 1998, 78-79; Jensen 1998, 251; Milway 2000, 137.
+* (49) Percival 1981; Lombardi 1991, 123-128; Worstbrock 2001, 72; Black 2001, 355-359. Percival's essay appeared in a special issue of *Res Publica Litterarum* 4(1981) devoted entirely to the figure of Perotti. On letter writing as a formal study, Witt 2000, 16-18,182-185, 310-311.
+* (50) A good example of a grammar master following Perotti's lead in the next century is Lucio Giovanni Scoppa, who authored vocabulary study books, a letter-writing manual, a fulsome grammar and an epitome of grammar; see Fuiano 1971, 41-53.
+* (51) Percival 1981, 237; Lombardi 1991, 124; Jensen 1996a, 68-70; Worstbrock 2001, esp. 73-78; Black 2001, 134-138.
+* (52) It is most explicit as an ideal in the preface and afterward to Pilade 1543 by Lorenzo Cerreto. See also Grendler 1989, 170-171; Rizzo and De Nonno 1997, 1584 and 1607; on empirical grammars, see also sections 5.02, 5.03, and 5.05.
+* (53) For example a copy of Perotti 1474, one of the earliest printed editions, now at the Marciana is annotated throughout, but heavily only in sections that detail *differentiae*; further on the importance of vocabulary study in humanist grammar, Jensen 1998, 257-261; Trovato 1994, 28.
+* (54) Mercati 1925, 131-132 and tav. IV, identified an autograph marked for the first edition of 1473; Lombardi 1991, esp. 137-148, studied this manuscript from the point of view of the printer's work.
+* (55) Black 2001, 135.
+* (56) *De supinis prima regula ... Secunda regula*, Treviso 1476, fol. 28v. For formats, compare Perotti 1474, 1476a, 1476b,1478, 1480, 1485 and 1488.
+* (57) In quarto: Perotti 1476a, fol. k3v-4v] = 79v-80v. In folio: Perotti 1478, g1v-g2r = 60v-51r and Perotti 1480, fol. g1r-g2v = 48v-49.
+* (58) As did the Padua bookstore described by Fulin 1882b, 396-400.
+* (59) Perotti 1501; compare Perotti 1497 and 1508 which have very crowded pages but relatively generous tabulations.

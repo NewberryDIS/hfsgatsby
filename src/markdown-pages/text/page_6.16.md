@@ -8,19 +8,19 @@ Music differed from other disciplines of the sixteenth century in two important 
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full//6.00_Chapter_Six/HFS_021.08.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_021.08.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_021.08.jpg" />
     <figcaption class="mkdn-figcaption">Gaffurius 1496 - Humanist philosophy of music (click to enlarge - 855 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Music textbooks had to bridge the gap between theory and practice. Although at times the process seems confused and <em>ad hoc</em>, the sources for any given book are almost always clearly identifiable, and writers usually attempted to be fully systematic by the lights of their own learning. A much larger problem -- for readers of the period and for us too -- was that authors of new works, especially elementary ones, had to contend with two moving targets, or, to extend the metaphor of bridging the gap between practice and theory, they were trying to build a solid span between two floating islands. Performance practices and styles were changing rapidly as popular performers and melodies crisscrossed Europe. Music theory, meanwhile -- inherited from the ancient world, much discussed in the Middle Ages, rediscovered in ancient sources during the fifteenth century -- was the subject of intense debate up to about 1530, making it harder for teachers to adopt a single vocabulary. The place of music in the humanist curriculum was secure, based on both Aristotelian and Neoplatonic authorities, but the details of humanist music instruction seem to have varied from school to school much more than in language disciplines. Most students, moreover, learned music outside of humanist-inspired classrooms, in the song schools that supplied professionals to church choirs in every major town. These students had little use for a classicizing humanist version of music. They needed to learn to read and interpret music on the page. (87)
+Music textbooks had to bridge the gap between theory and practice. Although at times the process seems confused and *ad hoc*, the sources for any given book are almost always clearly identifiable, and writers usually attempted to be fully systematic by the lights of their own learning. A much larger problem -- for readers of the period and for us too -- was that authors of new works, especially elementary ones, had to contend with two moving targets, or, to extend the metaphor of bridging the gap between practice and theory, they were trying to build a solid span between two floating islands. Performance practices and styles were changing rapidly as popular performers and melodies crisscrossed Europe. Music theory, meanwhile -- inherited from the ancient world, much discussed in the Middle Ages, rediscovered in ancient sources during the fifteenth century -- was the subject of intense debate up to about 1530, making it harder for teachers to adopt a single vocabulary. The place of music in the humanist curriculum was secure, based on both Aristotelian and Neoplatonic authorities, but the details of humanist music instruction seem to have varied from school to school much more than in language disciplines. Most students, moreover, learned music outside of humanist-inspired classrooms, in the song schools that supplied professionals to church choirs in every major town. These students had little use for a classicizing humanist version of music. They needed to learn to read and interpret music on the page. (87)
 
 <figure class="mkdn-figure">
-    <a href="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1r.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1r.jpg" />
     <figcaption class="mkdn-figcaption">case-4a-1005-tractatvs-mvsices-pg1r-thumb</figcaption>
-    </a>
+    </div>
 </figure>
 
 Music was expensive to print, and different kinds of music books came onto the print market at different moments. It took sixty years of printing experience before well-developed music textbooks appeared, significantly longer than in any other field we have considered. Liturgical books for performance, a luxury genre, appeared in the earliest years of printing. Advanced music-theory books also had medieval precedents; these were printed in Latin for university-level audiences very early on. Later textbook treatments derived from such academic books; and the textbook authors often had already published at the specialist level. But well into the sixteenth century, it is often not clear when a given writer was popularizing or what audience he envisioned for his book. (88)
@@ -30,25 +30,25 @@ Music was expensive to print, and different kinds of music books came onto the p
 More or less practical guides to theory for performers (singers in the first instance) were new creations of the late fifteenth century. They appeared around 1480, still in Latin since most concerned liturgical music. Separate music scores for performance -- both liturgical and secular in character and so in Latin and the vernaculars both -- began to become common in print in the years just around 1500. Practical instruction booklets in Italian that aimed at teaching music performance (again, singing earlier than other kinds of music making) began to be published, as nearly as we can tell, only toward 1520.
 
 <figure class="mkdn-figure">
-    <a href="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">case-4a-1006-vault-sagoge-in-mvsicen-henrici-glarea-title-page-thumb</figcaption>
-    </a>
+    </div>
 </figure>
 
 The first full-scale music textbooks for Latin-school use appeared in the fifteen teens in Northern Europe and in the mid-twenties in Italy. These first humanist-inspired music textbooks (both in Latin and in the vernacular) were not based on any pre-print forms. Their authors could already draw upon an enormous printed literature for theory, practice, and repertoire alike. The new textbooks were fully typographic creations, not dependent on manuscript formats, and more sophisticated than other textbooks we have discussed in this chapter.
 
 <figure class="mkdn-figure">
-    <a href="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg" />
     <figcaption class="mkdn-figcaption">case-4a-1006-vault-sagoge-in-mvsicen-henrici-glarea-pg10v-11r-thumb</figcaption>
-    </a>
+    </div>
 </figure>
 
 Music textbooks had a distinctive look. Illustrated with diagrams, depictions of instruments, and musical examples, they were more elaborate and expensive than most vernacular school books. Moreover, the visuals were almost never purely ornamental; in most cases they were essential to the teaching function of the books. Some of these textbooks were among the handsomest productions of the Italian presses in the first half of the sixteenth century. Modern scholars have written about them extensively, so it will suffice here to describe a few examples in terms that allow comparison with other textbooks. (89)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(87)Â  Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
-(88)Â  Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
-(89)Â  Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (87)Â  Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
+* (88)Â  Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
+* (89)Â  Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.

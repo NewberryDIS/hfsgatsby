@@ -8,25 +8,31 @@ import ModeSwitch from '../components/modeswitch'
 import Comments from "../components/{MarkdownRemark.frontmatter.__id}"
 import Nogo from '../components/nogo'
 
+
 export default function Template({
     data
 }) {
     const { markdownRemark } = data 
     const { frontmatter, html } = markdownRemark
     const [ showComments, setShowComments ] = useState(false)
-    const [serif, setSerif] = useState(false)
+
     // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
     const prev = pages[pages.indexOf(page) - 1]
     const next = pages[pages.indexOf(page) + 1]
+
     return (
-        <PageCss serif={serif} >
+        <PageCss id="toplevel" >
           <Helmet title="Humanism For Sale" >
             <link rel="stylesheet" href="//fast.fonts.net/cssapi/fc8f8385-7e78-4c4b-a85e-9fa8bb57a66a.css"></link>
+            <script src="/extras.js"></script>
+
           </Helmet>
           <div className="middle">
       <div className="sidebar">
-        <Link to="/" ><h1>Humanism For Sale</h1></Link>
+        <div className="homelink-wrapper">
+          <Link to="/" className="homelink" ><h1>Humanism For Sale</h1></Link>
+          </div>
         <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
         <Nogo />
       </div>
@@ -51,25 +57,11 @@ export default function Template({
 
       <ModeSwitch />
       {!frontmatter.slug || frontmatter.slug.indexOf('text') === -1 ? "" : <CommentsButton setShowComments={setShowComments} showComments={showComments} />}
-      <div className="fontswitcher" onClick={()=>setSerif(!serif)}>switch fonts</div>
     </PageCss>
     )
 }
 
 const PageCss = styled.div`
-.fontswitcher {
-  position: absolute;
-  top: 0;
-  right: 0;
-  cursor: pointer;
-  transition: .2s;
-  border: 1px solid black;
-  padding: 5px;
-  line-height: 20px;
-  &:hover {
-    box-shadow: 0 4px 8px 0 var(--textNormal);
-  }
-}
   padding: 0;
   margin: 0;
   
@@ -83,25 +75,21 @@ const PageCss = styled.div`
   
   font-size: 20px;
   line-height: 32px;
-  font-family: ${props => props.serif ? 'var(--fontSerif)' : 'var(--fontNoSerif)'};
+  font-family: var(--fontNoSerif);
   color: var(--textNormal);
   background-color: var(--bg);
 
   h1, h2 {
     padding: 2px;
-    font-family: ${props => props.serif ? 'var(--fontNoSerif)' : 'var(--fontSerif)'};
-    z-index: 100;
+    font-family: var(--fontSerif);
+    margin: 2px;
   }
   h1 {
-
-    color: var(--textTitle);
-    border: 4px solid var(--textTitle);
-    background: var(--bg);
+    // background: var(--bg);
   }
   h2 {
-
     color: var(--textNormal);
-    border: 4px solid var(--textNormal);
+    // border: 1px solid var(--textNormal);
     background: var(--bgTwo);
   }
   a {
@@ -120,19 +108,6 @@ const PageCss = styled.div`
     border: 1px solid var(--textNormal);
   }
   .middle {
-    // background: url('/bgimage3.png');
-    background-size: cover;
-    background-position: 50% 50%;
-    background-attachment: fixed;
-  }
-  .middle {
-    h1 {
-      position: fixed;
-      // padding-left: 2vw;
-      margin: 10px 0 0 1vw;
-      top: 0;
-
-    }
     position: relative;
     height: 100vh;
     display: flex;
@@ -155,17 +130,47 @@ const PageCss = styled.div`
     }
 
     .sidebar {
-      // margin-top: 60px;
-      margin: 0 0 0 2vw;
-      padding-top: 60px;
+      transition: 1s;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: stretch;
+      height: 100%;
+      // max-height: 99vh;
       width: 25vw;
       overflow-x: hidden;
       text-overflow: ellipsis;
+      padding: 1px;
       details, summary, ul, li, a {
         overflow-x: hidden;
         text-overflow: ellipsis;
       }
       background: var(--bgTwo);
+   
+      .homelink-wrapper {
+        flex-basis: 4vh;
+
+      }
+      .tree-nav {
+        flex: 1;
+        // max-height: 84vh;
+        overflow-y: auto;
+      }
+      .homelink h1 {
+        color: var(--fontTitle);
+        border: 1px solid var(--textTitle);
+        text-align: center;
+        transition: 0.2s;
+      }
+      .homelink:hover {
+        text-decoration: none;
+
+        h1 {
+
+          border: 1px solid var(--textNormal);
+          color: var(--textNormal);
+        }
+      }
     }
   }
   .pager {
@@ -252,6 +257,14 @@ const PageCss = styled.div`
     padding-top: 100px;
     margin-top: -100px;
   }
+
+.main ul {
+  list-style-type: none;
+  padding-left: 0;
+  > li {
+    padding: 5px 0;
+  }
+}
 `
 
 const CommentsButton = ({darkMode, setShowComments, showComments}) => {

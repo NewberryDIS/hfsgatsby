@@ -3,18 +3,18 @@ title: "1.05 Terence in Manuscript"
 slug: /text/105
 postid: 92
 ---
-Terence was kid's stuff, to be sure. But another reason for the critical neglect of Terence was the difficulty of emending a text that was already widely available in manuscript. Over seven hundred manuscripts of the comedies survive, by far the largest number dating from the first half of the fifteenth century. The textual tradition was complex, further muddied by the way manuscripts were used in the schools. The plays had long since acquired many notes that derived from local traditions of teaching. As Claudia Villa has described it, Terence was not a stable or simple text, not even a single one, but rather a teaching anthology. She calls this living tradition the <em>lectura Terentii</em>, in which the six plays with their ancient headings and notes were further elaborated by various modern readings. (24) The manuscript tradition of Terence is complicated even more because one version of the text was illustrated, deriving it would seem, from a manuscript assembled in Italy in the fourth or fifth century by one Calliopius. The illustrations display a real or imagined stage production and were known in Northern Europe from Carolingian times onward. (25) The pictures do not appear in most Italian manuscripts and so will concern us only later, when they are reintroduced into Italy in printed form.
+Terence was kid's stuff, to be sure. But another reason for the critical neglect of Terence was the difficulty of emending a text that was already widely available in manuscript. Over seven hundred manuscripts of the comedies survive, by far the largest number dating from the first half of the fifteenth century. The textual tradition was complex, further muddied by the way manuscripts were used in the schools. The plays had long since acquired many notes that derived from local traditions of teaching. As Claudia Villa has described it, Terence was not a stable or simple text, not even a single one, but rather a teaching anthology. She calls this living tradition the *lectura Terentii*, in which the six plays with their ancient headings and notes were further elaborated by various modern readings. (24) The manuscript tradition of Terence is complicated even more because one version of the text was illustrated, deriving it would seem, from a manuscript assembled in Italy in the fourth or fifth century by one Calliopius. The illustrations display a real or imagined stage production and were known in Northern Europe from Carolingian times onward. (25) The pictures do not appear in most Italian manuscripts and so will concern us only later, when they are reintroduced into Italy in printed form.
 <p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/1.00_Chapter_One/HFS_108.02.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_108.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_108.02.jpg" />
     <figcaption class="mkdn-figcaption"></figcaption>
-    </a>
+    </div>
 </figure>
 
-The mysterious Calliopius, however, was an important part of the textual tradition (and the teaching tradition as well), since he probably acted as editor for the plays in the form they had in the Middle Ages. The functioning of the teaching tradition (Villa's <em>lectura Terentii</em>) may be seen in capsule in the way Calliopius was treated. For most medieval commentators, Calliopius was a famous actor of Terence's time, among those responsible for the production of the plays. This error was a misreading of performance rubrics that accompany the text in Calliopius's redaction; it was repeated from classroom to classroom for centuries. Coluccio Salutati (1331-1406) seems to have been the first to recognize and correct the error, referring to Calliopius as <em>revisor</em> (he meant editor) rather than <em>repetitor</em> (actor). In this small matter as in many others of greater import, humanist scholars inherited a weighty mass of traditional lore about Terence from the medieval schools. (26)
+The mysterious Calliopius, however, was an important part of the textual tradition (and the teaching tradition as well), since he probably acted as editor for the plays in the form they had in the Middle Ages. The functioning of the teaching tradition (Villa's *lectura Terentii*) may be seen in capsule in the way Calliopius was treated. For most medieval commentators, Calliopius was a famous actor of Terence's time, among those responsible for the production of the plays. This error was a misreading of performance rubrics that accompany the text in Calliopius's redaction; it was repeated from classroom to classroom for centuries. Coluccio Salutati (1331-1406) seems to have been the first to recognize and correct the error, referring to Calliopius as *revisor* (he meant editor) rather than *repetitor* (actor). In this small matter as in many others of greater import, humanist scholars inherited a weighty mass of traditional lore about Terence from the medieval schools. (26)
 
 No wonder, then, that that typical Italian manuscript of Terence is an annotated one. The notes and other apparatus may be elementary and sparse or elaborate and extensive. The text may be presented as prose or verse. The voices of the individual characters may be emphasized by the layout or obscured by it. But it is rare to find a Terence entirely without introduction and annotation. (27) It is fair to say, then, that the Renaissance inherited many Terences and not one, and that the text was hardly ever seen without apparatus that derived from the medieval classroom. The task of sorting out the manuscripts and recovering a single, widely acceptable text was the work of a century and more. Moreover, scholarly work on the text actually ran counter to the much more frequent use of Terence, as a textbook for intermediate study of Latin. The classroom text resisted innovation. Like any textbook, teachers favored the version they already knew. (28)
 
@@ -24,13 +24,13 @@ The most important Terence manuscript to survive from the ancient world was disc
 
 The chronology of critical studies on Terence is important for understanding his fortune in print. Many early editions claimed the participation of a humanist editor but it is rarely possible to observe any significant work beyond correcting typographical and other obvious errors. The most specific claims to editorial work were those of Raffaele Regio (1450-1520) for a 1474 edition and Giovanni Britannico of Brescia (1462-1518) in 1485. Their prefaces are those of young humanists who had been offered the chance to exercise their conjectural powers (and make careers) upon Terence. Britannico said that he had made over a thousand changes, a vague and surely exaggerated claim. (30) Only with the work of Poliziano, some thirty years after the first Italian editions, did the humanists begin significant critical editing of the text. By this time scholars already owned a vulgate Terence of sorts, printed and reprinted in dozens of textbook editions. When Poliziano undertook his transcription, he used a printed copy as the base for his collation, one of the many editions in folio that were a staple of the humanist classroom at the period. Other humanists did the same. (31)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(24) Villa 1984.
-(25) Loeffler 1882; Jones and Morey 1932; Wright 1993.
-(26) Villa 1984, 114, 150, 197, 269-271; Wright 1993, 190-192.
-(27) The basic list is that of Villa 1984, 296-453; other descriptive lists of interest in Prete 1970 and Black 2001, 254-256.
-(28) On the labors of the humanist editor when texts were complex, the classic statement is that of Erasmus, discussed at length by Jardine 1993, 41-48; see also Lerer 2002, 15-53.
-(29) The most complete treatment is Ribuoli 1981. On the Bembinus, see also Prete 1970, 7-15, 23-24; Giannetto 1985, 201-101,287-191, 261-266; Grant 1988, 220-237.
-(30) Lawton 1926, 297-298; further on Renaissance editors and their claims, Richardson 1996, 19-27; Jones 2004, 195-199, 206-208.
-(31) Ribuoli 1981, 73-80; Cesarini Martinelli 1985; Grant 1988, 214, 219-220.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (24) Villa 1984.
+* (25) Loeffler 1882; Jones and Morey 1932; Wright 1993.
+* (26) Villa 1984, 114, 150, 197, 269-271; Wright 1993, 190-192.
+* (27) The basic list is that of Villa 1984, 296-453; other descriptive lists of interest in Prete 1970 and Black 2001, 254-256.
+* (28) On the labors of the humanist editor when texts were complex, the classic statement is that of Erasmus, discussed at length by Jardine 1993, 41-48; see also Lerer 2002, 15-53.
+* (29) The most complete treatment is Ribuoli 1981. On the Bembinus, see also Prete 1970, 7-15, 23-24; Giannetto 1985, 201-101,287-191, 261-266; Grant 1988, 220-237.
+* (30) Lawton 1926, 297-298; further on Renaissance editors and their claims, Richardson 1996, 19-27; Jones 2004, 195-199, 206-208.
+* (31) Ribuoli 1981, 73-80; Cesarini Martinelli 1985; Grant 1988, 214, 219-220.

@@ -11,6 +11,6 @@ Geography textbooks were unlike Latin grammars in two important respects. First,
 
 In this chapter, then, we will explore several kinds of "importation," for it was as much a crossing of borders to translate classicizing Latin culture into colloquial Italian as to bring books from outside Italy and rework them for Italian readers. First we will consider a straightforward case of importation, the limited success of three Northern Latin grammarians on the Italian market. Then we will look briefly at the making of elementary geography books, also largely imports. Sometimes Italians imported them in fact, but almost always they "imported" basic geography in the larger sense of translating it from one cultural realm to another. In a later chapter (sections 6.01 and 6.10) we will take up this latter kind of cultural translation -- Latin to vernacular -- in greater detail in other fields of study.
 
-<strong>NOTE</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1) Durand 1943, 1-9; Auzzas 1986, 343-344; Cornish 2000, 167-171.
+**NOTE**
+* [Open Bibliography](/bibliography.pdf)
+* (1) Durand 1943, 1-9; Auzzas 1986, 343-344; Cornish 2000, 167-171.

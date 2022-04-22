@@ -21,11 +21,11 @@ Gaffurio here echoed several sentiments that derived from his classical sources 
 
 In the ancient world, and in most Latin-school contexts of the fifteenth and early sixteenth century, these generalizations were intended for the political classes. Only boys of respectable birth would need to master the commonplaces. Starting in the early years of the sixteenth century, publishers of vernacular textbooks faced a new need, to expand such classicizing ideals to apply in the market for mass-produced and relatively cheap books aimed at a new public. They were helped along by expertise they had gained in the marketplace for Latin textbooks in the first fifty years of printing and by an advertising rhetoric they had also developed in that period.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(26) Hellinga 1988, 39-140; Rummel 1995, 107-125; Waswo 1999, 410-412; Waquet 2001, 7-26, 207-229.
-(27) Bell 1999, 14-18; Houston 2002, 220-222.
-(28) Grafton and Jardine 1986, xii-xiv, 22-28; Grendler 1989, 102-108, 114-121; Gehl 1993, 116-127; Black 2001, 24-33 and 2007, 298-300; Frazier 2005, 14-16.
-(29) Tagliente 1548; see chapter 6.
-(30) Toscani 1993, 107-112; on the correction of texts as moral act, Lerer 2002, 15-53; West 2006, 253-261; on the Counter-Reformation convergence of philological and religious conservatism, Wyatt 2005, 204-209, 218-223.
-(31) Trans. by Palisca 1985, 193.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (26) Hellinga 1988, 39-140; Rummel 1995, 107-125; Waswo 1999, 410-412; Waquet 2001, 7-26, 207-229.
+* (27) Bell 1999, 14-18; Houston 2002, 220-222.
+* (28) Grafton and Jardine 1986, xii-xiv, 22-28; Grendler 1989, 102-108, 114-121; Gehl 1993, 116-127; Black 2001, 24-33 and 2007, 298-300; Frazier 2005, 14-16.
+* (29) Tagliente 1548; see chapter 6.
+* (30) Toscani 1993, 107-112; on the correction of texts as moral act, Lerer 2002, 15-53; West 2006, 253-261; on the Counter-Reformation convergence of philological and religious conservatism, Wyatt 2005, 204-209, 218-223.
+* (31) Trans. by Palisca 1985, 193.

@@ -9,28 +9,28 @@ Grasso's booklet, however, though less polished than the younger Giraldi's, seem
 
 Giraldi's defense of Terence was more in the tradition of aesthetic appreciation, though not without political savvy. He was smugly convinced that Terence's place in the curriculum was not in any danger. Giraldi started by remarking that he must come to the comedian's defense personally because Terence was the school master from whom he himself had learned how "to speak in good Latin on any subject, elegantly, and with dignity." (88) Giraldi lined up the ancient authorities on the quality of Terence's style and language. He then added citations from modern discussions of poetry, including those of Jacopo Sadoleto (1477-1547) and Pietro Bembo, both Roman cardinals as well as humanists. Giraldi argued all this vehemently but added nothing new to the debate; the weight of tradition was on his side.
 
-Giraldi turned to Grasso's moral argument only on page fifty-four of his eighty page book. The tone is scornful. Throughout, he had called his opponent not by name but "Slanderer" (<em>il Calonniatore</em>). Now he added that Grasso was just a pious hypocrite who wanted to forbid Terence to all the world, supposedly so the comedies will not corrupt the souls of the young. With a string of colorful epithets he made the point that Grasso was a sanctimonious do-gooder. (89) As withering as his tone was, however, Giraldi did not truly mount an effective counter-argument. He granted that bad images can incite the young to unwholesome desires, just as examples of great men can inspire them to do good. But then he turned the argument aside by insisting that the objectionable scenes in Terence are handled with admirable restraint and that the language is never really very coarse. This old humanist argument exactly opposed contemporary opinions expressed by the Jesuits. For Ignatius and his followers, Terence's plots had the potential to incite evil thoughts in adults as well as young people, and his language was irredeemably obscene. The learned fathers were troubled by exactly this power of drama to cause "strange desires" (Giraldi's paraphrase of Grasso's supposedly petty-pious fear). (90)
+Giraldi turned to Grasso's moral argument only on page fifty-four of his eighty page book. The tone is scornful. Throughout, he had called his opponent not by name but "Slanderer" (*il Calonniatore*). Now he added that Grasso was just a pious hypocrite who wanted to forbid Terence to all the world, supposedly so the comedies will not corrupt the souls of the young. With a string of colorful epithets he made the point that Grasso was a sanctimonious do-gooder. (89) As withering as his tone was, however, Giraldi did not truly mount an effective counter-argument. He granted that bad images can incite the young to unwholesome desires, just as examples of great men can inspire them to do good. But then he turned the argument aside by insisting that the objectionable scenes in Terence are handled with admirable restraint and that the language is never really very coarse. This old humanist argument exactly opposed contemporary opinions expressed by the Jesuits. For Ignatius and his followers, Terence's plots had the potential to incite evil thoughts in adults as well as young people, and his language was irredeemably obscene. The learned fathers were troubled by exactly this power of drama to cause "strange desires" (Giraldi's paraphrase of Grasso's supposedly petty-pious fear). (90)
 <p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/1.00_Chapter_One/HFS_113.02.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_113.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_113.02.jpg" />
     <figcaption class="mkdn-figcaption">Abril explains Terence to his royal patron (click to enlarge - 618 KB JPEG image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-In ridiculing his opponent's supposed false piety Giraldi pinpointed the issue at hand in these years just after the Council of Trent. Medieval and humanist ethics allowed considerable room for bawdy fun; the new morality was less tolerant. Still, there was room for debate, and the question did continue to be discussed. A decade after the Grasso/Giraldi debate, Pedro SimÃ³n Abril offered an equally pious, Counter-Reform <em>affirmation</em> of Terence by reprising the argument that the young learn from good and bad examples alike. He was careful to add that the contrary opinion is held by good and pious folk who worry that Terence offers too many dubious characters and too many examples of bad behavior. But Abril concluded that this reasoning is faulty because narratives of evil, whether in Terence or in the Bible, teach young men to abhor vice and avoid it. (91)
+In ridiculing his opponent's supposed false piety Giraldi pinpointed the issue at hand in these years just after the Council of Trent. Medieval and humanist ethics allowed considerable room for bawdy fun; the new morality was less tolerant. Still, there was room for debate, and the question did continue to be discussed. A decade after the Grasso/Giraldi debate, Pedro SimÃ³n Abril offered an equally pious, Counter-Reform *affirmation* of Terence by reprising the argument that the young learn from good and bad examples alike. He was careful to add that the contrary opinion is held by good and pious folk who worry that Terence offers too many dubious characters and too many examples of bad behavior. But Abril concluded that this reasoning is faulty because narratives of evil, whether in Terence or in the Bible, teach young men to abhor vice and avoid it. (91)
 
 With Abril, we leave the question of the suitability of Terence unresolved in theory but clear in the minds of teachers on each side of the debate. Banned from the Jesuit schools but almost universally used everywhere else, Terence was many things at once. He remained an ancient comedian, revered and studied for his language, for the dramatic interest of the plays, and as a model for modern dramatists. He had become scholastic auctor on ethics during the Middle Ages, and he continued to play this role for traditionalizing teachers who proposed him as a model for learning morality. But Terence was also, in the age of printing, a textbook author in need of careful editing, annotation, commentary, sometimes even censorship. (92)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(85) Giraldi Cinzio 2002, esp. xliv, xc-xci.
-(86) Croce 1945, 125-126, 129; Jossa 1996, 23-180; Grendler 2002b, 42-43.
-(87) Croce 1945, 127-129.
-(88) Giraldi 1566, fol. 2]v: <em>... parlare in ogni materia latinamente, &amp; elegantemente, &amp; con dignitÃ .</em>
-(89) Of Grasso, he says <em>...volendosi mostrare un santoccio, od un picchia petto, il vuole bandire dal Mondo, perche egli non corrumpa, gli animi de giovanni.</em>
-(90) Fabre 1995, 67-71. Giraldi's weak defense contrasts with that of seventeenth-century champions of Terence who claimed that the characters were all salutary insofar as they were realistic, and less obscene than those of Plautus; see Bury 1996, 127-135.
-(91) Terence 1583, fol. Â¶ 4v-6r.
-(92) For a useful explication of how censorship worked more or less invisibly to consumers of books in the late sixteenth century, Guglileminetti 1989, 123-128.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (85) Giraldi Cinzio 2002, esp. xliv, xc-xci.
+* (86) Croce 1945, 125-126, 129; Jossa 1996, 23-180; Grendler 2002b, 42-43.
+* (87) Croce 1945, 127-129.
+* (88) Giraldi 1566, fol. 2]v: *... parlare in ogni materia latinamente, &amp; elegantemente, &amp; con dignitÃ .*
+* (89) Of Grasso, he says *...volendosi mostrare un santoccio, od un picchia petto, il vuole bandire dal Mondo, perche egli non corrumpa, gli animi de giovanni.*
+* (90) Fabre 1995, 67-71. Giraldi's weak defense contrasts with that of seventeenth-century champions of Terence who claimed that the characters were all salutary insofar as they were realistic, and less obscene than those of Plautus; see Bury 1996, 127-135.
+* (91) Terence 1583, fol. Â¶ 4v-6r.
+* (92) For a useful explication of how censorship worked more or less invisibly to consumers of books in the late sixteenth century, Guglileminetti 1989, 123-128.

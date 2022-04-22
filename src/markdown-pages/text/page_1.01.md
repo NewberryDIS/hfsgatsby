@@ -9,8 +9,8 @@ This opinion was seconded by Stanley Morison. Now, more than fifty years on, it 
 
 However eternal these authors seemed in 1949, they had not always been so. Some esteemed authors had not survived the decline of the Athenian Academy, the fall of the Roman Empire, or the destruction of the great library at Alexandria. Others gained in stature or lost it during the Middle Ages. In the late fifteenth century, it was not at all clear which of the authors of the past were worth saving in the new medium of print. Terence's importance had waxed and waned through the Middle Ages. He did, however, survive the transition to print as well as changes in pedagogy that were in progress in the fifteenth century. Indeed, he was among that century's best sellers. (3) In this chapter we will see how his plays became a staple of educational printing in the Renaissance.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(1) Newberry Library Archives, James M. Wells Papers, subject files.
-(2) Waquet 2001, 109-117, 195-206; Celenza 2004a, 28-49; Sanders1961; for this mentality at the Newberry at this period, Gehl and Zurawski 1993.
-(3) Rhodes 1988; Milway 2000, 143.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (1) Newberry Library Archives, James M. Wells Papers, subject files.
+* (2) Waquet 2001, 109-117, 195-206; Celenza 2004a, 28-49; Sanders1961; for this mentality at the Newberry at this period, Gehl and Zurawski 1993.
+* (3) Rhodes 1988; Milway 2000, 143.

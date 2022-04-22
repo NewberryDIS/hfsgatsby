@@ -7,10 +7,10 @@ postid: 211
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg" />
     <figcaption class="mkdn-figcaption">The author addresses his reader (click to enlarge - 713 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
 Most of what we know about the circumstances and dates of composition of Mancinelli's works comes from the elegant Ciceronian letters that preface individual works. They were usually reprinted with the original dates in later editions. The prefaces had a dual function. They situated individual works in Mancinelli's network of patronage; and they were meant to stand as samples of humanist letter writing which could be studied and explicated in class like any other specimen of good prose. Mancinelli's early prefaces were addressed to his students or former students, or to their parents. They assume a community of learners centered upon the school of the master. The dedicatees were usually urban professionals, often themselves intellectuals -- canon and civil lawyers, doctors, notaries, and theologians. For the early works, almost all of them were natives of provincial Velletri. This fact of mid-range, local patronage bespeaks the professionalism achieved by humanist teachers in Mancinelli's generation. Mancinelli taught in institutional schools, and never, so far as we know, aspired to serve as tutor to an aristocratic family. Tutoring jobs of the sort were available and highly desired well into the sixteenth century; but it was in Mancinelli's day entirely possible for a humanist to have a teaching career without the benefits or burdens of personal, noble patronage.
@@ -19,7 +19,7 @@ Printing, of course, also played a role in this professionalization of teaching.
 
 Mancinelli was well placed to take advantage of this novel publishing opportunity and he even referred to it directly in the first of his surviving prefaces, saying, in effect, that no one has done this task before, and that printing the basic rules on difficult points of grammar is labor-saving for the teacher and beneficial to students in that they can progress more quickly. The advantages Mancinelli cited were specific to the printed book. The teacher no longer had to dictate and correct manuscript textbooks for student use in the classroom. Students could move faster because they did not have to write out their own copies of basic books or correct faulty ones obtained from stationers. (21) Note that speedy learning of this sort is most beneficial to the student who is a quick study. Much medieval and Renaissance basic schooling was aimed at identifying early on which students had the gifts to go on to further study and weeding out the others. Mancinelli elsewhere expressed a later ideal that the moral value of study makes Latin useful even for less gifted students; but he adhered to older pedagogical principles sufficiently to feel that quicker students should be given the (now printed) means to move along at their own pace.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(20) Gehl 1993, 56-70.
-(21) Mancinelli 1477b.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (20) Gehl 1993, 56-70.
+* (21) Mancinelli 1477b.

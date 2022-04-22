@@ -9,7 +9,7 @@ In some ways, textbooks, particularly the perennial favorites inherited from the
 
 Large texts and suites of textbooks designed to fit a particular teacher's course were among the earliest examples we know of collaborative publishing with shared risk among investors. The risks could be minimized by having a successful teacher as collaborator, since he could guarantee that his present and future students would buy the books. Sometimes these teachers also provided part of the cash needed to capitalize the venture, while in other cases, printers or their backers undertook all the financial risk on speculation that the reputation of a well-known teacher would create a market. This latter case was particularly likely for university-level textbooks, where the investment was large but the authors were genuine celebrities. Local grammar masters in the fifteenth century had less fame, so they often had to participate financially themselves if they wished to publish new and untried works. In the sixteenth century it was rarer for teachers to invest, but there are probable cases as late as the fifteen forties. (51)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(50) On the direct involvement of grammar masters in early, subsidized printing ventures, see Balsamo 2006, 138-140. More generally on the organization of capital and labor in the Italian printing industry in the early years, ibid., 12-20.
-(51) Priscianese 1540 and Cafaro 1546, for example, discussed in chapters two and seven. For a case of direct marketing to a teacher, see Signaroli 2006, 76-78.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (50) On the direct involvement of grammar masters in early, subsidized printing ventures, see Balsamo 2006, 138-140. More generally on the organization of capital and labor in the Italian printing industry in the early years, ibid., 12-20.
+* (51) Priscianese 1540 and Cafaro 1546, for example, discussed in chapters two and seven. For a case of direct marketing to a teacher, see Signaroli 2006, 76-78.

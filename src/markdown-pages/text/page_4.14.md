@@ -10,18 +10,18 @@ Literary geography derived from two traditions. First there were ancient and med
 Writing about travel was an important early Renaissance genre. No less a humanist celebrity than Petrarch provided a model with his guidebook to the Holy Land, in Latin, compiled entirely from literary sources for the use of a friend who would travel there. (Petrarch himself never did, and probably never even wanted to.) In content it is fairly traditional, recounting an itinerary in some detail but without reference to broader geographical context. Other writers of the fourteenth and fifteenth century also offered itineraries. Those in the vernacular were u
 
 <figure class="mkdn-figure">
-    <a href="/images_full/4.00_Chapter_Four/HFS_089.02.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_089.02.jpg" />
     <figcaption class="mkdn-figcaption">Date describes the earth in a 15th-century manuscript (click to enlarge - 962 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Somewhat more practical than Petrarch's guide but still highly literary was the <em>Sfera</em> of Gregorio Dati (1362-1436). This 1152-line poem starts with a general introduction to the shape of the cosmos. Later sections treat of the climates and seasons, navigation, and the continents and seas. It was the first vernacular text to offer such lore to a non-Latin audience, and it was widely popular. More than two hundred manuscripts survive and eighteen editions appeared up to 1543. The poetry itself and the contents of the surviving manuscripts suggest that the public for the piece was not humanistically trained. Dati's were readers of the merchant classes, comfortable reading Tuscan but not Latin. (62) To modern eyes, the work reads very much like a textbook. The competent but unpretentious <em>ottava rima</em> verses reinforce this sense, since texts to be memorized by students were regularly versified. Many manuscripts are richly illustrated with diagrams and maps in text, another didactic strategy that relates the <em>Sfera</em> to more scientific texts of the early Renaissance. Although it does not fit any known school curriculum, Dati's <em>Sfera</em> does fall into a category we might call moral-didactic. It is a reminder that how-to books did not limit themselves to actually making or doing things; they also set out to teach people how to live well and virtuously in a geographically defined real world. (63)
+Somewhat more practical than Petrarch's guide but still highly literary was the *Sfera* of Gregorio Dati (1362-1436). This 1152-line poem starts with a general introduction to the shape of the cosmos. Later sections treat of the climates and seasons, navigation, and the continents and seas. It was the first vernacular text to offer such lore to a non-Latin audience, and it was widely popular. More than two hundred manuscripts survive and eighteen editions appeared up to 1543. The poetry itself and the contents of the surviving manuscripts suggest that the public for the piece was not humanistically trained. Dati's were readers of the merchant classes, comfortable reading Tuscan but not Latin. (62) To modern eyes, the work reads very much like a textbook. The competent but unpretentious *ottava rima* verses reinforce this sense, since texts to be memorized by students were regularly versified. Many manuscripts are richly illustrated with diagrams and maps in text, another didactic strategy that relates the *Sfera* to more scientific texts of the early Renaissance. Although it does not fit any known school curriculum, Dati's *Sfera* does fall into a category we might call moral-didactic. It is a reminder that how-to books did not limit themselves to actually making or doing things; they also set out to teach people how to live well and virtuously in a geographically defined real world. (63)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(60) Petrarch 2002, i-ix.
-(61) Segatto 1983, 164-165; Auzzas 1986, 343-344; Cachey 1996, 62-64; Cornish 2000, 167-168: Cook 2002, 51-52; Petrarch 2002. At the far end of literarry imagination stands the "travel" narrative of Fazio degli Uberti, an allegorical journey through real places, probably aimed at a courtly audience; see Ragni 1986, 224-227.
-(62) Segatto 1983, 159, 174-178.
-(63) Segatto 1983, 152-154; Clement 2001; Cook 2002, 52-55.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* [Open Bibliography](/bibliography.pdf)
+* (60) Petrarch 2002, i-ix.
+* (61) Segatto 1983, 164-165; Auzzas 1986, 343-344; Cachey 1996, 62-64; Cornish 2000, 167-168: Cook 2002, 51-52; Petrarch 2002. At the far end of literarry imagination stands the "travel" narrative of Fazio degli Uberti, an allegorical journey through real places, probably aimed at a courtly audience; see Ragni 1986, 224-227.
+* (62) Segatto 1983, 159, 174-178.
+* (63) Segatto 1983, 152-154; Clement 2001; Cook 2002, 52-55.

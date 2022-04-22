@@ -13,10 +13,10 @@ Adding an emblem to the title page in the form of a printer's mark (or, less com
 <blockquote>... I must add a few words about the emblems of certain learned men of the press which they are accustomed to add ingeniously to the title pages of their books, and by which they encourage themselves either by genius or by design, to do those things necessary for the cultivation of better letters. (24)</blockquote>
 Thus the emblematic mark is both an ingenious device or company logo and a way for the printers to encourage themselves and others to do their best for the republic of letters.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(20)Â  Schilling 1990, 288-292; Henkel 2000, 210-213, 237-243.
-(21)Â  Smith 2000a.
-(22)Â  For the design process, Peponis et al. 2002, 75-88; Gehl 2002, 104-105; further on psychology, Gareffi 1981, 12-17; Scholz 2002, 303-305; on marketing aspects, Sabbioneta 2003, 16-36.
-(23)Â  Compagnon 1979, 262-267; Pinkus 1996, 75-88.
-(24) Mignault 1571 quoted by Wolkenhauer 2002, 90: <em>... quorundam rei Typographicae peritorum hominumn huc adiiciam eiconas, quibus ingeniose uti soleant in suorum libris fontispiciis, quibus se vel ingenio, vel arte, meliorum litterarum adiumento necessaria commendent.</em>
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (20)Â  Schilling 1990, 288-292; Henkel 2000, 210-213, 237-243.
+* (21)Â  Smith 2000a.
+* (22)Â  For the design process, Peponis et al. 2002, 75-88; Gehl 2002, 104-105; further on psychology, Gareffi 1981, 12-17; Scholz 2002, 303-305; on marketing aspects, Sabbioneta 2003, 16-36.
+* (23)Â  Compagnon 1979, 262-267; Pinkus 1996, 75-88.
+* (24) Mignault 1571 quoted by Wolkenhauer 2002, 90: *... quorundam rei Typographicae peritorum hominumn huc adiiciam eiconas, quibus ingeniose uti soleant in suorum libris fontispiciis, quibus se vel ingenio, vel arte, meliorum litterarum adiumento necessaria commendent.*

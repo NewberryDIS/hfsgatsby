@@ -13,11 +13,11 @@ Hunger's preface is unusually lengthy and fulsome. He listed almost all the them
 
 Hunger situated his interest in Alciati in the context of his own humanist education to languages. Translating these emblems into French or German not only made them more accessible, it also enriched the general store of morally useful poetry. He specifically compared the utility of emblems to fables and proverbs and suggested that, like music, they would make studying easier and more pleasant for children. (42) These humanist commonplaces signified that, whatever other pretensions emblems had, they were also specifically applicable in the humanist classroom at a relatively elementary stage.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(37)Â  Carruthers 1990, 221-228.
-(38)Â  KÃ¶hler 1986, 109 note 4 mentions two copies now at WolfenbÃ¼ttel of the Augsburg 1531 first edition that show signs of school use, but he does not describe them.
-(39)Â  What follow depends heavily on the important work of Johannes KÃ¶hler 1986, esp. 56-64.
-(40)Â  Alciati 1542, 10-11: <em>pueris quoque nostratibus, &amp; paedagogis, aureus hic libelllus futurus sut carhior forte, &amp; comendiatior... virtutum splendorem &amp; vitiorum foeditatem non aliter quam in tabella perspiciant</em>. See KÃ¶hler 1986, 59.
-(41)Â  Gareffi 1981, 55-61; Matthews Grieco 1991, 34-38.
-(42)Â  Alciati 1542, 4-7.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (37)Â  Carruthers 1990, 221-228.
+* (38)Â  KÃ¶hler 1986, 109 note 4 mentions two copies now at WolfenbÃ¼ttel of the Augsburg 1531 first edition that show signs of school use, but he does not describe them.
+* (39)Â  What follow depends heavily on the important work of Johannes KÃ¶hler 1986, esp. 56-64.
+* (40)Â  Alciati 1542, 10-11: *pueris quoque nostratibus, &amp; paedagogis, aureus hic libelllus futurus sut carhior forte, &amp; comendiatior... virtutum splendorem &amp; vitiorum foeditatem non aliter quam in tabella perspiciant*. See KÃ¶hler 1986, 59.
+* (41)Â  Gareffi 1981, 55-61; Matthews Grieco 1991, 34-38.
+* (42)Â  Alciati 1542, 4-7.

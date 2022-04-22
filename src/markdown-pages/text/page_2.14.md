@@ -11,10 +11,10 @@ The issue for Bebel, as it had been for Valla and other early Italian humanists,
 
 As the Counter-Reformation proceeded, teachers stressed more and more that the Cato was only one introduction to commonplace moral thinking. It was properly complemented by prayers, scripture passages, and simple devotional texts that would add a Christian dimension to the most elementary instruction. Angelo Turchini notes that by the turn of the seventeenth century teachers urgently maintained that the ancients were superior to modern men in eloquence but not in matters of religion or morals. Some authors of new grammars insisted that students should advance as early as possible to reading moral texts. (89)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(85) Grendler 1989, 197-200; Blasio 2005, 15-18.
-(86) Fubini 2003, 51-54-74-77.
-(87) Bebel 1513, fol. B5r-v: <em>Omnes (quae simul ut tandem concludam) versificatores, minutique auctores, omnibus eloquentiae studiosis, et presertim teneriori aetati declinandi, nisi forsan essent tales, qui copiose &amp; floride de re iucunda nec nimis turpi scripserunt. Excipio etiam libellum qui Cato inscribitur, huius auctorem dicit Valla inter minutos auctores latinissimum &amp; quo mille annis nemo carmen scripserit elegantium. ... Attamen ideo forsan Cato appelari potest iste libellus, a gravitate morum vitaeque integritate, in quibus summa laude Catones sunt famigerati.</em>
-(88) Further on Bebel, Jensen 1996b, 19-28; on the decline of the medieval school poets in the face of humanist criticism, Black 2001, 270-273 and 2007, 50 and 149-50.
-(89)Â  B. Rubini, cited in Turchini, 314-319.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (85) Grendler 1989, 197-200; Blasio 2005, 15-18.
+* (86) Fubini 2003, 51-54-74-77.
+* (87) Bebel 1513, fol. B5r-v: *Omnes (quae simul ut tandem concludam) versificatores, minutique auctores, omnibus eloquentiae studiosis, et presertim teneriori aetati declinandi, nisi forsan essent tales, qui copiose &amp; floride de re iucunda nec nimis turpi scripserunt. Excipio etiam libellum qui Cato inscribitur, huius auctorem dicit Valla inter minutos auctores latinissimum &amp; quo mille annis nemo carmen scripserit elegantium. ... Attamen ideo forsan Cato appelari potest iste libellus, a gravitate morum vitaeque integritate, in quibus summa laude Catones sunt famigerati.*
+* (88) Further on Bebel, Jensen 1996b, 19-28; on the decline of the medieval school poets in the face of humanist criticism, Black 2001, 270-273 and 2007, 50 and 149-50.
+* (89)Â  B. Rubini, cited in Turchini, 314-319.

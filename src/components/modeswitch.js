@@ -10,20 +10,10 @@ const ModeSwitch = ({dmstate, dmswitch}) => {
   return  <ThemeToggler>
   {({ theme, toggleTheme }) => (
      <ModeSwitchCss className="icons" onClick={() => toggleTheme(theme === 'dark' ? 'light' : 'dark')} >{theme === 'dark' ? <Sun /> : <Moon />}</ModeSwitchCss>
-    // <label>
-    //   <input
-    //     type="checkbox"
-    //     onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
-    //     checked={theme === 'dark'}
-    //   />{' '}
-    //   Dark mode
-    // </label>
+    
   )}
 </ThemeToggler>
 }
-// const ModeSwitch = ({dmstate, dmswitch}) => {
-//     return  <ModeSwitchCss dmstate={dmstate} className="icons" onClick={() => dmswitch(!dmstate)} >{dmstate ? <Sun /> : <Moon />}</ModeSwitchCss>
-// }
 
 export default ModeSwitch
 
@@ -49,12 +39,12 @@ const ModeSwitchCss = styled.div`
   transition: 0.2s;
 
   &:hover {
-    filter: ${props=>props.dmstate ? "drop-shadow(0 0 5px rgba(232, 233, 202, 1))": "drop-shadow(0 0 5px rgba(0, 0, 0, 0.8))" };
+    filter: drop-shadow(0 0 5px var(--textTitle);
   }
   svg {
     height: 30px;
     width: 30px;
-    z-index: 0;
+    // z-index: 0;
   }
 
 `

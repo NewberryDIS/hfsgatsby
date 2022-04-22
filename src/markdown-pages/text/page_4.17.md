@@ -8,10 +8,10 @@ Theodore Cachey has pointed to the fact that Italian humanism was in general unc
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/4.00_Chapter_Four/HFS_083.03.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_083.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_083.03.jpg" />
     <figcaption class="mkdn-figcaption">Honter's geography in verse (click to enlarge - 794 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
 As we will see with other genres of pedagogical literature, the key moment of transition came in the fifteen twenties and thirties. By this time, the New World discoveries were becoming common knowledge and more and more scholars wanted to take them actively into account. At the elementary level, it was no longer enough to conceive the world in purely European and Christian terms. Not incidentally, several of the most important general geographies of the period were penned by schoolmasters who also taught Latin grammar and rhetoric. Their polymathy made them more open than their contemporaries to including new geographical data.
@@ -21,32 +21,32 @@ Joachim Vadianus (1484-1551) at St. Gall in Switzerland and Johannes Honter (149
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/4.00_Chapter_Four/HFS_084.01.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_084.01.jpg" />
     <figcaption class="mkdn-figcaption">Vadianus' voluminous manual (click to enlarge - 844 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Honter's <em>Cosmographical Basics</em> (<em>Rudimenta cosmographica</em>) was a brief general geography textbook with toponymic lists and a map. First published in prose (1530) and then recast in Latin hexameters (dating from 1541), the <em>Rudimenta</em> saw over a hundred editions. But it was published only twice in Italy, both times discretely buried inside larger works by other authors. Composed for use as a textbook, its only Italian editions were inside enormous encyclopedias. Interestingly, in this same form three editions in Italian were published at Basel and Cologne, presumably for Italians resident in Switzerland and Germany. (73)
+Honter's *Cosmographical Basics* (*Rudimenta cosmographica*) was a brief general geography textbook with toponymic lists and a map. First published in prose (1530) and then recast in Latin hexameters (dating from 1541), the *Rudimenta* saw over a hundred editions. But it was published only twice in Italy, both times discretely buried inside larger works by other authors. Composed for use as a textbook, its only Italian editions were inside enormous encyclopedias. Interestingly, in this same form three editions in Italian were published at Basel and Cologne, presumably for Italians resident in Switzerland and Germany. (73)
 
-Vadianus' <em>Summary of the Three Parts of the Earth</em> (<em>Epitome trium terrae partium</em>, first published in 1534) was similarly successful, but again, not in Italy. Vadianus developed this comprehensive geographical manual (most editions run to five hundred pages or more) by building on earlier scholarly and evangelical publications, respectively a commentary on Pomponius Mela and a study of the missionary voyages of St. Paul. Vadianus presented the <em>Epitome</em> as a logical outgrowth of Scripture study. He offered his readers no less eminent a mentor than St. Paul, whose missionary travels were a commonplace model for modern evangelicals. Vadianus claimed that Paul's letters are best understood by those who study geography so as to know about the peoples and physical features of foreign lands. Geography and the missionary impulse were thus inextricably linked in Vadianus' influential work. (74)
+Vadianus' *Summary of the Three Parts of the Earth* (*Epitome trium terrae partium*, first published in 1534) was similarly successful, but again, not in Italy. Vadianus developed this comprehensive geographical manual (most editions run to five hundred pages or more) by building on earlier scholarly and evangelical publications, respectively a commentary on Pomponius Mela and a study of the missionary voyages of St. Paul. Vadianus presented the *Epitome* as a logical outgrowth of Scripture study. He offered his readers no less eminent a mentor than St. Paul, whose missionary travels were a commonplace model for modern evangelicals. Vadianus claimed that Paul's letters are best understood by those who study geography so as to know about the peoples and physical features of foreign lands. Geography and the missionary impulse were thus inextricably linked in Vadianus' influential work. (74)
 
-Both Honter and Vadianus employed printers who knew how to make books in the latest humanist styles. Indeed, most editions of Honter's little geography would have been at home, graphically at least, in any Italian bookshop of the fifteen forties that catered to Latin-school students. The first edition of the <em>Rudimenta</em> in verse, printed at BraÅŸov / Kronstadt under Honter's direct supervision, is an octavo with the poetic text set in italics, in the style of the popular Aldines of the period. The paper and presswork are first quality. The title page is adorned with a simple architectural border, not an Aldine look but still consistent with many books printed at Venice for the Hungarian and Balkan market. Later editions by Christoph Froschauer in Zurich are even more Venetian in look. They have clearly organized, typographic title pages with a handsome emblematic printer's mark.
+Both Honter and Vadianus employed printers who knew how to make books in the latest humanist styles. Indeed, most editions of Honter's little geography would have been at home, graphically at least, in any Italian bookshop of the fifteen forties that catered to Latin-school students. The first edition of the *Rudimenta* in verse, printed at BraÅŸov / Kronstadt under Honter's direct supervision, is an octavo with the poetic text set in italics, in the style of the popular Aldines of the period. The paper and presswork are first quality. The title page is adorned with a simple architectural border, not an Aldine look but still consistent with many books printed at Venice for the Hungarian and Balkan market. Later editions by Christoph Froschauer in Zurich are even more Venetian in look. They have clearly organized, typographic title pages with a handsome emblematic printer's mark.
 <p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/4.00_Chapter_Four/HFS_084.02.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_084.02.jpg" />
     <figcaption class="mkdn-figcaption">Vadianus in the types of Frischauer, 1534 (click to enlarge - 820 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Vadianus's printers also dressed his work in Venetian style. The <em>Epitome</em> was much longer than the <em>Rudimenta</em>, and it usually came off the presses as a chunky octavo. In Basel and Zurich editions (the latter also by Froschauer), its prose text is less spacious on the page than Honter's hexameters, but the types are clear and well used, and the result was a book very much in tradition of Venetian scholarly octavos of the period. So, Northern humanists sought and got Italianate packages for many of their works, even when the books would never find wide currency in Italy. (75)
+Vadianus's printers also dressed his work in Venetian style. The *Epitome* was much longer than the *Rudimenta*, and it usually came off the presses as a chunky octavo. In Basel and Zurich editions (the latter also by Froschauer), its prose text is less spacious on the page than Honter's hexameters, but the types are clear and well used, and the result was a book very much in tradition of Venetian scholarly octavos of the period. So, Northern humanists sought and got Italianate packages for many of their works, even when the books would never find wide currency in Italy. (75)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(72) Cachey 1996, 63-64.
-(73) Karrow 1993, 302-315; Engelmann 1982, 58-63 and 84-90; TÃ¶rÃ¶k 2001, 70-72.
-(74) Vadianus 1534, 17-18; Bonorand 1962, 91-96.
-(75) NÃ¤f 1945, 21-26. Most of Froshauer's output was in a Germanic style using gothic types, but he was capable of excellent Italian-style typography for classical texts, humanist literature, and science; see Staedke 1965, 60, 72-79; Leemann-Van Elck 1040, 163-167.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (72) Cachey 1996, 63-64.
+* (73) Karrow 1993, 302-315; Engelmann 1982, 58-63 and 84-90; TÃ¶rÃ¶k 2001, 70-72.
+* (74) Vadianus 1534, 17-18; Bonorand 1962, 91-96.
+* (75) NÃ¤f 1945, 21-26. Most of Froshauer's output was in a Germanic style using gothic types, but he was capable of excellent Italian-style typography for classical texts, humanist literature, and science; see Staedke 1965, 60, 72-79; Leemann-Van Elck 1040, 163-167.

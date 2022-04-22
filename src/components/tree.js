@@ -215,6 +215,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
 export default Sidebar
 
 const Tree = styled.div`
+flex: 1;
   border: 4px solid transparent;
   margin-left: 1vw;
   font-size: 16px;

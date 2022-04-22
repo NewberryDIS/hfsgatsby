@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-supp-pages-js",
-    "path": "/comments/page_6.03_comment_383/",
-    "result": {"data":{"markdownRemark":{"id":"2eeb2905-6837-557d-bec4-b97001cfe3b9","excerpt":"Thanks to John Ptak for drawing my attention to this, I've worked out the method. See my weblog post Tagliente's multiplication by columns: http://jsbookreader…","html":"<p>Thanks to John Ptak for drawing my attention to this, I've worked out the method.</p>\n<p>See my weblog post Tagliente's multiplication by columns: <a href=\"http://jsbookreader.blogspot.com/2011/11/taglientes-multiplication-by-columns.html\">http://jsbookreader.blogspot.com/2011/11/taglientes-multiplication-by-columns.html</a></p>\n<p>The chalice example isn't great, as there are numerical errors in the sub-results; and all the woodcuts for this method fail to show the correct column positions that are crucial to the method.</p>","frontmatter":{"slug":null,"title":""}}},"pageContext":{"id":"2eeb2905-6837-557d-bec4-b97001cfe3b9"}},
-    "staticQueryHashes": []}

@@ -10,19 +10,19 @@ On the other hand, for some of these later editions we can infer other considera
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Calfurnio commends Perotti (click to enlarge - 632 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
-Advertising was part of the success of Perotti's <em>Rudimenta</em> from the start, and it tells us clearly what grammar masters valued in the work. Perotti himself provided no introduction to his text, but such humanist modesty was a liability in the competitive market for textbooks. Printers and editors almost immediately added prefaces composed with marketing needs in mind. Brief but otherwise typical is that of Giovanni Calfurnio (1433-1503) which appeared in Venetian editions from 1478 onward and with increasing frequency toward the end of the century. Calfurnio praised Perotti in general terms as one of those modern scholars who revived the beautiful Latin of ancient times, and specifically for having composed a grammar that would substitute for "certain foolish primers and over-dense grammars with which boys were taught falsely." (64) Over-density is an interesting charge, since the <em>Rudimenta</em> is also chock full of things to memorize. Calfurnio probably meant that Perotti's work is relatively more concerned with vocabulary and less with multiplying rules than it predecessors. Calfurnio went on to name the <em>Doctrinale</em> among the worthless textbooks: "Nor do I see what possible excuse those who employ the silly poem of barbarous Alexander can henceforth give." (65)
+Advertising was part of the success of Perotti's *Rudimenta* from the start, and it tells us clearly what grammar masters valued in the work. Perotti himself provided no introduction to his text, but such humanist modesty was a liability in the competitive market for textbooks. Printers and editors almost immediately added prefaces composed with marketing needs in mind. Brief but otherwise typical is that of Giovanni Calfurnio (1433-1503) which appeared in Venetian editions from 1478 onward and with increasing frequency toward the end of the century. Calfurnio praised Perotti in general terms as one of those modern scholars who revived the beautiful Latin of ancient times, and specifically for having composed a grammar that would substitute for "certain foolish primers and over-dense grammars with which boys were taught falsely." (64) Over-density is an interesting charge, since the *Rudimenta* is also chock full of things to memorize. Calfurnio probably meant that Perotti's work is relatively more concerned with vocabulary and less with multiplying rules than it predecessors. Calfurnio went on to name the *Doctrinale* among the worthless textbooks: "Nor do I see what possible excuse those who employ the silly poem of barbarous Alexander can henceforth give." (65)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(60) Borgarucci would go on to a significant career in Venice as an editor of classical texts, see DBI 12:567.
-(61) This may be the import of an application for a new privilege to print Perotti "in meliore forma" presented to the Venetian Senate in 1526; see Fulin 1882a, 206. The earliest reference I have found to correcting large numbers of earlier printers' errors is Bartolomeo Mascara's claim in Perotti 1539.
-(62) Perotti 1582: <em>ad veterum codicum fidem totum negotium confectum est.</em>
-(63) Two copies appear in the inventory of the Antoni shop at Milan cited by Stevens 1992, 411-412, for which information I am indebted to Professor Stevens. A surviving copy of Perotti 1560 at Ravenna has ownership marks of students dated 1634 and 1648; Deutscher 2002, 1014 reports a single copy in use at Novara in the same period.
-(64) <em>...quaedam insulsa rudimenta &amp; opuscula doctrinae crassioris, quibus pueri falso erudirentur.</em>
-(65) Perotti 1501, 1v: <em>Nec video qua excusatione digni post hac accipiantur qui Alexandri barbari carmen ineptum.</em> See also Worstbrock 2001, 62-63.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (60) Borgarucci would go on to a significant career in Venice as an editor of classical texts, see DBI 12:567.
+* (61) This may be the import of an application for a new privilege to print Perotti "in meliore forma" presented to the Venetian Senate in 1526; see Fulin 1882a, 206. The earliest reference I have found to correcting large numbers of earlier printers' errors is Bartolomeo Mascara's claim in Perotti 1539.
+* (62) Perotti 1582: *ad veterum codicum fidem totum negotium confectum est.*
+* (63) Two copies appear in the inventory of the Antoni shop at Milan cited by Stevens 1992, 411-412, for which information I am indebted to Professor Stevens. A surviving copy of Perotti 1560 at Ravenna has ownership marks of students dated 1634 and 1648; Deutscher 2002, 1014 reports a single copy in use at Novara in the same period.
+* (64) *...quaedam insulsa rudimenta &amp; opuscula doctrinae crassioris, quibus pueri falso erudirentur.*
+* (65) Perotti 1501, 1v: *Nec video qua excusatione digni post hac accipiantur qui Alexandri barbari carmen ineptum.* See also Worstbrock 2001, 62-63.

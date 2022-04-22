@@ -10,20 +10,20 @@ The work of BartolomÃ© Aneau as editor, translator, and arranger of the emblem
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full//7.00_Chapter_Seven/HFS_027.05.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_027.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_027.05.jpg" />
     <figcaption class="mkdn-figcaption">Elaborate commentary (click to enlarge - 846 KB jpeg image)</figcaption>
-    </a>
+    </div>
 </figure>
 
 Hunger and Aneau were merely the first of many Renaissance school masters to adapt emblems for school use. Johannes KÃ¶hler has suggested that the extensive commentary on Alciati by Claude Mignault (1536-1606), first published in 1576, was largely intended to describe and circumscribe Alciati for classroom use. (45) The bulky work of Mignault, however, was almost surely not put into the hands of children. If KÃ¶hler is correct, it was a teacher's manual for using emblems with students. Many individual emblems embody humanist commonplaces about teaching children; and while some seem aimed at the teaching parenting skills, others were clearly addressed to the children themselves. For example, emblems that recommended reading as a fruitful pastime were probably not in the first instance aimed at bookish adults. (46)
 
 In the course of rewriting and popularizing learned emblems for schoolboys and other, even less Latin-literate audiences (in preaching for example), some authors also tried to limit the possible readings that could be given to the innately puzzle-like emblem. There were several strategies for accomplishing this narrowing of meaning in the service of social control. Some authors circumscribed each emblem with commentary that dictated one or another moral meaning rather than offering a variety of interpretations. Another strategy was to change or expand the verses to direct the reader toward one reading or away from another. Some scholars see these re-writers as favoring a passive approach to emblems. Certainly they tended to simplify the experience. But the emblem remained a complex form. Even in its most fixed and determined form, the combination of picture and texts invited imaginative responses. (47)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(43)Â  Alciati 1542, 5-6; KÃ¶hler 1986, 58; Saunders 1988, 62-70.
-(44)Â  KÃ¶hler 1986, 61-64; Biot 1996, 86-92, 272-213.
-(45)Â  KÃ¶hler 1986, 64-69.
-(46)Â  Manning 2002, 154-157.
-(47)Â  Harms 1973, 59-62; Elkins 1999, 201.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (43)Â  Alciati 1542, 5-6; KÃ¶hler 1986, 58; Saunders 1988, 62-70.
+* (44)Â  KÃ¶hler 1986, 61-64; Biot 1996, 86-92, 272-213.
+* (45)Â  KÃ¶hler 1986, 64-69.
+* (46)Â  Manning 2002, 154-157.
+* (47)Â  Harms 1973, 59-62; Elkins 1999, 201.

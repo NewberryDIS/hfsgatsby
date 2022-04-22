@@ -7,7 +7,7 @@ As David Hamilton points out, textbooks both "mediate the structure of knowledge
 
 Latin grammar, although it belonged to an international publishing world, was too hidebound and traditional a field to give us a full picture of the dynamics of educational publishing, even in the early sixteenth century. For one thing, the future of textbook publishing lay (as we now recognize) in the creation of national, not international markets. Again, the most innovative textbook printing of the period happened in fields where authors wanted to present entirely new knowledge or highly practical skills to young readers. Geography and astronomy were fields where new advances were made almost yearly in the late sixteenth and early seventeenth century and where there was a constant tension between a respect for classical learning and Christian tradition on the one hand, and, on the other, the realization that the ancients had gotten many things seriously wrong. Vernacular literacy also allowed for new kinds of textbooks and new publics for these old subjects. Mathematics and music are telling in this regard, moving as they did from highly theoretical presentations to more practical ones across our period. Handwriting books, by contrast, grew across the sixteenth century from simple models of calligraphy with a few instructions into elaborate self-help books and even systematic treatises aimed at the professional education of scribes or secretaries. We will have repeated recourse to the evidence of books in these fields and will discuss them as a group in chapter six.
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(52) Hamilton 2003, 8.
-(53) Chartier 1995, 88-97.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (52) Hamilton 2003, 8.
+* (53) Chartier 1995, 88-97.

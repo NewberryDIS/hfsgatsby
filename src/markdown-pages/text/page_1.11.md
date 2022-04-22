@@ -8,10 +8,10 @@ We come away from these Griffio editions with the distinct impression that the e
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/1.00_Chapter_One/HFS_117.01.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_117.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_117.01.jpg" />
     <figcaption class="mkdn-figcaption"></figcaption>
-    </a>
+    </div>
 </figure>
 
 The Griffio octavos, then, throw light on an important question, the degree to which the philological study of an author in the Renaissance could be promoted in the print market, retarded by market conditions, or sometimes even spurred on by marketing considerations. Terence, as we have already remarked, suffered relative neglect in textual terms in the early years of printing. From the late fourteen nineties onward, however, the plays were the subject of intense textual criticism among leading humanists. The record of their work is precisely evidenced in successive editions; but no general history of Terence criticism in this period has ever been written. A full account will have to await the work of future scholars. (53) It is clear, however, that the Italian market for Terence had languished after 1490. It revived in the new century, when new formats were offered just at the moment when a much improved text was also becoming available. Italians would see many attempts to improve the quality of the text in the next half-century, but teachers were little content with any single version until Paolo Manuzio commissioned a new text from French humanist Marc Antoine Muret (1526-1585) that became available in 1555. Thereafter the market was dominated by this text, whether Muret's contribution was attributed or not.
@@ -23,17 +23,17 @@ Giovanni Griffio, as we have seen, promoted the text edited and annotated by Ant
 
 
 <figure class="mkdn-figure">
-    <a href="/images_full/1.00_Chapter_One/HFS_130.03.jpg" class="mkdn-image-link">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_130.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_130.03.jpg" />
     <figcaption class="mkdn-figcaption"></figcaption>
-    </a>
+    </div>
 </figure>
 
 From the start, however, the marketing claims of printers and publishers reflected the philological advances of editors. We have already mentioned the work of Poliziano, the first really critical examination Terence received, stimulated by his collation of the text of the Codex Bembinus. (55) His collations were used by scholars in manuscript form, and the Bembinus was consulted directly for several editions. Glareanus tells us of the excitement this endeavor caused in the circle of Aldo Manuzio in the first decade of the sixteenth century, when both Erasmus and Glareanus himself were in Venice. (56)
 
-<strong>NOTES</strong>
-<a href="http://www.humanismforsale.org/bibliography.pdf" target="new">Open Bibliography (330 KB pdf)</a>
-(53) Lawton 1926, 323-333; offered a brief appendix inviting such a study, but to my knowledge it has never been undertaken. Important specialized studies are those of Ceretti 1954, Prete 1970.
-(54) Until 1600 at least; Ceretti 1954, 525-526, 528; further on the influence of Muret and Faerno, Bury 1996, 125-127.
-(55) Dane 1999.
-(56) Lawton1926, 307; Ribuoli 1981, 73-74.
+**NOTES**
+* [Open Bibliography](/bibliography.pdf)
+* (53) Lawton 1926, 323-333; offered a brief appendix inviting such a study, but to my knowledge it has never been undertaken. Important specialized studies are those of Ceretti 1954, Prete 1970.
+* (54) Until 1600 at least; Ceretti 1954, 525-526, 528; further on the influence of Muret and Faerno, Bury 1996, 125-127.
+* (55) Dane 1999.
+* (56) Lawton1926, 307; Ribuoli 1981, 73-74.
