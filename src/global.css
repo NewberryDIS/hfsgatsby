@@ -45,3 +45,35 @@ body {
   object-fit: contain;
   margin: 5vh auto;
 }
+
+.pgcv .datelist {
+  width: 100%;
+}
+.pgcv .datelist tr {
+  display: flex;
+}
+.pgcv .date {
+  flex-basis: 10ch;
+}
+.pgcv .item {
+  flex: 1;
+}
+
+.pgcv ul {
+  padding-left: 0;
+}
+
+.pgcv li {
+  list-style-type: none;
+  padding-left: 5ch;
+  text-indent: -5ch;
+}
+
+.pgcv .fakeh3 {
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}

@@ -1,5 +1,5 @@
 ---
-title: "Personal Statement"
+title: "Personal Statement, 2008"
 slug: "/ps"
 ---
 Scholarly publishing is in crisis, we are told. Print runs are shrinking; unit costs are skyrocketing; research libraries cannot afford to buy even a fraction of what they would like. But in a very real way, the internet is taking over many scholarly-publishing functions.

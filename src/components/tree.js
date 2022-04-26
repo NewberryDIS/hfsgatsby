@@ -201,9 +201,10 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
             <ul className="initLink">
               <li id='textone' className="color-a-1 initLink" ><Link to="/text/000"   >Read the Book</Link></li>
               <li id='abt'     className="color-a-2 initLink" ><Link to="/abt"    >About the Book</Link></li>
-              <li id='fd'      className="color-a-3 initLink" ><Link to="/fd"     >For Designers</Link></li>
-              <li id='ed'      className="color-a-4 initLink" ><Link to="/ed"     >For Educators</Link></li>
-              <li id='ps'      className="color-a-5 initLink" ><Link to="/ps"     >About the Author</Link></li>
+              {/* <li id='fd'      className="color-a-3 initLink" ><Link to="/fd"     >For Designers</Link></li> */}
+              {/* <li id='ed'      className="color-a-4 initLink" ><Link to="/ed"     >For Educators</Link></li> */}
+              <li id='ps'      className="color-a-5 initLink" ><Link to="/ct"     >Citing Humanism For Sale</Link></li>
+              <li id='ps'      className="color-a-5 initLink" ><Link to="/ps"     >Personal Statement</Link></li>
               <li id='cont'    className="color-a-6 initLink" ><Link to="/cont"   >Contact</Link></li>
               {/* <li id="color-a-7 " className="initLink" ><Link to="bibliography.pdf">Bibliography</Link></li> */}
               
