@@ -55,7 +55,7 @@ import Search from '../components/search'
                 </div>
               </div>
             }
-              {frontmatter.slug?.length > 6 ? <div className="pager">
+              {frontmatter.slug?.length > 6 && query.length === 0 ? <div className="pager">
                 {prev ? <Link className="previous-page" to={"/text/" + prev} >Previous Page </Link> : <div className="previous-page grey-text">Previous Page</div>}
                 {next ? <Link className="next-page" to={"/text/" + next} >Next Page </Link> : <div className="next-page grey-text">Next Page</div>}
             </div> : ""}

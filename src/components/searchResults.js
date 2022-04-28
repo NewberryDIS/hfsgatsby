@@ -1,5 +1,7 @@
 import React from "react"
 import { Link, StaticQuery, graphql } from "gatsby"
+import styled from "@emotion/styled"
+import { css } from "@emotion/react"
 
 const SearchResults = props => {
   const { query } = props
@@ -42,8 +44,8 @@ const Results = (props) => {
             const query = props.query
             const { title, slug } = node.frontmatter
             const { html } = node
-            if(node.frontmatter.slug && node.frontmatter.slug.indexOf('text') > -1 && title.length > 0 && html.toLowerCase().indexOf(query.toLowerCase()) > -1){
-                const htmlless = html.replace(/(<([^>]+)>)/gi, "");
+            const htmlless = html.replace(/(<([^>]+)>)/gi, "");
+            if(node.frontmatter.slug && node.frontmatter.slug.indexOf('text') > -1 && title.length > 0 && htmlless.toLowerCase().indexOf(query.toLowerCase()) > -1){
                 var foundQuery = [];
                 var indexOccurence = htmlless.toLowerCase().indexOf(query.toLowerCase(), 0);
                 while(indexOccurence >= 0) {
@@ -62,26 +64,46 @@ const Results = (props) => {
                     ) 
                 })
                 return (
-                    <article key={slug}>
-                    <header>
-                        <h2>
-                        <Link to={slug}>{title}</Link>
-                        </h2>
+                    <ResultsCss key={slug}>
+                        <Link to={slug} className="sr-linkbox">
+                            <header>
+                                <h2>
+                                    {title}
+                                </h2>
 
-                    </header>
-                    <section>
-                        {/* <p
-                        dangerouslySetInnerHTML={{
-                            __html: foundContent,
-                        }}
-                        /> */}
-                        {foundContent}
-                    </section>
-                    <hr />
-                </article>
-            )
-        }
+                            </header>
+                            <section>
+                                {/* <p
+                                dangerouslySetInnerHTML={{
+                                    __html: foundContent,
+                                }}
+                            /> */}
+                                {foundContent}
+                            </section>
+                        </Link>
+                    </ResultsCss>
+                )
+            }
         })}
         </div>
         )
 }
+
+
+const ResultsCss = styled.article`
+    margin: 20px;
+    padding: 10px 20px;
+    border: 1px solid var(--textNormal);
+    transition: 0.2s;
+    cursor: pointer;
+    a.sr-linkbox {
+        font-weight: 400 !important;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    &:hover {
+        box-shadow: rgb(0 42 85 / 70%) 0px 0px 10px;
+    }
+
+`
