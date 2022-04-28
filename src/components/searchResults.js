@@ -33,18 +33,16 @@ export default SearchResults
 
 const Results = (props) => {
     const content  = props.data.allMarkdownRemark.edges
-
-  const ogQuery = props.query
-  console.log(ogQuery)
+    content.sort((a, b) => (a.slug > b.slug) ? -1 : 1)
     return (
 
         <div><h1 style={{ textAlign: `center` }}>Search Results for "{props.query}" </h1>
 
         {content.map(({ node }) => {
             const query = props.query
-            const { title, slug, author } = node.frontmatter
-            const { excerpt, html } = node
-            if( title.length > 0 && html.toLowerCase().indexOf(query.toLowerCase()) > -1){
+            const { title, slug } = node.frontmatter
+            const { html } = node
+            if(node.frontmatter.slug && node.frontmatter.slug.indexOf('text') > -1 && title.length > 0 && html.toLowerCase().indexOf(query.toLowerCase()) > -1){
                 const htmlless = html.replace(/(<([^>]+)>)/gi, "");
                 var foundQuery = [];
                 var indexOccurence = htmlless.toLowerCase().indexOf(query.toLowerCase(), 0);
