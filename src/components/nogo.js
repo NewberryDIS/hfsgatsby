@@ -5,7 +5,7 @@ import { css } from "@emotion/react"
 
 const Nogo = () => { 
     return <NogoCss className="nogo-wrapper">
-        <Link to="https://www.newberry.org" target="_blank">
+        <a href="https://www.newberry.org" target="_blank">
             <svg className="nogo" version="1.0"   viewBox="0 0 619 125" preserveAspectRatio="xMidYMid meet" >
                 <g transform="translate(0.000000,125.000000) scale(0.100000,-0.100000)"  stroke="none">
                     <path d="M610 1155 l-155 -94 -5 69 -5 69 -222 -126 -223 -125 0 -474 0 -474 225 0 225 0 0 488 0 487 75 43 75 44 75 -47 75 -47 0 -484 0 -484 183 0 182 1 100 94 100 95 -57 0 -58 0 -2 392 -3 392 -210 137 c-116 76 -212 138 -215 138 -3 1 -75 -42 -160 -94z"/>
@@ -22,7 +22,7 @@ const Nogo = () => {
                     <path d="M5810 785 c0 -3 32 -53 70 -110 l70 -104 0 -81 0 -80 50 0 50 0 0 78 0 77 65 103 c36 57 65 108 65 113 0 5 -20 9 -45 9 -44 0 -45 -1 -88 -65 l-44 -66 -41 66 -41 65 -56 0 c-30 0 -55 -2 -55 -5z"/>
                 </g>
             </svg> 
-        </Link>
+        </a>
     </NogoCss>
 } 
 export default Nogo

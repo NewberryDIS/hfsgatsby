@@ -7,7 +7,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
     return <Tree className="tree-nav">
           {main ? <nav className="tree-nav">
             <details className="tree-nav__item is-expandable" id="colorone" open={ String(pageSlug)[6] === '0'} >
-              <summary  id="text-1"  className='tree-nav__item-title'><Link to="/text/000" >0.00 INTRODUCTION: The Problem of School Books</Link></summary>
+              <summary  id="text-1"  className='tree-nav__item-title pageList'><Link to="/text/000" className={pageSlug === "/text/000" ? "underline" : ""} >0.00 INTRODUCTION: The Problem of School Books</Link></summary>
               <ul className="tree-nav__item">
                 <li className="pageList"><Link to="/text/001" id="text-18" className={pageSlug === "/text/001" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >0.01 Humanism in Crisis</Link></li>
                 <li className="pageList"><Link to="/text/002" id="text-24" className={pageSlug === "/text/002" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >0.02 Regionalisms</Link></li>
@@ -23,7 +23,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
               </ul>
             </details>
             <details className="tree-nav__item is-expandable" id="colortwo" open={ String(pageSlug)[6] === '1'} >
-              <summary  id="text-79"  className='tree-nav__item-title'><Link to="/text/100" >1.00 CHAPTER ONE: From School Author to School Book: Terence in Manuscript and Print</Link></summary>
+              <summary  id="text-79"  className='tree-nav__item-title pageList'><Link to="/text/100" className={pageSlug === "/text/100" ? "underline" : ""} >1.00 CHAPTER ONE: From School Author to School Book: Terence in Manuscript and Print</Link></summary>
               <ul className="tree-nav__item">
                 <li className="pageList"><Link to="/text/101" id="text-84" className={pageSlug === "/text/101" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >1.01 Why Terence?</Link></li>
                 <li className="pageList"><Link to="/text/102" id="text-86" className={pageSlug === "/text/102" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >1.02 Terence in Mind</Link></li>
@@ -48,7 +48,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
           </ul>
         </details>
         <details className="tree-nav__item is-expandable" id="colorthree" open={ String(pageSlug)[6] === '2'}>
-          <summary  id="text-134"  className='tree-nav__item-title'><Link to="/text/200" >2.00 CHAPTER TWO: Getting Started: Learning to Latinize</Link></summary>
+          <summary  id="text-134"  className='tree-nav__item-title pageList'><Link to="/text/200" className={pageSlug === "/text/200" ? "underline" : ""} >2.00 CHAPTER TWO: Getting Started: Learning to Latinize</Link></summary>
             <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/201" id="text-138" className={pageSlug === "/text/201" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >2.01 Learning Reading / Learning Latin</Link></li>
             <li className="pageList"><Link to="/text/202" id="text-142" className={pageSlug === "/text/202" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >2.02 The Donat and the Cato</Link></li>
@@ -74,7 +74,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
           </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="colorfour"   open={ String(pageSlug)[6] === '3'} >
-        <summary  id="text-199"  className='tree-nav__item-title'><Link to="/text/300" >3.00 CHAPTER THREE: Antonio Mancinelli and the Humanist Classroom</Link></summary>
+        <summary  id="text-199"  className='tree-nav__item-title pageList'><Link to="/text/300" className={pageSlug === "/text/300" ? "underline" : ""} >3.00 CHAPTER THREE: Antonio Mancinelli and the Humanist Classroom</Link></summary>
         <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/301" id="text-201" className={pageSlug === "/text/301" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >3.01 A Teacher in Print</Link></li>
             <li className="pageList"><Link to="/text/302" id="text-204" className={pageSlug === "/text/302" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >3.02 Advertising Oneself</Link></li>
@@ -97,7 +97,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
         </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="colorfive"  open={ String(pageSlug)[6] === '4'} >
-      <summary  id="text-240"  className='tree-nav__item-title'><Link to="/text/400" >4.00 CHAPTER FOUR: Crossing Borders: Northern Textbooks on the Italian Market</Link></summary>
+      <summary  id="text-240"  className='tree-nav__item-title pageList'><Link to="/text/400" className={pageSlug === "/text/400" ? "underline" : ""} >4.00 CHAPTER FOUR: Crossing Borders: Northern Textbooks on the Italian Market</Link></summary>
       <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/401" id="text-244" className={pageSlug === "/text/401" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >4.01 Transitions / Translations</Link></li>
             <li className="pageList"><Link to="/text/402" id="text-246" className={pageSlug === "/text/402" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >4.02 Publishing Celebrity</Link></li>
@@ -121,7 +121,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
       </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="colorsix"  open={ String(pageSlug)[6] === '5'} >
-      <summary  id="text-282"  className='tree-nav__item-title'><Link to="/text/500" >5.00 CHAPTER FIVE: Universal and Instrumental: the Jesuit Grammar of Manuel Alvares</Link></summary>
+      <summary  id="text-282"  className='tree-nav__item-title pageList'><Link to="/text/500" className={pageSlug === "/text/500" ? "underline" : ""} >5.00 CHAPTER FIVE: Universal and Instrumental: the Jesuit Grammar of Manuel Alvares</Link></summary>
       <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/501" id="text-284" className={pageSlug === "/text/501" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >5.01 Syntax Sells, Somewhat</Link></li>
             <li className="pageList"><Link to="/text/502" id="text-286" className={pageSlug === "/text/502" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >5.02 The Jesuit Market</Link></li>
@@ -143,7 +143,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
       </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="colorseven"  open={ String(pageSlug)[6] === '6'} >
-      <summary  id="text-319"  className='tree-nav__item-title'><Link to="/text/600" >6.00 CHAPTER SIX: Vernacular Literacy, Commercial Education, and How To Do Stuff</Link></summary>
+      <summary  id="text-319"  className='tree-nav__item-title pageList'><Link to="/text/600" className={pageSlug === "/text/600" ? "underline" : ""} >6.00 CHAPTER SIX: Vernacular Literacy, Commercial Education, and How To Do Stuff</Link></summary>
       <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/601" id="text-321" className={pageSlug === "/text/601" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >6.01 Class and Gender, In School and Out</Link></li>
             <li className="pageList"><Link to="/text/602" id="text-323" className={pageSlug === "/text/602" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >6.02 Alternative Educations</Link></li>
@@ -168,7 +168,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
       </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="coloreight"  open={ String(pageSlug)[6] === '7'} >
-      <summary  id="text-361"  className='tree-nav__item-title'><Link to="/text/700" >7.00 CHAPTER SEVEN: Emblems in the Classroom</Link></summary>
+      <summary  id="text-361"  className='tree-nav__item-title pageList'><Link to="/text/700" className={pageSlug === "/text/700" ? "underline" : ""} >7.00 CHAPTER SEVEN: Emblems in the Classroom</Link></summary>
       <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/701" id="text-363" className={pageSlug === "/text/701" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >7.01 Marketing and Moralizing</Link></li>
             <li className="pageList"><Link to="/text/702" id="text-365" className={pageSlug === "/text/702" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >7.02 Authors and Audiences</Link></li>
@@ -189,7 +189,7 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
       </ul>
       </details>
       <details className="tree-nav__item is-expandable" id="colornine"  open={ String(pageSlug)[6] === '8'} >
-      <summary  id="text-394"  className='tree-nav__item-title'><Link to="/text/800" >8.00 CONCLUSIONS: Selling Books and Selling Ideas</Link></summary>
+      <summary  id="text-394"  className='tree-nav__item-title pageList'><Link to="/text/800" className={pageSlug === "/text/800" ? "underline" : ""} >8.00 CONCLUSIONS: Selling Books and Selling Ideas</Link></summary>
       <ul className="tree-nav__item">
             <li className="pageList"><Link to="/text/801" id="text-396" className={pageSlug === "/text/801" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >8.01 A Market for Humanism</Link></li>
             <li className="pageList"><Link to="/text/802" id="text-398" className={pageSlug === "/text/802" ? "underline tree-nav__item-title" : "tree-nav__item-title"} >8.02 The Rhetoric of Print</Link></li>
@@ -199,14 +199,14 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
       </details> 
     </nav>:<nav className="">
             <ul className="initLink">
-              <li id='textone' className="color-a-1 initLink" ><Link to="/text/000"   >Read the Book</Link></li>
-              <li id='abt'     className="color-a-2 initLink" ><Link to="/abt"    >About the Book</Link></li>
+              <li id='textone' className={ pageSlug === '/textone' ? "underline initlink" : "initLink"} ><Link to="/text/000" className={pageSlug === "/text/000" ? "underline" : ""}   >Read the Book</Link></li>
+              <li id='abt'     className={ pageSlug === '/abt'     ? "underline initlink" : "initLink"} ><Link to="/abt"    >About the Book</Link></li>
+              <li id='ct'      className={ pageSlug === '/ct'      ? "underline initlink" : "initLink"} ><Link to="/ct"     >Citing Humanism For Sale</Link></li>
+              <li id='ps'      className={ pageSlug === '/ps'      ? "underline initlink" : "initLink"} ><Link to="/ps"     >Personal Statement</Link></li>
+              <li id='cont'    className={ pageSlug === '/cont'    ? "underline initlink" : "initLink"} ><Link to="/cont"   >Contact</Link></li>
+              {/* <li id="color-a-7 " className="initLink" ><Link to="bibliography.pdf">Bibliography</Link></li> */}
               {/* <li id='fd'      className="color-a-3 initLink" ><Link to="/fd"     >For Designers</Link></li> */}
               {/* <li id='ed'      className="color-a-4 initLink" ><Link to="/ed"     >For Educators</Link></li> */}
-              <li id='ps'      className="color-a-5 initLink" ><Link to="/ct"     >Citing Humanism For Sale</Link></li>
-              <li id='ps'      className="color-a-5 initLink" ><Link to="/ps"     >Personal Statement</Link></li>
-              <li id='cont'    className="color-a-6 initLink" ><Link to="/cont"   >Contact</Link></li>
-              {/* <li id="color-a-7 " className="initLink" ><Link to="bibliography.pdf">Bibliography</Link></li> */}
               
         </ul>
       </nav>}
@@ -216,8 +216,8 @@ const Sidebar = ({ pageSlug, darkMode, main, colors }) => {
 export default Sidebar
 
 const Tree = styled.div`
-flex: 1;
-  border: 4px solid transparent;
+  flex: 1;
+  // border: 4px solid transparent;
   margin-left: 1vw;
   font-size: 16px;
   summary, li { 
@@ -232,9 +232,16 @@ flex: 1;
   }
   .underline {
     text-decoration: underline;
+    // border-bottom: 1px solid var(--textNormal);
   }
 
-
+  // .pageList a, .initLink {
+  //   border-bottom: 1px solid transparent;
+  //   // &:hover,  &.underline {
+  //   //   text-decoration: underline;
+  //   //   // border-bottom: 1px solid var(--textNormal);
+  //   // }
+  // }
   .tree-nav__item {
     display: block;
     white-space: nowrap;
@@ -252,7 +259,7 @@ flex: 1;
   }
   a {
     font-weight: normal;
-    // padding: 0 0 0 15px;
+    padding: 0 0 0 15px;
   }
   ul {
     margin: 0 0 0 1vw;

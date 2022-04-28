@@ -7,14 +7,19 @@ import Helmet from 'react-helmet'
 import ModeSwitch from '../components/modeswitch'
 import Comments from "../components/{MarkdownRemark.frontmatter.__id}"
 import Nogo from '../components/nogo'
+import SearchResults from '../components/searchResults'
+import Search from '../components/search'
 
 
-export default function Template({
-    data
-}) {
-    const { markdownRemark } = data 
+// export default function Template({
+//   data,
+// }, props) {
+  export default function Template(props) {
+    // const { data } = props
+    const { markdownRemark } = props.data 
     const { frontmatter, html } = markdownRemark
     const [ showComments, setShowComments ] = useState(false)
+    const [ query, setQuery ] = useState('')
 
     // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
@@ -27,32 +32,33 @@ export default function Template({
             <link rel="stylesheet" href="//fast.fonts.net/cssapi/fc8f8385-7e78-4c4b-a85e-9fa8bb57a66a.css"></link>
             <script src="/extras.js"></script>
             <script src="/hfsgatsby/extras.js"></script>
-
           </Helmet>
           <div className="middle">
-      <div className="sidebar">
-        <div className="homelink-wrapper">
-          <Link to="/" className="homelink" ><h1>Humanism For Sale</h1></Link>
-          </div>
-        <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
-        <Nogo />
-      </div>
-      <div className="main">
-        <div className="text-content" id="top">
-          <div className="scrollable-content" >
-            {frontmatter.title.length > 0 ? <h2 className="page-title">{frontmatter.title}</h2> :""}
-              <div
-                className="blog-post-content"
-                dangerouslySetInnerHTML={{ __html: html }}
-              />
-          <div id="comments-section" />
-              {showComments ? <Comments  id="comments-start" postid={frontmatter.postid} /> : ""}
+            <div className="sidebar">
+              <div className="homelink-wrapper">
+                <Link to="/" className="homelink" ><h1>Humanism For Sale</h1></Link>
+                </div>
+              <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
+              <Search query={query} setQuery={setQuery} />
+              <Nogo />
             </div>
-          </div>
-      {frontmatter.slug?.length > 6 ? <div className="pager">
-          {prev ? <Link className="previous-page" to={"/text/" + prev} >Previous Page </Link> : <div className="previous-page grey-text">Previous Page</div>}
-          {next ? <Link className="next-page" to={"/text/" + next} >Next Page </Link> : <div className="next-page grey-text">Next Page</div>}
-        </div> : ""}
+            <div className="main">
+              {query.length > 0 ? <SearchResults query={query} /> : <div className="text-content" id="top">
+                <div className="scrollable-content" >
+                  {frontmatter.title.length > 0 ? <h2 className="page-title">{frontmatter.title}</h2> :""}
+                  <div
+                    className="blog-post-content"
+                    dangerouslySetInnerHTML={{ __html: html }}
+                  />
+                  <div id="comments-section" />
+                  {showComments ? <Comments  id="comments-start" postid={frontmatter.postid} /> : ""}
+                </div>
+              </div>
+            }
+              {frontmatter.slug?.length > 6 ? <div className="pager">
+                {prev ? <Link className="previous-page" to={"/text/" + prev} >Previous Page </Link> : <div className="previous-page grey-text">Previous Page</div>}
+                {next ? <Link className="next-page" to={"/text/" + next} >Next Page </Link> : <div className="next-page grey-text">Next Page</div>}
+            </div> : ""}
         </div>
       </div>
 
@@ -150,6 +156,12 @@ const PageCss = styled.div`
         overflow-x: hidden;
         text-overflow: ellipsis;
       }
+      // a:hover {
+      //   text-decoration: none;
+      // }
+      // a:hover {
+      //   border-bottom: 1px solid var(--textNormal);
+      // }
       background: var(--bgTwo);
    
       .homelink-wrapper {
@@ -171,7 +183,6 @@ const PageCss = styled.div`
       }
       .homelink:hover {
         text-decoration: none;
-
         h1 {
 
           border: 1px solid var(--textNormal);
