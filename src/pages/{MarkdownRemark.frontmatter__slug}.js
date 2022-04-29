@@ -15,11 +15,12 @@ import Search from '../components/search'
 //   data,
 // }, props) {
   export default function Template(props) {
-    // const { data } = props
+    // const [ hTerm, setHTerm ] = useState(props.location.state.highlightedTerm || '' ) 
+    // console.log(hTerm)
     const { markdownRemark } = props.data 
     const { frontmatter, html } = markdownRemark
     const [ showComments, setShowComments ] = useState(false)
-    const [ query, setQuery ] = useState('')
+    const [ query, setQuery ] = useState(props.location.search || '' )
 
     // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
@@ -39,11 +40,11 @@ import Search from '../components/search'
                 <Link to="/" className="homelink" ><h1>Humanism For Sale</h1></Link>
                 </div>
               <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
-              <Search query={query} setQuery={setQuery} />
+              <Search />
               <Nogo />
             </div>
             <div className="main">
-              {query.length > 0 ? <SearchResults query={query} /> : <div className="text-content" id="top">
+              {query.length > 0 ? <SearchResults query={query} setQuery={setQuery} /> : <div className="text-content" id="top">
                 <div className="scrollable-content" >
                   {frontmatter.title.length > 0 ? <h2 className="page-title">{frontmatter.title}</h2> :""}
                   <div
@@ -285,7 +286,6 @@ const PageCss = styled.div`
 `
 
 const CommentsButton = ({darkMode, setShowComments, showComments}) => {
-  const filll = darkMode ? "#e8e9ca" : "#000000" 
   const commentsAlt = <svg version="1.1" id="comments-button" xmlns="http://www.w3.org/2000/svg" fill={'var(--textNormal)'} viewBox="0 0 512 512" onClick={()=>setShowComments(!showComments)} >
     <title>Hide Comments</title>
     <g>

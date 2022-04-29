@@ -2,4 +2,4 @@
     "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
     "path": "/text/4/",
     "result": {"data":{"markdownRemark":{"html":"<!-- reserved page for Comments By Section -->","frontmatter":{"slug":"/text/4","title":"Comments By Section","postid":null}}},"pageContext":{"id":"6f9309ab-717e-5ead-bc44-e5caeb95ee6c","frontmatter__slug":"/text/4","__params":{"frontmatter__slug":"text"}}},
-    "staticQueryHashes": ["3501098621","4191026804"]}
+    "staticQueryHashes": ["4191026804"]}
