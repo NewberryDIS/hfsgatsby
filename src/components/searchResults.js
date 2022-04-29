@@ -103,7 +103,8 @@ const ResultsCss = styled.article`
         }
     }
     &:hover {
-        box-shadow: rgb(0 42 85 / 70%) 0px 0px 10px;
+        box-shadow: var(--textTitle) 0px 0px 10px;
+        // box-shadow: rgb(0 42 85 / 70%) 0px 0px 10px;
     }
 
 `
