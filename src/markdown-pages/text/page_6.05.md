@@ -32,7 +32,6 @@ Pietro Cataneo (d. ca. 1569) presented a more progressive approach in his 1546 *
 </figure>
 
 The transition between the two parts came in the form of a long chapter on proportional computation, in which Cataneo invited the reader to think of mathematics as a better form of merchant common sense. He had his students start from real-life situations, but they were to abstract each problem into a quasi-algebraic proposition with a single unknown term clearly situated in a mathematical formula susceptible to computation. This sort of reasoning, he said, is essential to finding "a solution to commercial accounts" (*solutione alle ragioni mercatorie*).
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -43,7 +42,6 @@ The transition between the two parts came in the form of a long chapter on propo
 </figure>
 
 He proceeded to demonstrate the method with problems of increasing complexity concerning profit and loss, business partnerships, foreign exchange, barter, simple and compound interest, and rent contracts. (32) Before turning to geometry, Cataneo gave a substantial section of problems to be solved by estimation, the so-called "rule of Cathay, or false positioning." (33) Among the practical problems in this section he also included a few mathematical amusements.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

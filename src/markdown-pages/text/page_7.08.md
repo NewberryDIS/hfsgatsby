@@ -15,6 +15,6 @@ Perhaps it was just too much to expect commerce and humanism to mix easily in th
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (25)Â  Wolkenhauer 1998, 164-166 and 2002, 86-88.
+* (25) Wolkenhauer 1998, 164-166 and 2002, 86-88.
 * (26) Arnold 1940, viii verso-ix recto: *Quilibet hoc fuco libris accedere lucem / Augurat, &amp; foedi spem capit inde lucri. / Sed quod picta refert chartis praefixa figura, / Possesor factis abnegat usque piis. / Nemo virtutis praefert insignia, nemo / Iustitiae iusta corripit arma manu*.
-* (27)Â  Wolkenhauer 2002, 86-109 gives texts of many of the extant comments; for another body of notes and commentary on applied emblems, see Sabbioneta 2003, 32-36 and passim.
+* (27) Wolkenhauer 2002, 86-109 gives texts of many of the extant comments; for another body of notes and commentary on applied emblems, see Sabbioneta 2003, 32-36 and passim.

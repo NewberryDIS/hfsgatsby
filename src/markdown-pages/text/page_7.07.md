@@ -17,8 +17,8 @@ Thus the emblematic mark is both an ingenious device or company logo and a way f
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (20)Â  Schilling 1990, 288-292; Henkel 2000, 210-213, 237-243.
-* (21)Â  Smith 2000a.
-* (22)Â  For the design process, Peponis et al. 2002, 75-88; Gehl 2002, 104-105; further on psychology, Gareffi 1981, 12-17; Scholz 2002, 303-305; on marketing aspects, Sabbioneta 2003, 16-36.
-* (23)Â  Compagnon 1979, 262-267; Pinkus 1996, 75-88.
+* (20) Schilling 1990, 288-292; Henkel 2000, 210-213, 237-243.
+* (21) Smith 2000a.
+* (22) For the design process, Peponis et al. 2002, 75-88; Gehl 2002, 104-105; further on psychology, Gareffi 1981, 12-17; Scholz 2002, 303-305; on marketing aspects, Sabbioneta 2003, 16-36.
+* (23) Compagnon 1979, 262-267; Pinkus 1996, 75-88.
 * (24) Mignault 1571 quoted by Wolkenhauer 2002, 90: *... quorundam rei Typographicae peritorum hominumn huc adiiciam eiconas, quibus ingeniose uti soleant in suorum libris fontispiciis, quibus se vel ingenio, vel arte, meliorum litterarum adiumento necessaria commendent.*

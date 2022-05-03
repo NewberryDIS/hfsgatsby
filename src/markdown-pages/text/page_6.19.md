@@ -10,18 +10,18 @@ Behind the title pages, however, the contents could vary considerably. Most inst
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-6A-138,-Prima-seconda-parte-del-Transilvano,--pg.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-6A-138,-Prima-seconda-parte-del-Transilvano,--pg.1r.jpg" />
-    <figcaption class="mkdn-figcaption">case-6a-138-prima-seconda-parte-del-transilvano-pg1r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">A fictional public (click to enlarge - 704 KB jpeg image)</figcaption>
     </div>
 </figure>
 
-Some authors clearly intended their discussions for beginners or do-it-yourself learners, so they simplified the content and broke it into small sections. Other authors were addressing music teachers and dwelt at greater length on theory. And some, like Girolamo Diruta (1550 - ca. 1620) at the end of the century, clothed their work in an elaborate literary frame. Diruta constructed a lengthy dialogue between himself and a title character, *The Transylvanian*, who stood in for the dedicatee of the book, Prince Sigismund BÃ¡thory (1572-1613). The prince can only have been an amateur, but he is made to ask for detailed information from Diruta. The result is generally considered the most original and important Italian manual of keyboard practice. It was not intended for amateurs like BÃ¡thory nor 
+Some authors clearly intended their discussions for beginners or do-it-yourself learners, so they simplified the content and broke it into small sections. Other authors were addressing music teachers and dwelt at greater length on theory. And some, like Girolamo Diruta (1550 - ca. 1620) at the end of the century, clothed their work in an elaborate literary frame. Diruta constructed a lengthy dialogue between himself and a title character, *The Transylvanian*, who stood in for the dedicatee of the book, Prince Sigismund Báthory (1572-1613). The prince can only have been an amateur, but he is made to ask for detailed information from Diruta. The result is generally considered the most original and important Italian manual of keyboard practice. It was not intended for amateurs like Báthory nor for beginning students, but rather for organ teachers. (102)
 
-The audience for a given music book is often hard to judge, though we can make some inferences based on content and formatting. Books that concerned instrumental practice often seem to have been aimed at amateur students or their teachers. Books on plainchant were clearly directed to professionals, though often performers of no great sophistication. Polyphony books almost always concern compositional norms as well as performance, and so we may assume that they were usually intended for professional musicians. (103) But the evidence for these conclusions is indirect or partial, except in the case of Lanfranco mentioned above (section 6.17). Only toward the end of the sixteenth century do we regularly find full-scale descriptions of the potential audience
+The audience for a given music book is often hard to judge, though we can make some inferences based on content and formatting. Books that concerned instrumental practice often seem to have been aimed at amateur students or their teachers. Books on plainchant were clearly directed to professionals, though often performers of no great sophistication. Polyphony books almost always concern compositional norms as well as performance, and so we may assume that they were usually intended for professional musicians. (103) But the evidence for these conclusions is indirect or partial, except in the case of Lanfranco mentioned above (section 6.17). Only toward the end of the sixteenth century do we regularly find full-scale descriptions of the potential audience for music-instruction books in the vernacular.
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/MT-870.C37-R4-1989,-Le-regole-piu-necessarie-per-lintroduttione-del-canto-fermo,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/MT-870.C37-R4-1989,-Le-regole-piu-necessarie-per-lintroduttione-del-canto-fermo,-title-page.jpg" />
-    <figcaption class="mkdn-figcaption">mt-870c37-r4-1989-le-regole-piue28099-necessarie-per-le28099introduttione-del-canto-fermo-title-page-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">A prettified title page, 1609 (click to enlarge - 709 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -30,7 +30,7 @@ Pietro Cerone (1566-1625), a theorist and singing master at the church of the Sa
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-VMT-6.C416m-(VAULT)-El-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica,-3v-4r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-VMT-6.C416m-(VAULT)-El-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica,-3v-4r.jpg" />
-    <figcaption class="mkdn-figcaption">case-vmt-6c416m-vault-el-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica-3v-4r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Pompous royal dedication (click to enlarge - 688 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -38,11 +38,11 @@ Cerone's forty-page *Regole* contrasts sharply with his larger manual, *El Melop
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (100)Â  Ganassi 1535: *cho tutta l'arte opportuna a esso istrumento*.
+* (100) Ganassi 1535: *cho tutta l'arte opportuna a esso istrumento*.
 * (101) These epithets from Diruta 1609, part 2.
-* (102)Â  The first edition of part one dates from 1593, that of part 2 from 1609; see Diruta 1984; Gargiulo 2004, 173n.
-* (103)Â  Boorman 1986, 227-230; Owens 1996, 13-14.
-* (104)Â  Cerone 1609, 3: *poveri Ecclesiastici ed altresi de lÃ¬ desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati*. On Cerone, SÃ¡nchez GarcÃ­a 2007, 67, 171-172.
-* (105)Â  Cerone 1609, 37: ... *nÃ¨ di molte altere cosette: per quanto mi pare no essere tanto necessario ad un semplice cantore, quanto utile ad un perfetto Chorista: che per servitio del Choro, lo detto fin qui, basta*.
-* (106)Â  Gargiulo 2004, 180-182; Cerone1989, ix-xv.
+* (102) The first edition of part one dates from 1593, that of part 2 from 1609; see Diruta 1984; Gargiulo 2004, 173n.
+* (103) Boorman 1986, 227-230; Owens 1996, 13-14.
+* (104) Cerone 1609, 3: *poveri Ecclesiastici ed altresi de lÃ¬ desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati*. On Cerone, Sánchez Garcì­a 2007, 67, 171-172.
+* (105) Cerone 1609, 37: ... *nè di molte altere cosette: per quanto mi pare no essere tanto necessario ad un semplice cantore, quanto utile ad un perfetto Chorista: che per servitio del Choro, lo detto fin qui, basta*.
+* (106) Gargiulo 2004, 180-182; Cerone1989, ix-xv.
 * (107) For this ideal in chancery manuals, Trovato 1994, 71-74.

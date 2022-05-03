@@ -13,7 +13,6 @@ Most octavo Terences of the early sixteenth century (excepting only that of quir
 </figure>
 
 By mid-century, advances in philology meant that it was essential to proclaim on the title page that the volume contained a good text. The form could be elaborate or summary. A number of editions of the fifteen fifties, for example, carried routine boastfulness to a perfunctory extreme with titles that read, The *Six Comedies of Publius Terentius Afer*, *lately corrected with the greatest diligence according to all the editions of all [six plays]*. (61) The phrase was safely impossible to verify. At the other extreme were claims made for the text of Marc Antoine Muret. Muret and his publisher Paolo Manuzio portrayed themselves as vigilant correctors of the text. They let themselves in for criticism on this account because humanist scholars immediately replied with further corrections. The 1555 Muret text of Terence was particularly problematic in this way because it abandoned the older Aldine text, edited originally by Aldo the Elder and still much admired at mid-century. The Muret Terence even became a cause for debate at the papal court since both Muret and his principal critic, Gabriele Faerno, were clients of Pius IV. (62)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

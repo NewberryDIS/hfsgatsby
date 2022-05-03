@@ -3,7 +3,6 @@ title: "3.05 Urban Schools, Urban Patrons"
 slug: /text/305
 postid: 211
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

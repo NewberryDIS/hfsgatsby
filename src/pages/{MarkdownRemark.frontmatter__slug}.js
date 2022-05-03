@@ -37,7 +37,30 @@ import Search from '../components/search'
           <div className="middle">
             <div className="sidebar">
               <div className="homelink-wrapper">
-                <Link to="/" className="homelink" ><h1>Humanism For Sale</h1></Link>
+                <Link to="/" className="homelink" ><h1>
+                  <p className="title-top">
+
+              <span className="title-letter">H</span>
+              <span className="title-letter">u</span>
+              <span className="title-letter">m</span>
+              <span className="title-letter">a</span>
+              <span className="title-letter">n</span>
+              <span className="title">i</span>
+              <span className="title-letter">s</span>
+              <span className="title-letter">m</span>
+                  </p>
+              <p className="title-bottom">
+              <span className="title-letter">F</span>
+              <span className="title-letter">o</span>
+              <span className="title-letter">r</span>
+              <span className="title-letter"> </span>
+              <span className="title-letter">S</span>
+              <span className="title-letter">a</span>
+              <span className="title-letter">l</span>
+              <span className="title-letter">e</span>
+</p>
+                  {/* <p className="title-top">Humanism</p><p className="title-bottom">For Sale</p> */}
+                  </h1></Link>
                 </div>
               <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
               <Search />
@@ -90,6 +113,15 @@ const PageCss = styled.div`
   h1, h2 {
     padding: 2px;
     font-family: var(--fontSerif);
+    p {
+      margin: 0 10%;
+      width 80%;
+      // margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: space-between;
+
+    }
   }
   h1 {
     // background: var(--bg);

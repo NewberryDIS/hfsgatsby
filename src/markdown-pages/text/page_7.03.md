@@ -4,7 +4,6 @@ slug: /text/703
 postid: 367
 ---
 Emblems functioned as machines for interpretive reading, and as such they could be tools for teaching study skills. A few examples will show how this was so. The simplest emblems make us think immediately of classroom reading exercises, even though we know they were not originally intended for that purpose. In Alciati's Emblem 126, under the motto "From one man's loss, another's gain" (*Ex damno alterius alterius utilitas*), the reader is invited to imagine a lioness and a boar in mortal combat while a vulture sits watchfully in a nearby tree. The poem describes the action in simple verse, deliberately rustic in style and reminiscent of an Aesopian fable. The final line, again after the fashion of Aesop, offers an epigrammatic saying or moral, "The trophy of the victor will be another's [the vulture's] plunder." (7) This moral, however, was the second one given to the reader, since he had already been told in the motto that one man's loss produces another's gain. Equally deliberately, the story is a little more complex than Alciati's rustic style or either pithy saying alone allowed. The attentive reader would notice that there were two winners and one loser in the story, while the motto described one winner and one loser, and the moral epigram named the two winners but merely implied a loser.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -15,7 +14,6 @@ Emblems functioned as machines for interpretive reading, and as such they could 
 </figure>
 
 The printed image could complicate the reading of the emblem or simplify it. In Alciati's first emblems, there were no visuals, only the poems and mottoes. One of the pleasures of the puzzle --something that recommended it as a pastime-- was that the poem invited the reader to visualize the scene for himself. In the case of an animal fable like that of the lioness, boar, and vulture this process did not in fact require much imagination since the animals in question had a familiar iconography. A printed emblem complete with image was puzzling in a different way, since the reader might not at first see how the meaning of the motto at the top of the page related to the picture. In the visual dynamic of the printed emblem, motto and picture are captured by the eye at once, but only carefully reading the poem in a second moment could resolve the tension between motto and image. Emblem 126 of the lioness and boar comes from the second published collection of Alciati's emblems, offered by the Aldine press in 1546. By this time, Alciati's earlier collection had been in print for fifteen years and the learned inventor knew that his new emblems would be presented with images. The result in this case of an animal fable was a simple, clearly described image easily translated by the artist.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -29,7 +27,6 @@ Many of Alciati's emblems, however, were less naturalistic in form and lent them
 
 > Do not be credulous, do not be incautious, says Epicharmus. These will be the sinews and limbs of the human mind. Behold a hand with an eye, believing what it sees. Behold the pennyroyal flower, ancient symbol of sobriety. By displaying it [the flower] Heraclitus calmed the crowd and charmed it, though it was threatening with swelling sedition.
 
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -44,4 +41,4 @@ This poem is not entirely self-explanatory, but at least it identifies the sourc
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
 * (7) My translations, here and elsewhere in this chapter, are adapted from the online Alciati, www.mun.ca/alciato.
-* (8)Â  On mnemonic dimensions of emblems, Neuber 1990, 245-248, 255-257; on Heraclitus and moral analogy, Stafford 1999, 105. For the *manus oculata* symbol as a merchant's device, see Sabbioneta 2003, 61; it also appeared as an entirely decorative element in at least one mathematics textbook, Bettini 1642, vol. 2, pt. 2, p. 9.
+* (8) On mnemonic dimensions of emblems, Neuber 1990, 245-248, 255-257; on Heraclitus and moral analogy, Stafford 1999, 105. For the *manus oculata* symbol as a merchant's device, see Sabbioneta 2003, 61; it also appeared as an entirely decorative element in at least one mathematics textbook, Bettini 1642, vol. 2, pt. 2, p. 9.

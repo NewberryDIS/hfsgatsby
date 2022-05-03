@@ -3,7 +3,6 @@ title: "7.14 Chubby Children and the Blessed Virgin"
 slug: /text/714
 postid: 388
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -14,7 +13,6 @@ postid: 388
 </figure>
 
 Part of Hugo's approach to younger students was his extensive use of adolescent guardian angels, and even more often child-angels, as protagonists in the images. These angels appeared alongside adults or children who represented the souls of the penitent. For example, Hugo and his engraver-collaborator BoÃ«ce van Bolswert (ca. 1580-1633) illustrated the Psalm-verse "Lord thou knowest my foolishness" with a cherubic guardian angel who covers his eyes rather than behold the antics of a fool. (53) The fool is depicted in more adult form than the angel, but they are about the same height, so their ages remain ambiguous. More important to understanding the dynamic of the child-angel is the fact that the angel is not mentioned in the motto or the poem and really plays no functional role in the theme of this emblem. The cherub here merely stands in for the reader as viewer of the emblematic action. In some cases both the guardian angel and the soul are children. (54)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -25,7 +23,6 @@ Part of Hugo's approach to younger students was his extensive use of adolescent 
 </figure>
 
 Interestingly, the first edition of Hugo's *Pia desideria* published in Italy (Milan, 1634) took considerable freedom with these children and cherubs. Very occasionally, the childlike figures were preserved, as for example when both Dutch and Italian editions portrayed a childlike penitent before a bench at which a cherubic judge presides. (55) Sometimes the figures have merely aged a few years at Milan. The emblem for Job10,20, "Shall not the fewness of my days be ended shortly?" displayed a pair of very young children in 1624 and a pair of older ones in 1634. (56) More often however, the artist for the Milanese edition (probably Carlo Bianchi, fl. 1610-1635) made the protagonists over completely into adolescents or adults. The angel and the fool, for example, are both adults in the Milan version of Emblem I,5. In the very next emblem a child angel consoles a sick adult in 1624, but the angel in 1634 is clearly adolescent and not childlike. (57) Hermann Hugo and BoÃ«ce van Bolswaert apparently thought that introducing child actors and childlike observers was important to the thematic development of the book or to its potential audience. But Bianchi either did not understand this aim or had a different audience in mind. The 1634 Milan edition is dedicated to an aristocratic nun, so the publisher may have been thinking of convent readers rather than children. (58)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -36,7 +33,6 @@ Interestingly, the first edition of Hugo's *Pia desideria* published in Italy (M
 </figure>
 
 The Jesuits seem to have been particularly fond of chubby children. The *Typus Mundi*, published by the Antwerp Jesuit college in 1627 is full of them, often in improbable situations. There was little obvious reason to introduce a little angel into the scene of a table full of forged coins that illustrates the motto, "All that glitters is not gold" (*Non omne, quod hic micat, aurum est*).
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -47,7 +43,6 @@ The Jesuits seem to have been particularly fond of chubby children. The *Typus M
 </figure>
 
 Nor did it add much to show both an adult bourgeois and a cupid falling from the spinning globe in an emblem that illustrates the instability of social standing. John Manning opines that "the use of children in emblem books was part of a palpable design on the reader, and it mattered little...whether this reader was an adult or a child. ...Calendar age ceased to matter under Christ's Gospel imperative to become as little children." (59)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -60,7 +55,6 @@ Nor did it add much to show both an adult bourgeois and a cupid falling from the
 This evangelical theme was indeed widespread in emblem literature. But the Antwerp Jesuits had a further goal, I think, to include even their youngest charges into a community of learning where emblematic thinking became second nature. The artists and authors wanted children in the pictures specifically so readers would draw the conclusion that such morals were *not* for grownups only. Clearly, then, they had an audience in mind that included both real children and also older students who could still identify with children. (60)
 
 Historians have tended to treat the so-called college emblem books in a separate category from other Jesuit emblems. These emblem collections were created and published by single Jesuit colleges. It is difficult to identify a specific audience for them, but they were not mere curiosities, since some titles ran to several editions. Books like these came out of the rhetoric curriculum. They offered completed exercises by advanced students (closely supervised by their instructors, of course). It is not clear that they were intended to be taken back into the classroom in a second moment.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -76,14 +70,14 @@ Inventing emblems was part of the rhetoric curriculum in Italy too, but few Jesu
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (53)Â  Emblem I,5; Ps 68, 6: *Deus tu scis insipientiam meam*.
-* (54)Â  Manning 2002, 179 adduces "local visual convention" for these child figures and claims that Hugo could not have intended his complex baroque poetry for children. In fact the poems are no more complicated than any other classical or neo-classical poetry given to Latin schoolboys; and the images are simpler than most emblems.
-* (55)Â  Emblem I,10; Ps 142,2.
-* (56)Â  Emblem I,13: *Numquid non paucitas dierum meorum finietur brevi*?
-* (57)Â  Emblem I,6: *Miserere me, domini, quoniam infirmus sum*.
+* (53) Emblem I,5; Ps 68, 6: *Deus tu scis insipientiam meam*.
+* (54) Manning 2002, 179 adduces "local visual convention" for these child figures and claims that Hugo could not have intended his complex baroque poetry for children. In fact the poems are no more complicated than any other classical or neo-classical poetry given to Latin schoolboys; and the images are simpler than most emblems.
+* (55) Emblem I,10; Ps 142,2.
+* (56) Emblem I,13: *Numquid non paucitas dierum meorum finietur brevi*?
+* (57) Emblem I,6: *Miserere me, domini, quoniam infirmus sum*.
 * (58) Hugo 1634 (CLEJ, no. J637) is dedicated to Lucrezia Maria Sfondrati, prioress of San Paolo Converso at Milan, on which see Baernstein 2002. Compare Hugo 1678 (CLEJ, no. J750), a second Italian edition, also dedicated to an abbess.
 * (59) 2003, 165.
-* (60)Â  The inclusion of children was widely practiced in mannerist literature of all sorts; see for example, Gareffi 1981, 70-76.
-* (61) *Typus* 1697, p. 9: *Juvenes sumus, Rhetores sumus. Si grande quid expectas, ludimus*. The words for studying and playing, of course, are the same in Latin; *ludimus* here means both "œwe study" and "œwe play."
+* (60) The inclusion of children was widely practiced in mannerist literature of all sorts; see for example, Gareffi 1981, 70-76.
+* (61) *Typus* 1697, p. 9: *Juvenes sumus, Rhetores sumus. Si grande quid expectas, ludimus*. The words for studying and playing, of course, are the same in Latin; *ludimus* here means both "we study" and "we play."
 * (62) Maggi 1998a, 123, 129-31; Maggi 1998b, 373-377; further on the Italian tradition of Marian emblems, Caldwell 2004, 259-273.
-* (63)Â  *Imprese* 1603, 33: *...dalle quali parole, e pitture traher potrÃ  qualsivoglia mezzano ingegno nobilissimo sentimento*.
+* (63) *Imprese* 1603, 33: *...dalle quali parole, e pitture traher potrÃ  qualsivoglia mezzano ingegno nobilissimo sentimento*.

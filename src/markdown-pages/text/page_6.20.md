@@ -15,5 +15,5 @@ Vernacular learning was the future of education and of educational publishing. C
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (108)Â  Crosby 1997, 139-197; see also Van Egmond 1986, 53-59; Carruthers and Nelson-Espeland 1991, 34-36, 60-64; Cormack and Mazzio 2005, 95-113.
-* (109)Â  Crosby 1997, 200.
+* (108) Crosby 1997, 139-197; see also Van Egmond 1986, 53-59; Carruthers and Nelson-Espeland 1991, 34-36, 60-64; Cormack and Mazzio 2005, 95-113.
+* (109) Crosby 1997, 200.

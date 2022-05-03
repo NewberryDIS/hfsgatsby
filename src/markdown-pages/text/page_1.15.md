@@ -4,7 +4,6 @@ slug: /text/115
 postid: 112
 ---
 Inside folio Terences, the base text and commentaries varied far less than the front matter. Girolamo Scoto again set the standard in his 1545 edition. He provided three summaries for the action of each scene by three different humanist schoolmasters of note; the innovation was immediately copied by other publishers. Venturino Ruffinelli, who preferred his own layout and design (using comic-strip style illustrations), copied the 1545 text slavishly in 1546, but squeezed it into a page layout that had been designed for his 1539 edition of Gouveia's text. The basic layout problem in the case of Terence was that the text consists of short scenes with much back-and-forth badinage while the apparatus was typically very lengthy. As we have already noted, early printers of text with commentary had arranged the commentary for each scene in humanist-manuscript form all around the base text, creating a window or windows for the words of Terence. The resulting window-and-frame layouts are visually very lively, with each spread slightly different from the last, depending on the length of the commentary with respect to the text. (65) As the sixteenth century progressed, however, it became more usual to employ a simple two-column format that placed the base text of each scene first and the commentary afterwards, alternating but running continuously from column to column. The four columns on a spread owned variety and visual interest because the text of Terence was set in larger type and more generously leaded than the commentary, but the result was rarely as handsome as the older manuscript-style layouts. This two-column format took over because it was much easier to set, correct, revise, and reprint than a window-and-frame.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -15,7 +14,6 @@ Inside folio Terences, the base text and commentaries varied far less than the f
 </figure>
 
 Similarly, fewer and fewer options were exercised in ornamenting and illustrating the folio text as the century wore on. Virtually the only ambitious editions from this point of view are the 1545 Scoto and the 1553 Cesano. These books preserve something of the grace of earlier folios, with both the repeated author portraits and the scene-by-scene illustrations that had characterized some folio editions in the fourteen nineties and early in the sixteenth century. Illustrations of individual scenes disappeared entirely after the 1555, perhaps because the enthusiasm for their rediscovery had waned, and again in recognition of the fact that they added little beyond their ornamental value. Once they had been reduced to comic-strip style, moreover, they could not claim any real utility, even if they once had it. Author portraits persisted a little longer, but slowly faded away too.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

@@ -4,7 +4,6 @@ slug: /text/111
 postid: 104
 ---
 We come away from these Griffio editions with the distinct impression that the elder Giovanni Griffio was, if not an enthusiastic promoter of his editor, at least faithful in serving the text as best he could with design, layout, and advertising. His heirs, on the other hand, seem to have treated Terence as mere commodity, and not too interesting a one at that. The critical apparatus was just so many bits of information that had to be included because the long printing tradition of the house meant that repeat customers wanted to find them in place. In the case of a school text like Terence, such considerations of consistency were important. Teachers depended on being able to get new printings of a textbook with which they were familiar while still using copies of earlier printings in their classrooms. This kind of conservatism worked against innovation in the market for textbooks.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -19,7 +18,6 @@ The Griffio octavos, then, throw light on an important question, the degree to w
 The Sessa firm of Venice attempted to rival Muret in 1566 with a text based on a 1548 Basel edition by Theodor Poelmann; but Poelmann's text never achieved anything like the currency in Italy that Muret's would have for fifty-odd years. Similarly, in 1565 the Florentine Giunta published a text based on the work of Gabriele Faerno (1510-1561). The Medici family had long patronized Faerno, most recently in the person of Pope Pius IV, and the book was dedicated to no less a personage than Carlo Borromeo, cardinal archbishop of Milan. The publishers made great claims for its critical superiority because Faerno, employed for twenty years at the Vatican library, had had access to many early manuscripts. Scholars all over Europe admired and studied the work of Faerno, but the Giunta were the only ones to offer this text of Terence. (54)
 
 Giovanni Griffio, as we have seen, promoted the text edited and annotated by Antonio de Gouveia starting in 1555; the Griffio press stuck to this text through more than a dozen editions, so it must have found a school market as a learned alternative to Muret's text. Seventeenth-century editions by Northern European editors would find a still larger Italian market, but this success came in the period of the decline of the Venetian press. It is impossible in the present state of the evidence to say how much of their success should be credited to the quality of their philological work and what was due simply to the lack of effective competition from Italian publishers after 1600.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

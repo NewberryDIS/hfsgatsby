@@ -4,7 +4,6 @@ slug: /text/601
 postid: 321
 ---
 Paul F. Grendler's 1989 overview of education in Renaissance Italy includes an important chapter with the title "œGirls and Working-Class Boys in School." (1) This way of categorizing students fits the usage of the early sixteenth century perfectly. Giovanni Antonio Tagliente (ca. 1465?-1528?), for example, on the title page of a 1524 primer described his audience as "œthose who know nothing "“ young, old, and women." A decade earlier, Gian Alberto Bossi had praised a bequest for a grammar school for poor boys by pointing out that it would make the unlikely possible, "The poor boy will learn as if he were a rich one." (2) These classifications were not condescending, just matter-of-fact, since entire social classes (and the vast majority of women) were only rarely given the opportunity to learn to read and write. Even if they achieved literacy, individuals in these groups were almost entirely excluded from the Latinate sort of education for which most early textbooks were designed. Educational (and publishing) categories were largely determined by gender and by class, though not in a symmetrical way. (3) Women and working class men were not completely barred from education, but they had few opportunities to go far in school. In the sixteenth century, vernacular textbook authors would come to appeal directly to such readers.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

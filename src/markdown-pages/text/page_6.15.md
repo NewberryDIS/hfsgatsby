@@ -3,7 +3,6 @@ title: "6.15 Books to Formula"
 slug: /text/615
 postid: 349
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -14,7 +13,6 @@ postid: 349
 </figure>
 
 Giovambaptista Verini, whom we met earlier (section 6.10) as an author of handwriting manuals, books of courtesy, and games, also assembled a *ricettario*. His is a good example of how unoriginal the genre could be and how poorly it could be designed and printed by contrast to the early versions of the *Dificio*. Verini entitled his grubby little booklet grandly enough, *The Triumph of Recipes and Beautiful Secrets, composed by Giovambattista Verini the Florentine for the common good of every gentle spirit.* (82) The colophon to this little octavo of 24 leaves indicated that it was printed at Milan at Verini's own expense.Â In the preface the author confessed that he did not make up or even test the recipes he offers, merely that he had extracted them from "many books of recipes and of various clever speculations" [*assai Libri di ricette e di diversi speculativi, ingegni*] as an offering to his genteel friends. Verini claimed that he collected the recipes over a long period; but most of his book is copied directly from the *Dificio di ricette*. He even copied the claim that he had made the collection for personal friends and associates. (83)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -28,8 +26,8 @@ So there was little new here. Verini thought that his secrets were more in the m
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (82)Â  Verini 1535.
-* (83)Â  Verini 1535; this book does not appear in the lists of *ricettari* by Ferguson or Eamon; on it, see Verini 1966a, 36.
-* (84)Â  Verini 1535, fol. 3v: *bufssftf ipmipsib tra la c.vtt.in*. Â¶*Recipe uno cuore de una tortola e dallo a mangiare a quella persona ut supra*. I have not figured out the coded description of the person to be ill-treated thus.
-* (85)Â  Verini 1535, fol. 7v: Â¶*Affare gentilezza a qualche persona strana che non potra dormire in letto che parra che gli abi adosso mille pidocchi ..questa gentilezza e daffare a qualche persona fastidiosa : &amp; rincrescievole.*
-* (86) Ibid.: Â¶ *Secreto dignissimo per uno che avessi assaltare o per forza o per amore qualche finestra o altra sommita*. This is one of "secrets" Verini did not copy directly from the *Dificio*.
+* (82) Verini 1535.
+* (83) Verini 1535; this book does not appear in the lists of *ricettari* by Ferguson or Eamon; on it, see Verini 1966a, 36.
+* (84) Verini 1535, fol. 3v: *bufssftf ipmipsib tra la c.vtt.in*. ¶*Recipe uno cuore de una tortola e dallo a mangiare a quella persona ut supra*. I have not figured out the coded description of the person to be ill-treated thus.
+* (85) Verini 1535, fol. 7v: ¶*Affare gentilezza a qualche persona strana che non potra dormire in letto che parra che gli abi adosso mille pidocchi ..questa gentilezza e daffare a qualche persona fastidiosa : &amp; rincrescievole.*
+* (86) Ibid.: ¶ *Secreto dignissimo per uno che avessi assaltare o per forza o per amore qualche finestra o altra sommita*. This is one of "secrets" Verini did not copy directly from the *Dificio*.

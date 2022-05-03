@@ -19,11 +19,16 @@ Benedetto Ricardini explicitly cited the Bembinus in a 1505 Giunta edition, repr
     </div>
 </figure>
 
-Soardi's 1511 Terence is crowded and busy in the extreme. To the modern eye this odd design might seem to undermine the textual claims of its serious humanist editors. It is hard to say, however, that early sixteenth century readers would have judged it in the same way. Since Soardi was producing fully illustrated and annotated folio Terences for teachers throughout this same period, it seems likely that he saw these little octavos as strictly student copies. In their pretend-naÃ¯ve ornamentat
+Soardi's 1511 Terence is crowded and busy in the extreme. To the modern eye this odd design might seem to undermine the textual claims of its serious humanist editors. It is hard to say, however, that early sixteenth century readers would have judged it in the same way. Since Soardi was producing fully illustrated and annotated folio Terences for teachers throughout this same period, it seems likely that he saw these little octavos as strictly student copies. In their pretend-naïve ornamentation, they resemble elementary schoolbooks of the period that we will examine in the next chapter. They definitely did not aspire to the sophistication of the Aldine audience. Terence was an intermediate text in the Latin course, but he usually got more "serious" treatment than Soardi offered here. Perhaps this 1511 version (never reprinted) was an experiment in reaching a new audience.
 
-[caption id="attachment_797" align="aligncenter" width="288" caption="Title page text (click to enlarge - 458 KB jpeg file)"]<a rel="pop-up" href="http://www.humanismforsale.org/textimages_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-title-page.jpg"><img class="size-full wp-image-797" title="wing-zp-535s-6755-hvc-pugillari-title-page-detail-thumb" src="http://www.humanismforsale.org/t
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-title-page.jpg')" data="/images_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-title-page.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-title-page.jpg" />
+    <figcaption class="mkdn-figcaption">Title page text (click to enlarge - 458 KB jpeg file)</figcaption>
+    </div>
+</figure>
 
-Soardi's advertising prose was similarly in-between, alternately pretentiously scholarly and deliberately childish. Despite its floral border the title page is highly typographic. Arranged in a lozenge shape is an all-caps inscription that reads, "In this portable [book] are contained Terence 
+Soardi's advertising prose was similarly in-between, alternately pretentiously scholarly and deliberately childish. Despite its floral border the title page is highly typographic. Arranged in a lozenge shape is an all-caps inscription that reads, "In this portable [book] are contained Terence (arranged in verse) and L. Victor Faustus's booklet on comedy (newly edited), in new types." (58) This title vaunted Soardi's new italic types and the small format right alongside the learned apparatus.
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-pg.-t.p-verso-AA2-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
@@ -32,7 +37,7 @@ Soardi's advertising prose was similarly in-between, alternately pretentiously s
     </div>
 </figure>
 
-Significantly, when it came time to introduce his humanist editors and their work, the design changed, for on the very next page, the verso of the title, Soardi launched into old-fashio
+Significantly, when it came time to introduce his humanist editors and their work, the design changed, for on the very next page, the verso of the title, Soardi launched into old-fashioned humanist style with one poem in Greek and one in Latin addressed to a Venetian patrician. These poems and the 32 pages of scholarly introduction that follow were printed soberly and compactly without borders.
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.S-6755-HVC-Pugillari,-pg.8v-9r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">

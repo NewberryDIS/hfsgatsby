@@ -6,7 +6,6 @@ postid: 233
 Tacuino's 1507-1508 collection was copied at Milan two years later in an altogether more systematic form. This collection had the patronage of publisher Leonardo Vegio, who had the means to command a fully integrated set of thirty one works in nine separate fascicles issued between July and December of 1509. These are again reprints of Tacuino's editions, but they have a prettified title page that reads *Opera omnia* and follows with a full list of works printed in black and red. (86)
 
 Leonardo Vegio's collection is important because it represents sophisticated packaging specifically for classroom use. Vegio gave each of the nine fascicles a separate title page so they could be had in the traditional form, as separates, if the customer wanted them that way. Indeed, we must suppose that for teaching purposes, students would normally be given one fascicle at a time. Some of the fascicles with a single title page are set and signed in such a way that they could be further broken down for classroom use. For example, the second fascicle has a title page that unites the *Thesaurus de constructione*, the *Latini sermonis emporium*, and the *Speculum de moribus* with other small moral poems. All are elementary works, but they would not necessarily be used in the same way or at the same time. The *Thesaurus*, in three gatherings, is signed a through c; the *Emporium* has a caption title and is gathered AA and BB; and the remaining small works, introduced by a new title page, run from aa to cc, three gatherings again. Even if it were only offered for sale as a single item, such an eight-gathering booklet could be separated for student use into three shorter pamphlets. Vegio and Mantegazza also imposed a uniform typographical style on their series, with regular use of types and carefully crafted running heads, so as to make for a genuine collection, usable as such. In the case of the fascicle described above, each separate work has running heads that make it clear where it begins and ends, simplifying consultation of the collected set and clarifying for the binder which leaves are which. All in all, these Vegio imprints are the most handsome presentation Mancinelli's school texts ever received. Another entrepreneurial Milan printer, Nicolò Gorgonzola, seems to have started yet another collected works of Mancinelli; seven titles survive. (87)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -17,7 +16,6 @@ Leonardo Vegio's collection is important because it represents sophisticated pac
 </figure>
 
 It was the Venetians' turn to play copycat in 1519 when Giorgio Rusconi reproduced the 1509 Milanese title page for still another collection, this time using versions of Mancinelli's works edited by Josse Bade. Although he copied many aspects of the Vegio/Mantegazza printings, including the running heads, Rusconi's production standards were not as high. The heads are often erroneous; the signing is confused; and although there are cross-references from fascicle to fascicle, they are as often wrong as right. Several works that appear on the title page are omitted entirely, and the texts are often badly corrupt. Alas, this sloppy and unreliable edition of Mancinelli is the version most frequently encountered in modern libraries.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -28,7 +26,6 @@ It was the Venetians' turn to play copycat in 1519 when Giorgio Rusconi reproduc
 </figure>
 
 Rusconi did add one refinement to the typography, a series of short titles on each printed sheet. In the bound volume these appear next to the signature mark at the bottom of the first and third leaf of each gathering. They serve in a limited way, in the fashion of running heads, to orient the reader or binder making his way through a set of unbound pamphlets with no printed folio numbers. In the fascicle corresponding to the one we described above for the Milan edition, for example, the same three works appeared in the same order. Instead of starting the signing anew in each subsection as the Milanese printer had done, Rusconi added the title THESAV.MAN (*Thesaurus Mancinelli*) to the bottom of the first and third leaves of signatures A and B, and SPECV.MAN (*Speculum Mancinelli*) to the first and third leaves of gatherings E, F, and G. Gatherings C and D have no such titles.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

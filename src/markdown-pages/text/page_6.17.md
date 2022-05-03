@@ -6,28 +6,45 @@ postid: 353
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia...title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia...title-page.jpg" />
-    <figcaption class="mkdn-figcaption">case-3a-725-regula-musice-venerabilis-fratris-bon-auenture-de-brixiatitle-page-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Bonaventura in Italian, 1518 (click to enlarge - 715 KB jpeg image)</figcaption>
     </div>
 </figure>
 
 At the humblest level stood the *Breviloquium Musicale* (later titled *Regula Musice*) of Bonaventura da Brescia (late 15th century), one of the first known books to describe norms for performance without elaborate reference to music theory. It appeared in 1497 and had at least five Latin editions before 1540. It was reprinted in Italian in 1507 in a version that had over a dozen further printings up to 1550. (90)
 
-[caption id="attachment_962" align="aligncenter" width="288" caption="&quot;Poveri religiosi&quot; (click to enlarge - 741 KB jpeg image)"]<a rel="pop-up" href="http://www.humanismforsale.org/textimages_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg"><img class="size-full wp-image-962" title="case-3a-725-regula-musice-venerabilis-fratris-bo
+
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg')" data="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg" />
+    <figcaption class="mkdn-figcaption">"Poveri religiosi" (click to enlarge - 741 KB jpeg image)</figcaption>
+    </div>
+</figure>
 
 Physical examination of the two versions reveals that they were meant for different markets, even though both state the same ambition, to teach "poor and simple religious as well as others desirous of having the solid basics of plainchant." (91) The practical content is virtually identical in Latin or Italian, so the formatting choices were related to the marketing expectations of the printers.
 
-[caption id="attachment_966" align="aligncenter" width="288" caption="Old fashioned title page, in 1549 (click to enlarge - 695 KB jpeg image)"]<a rel="pop-up" href="http://www.humanismforsale.org/textimages_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg"><img class="size-full wp-image-966" title="case-mt860-c66-1549-compendium-musices-confectum-ad-faciliorem-instructione-
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg')" data="/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg" />
+    <figcaption class="mkdn-figcaption">Old fashioned title page, in 1549 (click to enlarge - 695 KB jpeg image)</figcaption>
+    </div>
+</figure>
 
-The1497 edition and most later Latin versions assumed the quarto format favored at the period for Latin-school textbooks, unpretentious but decorous and substantial. Italian editions could be in quarto but more often appeared in humbler octavo instead. An example printed in the smaller format in 1518 looks like other vernacular booklets we 
+The 1497 edition and most later Latin versions assumed the quarto format favored at the period for Latin-school textbooks, unpretentious but decorous and substantial. Italian editions could be in quarto but more often appeared in humbler octavo instead. An example printed in the smaller format in 1518 looks like other vernacular booklets we have seen (ricettari, for example) in that it begins with a popularizing title woodcut. It is otherwise modest in the extreme, thirty-one leaves roughly printed.
 
-[caption id="attachment_963" align="aligncenter" width="288" caption="Woodcut examples in text (click to enlarge - 726 KB jpeg image)"]<a rel="pop-up" href="http://www.humanismforsale.org/textimages_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg"><img class="size-full wp-image-963" title="case-3a-725-regula-musice-venerabilis-fratris-bon-auenture-de-brixiapg9v-10r-thumb" src="http://www.humanismforsale.org/text/wp-content/uploads/2008/09/case-3a-725-regula-musice-venerabilis-fratris-bon-auenture-de-brixi
+
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg')" data="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg" />
+    <figcaption class="mkdn-figcaption">Woodcut examples in text (click to enlarge - 726 KB jpeg image)</figcaption>
+    </div>
+</figure>
 
 It differs in look from a simple *ricettario* only in having woodcut musical examples on almost every page. These cuts did not represent additional cost to the printer since they were simply blocks reused from an earlier Latin edition. Like the blocks, the text was a recycled product intended to make the original more widely available both by translating it into Italian and by cheapening the book in terms of paper, type, and format.
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,--Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia-Ordinis-Minorum-cover.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,--Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia-Ordinis-Minorum-cover.jpg" />
-    <figcaption class="mkdn-figcaption">case-3a-725-regula-musice-venerabilis-fratris-bon-auenture-de-brixia-ordinis-minorum-cover-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">A humble binding (click to enlarge - 719 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -38,7 +55,6 @@ The principal rival to Bonaventura's *Breviloquium* on the Italian market at the
 From 1513 to 1566 it was often printed in combination with the Cantorinus, a small, cheaply printed collection of specimen chants (primarily initial and final phrases) for use on various feast days throughout the year. From 1523 onward, the *Compendium* was also included in the *Rituale*, a large reference book of prayers and chants. (93) Both the *Compendium musices* and the *Breviloquium* of Bonaventura were practical texts for clerics who sang professionally. Neither had any pretensions to teach music theory as a cultural ornament.
 
 A similar audience, though perhaps one more open to humanist ideals, was intended for the *Sparks of Music* by Giovanni Maria Lanfranco (ca. 1490-1545), published at Brescia in 1533. This work does not seem to have been influential; but it was a real textbook for singers -- simple, step-by-step instructions with good examples for practice. Lanfranco dressed his book with elaborate front matter that claimed a classical pedigree for his teachings, but the remaining one hundred forty four pages are strictly matter of fact. Tellingly, he deliberately wrote not in Latin or literary Tuscan, but in "the universal Italian speech" (an all-purpose North-Italian amalgam), "in order not to offend the ears of most with some words spoken in too Tuscan a fashion." More self-consciously than any earlier music writer, Lanfranco identified his audience as beginners. (94)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -52,9 +68,9 @@ There continued to be a market for small, rudimentary manuals of plainchant righ
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (90)Â  Crawford 1982, 176.
+* (90) Crawford 1982, 176.
 * (91) Bonaventura 1518, fol. 1v: *poveri e simplici religiosi necnon de li desiderosi de havere vero fondamento de musica plana*.
-* (92)Â  On the commonplace of the poor and simple reader, West 2006, 257-260.
-* (93)Â  Crawford 1982, 176-187; *Compendium* 1985, 15-26.
-* (94)Â  Lanfranco 1533, 39; Lanfranco 1970, ii; Lee 1961, 60; see also 11-20, 52-63.
-* (95)Â  On Banchieri's manuals, Cranna 1981, 14-15. The *Scala di musica* of Scaletta, concerning plainchant, appeared in at least eight editions between 1622 and 1665; he also published a Primo scalino on counterpoint in the same booklet format.
+* (92) On the commonplace of the poor and simple reader, West 2006, 257-260.
+* (93) Crawford 1982, 176-187; *Compendium* 1985, 15-26.
+* (94) Lanfranco 1533, 39; Lanfranco 1970, ii; Lee 1961, 60; see also 11-20, 52-63.
+* (95) On Banchieri's manuals, Cranna 1981, 14-15. The *Scala di musica* of Scaletta, concerning plainchant, appeared in at least eight editions between 1622 and 1665; he also published a Primo scalino on counterpoint in the same booklet format.

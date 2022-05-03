@@ -3,7 +3,6 @@ title: "2.13 Radical Grammarians"
 slug: /text/213
 postid: 171
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -16,7 +15,6 @@ postid: 171
 In the fifteen twenties and thirties, other reformers attempted more thorough changes to the basic curriculum. One obscure effort (obscure because few copies of any of his books survive) was that of Pietro Cittadella (d. 1554). A Paduan poet and probably also a schoolteacher, Cittadella authored a grammar in 1535 in which he proposed a question-and-answer teaching system. He gave a fifty-odd concise rules to be memorized, and then proceeded to exercise the students with close explications of short sentences. The sample sentences (each called a *thema*) were presented in both Latin and Italian so that there would be no doubt as to their meaning. Then the students were quizzed by the teacher in an *examen* that proceeded through the *thema* word by word, asking about parts of speech, meanings, inflectional forms, and syntactical relationships. The student was to answer using the descriptive vocabulary of the brief, memorized rules. The book was printed very roughly and inelegantly and its preface promised a fuller treatment in a longer book on the parts of speech (apparently never published). Since Cittadella called his book a *methodus*, it is possible that he merely intended it for a demonstration piece.
 
 The most radical reformers suggested teaching Latin entirely in Italian. An early exponent was the Veronese humanist Bernardino Donato (1483-1543) whose *Grammatica latina in volgare* saw a single edition in 1529. It is notable for its front matter where Donato remarked that since arithmetic, astrology, medicine and philosophy could be studied in Italian, it was time to make Latin study available in that form too. He seems to have envisioned a reader who might want to "pick up" some Latin through self-study.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

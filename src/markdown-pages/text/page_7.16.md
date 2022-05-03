@@ -17,5 +17,5 @@ Given these conventions of creation and use, the emblematic printer's mark was a
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (67)Â  Cf. Moss 1999, 146-148.
-* (68)Â  Elkins 1999, 209-212.
+* (67) Cf. Moss 1999, 146-148.
+* (68) Elkins 1999, 209-212.

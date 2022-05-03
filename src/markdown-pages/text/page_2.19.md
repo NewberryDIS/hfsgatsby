@@ -4,10 +4,13 @@ slug: /text/219
 postid: 191
 ---
 Without attempting to follow the fate of Erasmus's several collections of sayings in detail, we can see the result of this process of accumulation and anthologizing by jumping forward to the end of our period and looking at a textbook collection of sayings by Kaspar Schoppe (1576-1649), a German-born humanist whose career was largely spent at the University of Padua. Schoppe is not now best known for his textbooks, published under the pseudonym Pascasius Grosippus, but rather for controversial works of political theory and ecclesiology, especially his writings against Protestants and Jesuits. Like Erasmus, however, he was a skillful popularizer, polemicist, and packager of books for students; and his textbooks went through many editions.
-<p style="text-align: center;"></p>
 
-
-[caption id="attachment_869" align="aligncenter" width="288" caption="Elaborate advertising (click to enlarge - 643 KB jpg image)"]<a rel="pop-up" href="http://humanismforsale.org/textimages_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg"><img class="size-full wp-image-869" title="3a-434-mercurius-biljngujs-after-pg764-thumb" src="http://www.humanismforsale.org/text/wp-content/uploads/2008/09/3a-434-mercurius-biljngujs-after-pg764-thumb.jpg" alt="Elaborate advertising (click to enlarge - 643 KB jpg image)" width="288" height="427" /></a>[/caption]
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg')" data="/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg" />
+    <figcaption class="mkdn-figcaption">Elaborate advertising (click to enlarge - 643 KB jpg image)</figcaption>
+    </div>
+</figure>
 
 Schoppe's *Mercurius bilinguis*, first published at Milan in 1628, was, according to its subtitle, a new and easy method for learning either Latin or Italian within one year. The "method" consisted of mastering exactly 1,141 short sayings arranged under forty-two broad subject heads. This method was not in fact new, since it had been used extensively in Northern Europe for decades, though it was still relatively untested in Italy at the period. (113) Schoppe begins with catechism rubrics, "On God and some of his attributes," and "On the passion of Christ." These are strictly orthodox in theological content, starting with the Trinity and the Eucharist so as to establish for the Italian market that the work is not in any way Protestant. There follow several other groups suggested by the experience of the Counter-Reformation Church, so: "On the titles of various ministers of the church and their charges," and "On Scripture, preaching, and penance." The anthology then goes on to traditional moral subjects such as "On obedience and reverence for elders and respect for rulers," or "On preserving love, concord, and a calm demeanor with your neighbor." Further along, there are more objective, encyclopedic categories: "On the liberal arts and sciences," "On medicine and disease," and the like. The collection concludes with one hundred witty sayings that can be used to counter detractors or critics.
 
@@ -16,5 +19,5 @@ This choice of subjects betrays considerable ambition. The sayings were intended
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
 * (113) On the English textbooks for language study which may well have been models for Schoppe, Wyatt 2005, esp. 163-180. On his influence in Italy, Bianchi 1995, 806-807.
-* (114)Â  Schoppe 1698.
-* (115)Â  On the perceived need for strict orthodoxy at the elementary level, Marchetti 1975, 212-215.
+* (114) Schoppe 1698.
+* (115) On the perceived need for strict orthodoxy at the elementary level, Marchetti 1975, 212-215.

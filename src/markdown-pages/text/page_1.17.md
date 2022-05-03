@@ -3,6 +3,7 @@ title: "1.17 Giovanni Fabrini and Self-Study"
 slug: /text/117
 postid: 117
 ---
+
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.tif.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.tif.jpg" />
@@ -28,7 +29,7 @@ From 1551 onwards, some editions also included Fabrini's compilation of the usag
     </div>
 </figure>
 
-All of these study aids actually appeared in the book, along with a very thorough word index to the plays. But it is less clear that the results Fabrini claimed for it could have been achieved: "All this is arranged in such an order that, for anyone who understands Latin, the Latin here (that is, the text [of Terence]) will explain the commentary and will teach him the vernacular; and so that anyone who understands only the vernacular will be able with this commentary to learn the Latin." Since the book was never published outside Italy, however, we must take the first of these processes to mean that the Latin of Terence could inform and improve writing in Tuscan, not actually teach the language to foreigners. The author a
+All of these study aids actually appeared in the book, along with a very thorough word index to the plays. But it is less clear that the results Fabrini claimed for it could have been achieved: "All this is arranged in such an order that, for anyone who understands Latin, the Latin here (that is, the text [of Terence]) will explain the commentary and will teach him the vernacular; and so that anyone who understands only the vernacular will be able with this commentary to learn the Latin." Since the book was never published outside Italy, however, we must take the first of these processes to mean that the Latin of Terence could inform and improve writing in Tuscan, not actually teach the language to foreigners. The author also claimed that his book contains "an interpretation of both the vernacular and Latin in which are declared the general rules of both languages." (76) The ultimate goal was that the reader should be able to "express any and all vernacular words and ideas in good Latin, according to the usage of Terence." (77)
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-folo.ij-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
@@ -39,7 +40,7 @@ All of these study aids actually appeared in the book, along with a very thoroug
 
 Fabrini made all these claims on the title pages of early editions. They were explained further in a preface addressed to the Medici prince. It is no wonder, Fabrini wrote, that there are few learned men, since traditional schooling in languages seems designed to repel the student from the start. Fabrini designed his book instead to encourage Cosimo's two sons to find language study easier and therefore to get excited about other sorts of learning. The commentary in Tuscan ensures that they will be able to understand the explanations of the Latin base text without having to decipher more Latin and it avoids the further bad practice of making them read barbarous modern Latin. It obviates even the ancient commentaries. The young princes were to concentrate instead on the pure diction of Terence.
 
-Fabrini's work was imitated in Spain by Pedro SimÃ³n Abril (1530?-1595) who proposed a bilingual Latin/Spanish Terence as a way of learning Latin through translation. A first edition appeared in 1577, and it was revised in 1583 with an improved Latin text based on that of Gabriele Faerno. Abril acknowledged his debt to Fabrini in a dedicatory letter to young Prince Ferdinand of Austria, son of Emperor Ferdinand II, for whom he claimed the same solicitous care as Fabrini had displayed toward the Medici princelings. Abril made far fewer claims than Fabrini, however. He was mostly interested in helping Spaniards learn Latin; if they could also improve their vernacular style, that would be of benefit, but it was not the goal of reading Terence. On the other hand Abril offered an entire reading list of texts he says are best studied in bilingual editions: Terence, to be sure, but also, Aesop, Cicero, and the catechism of Pius V. Abril's intent was to make these classic texts, which every educated person should know well, easier to learn. (78)
+Fabrini's work was imitated in Spain by Pedro Simón Abril (1530?-1595) who proposed a bilingual Latin/Spanish Terence as a way of learning Latin through translation. A first edition appeared in 1577, and it was revised in 1583 with an improved Latin text based on that of Gabriele Faerno. Abril acknowledged his debt to Fabrini in a dedicatory letter to young Prince Ferdinand of Austria, son of Emperor Ferdinand II, for whom he claimed the same solicitous care as Fabrini had displayed toward the Medici princelings. Abril made far fewer claims than Fabrini, however. He was mostly interested in helping Spaniards learn Latin; if they could also improve their vernacular style, that would be of benefit, but it was not the goal of reading Terence. On the other hand Abril offered an entire reading list of texts he says are best studied in bilingual editions: Terence, to be sure, but also, Aesop, Cicero, and the catechism of Pius V. Abril's intent was to make these classic texts, which every educated person should know well, easier to learn. (78)
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-DETAIL-folio.20-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
@@ -54,10 +55,10 @@ While Fabrini's grammar was a sort of translation manual, he compiled the append
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (75) Fabrini was not alone in his ambitions to teach by translation of Terence; indeed his inspiration may have been French translations and studies of Terence by Etienne Dolet and Charles Estienne in the early fifteen forties; see Fabre 1995, 70. Further on Fabrini, Zaccaria 1993.
-* (76) These claims appear on every edition from the first, Terence 1548, onward. Fabrini's work was published in Venice both by the Sessa firm and by that of Vincenzo Valgrisi. They make slightly different claims on their title pages, as can be seen in Valgrisi editions of 1548, 1558 and 1567 and Sessa printings of 1556, 1570, 1580 and 1594.
-* (77) This last claim appeared first in Terence 1556, still as far as we know supervised directly by Fabrini. Compare Kaspar Schoppe's tri-lingual grammars, discussed in section 2.19.
-* (78) Terence 1583, fol. Â¶ 2v-7r. On Abril, Morreale de Castro 1949. esp. 56-59, 178-80; Breva-Claramonte 1990, esp. 279-282.
-* (79) *... di tutti gli infiniti volgari, e quali hanno Ã  esser infiniti Latini, e quali gerundi.*
-* (80) *... le qual cose tutte sono mostrate con regole generali, e confirmate con l'autoritÃ  de gli scrittori latini, &amp; massimamente con l'autoritÃ  di Tullio, e di Terentio.*
-* (81) At least eleven editions before 1600.
+* (75)  Fabrini was not alone in his ambitions to teach by translation of Terence; indeed his inspiration may have been French translations and studies of Terence by Etienne Dolet and Charles Estienne in the early fifteen forties; see Fabre 1995, 70. Further on Fabrini, Zaccaria 1993.
+* (76)  These claims appear on every edition from the first, Terence 1548, onward. Fabrini's work was published in Venice both by the Sessa firm and by that of Vincenzo Valgrisi. They make slightly different claims on their title pages, as can be seen in Valgrisi editions of 1548, 1558 and 1567 and Sessa printings of 1556, 1570, 1580 and 1594.
+* (77)  This last claim appeared first in Terence 1556, still as far as we know supervised directly by Fabrini. Compare Kaspar Schoppe's tri-lingual grammars, discussed in section 2.19.
+* (78)  Terence 1583, fol. ¶ 2v-7r. On Abril, Morreale de Castro 1949. esp. 56-59, 178-80; Breva-Claramonte 1990, esp. 279-282.
+* (79)  *… di tutti gli infiniti volgari, e quali hanno à esser infiniti Latini, e quali gerundi.*
+* (80)  *… le qual cose tutte sono mostrate con regole generali, e confirmate con l'autorità de gli scrittori latini, & massimamente con l'autorità di Tullio, e di Terentio.*
+* (81)  At least eleven editions before 1600.

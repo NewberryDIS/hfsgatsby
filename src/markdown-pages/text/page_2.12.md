@@ -6,7 +6,6 @@ postid: 169
 There were repeated attempts to displace the Donat in Italian schools from the early fifteenth century forward. Most early attempts foundered on the unmoving rocks of conservative educational practice. Guarino's brief prose grammar, a never-published verse grammar by Lorenzo Valla, and a series of short treatises by Pomponio Leto all intended to substitute for some of the material in the Donat, or at least to correct it at a very early stage. We have already seen this pattern in the case of Giovanni Sulpizio, who, like Valla and Leto, formed part of the coterie of Rome-based philologists who can be credited with a genuine humanist reform of grammar teaching. (74) Into the seventeenth century, printers were still designing pairs of textbooks to be sold together -- the Donat and Guarino's grammar or the Donat and some other local favorite. (75)
 
 Giovanni Battista Cantalicio (ca. 1450-1514?) composed a successful short grammar which seems to have been intended to substitute entirely for the Donat. It appeared in over forty editions between 1493 and 1613, usually under a title that clearly defines its content and method, *A Most Useful Compendium of all Latin Grammar and Metrical Art Divided into Rules*. (76) Cantalicio relied on short lists of brief rules, expressly tailored to the limited memory of younger students. His work may be taken as a criticism of the lengthy and obscure rule-making of the Donat. Cantalicio's grammar was advanced in terms of layout, especially for the paradigms. This fact probably reflects his own ideas about type and design. Indeed, his preface is a letter of complaint about the work of its first printer (for a Foligno edition that does not seem to survive). The book's publishers reprinted this preface in every edition I have seen. It functioned primarily as an example of Cantalicio's elegant prose. But the printers may also have taken its sentiments to heart, for the layout of the book and even the style of ornament is remarkably consistent throughout its long life in print.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -19,7 +18,6 @@ Giovanni Battista Cantalicio (ca. 1450-1514?) composed a successful short gramma
 Aldo Manuzio also proposed to substitute for the Donat entirely, with a comprehensive Latin-language textbook composed from scratch. Aldo's grammar was a steady seller through the first third of the sixteenth century and continued to be reprinted thereafter. It was apparently more popular north of the Alps than in Italy. (77)
 
 A more modest success, but entirely Italian, characterized the two grammar books of Lucio Giovanni Scoppa. These too represent a basic grammar course independent of the Donat. The *Six Books of Introductory Grammar* was completed in August 1508. Its preface assumes that it is self-contained and gives specific advice about teaching methods, especially for drilling paradigms.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -30,7 +28,6 @@ A more modest success, but entirely Italian, characterized the two grammar books
 </figure>
 
 Whether because the book was criticized as too long and detailed or just because Scoppa decided that his drilling models needed clarification for beginning students, he composed a shorter *Epitome*, which appeared as an appendix to the original work in November of the same year. Scoppa's double grammar is notable for its indexes, which allowed readers to access every Latin word used in a paradigm or as an example in the entire 500-page book. (78)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -41,7 +38,6 @@ Whether because the book was criticized as too long and detailed or just because
 </figure>
 
 In 1517, the Neapolitan printer Antonio Frezza offered Scoppa's *Introductory Grammar* and the *Epitome* in separate but uniform editions.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -52,7 +48,6 @@ In 1517, the Neapolitan printer Antonio Frezza offered Scoppa's *Introductory Gr
 </figure>
 
 By 1524, the Nicolini da Sabbio firm in Venice advertised that they had much improved and corrected Scoppa's grammar and that the *Epitome* was available as a separate. In a 1534 edition, the *Epitome* occupied a separate group of gatherings that could be detached for use with beginners. So it seems clear that Scoppa's *Epitome* could be used with elementary students while the larger grammar constituted its "teacher's edition" or a second, more advanced textbook. Although the *Epitome* survives as a separate much more rarely than the larger grammar, it is clear that many publishers after 1517 followed the Frezza/Nicolini pattern and that the smaller book was widely used as a first grammar, to substitute or supplement the Donat. (79)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -66,8 +61,7 @@ The learned Basle printer Adam Petri tried a different strategy of substitution 
 
 Petri briefly introduced the text by situating it as an ancient one rediscovered in modern times. Moreover, he says, Palaemon beat Aelius Donatus at his own game:
 
-> 
-<p style="text-align: left;">This man [Palaemon] compacted the whole of grammar into so brief a package that even Donatus is more prolix than he, and some day he may come to have as enduring a name. Gioviano Pontano, a poet most eloquent in his own day, discovered this text. (81)</p>
+> This man [Palaemon] compacted the whole of grammar into so brief a package that even Donatus is more prolix than he, and some day he may come to have as enduring a name. Gioviano Pontano, a poet most eloquent in his own day, discovered this text. (81)
 
 
 <figure class="mkdn-figure">

@@ -3,7 +3,6 @@ title: "1.07 Illustrating Terence"
 slug: /text/107
 postid: 96
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

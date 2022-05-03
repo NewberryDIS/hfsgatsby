@@ -4,7 +4,6 @@ slug: /text/616
 postid: 351
 ---
 Music differed from other disciplines of the sixteenth century in two important ways. First of all, there was a long tradition of academic study of music theory in the medieval universities but the actual practice of singing and playing instruments had largely been taught by apprenticeship. In effect, medieval music had been two disciplines, not one. In the fifteenth century, theorists and practitioners made a conscious project of uniting the field, and their efforts, ongoing through the entire sixteenth century, showed up in many elementary texts. Secondly, many different kinds of music books came onto the market across the first hundred years of printing, complicating our understanding of what beginners learned and how. Perhaps more than in other disciplines, the authors of books on music tended to assume their audience would self-select, so they did not label their works in any obvious way for one or another level or type of reader. Together these factors make it hard to judge the audience for many music books.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -19,20 +18,27 @@ Music textbooks had to bridge the gap between theory and practice. Although at t
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1r.jpg" />
-    <figcaption class="mkdn-figcaption">case-4a-1005-tractatvs-mvsices-pg1r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Title page of basic singing textbok, ca. 1500 (click to enlarge - 785 KB jpeg image)
+
+</figcaption>
     </div>
 </figure>
 
 Music was expensive to print, and different kinds of music books came onto the print market at different moments. It took sixty years of printing experience before well-developed music textbooks appeared, significantly longer than in any other field we have considered. Liturgical books for performance, a luxury genre, appeared in the earliest years of printing. Advanced music-theory books also had medieval precedents; these were printed in Latin for university-level audiences very early on. Later textbook treatments derived from such academic books; and the textbook authors often had already published at the specialist level. But well into the sixteenth century, it is often not clear when a given writer was popularizing or what audience he envisioned for his book. (88)
 
-[caption id="attachment_969" align="aligncenter" width="288" caption="Guidance for singers, ca. 1500 (click to enlarge - 672 KB jpeg image)"]<a rel="pop-up" href="http://www.humanismforsale.org/textimages_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg"><img class="size-full wp-image-969" title="case-4a-1005-tractatvs-mvsices-pg1v-detail-thumb" src="http://www.humanismforsale.org/text/wp-content/uploads/2008/09/case-4a-1005-tractatvs-mvsices-pg1v-detail-thumb.jpg" alt="case-4a-1005-tractatvs-mvsices-pg1v-detail-thum
+<figure class="mkdn-figure">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg')" data="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg" />
+    <figcaption class="mkdn-figcaption">Guidance for singers, ca. 1500 (click to enlarge - 672 KB jpeg image)</figcaption>
+    </div>
+</figure>
 
 More or less practical guides to theory for performers (singers in the first instance) were new creations of the late fifteenth century. They appeared around 1480, still in Latin since most concerned liturgical music. Separate music scores for performance -- both liturgical and secular in character and so in Latin and the vernaculars both -- began to become common in print in the years just around 1500. Practical instruction booklets in Italian that aimed at teaching music performance (again, singing earlier than other kinds of music making) began to be published, as nearly as we can tell, only toward 1520.
 
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg" />
-    <figcaption class="mkdn-figcaption">case-4a-1006-vault-sagoge-in-mvsicen-henrici-glarea-title-page-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Humanist title page, 1516 (click to enlarge - 621 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -41,7 +47,7 @@ The first full-scale music textbooks for Latin-school use appeared in the fiftee
 <figure class="mkdn-figure">
     <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg" />
-    <figcaption class="mkdn-figcaption">case-4a-1006-vault-sagoge-in-mvsicen-henrici-glarea-pg10v-11r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Woodcut diagram in Glareanus 1516 (click to enlarge - 612 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -49,6 +55,6 @@ Music textbooks had a distinctive look. Illustrated with diagrams, depictions of
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (87)Â  Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
-* (88)Â  Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
-* (89)Â  Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.
+* (87) Lee 1961, 37-40; Boorman 1986, 223; D'Accone 1997, 44-46, 184-186; Lorenzetti 2003, 49-63.
+* (88) Further on levels of audience: Lee 1961, 4-11; Serrai 1988, 338; Boorman 2004, 115-120.
+* (89) Owens 1996, 25-32, 34-48; Judd 2000, esp. 17-41; Gargiulo 2004, 163-173.

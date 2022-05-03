@@ -8,7 +8,6 @@ The one well and extensively documented application of emblems in an organized c
 The Jesuits employed emblems for a variety of literary and pastoral purposes, and the majority of Jesuit emblem books did not see use in elementary or intermediate courses. But advanced students in the Jesuit colleges were expected to know how to use emblems. For example, when Juan de Pineda. S.J. (1512?-1593) prefixed a series of emblems on a sort of title page to his 1591 commentaries on the book of Job, he clearly assumed that his audience was educated to their proper use. The twelve emblems, one for each chapter of the commentary, had mnemonic value. They also invited the reader to use the commentary as a jumping off point for private meditation. Similarly, the Jesuits used emblems in works of systematic theology, in prayer books, and in preaching manuals that would not have appeared in classrooms of the colleges. Some Jesuit emblems seem to have been designed for the private use of aristocratic laymen as part of the work of spiritual direction that members of the order undertook at Catholic courts across Europe. Again, the Jesuits assumed their former students knew how to use emblems, so we can be sure some formal instruction occurred in the colleges. (49)
 
 Some kinds of Jesuit emblems were very close to curriculum concerns, especially in the context of the residential colleges where members of the Society closely supervised the spiritual life of their charges. Teachers in the colleges, as we have remarked elsewhere, taught Latin grammar as a skill without burdening it overmuch with moral import. But the students learned more than Latin. They also conformed to a rigorous program of religious exercises: daily mass and examination of conscience at an early age, frequent confession and communion, and exercises in meditative prayer. Some Jesuit emblem books follow this spiritual program closely. Almost all of them employ highly emotional language and vivid imagery in keeping with the meditative principles enunciated by Ignatius Loyola.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -21,7 +20,6 @@ Some kinds of Jesuit emblems were very close to curriculum concerns, especially 
 Scholars have noted that Ignatius seems to have collected religious images for his own devotional use. Jesuit emblem books were comparable collections crystallized in print and intended to be put to use by all who subscribed to the Jesuit religious program. Ignatius commissioned GerÃ³nimo Nadal (1507-1580), the founder of the college at Messina, to compose a gospel paraphrase with illustrations, the Pictures of Gospel History (*Evangelicae Historiae Imagines*). Some consider this the first Jesuit emblem book. Though not true emblems (since they do not have mottoes), these pictures were used in classrooms; and they functioned very much like emblems by inviting students to visualize the incidents described in the accompanying texts. Nadal's book embodied the early Jesuits' belief that pictures were aids to teaching Christian truths, a principle they would go on to incorporate in works as varied as advanced theology texts and illustrated catechisms for the barely literate. (50)
 
 The direct use of true emblems in Jesuit classrooms in Italy is not attested until the *Ratio Studiorum* of 1599, where suddenly it appeared as an accepted part of the course of rhetoric. Emblem-making was one of composition exercises given to relatively advanced students. Presumably the Jesuits had been experimenting with emblems for some years before they came into use at the Collegio Romano, where the final version of the *Ratio* was drafted. In the context of formal rhetoric, the emblem was no longer merely a piece of religious art used in the classroom, it was also a functional rhetorical device. It did not just prompt multiple readings or encourage meditation. It also invited rhetorical *inventio*, the active creation of new literary expression. (51)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -35,8 +33,8 @@ Almost all the original Jesuit emblem books were composed in Northern Europe and
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (48)Â  Codina Mir 1968, 300-305; Brizzi 1984, 165-170.
-* (49)Â  Insolera 2004, 198.
-* (50)Â  Palumbo 1990, 23-37; O'Malley 1993, 11-14; Dimmler 2002, 71-72; Insolera 2004, 192-196.
-* (51)Â  Bauer 1986.
-* (52)Â  Hugo 1627 and 1679, now at BNCRome.
+* (48) Codina Mir 1968, 300-305; Brizzi 1984, 165-170.
+* (49) Insolera 2004, 198.
+* (50) Palumbo 1990, 23-37; O'Malley 1993, 11-14; Dimmler 2002, 71-72; Insolera 2004, 192-196.
+* (51) Bauer 1986.
+* (52) Hugo 1627 and 1679, now at BNCRome.

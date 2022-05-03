@@ -4,7 +4,6 @@ slug: /text/417
 postid: 276
 ---
 Theodore Cachey has pointed to the fact that Italian humanism was in general uncongenial to absorbing and exploiting the New World discoveries of the sixteenth century. Perhaps Italian intellectuals simply found it difficult to share enthusiasm for the imperialist adventures of Portuguese, Spanish, and later explorers while Italy was marked by political disunity. Accustomed to a leading role in high culture, Italians were discomfited by the patent leadership of others. (72) No surprise, then, that for real, practical command of a geographical subject, lucidly explained in something we can recognize as a basic textbook, we must wait for the importation of Northern humanist texts on geography into the Italian market.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -16,8 +15,7 @@ Theodore Cachey has pointed to the fact that Italian humanism was in general unc
 
 As we will see with other genres of pedagogical literature, the key moment of transition came in the fifteen twenties and thirties. By this time, the New World discoveries were becoming common knowledge and more and more scholars wanted to take them actively into account. At the elementary level, it was no longer enough to conceive the world in purely European and Christian terms. Not incidentally, several of the most important general geographies of the period were penned by schoolmasters who also taught Latin grammar and rhetoric. Their polymathy made them more open than their contemporaries to including new geographical data.
 
-Joachim Vadianus (1484-1551) at St. Gall in Switzerland and Johannes Honter (1498-1549) at BraÅŸov (Kronstadt) in Transylvania were true polymaths. They taught school, took part in local politics, and edited or composed texts on grammar, rhetoric, philosophy, and science. Both men knew the latest books by Italian humanist authors but did not rest content with Italian humanism. Vadianus was also a medical doctor and poet; while Honter closely supervised the cutting of woodblocks for the highly accomplished maps that appeared in is works. Both were educational reformers on the local level and prominent internationally in Protestant Reform circles, feeling as they did that humanism was an appropriate vehicle for the new evangelical ideals. So it is no surprise that their works were only rarely used in Catholic Italy.
-<p style="text-align: center;"></p>
+Joachim Vadianus (1484-1551) at St. Gall in Switzerland and Johannes Honter (1498-1549) at Braşov (Kronstadt) in Transylvania were true polymaths. They taught school, took part in local politics, and edited or composed texts on grammar, rhetoric, philosophy, and science. Both men knew the latest books by Italian humanist authors but did not rest content with Italian humanism. Vadianus was also a medical doctor and poet; while Honter closely supervised the cutting of woodblocks for the highly accomplished maps that appeared in is works. Both were educational reformers on the local level and prominent internationally in Protestant Reform circles, feeling as they did that humanism was an appropriate vehicle for the new evangelical ideals. So it is no surprise that their works were only rarely used in Catholic Italy.
 
 
 <figure class="mkdn-figure">
@@ -31,8 +29,7 @@ Honter's *Cosmographical Basics* (*Rudimenta cosmographica*) was a brief general
 
 Vadianus' *Summary of the Three Parts of the Earth* (*Epitome trium terrae partium*, first published in 1534) was similarly successful, but again, not in Italy. Vadianus developed this comprehensive geographical manual (most editions run to five hundred pages or more) by building on earlier scholarly and evangelical publications, respectively a commentary on Pomponius Mela and a study of the missionary voyages of St. Paul. Vadianus presented the *Epitome* as a logical outgrowth of Scripture study. He offered his readers no less eminent a mentor than St. Paul, whose missionary travels were a commonplace model for modern evangelicals. Vadianus claimed that Paul's letters are best understood by those who study geography so as to know about the peoples and physical features of foreign lands. Geography and the missionary impulse were thus inextricably linked in Vadianus' influential work. (74)
 
-Both Honter and Vadianus employed printers who knew how to make books in the latest humanist styles. Indeed, most editions of Honter's little geography would have been at home, graphically at least, in any Italian bookshop of the fifteen forties that catered to Latin-school students. The first edition of the *Rudimenta* in verse, printed at BraÅŸov / Kronstadt under Honter's direct supervision, is an octavo with the poetic text set in italics, in the style of the popular Aldines of the period. The paper and presswork are first quality. The title page is adorned with a simple architectural border, not an Aldine look but still consistent with many books printed at Venice for the Hungarian and Balkan market. Later editions by Christoph Froschauer in Zurich are even more Venetian in look. They have clearly organized, typographic title pages with a handsome emblematic printer's mark.
-<p style="text-align: center;"></p>
+Both Honter and Vadianus employed printers who knew how to make books in the latest humanist styles. Indeed, most editions of Honter's little geography would have been at home, graphically at least, in any Italian bookshop of the fifteen forties that catered to Latin-school students. The first edition of the *Rudimenta* in verse, printed at Braşov / Kronstadt under Honter's direct supervision, is an octavo with the poetic text set in italics, in the style of the popular Aldines of the period. The paper and presswork are first quality. The title page is adorned with a simple architectural border, not an Aldine look but still consistent with many books printed at Venice for the Hungarian and Balkan market. Later editions by Christoph Froschauer in Zurich are even more Venetian in look. They have clearly organized, typographic title pages with a handsome emblematic printer's mark.
 
 
 <figure class="mkdn-figure">
@@ -47,6 +44,6 @@ Vadianus's printers also dressed his work in Venetian style. The *Epitome* was m
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
 * (72) Cachey 1996, 63-64.
-* (73) Karrow 1993, 302-315; Engelmann 1982, 58-63 and 84-90; TÃ¶rÃ¶k 2001, 70-72.
+* (73) Karrow 1993, 302-315; Engelmann 1982, 58-63 and 84-90; Török 2001, 70-72.
 * (74) Vadianus 1534, 17-18; Bonorand 1962, 91-96.
 * (75) NÃ¤f 1945, 21-26. Most of Froshauer's output was in a Germanic style using gothic types, but he was capable of excellent Italian-style typography for classical texts, humanist literature, and science; see Staedke 1965, 60, 72-79; Leemann-Van Elck 1040, 163-167.

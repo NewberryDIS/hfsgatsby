@@ -11,7 +11,6 @@ For Erasmus, even the simple logic of putting together a school book spelled con
 
 > But meanwhile some wrangler will call out, "Why do you, O Theologian, attend to such silly nuggets?" Well, first of all, I hold nothing onerous, however humble, that pertains to good letters, much less anything that is as useful for the purity of Latin language as it is conducive to good morals. Moreover, why would I be ashamed to pass a few hours on this task, when many Greek writers, and not bad ones either, were praised for their learning in it? (111)
 
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -33,4 +32,4 @@ Erasmus advocated a new kind of pedagogy for collections of moral sayings, one t
 * (109) Erasmus 1538, 3: *Porro cuius auctoris sit hoc opus, &amp; utrum unius, an plurium, non admodum referre puto. Catonis ob id tantum arbitror dici, quod sententias habeat Catone dignas.*
 * (110) Perraud 1988, 90; Cherchi 1998, 55.
 * (111) Erasmus 1538, 3: *Sed interim clamabit vitiligator aliquis: hui Theologum tam frivolis versari nugis? Primum ego nichil fastidiendum duco, quantumvis humile, quod ad bonas pertinet literas, nedum hosce versus, tanta Romani sermonis munditie, tamque ad bonos mores conducibiles. Quanquam cur me pudeat in hoc genere paulas horas collocare, in quo non pauci scriptotes Graeci non mediocri cum laude sunt versati?*
-* (112)Â  Further on this humanist theme, Chomart 1981, 234-237.
+* (112) Further on this humanist theme, Chomart 1981, 234-237.

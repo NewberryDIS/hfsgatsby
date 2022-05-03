@@ -4,7 +4,6 @@ slug: /text/517
 postid: 317
 ---
 By the end of the sixteenth century, after only twenty five years in use, the grammar textbook of Manuel Alvares had become a symbol of the Jesuit educational system. It was a monument, but not an unchallenged one. Critics variously complained about content, offered different teaching methods, or presented similar material with alternative design strategies. Others attempted to indict the Jesuit order and its highly successful pedagogy. (82) No surprise, then, that Alvares' grammar had a long and controversial afterlife. Conforming to the prescriptions of the 1599 *Ratio Studiorum*, the Jesuits continued to teach it until modern times. Editions for student use under their direct patronage appeared until the end of the nineteenth century.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

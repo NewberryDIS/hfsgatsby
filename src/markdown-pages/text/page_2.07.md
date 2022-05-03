@@ -4,7 +4,6 @@ slug: /text/207
 postid: 155
 ---
 The practical response of the Italian humanists was to author new grammars for the elementary and intermediate Latin course based on their own teaching. Pilade himself had attempted this before authoring a detailed critique of everything he found objectionable in the *Doctrinale*. (33) The most influential of the new intermediate grammars were those of Guarino Guarini Veronese (1374-1460) and Niccolò Perotti (1430 -1480). Guarino began work on his grammar textbook in the second decade of the fifteenth century, designing a concise prose grammar in a deliberate attempt to counter the prolix verse of the *Doctrinale*. He took over and simplified descriptive terms for noun and verb morphology that had been developing for a century or more in the Italian schools and exemplified each rule with good classical examples. Guarino's grammar was praised by other humanists (many of them his own students), and it came to have wide circulation in Italy as an intermediate grammar book. (34) Like the Donat, however, the text was not stable, since before the advent of printing there was no common or vulgate text, merely versions prepared by individual teachers for their own classrooms. Writing in 1459, Guarino's son Battista complained of these elaborations and modifications. (35)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -15,7 +14,6 @@ The practical response of the Italian humanists was to author new grammars for t
 </figure>
 
 After the appearance of the first printed editions, the Guarino text stabilized somewhat. Over sixty editions are known before 1501, all but three of them printed in Italy. Typically the text began with brief, basic definitions for the parts of speech and simple noun paradigms. There followed a series of short descriptive notes for verb forms and syntax accompanied by lists of regular and irregular forms, and usually some verse-form chapters on heteroclyte nouns, orthographic conventions, and vocabulary study.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -26,7 +24,6 @@ After the appearance of the first printed editions, the Guarino text stabilized 
 </figure>
 
 The last chapter, entitled *Carmina differentialia*, also circulated widely as a separate or appeared with grammar books by other authors. (36) In this form Guarino's *Regulae* were printed numerous times right through the sixteenth century and into the seventeenth, especially in the Veneto and Emilia-Romagna, where Guarino had spent almost all of his long career as teacher.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">

@@ -3,7 +3,6 @@ title: "3.07 Off to Rome"
 slug: /text/307
 postid: 215
 ---
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -23,10 +22,10 @@ Rome also affected the kind of new writing and publishing Mancinelli undertook. 
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (29)Â  On these works, Mellidi 2002, 113-121; Green 1999, 81-83; on humanist mnemonics, Jensen 1998, 265.
-* (30)Â  Mancinelli 1490c; on this circle, Renazzi 1803, 204-05; Chambers 1976, 77-81, 88-90; Mellidi 2002, 48-55, 73-78.
-* (31)Â  Mancinelli 1488b: *Abeat iam barbarus Alexander et barbaram cum sua barbarie repetat patriam. Et vere romanus ac elegans Mancinellus ubique vigeat et decantetur.*
-* (32)Â  Crane 2005, 76-87, however, describes several attempts by Josse Bade to do so.
-* (33)Â  Its modern editor does not hazard a guess as to why; Casciano 1983; Valla 1990.
+* (29) On these works, Mellidi 2002, 113-121; Green 1999, 81-83; on humanist mnemonics, Jensen 1998, 265.
+* (30) Mancinelli 1490c; on this circle, Renazzi 1803, 204-05; Chambers 1976, 77-81, 88-90; Mellidi 2002, 48-55, 73-78.
+* (31) Mancinelli 1488b: *Abeat iam barbarus Alexander et barbaram cum sua barbarie repetat patriam. Et vere romanus ac elegans Mancinellus ubique vigeat et decantetur.*
+* (32) Crane 2005, 76-87, however, describes several attempts by Josse Bade to do so.
+* (33) Its modern editor does not hazard a guess as to why; Casciano 1983; Valla 1990.
 * (34) Vatican, MS Ottoboniani lat. 2413, fol. 24; Campanelli 1997, 313.
 * (35) On these commentaries, Mellidi 2002, 151-178; on the importance of library research, ibid., 69-70.

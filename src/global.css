@@ -79,3 +79,27 @@ body {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
+.comment-icons img:last-child {
+  display: none;  
+}
+.comment-icons:hover img:last-child {
+  display: inline-block;  
+}
+.comment-icons:hover img:first-child {
+  display: none;  
+}
+
+
+img[src$='#cmtico'] { 
+  width: 22px;
+  vertical-align: sub;
+}
+img[src$='#cmtico-one'] { 
+  width: 22px;
+  vertical-align: sub;
+}
+img[src$='#cmtico-two'] { 
+  width: 22px;
+  vertical-align: sub;
+}

@@ -11,6 +11,6 @@ The printed emblem book flourished as a high-culture phenomenon until about 1600
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (12)Â  Harms 1973, 53-57; Pinkus 1996, 39-45; Elkins 1999, 201-203; Scholz 2002, 326-330; Manning 2002, 80-88; Coppens 2005, 37.
+* (12) Harms 1973, 53-57; Pinkus 1996, 39-45; Elkins 1999, 201-203; Scholz 2002, 326-330; Manning 2002, 80-88; Coppens 2005, 37.
 * (13) Gareffi 1981, 12-17; Ciardi 1992, 363-370; Pinkus 1996, 43-45; Waquet 2001, 36-40.
-* (14)Â  On periodization, Harms 1973, 49, 60-62; Scholz 1993, 154-157; Matthews 1991, 30-38; Matthews Grieco1997, 61-65; Manning 2002, 110-114; Wolkenhauer 2002, 46-53, 61-62, 78-83.
+* (14) On periodization, Harms 1973, 49, 60-62; Scholz 1993, 154-157; Matthews 1991, 30-38; Matthews Grieco1997, 61-65; Manning 2002, 110-114; Wolkenhauer 2002, 46-53, 61-62, 78-83.

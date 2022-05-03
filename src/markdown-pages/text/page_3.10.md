@@ -25,11 +25,11 @@ While Mancinelli's *Epitome* of Lorenzo Valla was in preparation, then, and just
 * [Open Bibliography](/bibliography.pdf)
 * (43) There are editions of the paired works as late as 1527. On the curriculum as conceived by Mancinelli, Mellidi 2002, 80-122.
 * (44) Mellidi 2002, 141.
-* (45)Â  Cox 2003, 684-686.
-* (46)Â  Ibid.
+* (45) Cox 2003, 684-686.
+* (46) Ibid.
 * (47) On text criticism of the period as "polishing with a file," Miglio 1983, 255-56.
 * (48) Valla 1492, IGI 10095. The Sallust reprint, IGI 8551 appeared in May 1491, and though Leto was then in Rome, the preface implies that he was in contact with the printer, Pincio.
-* (49)Â  Mancinelli 1494a.
+* (49) Mancinelli 1494a.
 * (50) The preface appears in Mancinelli 1518, fol. g4r-v. On Mancinelli and Valla, Mellidi 2002, 133-143. On Valla's antiquarianism, Bober 2004, 456-460. On the reception of Valla, Fuiano 1971, 28-31; Grafton and Jardine 1986, 66-82; Gavinelli 1991, 155-176; Bommarito 2005, 46-53; Santoro 2007, esp. 31-32.
 * (51) Tortelli 1493: *Tortelii Lima quaedam per Antonium Mancinellum.*
 * (52) Capoduro 1983, esp. 50-52.

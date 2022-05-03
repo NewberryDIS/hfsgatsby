@@ -13,20 +13,20 @@ One of the clearest cases in which Bade both appropriated another scholar's work
 
 Already in 1505, the year before Mancinelli's death, Josse Bade began to publish a series of Mancinelli's classroom works. Usually the learned Paris printer furnished the texts with additional annotations. Sometimes he anthologized Mancinelli with other humanists. In 1508, for example, he included the *Carmen de figuris* in an edition of the grammar book of Giovanni Sulpizio (a contemporary of Mancinelli and like him a member of the circle of Pomponio Leto) as part of an appendix of several writers on the figures of speech. Curiously, Bade substituted six lines of his own composition for the first five lines of Mancinelli's poem. Clearly labeled *Mancinellus de figuris*, these read:
 
-> <em>Barbara scribendo fit siue loquendo figura
-Una in uoce; aliud more insueto superaddens
-Demens aut mutans seu transmutans: uti mavors
-Pro mars; &amp; fates pro fantes; asuenio pro
-Aduenio, fors tymbrae legas pro timber eritque
-Accentu veluti dicendo domina eodemque.</em> (99)
+> *Barbara scribendo fit siue loquendo figura*\
+> *Una in uoce; aliud more insueto superaddens*\
+> *Demens aut mutans seu transmutans: uti mavors*\
+> *Pro mars; & fates pro fantes; asuenio pro*\
+> *Aduenio, fors tymbrae legas pro timber eritque*\
+> *Accentu veluti dicendo domina eodemque.* (99)
 
 Compare this with Mancinelli's original, five verses which had stood for twenty years in all earlier editions:
 
-> <em>Fit barbarismus scribendo sive loquendo
-Adiicit ac demit mutat transmutat et idem
-Una in voce tamen mavors fates bene pandunt
-Asuenio tymbrae &amp; pro mars fantes quoque tymber
-Advenio: sic et dicendo domina dominus.</em> (100)
+> *Fit barbarismus scribendo sive loquendo*\
+> *Adiicit ac demit mutat transmutat et idem*\
+> *Una in voce tamen mavors fates bene pandunt*\
+> *Asuenio tymbrae & pro mars fantes quoque tymber*\
+> *Advenio: sic et dicendo domina dominus.* (100)
 
 Presumably Bade thought he had clarified the obscure verses of Mancinelli or improved the meter. But both versions were complex enough to require explanatory comment. Mancinelli had produced such a note, twenty three lines of prose to explicate five of poetry. The poem and commentary stand together in all earlier editions. Bade reproduced this commentary word for word in 1508 (though it refers to a different poem!) and then added his own notes, at about the same length as Mancinelli's, so that these few lines of poor mnemonic verse swell to a full page loaded down with learned commentary.
 

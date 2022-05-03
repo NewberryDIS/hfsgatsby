@@ -4,7 +4,6 @@ slug: /text/702
 postid: 365
 ---
 Unlike most literary genres, we know the precise date and personalities involved in the creation of the emblem book. Both the form of the individual emblem and the idea of creating a collection of them were devised as a literary recreation for his humanist friends (including a number of printers) by a renowned professor of law, Andrea Alciati (1492-1550). The moment was December of 1522. His collection went to print in 1531 without his consent. It was imitated almost immediately, and by the 1540s the new genre was established and flourishing entirely outside of Alciati's control and indeed in forms he had not imagined. Alciati's long, international career as literary editor and translator and as teacher of law at Avignon, Milan, Bourges, Pavia, Bologna, and Ferrara no doubt contributed to the successful marketing of his emblem book, which saw hundreds of editions in a dozen languages within his lifetime. (4)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -15,7 +14,6 @@ Unlike most literary genres, we know the precise date and personalities involved
 </figure>
 
 We can also delineate a detailed intellectual context for the form. Emblems had many antecedents in Renaissance art, literature, and commerce, most importantly in heraldry and trademarking. But Alciati tells us he modeled his first emblems directly on the learned printer's marks of his day. He specifically mentions the mark of Aldo Manuzio, which, as he knew, had been explicated at some length by Erasmus in his *Adagia*. (5)
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
@@ -33,6 +31,6 @@ Like the textbook market, however, the emblem market allowed for many regional v
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (4)Â  Manning 2002, 42-45 ; Wolkenhauer 2002, 55, 207-208; Grendler 2002a, 439-443; Alciati, ed. Daly and Callahan 1988; Alciati 1953, 45-47.
-* (5)Â  II,i.1. The first version was penned about 1508; it appeared in extended form in the 1520 Froben edition of Erasmus, which Alciati surely knew. (He lists Froben's mark among his inspirations.) Later, Erasmus added a diatribe against printers who did not live up to the high standards of Aldo. See Wolkenhauer 2002, 165-185.
-* (6)Â  Scholz 1993, 150-151; Jeanneret 2001, 212-214; Coppens 2005, 34-37.
+* (4) Manning 2002, 42-45 ; Wolkenhauer 2002, 55, 207-208; Grendler 2002a, 439-443; Alciati, ed. Daly and Callahan 1988; Alciati 1953, 45-47.
+* (5) II,i.1. The first version was penned about 1508; it appeared in extended form in the 1520 Froben edition of Erasmus, which Alciati surely knew. (He lists Froben's mark among his inspirations.) Later, Erasmus added a diatribe against printers who did not live up to the high standards of Aldo. See Wolkenhauer 2002, 165-185.
+* (6) Scholz 1993, 150-151; Jeanneret 2001, 212-214; Coppens 2005, 34-37.

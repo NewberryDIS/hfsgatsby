@@ -4,7 +4,6 @@ slug: /text/006
 postid: 33
 ---
 The sources for this study are varied. Where possible I have consulted the archives of printers, booksellers, and teachers. But for the history of schoolbooks proper, I have privileged above all the title pages, prefaces, and appendixes of printed textbooks and works on pedagogical theory. These undoubtedly offer the most authoritative information about the intentions of authors and publishers. Sometimes they tell us all we can know about a given author or teacher. Always they tell us what the editors and authors wanted us to know, even though it is often maddeningly unlike what we really want to figure out.
-<p style="text-align: center;"></p>
 
 
 <figure class="mkdn-figure">
