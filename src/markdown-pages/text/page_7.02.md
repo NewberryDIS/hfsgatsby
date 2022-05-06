@@ -7,7 +7,7 @@ Unlike most literary genres, we know the precise date and personalities involved
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.02.jpg','Alciati expounds Aldo's anchor (click to enlarge - 865 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_026.02.jpg" />
     <figcaption class="mkdn-figcaption">Alciati expounds Aldo's anchor (click to enlarge - 865 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ We can also delineate a detailed intellectual context for the form. Emblems had 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.03.jpg','Collected emblems (click to enlarge - 900 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_028.03.jpg" />
     <figcaption class="mkdn-figcaption">Collected emblems (click to enlarge - 900 KB jpeg image)</figcaption>
     </div>

@@ -6,7 +6,7 @@ postid: 388
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_011.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_011.03.jpg','Psalm 68 verse 8 (click to enlarge - 462 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_011.03.jpg" />
     <figcaption class="mkdn-figcaption">Psalm 68 verse 8 (click to enlarge - 462 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ Part of Hugo's approach to younger students was his extensive use of adolescent 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_012.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_012.04.jpg','Angel grows up (click to enlarge - 869 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_012.04.jpg" />
     <figcaption class="mkdn-figcaption">Angel grows up (click to enlarge - 869 KB jpeg image)</figcaption>
     </div>
@@ -26,7 +26,7 @@ Interestingly, the first edition of Hugo's *Pia desideria* published in Italy (M
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.07.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.07.jpg','&quot;After darkness I hope for light&quot; (click to enlarge - 482 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_010.07.jpg" />
     <figcaption class="mkdn-figcaption">&quot;After darkness I hope for light&quot; (click to enlarge - 482 KB jpeg image)</figcaption>
     </div>
@@ -36,7 +36,7 @@ The Jesuits seem to have been particularly fond of chubby children. The *Typus M
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.06.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.06.jpg','Wheel of fortune (click to enlarge - 402 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_010.06.jpg" />
     <figcaption class="mkdn-figcaption">Wheel of fortune (click to enlarge - 402 KB jpeg image)</figcaption>
     </div>
@@ -46,7 +46,7 @@ Nor did it add much to show both an adult bourgeois and a cupid falling from the
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.04.jpg','&quot;After darkness I hope for light&quot; (click to enlarge - 758 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_010.04.jpg" />
     <figcaption class="mkdn-figcaption">&quot;After darkness I hope for light&quot; (click to enlarge - 758 KB jpeg image)</figcaption>
     </div>
@@ -58,7 +58,7 @@ Historians have tended to treat the so-called college emblem books in a separate
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_010.05.jpg','&quot;We play around&quot; (click to enlarge - 888 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_010.05.jpg" />
     <figcaption class="mkdn-figcaption">&quot;We play around&quot; (click to enlarge - 888 KB jpeg image)</figcaption>
     </div>

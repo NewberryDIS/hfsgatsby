@@ -11,7 +11,7 @@ Some kinds of Jesuit emblems were very close to curriculum concerns, especially 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_014.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_014.04.jpg','Nadal's version of a parable (click to enlarge - 471 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_014.04.jpg" />
     <figcaption class="mkdn-figcaption">Nadal's version of a parable (click to enlarge - 471 KB jpeg image)</figcaption>
     </div>
@@ -23,7 +23,7 @@ The direct use of true emblems in Jesuit classrooms in Italy is not attested unt
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_011.08.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_011.08.jpg','Pia Desideria Bk I Emblem 3 (click to enlarge - 798 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_011.08.jpg" />
     <figcaption class="mkdn-figcaption">Pia Desideria Bk I Emblem 3 (click to enlarge - 798 KB jpeg image)</figcaption>
     </div>

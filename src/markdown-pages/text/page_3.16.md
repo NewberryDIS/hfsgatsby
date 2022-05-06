@@ -9,7 +9,7 @@ Leonardo Vegio's collection is important because it represents sophisticated pac
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-ti.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-ti.jpg','Title page of one fascicle (click to enlarge - 837 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-ti.jpg" />
     <figcaption class="mkdn-figcaption">Title page of one fascicle (click to enlarge - 837 KB jpeg image)</figcaption>
     </div>
@@ -19,7 +19,7 @@ It was the Venetians' turn to play copycat in 1519 when Giorgio Rusconi reproduc
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (2).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (2).jpg','Catch title in use, at lower right (click to enlarge - 669 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (2).jpg" />
     <figcaption class="mkdn-figcaption">Catch title in use, at lower right (click to enlarge - 669 KB jpeg image)</figcaption>
     </div>
@@ -29,7 +29,7 @@ Rusconi did add one refinement to the typography, a series of short titles on ea
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (3).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (3).jpg','&quot;The Thesaurus of Mancinelli&quot; (click to enlarge - 772 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni- (3).jpg" />
     <figcaption class="mkdn-figcaption">&quot;The Thesaurus of Mancinelli&quot; (click to enlarge - 772 KB jpeg image)</figcaption>
     </div>

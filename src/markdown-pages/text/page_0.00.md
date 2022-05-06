@@ -5,9 +5,9 @@ postid: 1
 ---
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
-        <img class="mkdn-image" src="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" />
-        <figcaption class="mkdn-figcaption">Francesco Negro on a 1508 title page</figcaption>
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg','Francesco Negro on a 1508 title page')" class="mkdn-image-link" id="lbimage">
+    <img class="mkdn-image" src="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" />
+    <figcaption class="mkdn-figcaption">Francesco Negro on a 1508 title page</figcaption>
     </div>
 </figure>
         

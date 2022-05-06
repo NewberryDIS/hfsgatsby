@@ -5,7 +5,7 @@ postid: 199
 ---
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.-5438.4(Vault)De-arte-grammatica,-sive,-De-octo-partibus-DETAIL.jpg')" data="/images_full/3.00_Chapter_Three/Inc.-5438.4(Vault)De-arte-grammatica,-sive,-De-octo-partibus-DETAIL.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.-5438.4(Vault)De-arte-grammatica,-sive,-De-octo-partibus-DETAIL.jpg','A Grammar classroom, from Sulpizio, 1495 (click to enlarge - 498 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.-5438.4(Vault)De-arte-grammatica,-sive,-De-octo-partibus-DETAIL.jpg" />
     <figcaption class="mkdn-figcaption">A Grammar classroom, from Sulpizio, 1495 (click to enlarge - 498 KB jpeg image)</figcaption>
     </div>

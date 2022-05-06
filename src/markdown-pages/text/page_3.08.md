@@ -17,7 +17,7 @@ Mancinelli's commentary on Horace also appeared in Venice in 1492. It was more a
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_100.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_100.01.jpg','Mancinelli on Horace keeps eminent company, in 1519 (click to enlarge - 735 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/HFS_100.01.jpg" />
     <figcaption class="mkdn-figcaption">Mancinelli on Horace keeps eminent company, in 1519 (click to enlarge - 735 KB JPEG image)</figcaption>
     </div>

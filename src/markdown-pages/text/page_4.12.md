@@ -13,7 +13,7 @@ When more tightly packaged behind a single title page, the student would purchas
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.03.jpg','Small book, space at a premium (click to enlarge - 981 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_087.03.jpg" />
     <figcaption class="mkdn-figcaption">Small book, space at a premium (click to enlarge - 981 KB jpeg image)</figcaption>
     </div>
@@ -23,7 +23,7 @@ A typical combined edition is that printed by Francesco Lorenzini at Venice in 1
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.04.jpg','No separate title page (click to enlarge - 769 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_087.04.jpg" />
     <figcaption class="mkdn-figcaption">No separate title page (click to enlarge - 769 KB jpeg image)</figcaption>
     </div>

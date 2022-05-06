@@ -7,7 +7,7 @@ In the final, fourth book of the *Sfera*, Dati offered something different and i
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.03.jpg','Maps in the margin (click to enlarge - 896 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_089.03.jpg" />
     <figcaption class="mkdn-figcaption">Maps in the margin (click to enlarge - 896 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ Dati's verse itinerary was intended from the start to be accompanied by detailed
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.05.jpg','More marginal maps = the mouth of the Nile at right (click to enlarge - 955 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_089.05.jpg" />
     <figcaption class="mkdn-figcaption">More marginal maps = the mouth of the Nile at right (click to enlarge - 955 KB jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ The last part of Dati's *Sfera* introduced the genre of a sailing itinerary illu
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_091.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_091.02.jpg','Bordone's collection of islandds, 1528 (click to enlarge - 895 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_091.02.jpg" />
     <figcaption class="mkdn-figcaption">Bordone's collection of islandds, 1528 (click to enlarge - 895 KB jpeg image)</figcaption>
     </div>

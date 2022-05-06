@@ -7,7 +7,7 @@ Terence was kid's stuff, to be sure. But another reason for the critical neglect
 
  
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_108.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_108.02.jpg','A manuscript Terence, ca. 1420')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_108.02.jpg" />
     <figcaption class="mkdn-figcaption">A manuscript Terence, ca. 1420</figcaption>
     </div>

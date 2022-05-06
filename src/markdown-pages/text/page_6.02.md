@@ -6,7 +6,7 @@ postid: 323
 In the course of the early sixteenth century, the growing availability of vernacular study texts in print tended to blur traditional genre distinctions. Latin textbooks, both before and for a century and more after the invention of printing, were designed to fit neatly into an existing Latin course that was much the same everywhere. The typical author of such a textbook was himself a teacher who wrote in the first instance for his own classroom. If he was proposing something innovative and wanted to sell his book widely, he would still work within established norms and label his book for a specific portion of the curriculum familiar to other teachers. In the first decades of printing, then, teachers were effectively in charge; they set the tone for what publishers produced. Latin textbooks followed teaching practice rather than leading it.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_022.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_022.01.jpg','Textbooks for aspiring merchants (click to enlarge - 444 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_022.01.jpg" />
     <figcaption class="mkdn-figcaption">Textbooks for aspiring merchants (click to enlarge - 444 KB jpeg image)</figcaption>
     </div>
@@ -22,7 +22,7 @@ While the publishers of Latin-school textbooks vied for a market of boys all edu
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.01.jpg','Calligraphic style (click to enlarge - 551 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.01.jpg" />
     <figcaption class="mkdn-figcaption">Calligraphic style (click to enlarge - 551 KB jpeg image)</figcaption>
     </div>

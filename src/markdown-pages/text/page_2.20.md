@@ -5,7 +5,7 @@ postid: 194
 ---
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/3A-434,Mercurius-Biljingujs,-pg.766-767.jpg')" data="/images_full/2.00_Chapter_Two/3A-434,Mercurius-Biljingujs,-pg.766-767.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/3A-434,Mercurius-Biljingujs,-pg.766-767.jpg','Elaborate instructions')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/3A-434,Mercurius-Biljingujs,-pg.766-767.jpg" />
     <figcaption class="mkdn-figcaption">Elaborate instructions</figcaption>
     </div>

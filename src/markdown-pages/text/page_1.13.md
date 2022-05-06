@@ -6,7 +6,7 @@ postid: 108
 Most octavo Terences of the early sixteenth century (excepting only that of quirky Soardi) remarked their editors on the title pages and included prefatory letters or dedications in humanist style. But octavo editions offered little else by way of apparatus until the fifteen forties when marginalia began to appear. Contemporary folios were much more complex internally and offered more room on the title page for advertisements. In all formats, however, more and more advertising prose came to be crowded onto the title pages. (60)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_117.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_117.01.jpg','Vigilant philology for sale, 1555 (click to enlarge - 616 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_117.01.jpg" />
     <figcaption class="mkdn-figcaption">Vigilant philology for sale, 1555 (click to enlarge - 616 KB JPEG image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ By mid-century, advances in philology meant that it was essential to proclaim on
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_134.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_134.01.jpg','')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_134.01.jpg" />
     <figcaption class="mkdn-figcaption"></figcaption>
     </div>

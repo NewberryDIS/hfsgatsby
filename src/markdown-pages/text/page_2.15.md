@@ -8,7 +8,7 @@ Unlike *Ianua*, the regional variant of the Donat Italians knew, the Cato text u
 We have already noted, however, that in Italy Pseudo-Cato often circulated together with the *Ianua* in a single manuscript booklet subsumed under the name of the Donat. In the North the *Ars minor* of Aelius Donatus and the Cato were usually treated as separate texts both in manuscripts and in early printed versions. In origin, the Donat and the Cato had different roles in the curriculum, since Aelius Donatus wrote a book of grammatical rules (and the Italian Donat was an equivalent set of rules), while the Cato was offered as a first literary reader. This functional distinction was preserved in Northern European printed editions. In the North, the Cato was often paired with the fables of Avianus. (91) Both these texts also appeared in an anthology of medieval elementary reading texts that was partly standardized before the introduction of printing and which circulated widely in print as the *Eight Authors* (*Auctores octo*). Many of these same school texts circulated in medieval Italy too, but not in standardized collections. (92) With the exception of the Cato, they were slowly eliminated from the curriculum by humanist teachers for exactly the reasons cited by Bebel -- bad Latin and insufficient attention to simple, commonplace moral themes. None of them appeared with the Cato in printed Italian editions. Instead, humanist teachers continued to use the Cato together with or immediately after Pseudo-Donatus and then went on to more complex reading texts in parallel with an intermediate grammar book. This was the pattern on the eve of the invention of printing, and it continued into the seventeenth century. The Donat -- in the sense of Pseudo-Donatus plus Pseudo-Cato -- became the standard printed package in Italy for the first course in Latin. (93)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.04.jpg','The Cato starts with a brief caption title (Click to enlarge - 869 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_057.04.jpg" />
     <figcaption class="mkdn-figcaption">The Cato starts with a brief caption title (Click to enlarge - 869 KB JPEG image)</figcaption>
     </div>
@@ -18,7 +18,7 @@ Because Pseudo-Cato and Pseudo-Donatus were so often used together in Italian sc
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.05.jpg','A change of format mid-page (Clilck to enlarge - 780 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_057.05.jpg" />
     <figcaption class="mkdn-figcaption">A change of format mid-page (Clilck to enlarge - 780 KB JPEG image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ Because Pseudo-Cato and Pseudo-Donatus were so often used together in Italian sc
 The printers employed a large round gothic type, and although the page is relatively crowded the text remains highly legible. The first forty-eight proverbs are very short and are arranged in two columns; the remaining aphorisms run to two lines of poetry each and are set in a single column.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.06.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.06.jpg','Mark of G.B. Sessa (Click to enlarge - 660 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_057.06.jpg" />
     <figcaption class="mkdn-figcaption">Mark of G.B. Sessa (Click to enlarge - 660 KB JPEG image)</figcaption>
     </div>

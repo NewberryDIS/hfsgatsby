@@ -11,7 +11,7 @@ Latin vocabulary lists based on single authors could help first-time readers of 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_098.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_098.01.jpg','Advertising erudition (click to enlarge - 805 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_098.01.jpg" />
     <figcaption class="mkdn-figcaption">Advertising erudition (click to enlarge - 805 KB JPEG image)</figcaption>
     </div>
@@ -21,7 +21,7 @@ Even truly learned Latinists like Bartolomeo Ricci (1490-1560) and Aldo Manuzio 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_103.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_103.01.jpg','Aldo the Younger's Terence, excerpted for Latin composition (click to enlarge - 803 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_103.01.jpg" />
     <figcaption class="mkdn-figcaption">Aldo the Younger's Terence, excerpted for Latin composition (click to enlarge - 803 KB JPEG image)</figcaption>
     </div>

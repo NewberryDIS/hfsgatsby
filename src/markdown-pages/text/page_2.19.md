@@ -6,7 +6,7 @@ postid: 191
 Without attempting to follow the fate of Erasmus's several collections of sayings in detail, we can see the result of this process of accumulation and anthologizing by jumping forward to the end of our period and looking at a textbook collection of sayings by Kaspar Schoppe (1576-1649), a German-born humanist whose career was largely spent at the University of Padua. Schoppe is not now best known for his textbooks, published under the pseudonym Pascasius Grosippus, but rather for controversial works of political theory and ecclesiology, especially his writings against Protestants and Jesuits. Like Erasmus, however, he was a skillful popularizer, polemicist, and packager of books for students; and his textbooks went through many editions.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg')" data="/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg','Elaborate advertising (click to enlarge - 643 KB jpg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/3A-434,-Mercurius-Biljngujs,-after-pg.764.jpg" />
     <figcaption class="mkdn-figcaption">Elaborate advertising (click to enlarge - 643 KB jpg image)</figcaption>
     </div>

@@ -13,7 +13,7 @@ Giraldi turned to Grasso's moral argument only on page fifty-four of his eighty 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_113.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_113.02.jpg','Abril explains Terence to his royal patron (click to enlarge - 618 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_113.02.jpg" />
     <figcaption class="mkdn-figcaption">Abril explains Terence to his royal patron (click to enlarge - 618 KB JPEG image)</figcaption>
     </div>

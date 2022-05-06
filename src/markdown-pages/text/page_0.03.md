@@ -15,7 +15,7 @@ Still another methodological problem concerns terminology. Teachers and publishe
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/HFS_118.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/HFS_118.01.jpg', 'Venturini\'s Rudiments - really for beginners? (click to enlarge - 752 KB JPEG file)','Venturini\'s Rudiments - really for beginners? (click to enlarge - 752 KB JPEG file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/HFS_118.01.jpg" />
     <figcaption class="mkdn-figcaption">Venturini's Rudiments - really for beginners? (click to enlarge - 752 KB JPEG file)</figcaption>
     </div>
@@ -24,7 +24,7 @@ Still another methodological problem concerns terminology. Teachers and publishe
 For example, the Latin term *rudimenta* ought by every possible logic refer to a work for beginners. But the *Rudimenta grammatices* of Francesco Venturini (dates unknown) is a handsome, imposing folio of almost four hundred spaciously arranged pages. It was published only once, at Florence in 1482, and it is hard to understand how it was used without examining many copies for annotations and other signs of ownership and use.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-674.172-Citadella-Methodus,-title-page-w-ruler.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-674.172-Citadella-Methodus,-title-page-w-ruler.jpg', 'Grammatical basics in small format.','Grammatical basics in small format.')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Case-X-674.172-Citadella-Methodus,-title-page-w-ruler.jpg" />
     <figcaption class="mkdn-figcaption">Grammatical basics in small format.</figcaption>
     </div>
@@ -33,7 +33,7 @@ For example, the Latin term *rudimenta* ought by every possible logic refer to a
 A comparable title might seem to be the *De Fundamentis grammatices methodus* of Pietro Cittadella (dates unknown), and it too was published only once, at Venice in 1535. But Cittadella's book runs to only forty pages in small octavo. It is so rare there is no real hope of comparing copies. There is almost no evidence of how it was used except the author's preface, which simply says it is an introductory work that will be followed by a longer and more detailed one, apparently never published. (23)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-674.225,-Grammatica,-Despautere,-first-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-674.225,-Grammatica,-Despautere,-first-title-page.jpg',' Another small-format elementary grammar, 1536 (click to enlarge - 651 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Case-X-674.225,-Grammatica,-Despautere,-first-title-page.jpg" />
     <figcaption class="mkdn-figcaption"> Another small-format elementary grammar, 1536 (click to enlarge - 651 KB jpeg file)</figcaption>
     </div>
@@ -42,7 +42,7 @@ A comparable title might seem to be the *De Fundamentis grammatices methodus* of
 Again, the *Rudimenta grammatices* of Johannes De Spauter (ca. 1460-1520) is more like Cittadella's book than Venturini's, or so it would seem on first glance. It was usually presented in a single quarto-sized gathering of ten or twelve leaves, crowded with type in several sizes employed to specifications by De Spauter himself. It got many dozens of printings in this format between the first edition of 1514 and the end of the sixteenth century. Often it stood as the first work among several at the same basic level in collections. De Spauter was the most talked-about textbook author of his day, so we know a great deal about how the *Rudimenta* was used. But in 1537, Robert Estienne at Paris included the *Rudimenta* in a folio collected works of enormous dimensions for a textbook (nearly 33 cm.). The types are among the largest and most handsome of the French Renaissance. At that size and splendor it can only have been intended for a learned audience, or perhaps for a prosperous teacher with some ready cash. (24) This habit of dressing the same text in radically different forms persisted across our period.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/three_grammars.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/three_grammars.jpg','One text in many formats (click to enlarge - 477 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/three_grammars.jpg" />
     <figcaption class="mkdn-figcaption">One text in many formats (click to enlarge - 477 KB jpeg file)</figcaption>
     </div>
@@ -51,7 +51,7 @@ Again, the *Rudimenta grammatices* of Johannes De Spauter (ca. 1460-1520) is mor
 Another *Rudimenta grammatices*, that of Niccolo Perotti (1430-1480), started its long textbook life as a generous folio. Within a few decades it also got treatments in large and small quarto. Much later it appeared in octavo as well. Before it got its own octavo editions, however, Perotti's grammar was excerpted by a Florentine grammar master, Benedetto Ricardini (active around 1500). Ricardini's *Erudimenta grammatices* was one of the earliest grammars to appear in octavo. On its face, it appears to be a highly original basic grammar book advertised with Perotti's name. It turns out, on close examination, to be a pastiche of advice on Latin composition drawn from a dozen or more authors. (25) Obviously, it is necessary to see texts like Perotti's in a full variety of formats before generalizing about how they were used.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.6141,-Rudimenta-grammatices,-folio.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.6141,-Rudimenta-grammatices,-folio.1r.jpg','Another edition of Perotti (click to enlarge - 359 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Inc.6141,-Rudimenta-grammatices,-folio.1r.jpg" />
     <figcaption class="mkdn-figcaption">Another edition of Perotti (click to enlarge - 359 KB jpeg file)</figcaption>
     </div>

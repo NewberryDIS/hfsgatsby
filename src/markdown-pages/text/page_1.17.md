@@ -5,7 +5,7 @@ postid: 117
 ---
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.tif.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.tif.jpg','Fabrini, first edition, 1548 (click to enlarge - 620 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.tif.jpg" />
     <figcaption class="mkdn-figcaption">Fabrini, first edition, 1548 (click to enlarge - 620 KB jpeg file)</figcaption>
     </div>
@@ -14,7 +14,7 @@ postid: 117
 The second half of the sixteenth century saw a proliferation of self-study manuals, many of them with title pages that offered far more than even their authors could have believed possible. Giovanni Fabrini (1516-ca. 1580) dedicated *Il Terentio Latino* to Cosimo de' Medici in 1548; it was reprinted at least ten times before 1594. He claims that the book is a text, a translation, a commentary (*commento)*, and a bilingual grammar all in one.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.V22,-Il-Terentio-Latino-Comentato-in-Lingua-Toscana,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.V22,-Il-Terentio-Latino-Comentato-in-Lingua-Toscana,-title-page.jpg','Fabrini, 1558, published by Valgrisi (click to enlarge - 456 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.V22,-Il-Terentio-Latino-Comentato-in-Lingua-Toscana,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Fabrini, 1558, published by Valgrisi (click to enlarge - 456 KB jpeg file)</figcaption>
     </div>
@@ -23,7 +23,7 @@ The second half of the sixteenth century saw a proliferation of self-study manua
 From 1551 onwards, some editions also included Fabrini's compilation of the usages (*osservazioni*) of Terence, so the book grew in ambition from a treatment of a single author into a grammatical and compositional manual that proposes Terence as the best model for Latin of all sorts and for Tuscan prose and poetry as well. The list of contents on the title page stressed these broad ambitions, saying the volume includes: word-for-word commentary on the plays and clause-by-clause Tuscan paraphrases in duplicate or triplicate; a grammar of noun and verb rules for both Tuscan and Latin; vocabulary notes comparing Terence's usage to that of other poets and to prose authors; and lastly, a usage index to Terence which allows the user to find an apposite phrase for any topic. (75)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Case-Y-672.T3058,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Case-Y-672.T3058,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.jpg','Fabrini, 1580, published by Sessa (click to enlarge - 547 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Case-Y-672.T3058,-Il-Terentio-latino-comentato-in-lingua-toscana,-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Fabrini, 1580, published by Sessa (click to enlarge - 547 KB jpeg file)</figcaption>
     </div>
@@ -32,7 +32,7 @@ From 1551 onwards, some editions also included Fabrini's compilation of the usag
 All of these study aids actually appeared in the book, along with a very thorough word index to the plays. But it is less clear that the results Fabrini claimed for it could have been achieved: "All this is arranged in such an order that, for anyone who understands Latin, the Latin here (that is, the text [of Terence]) will explain the commentary and will teach him the vernacular; and so that anyone who understands only the vernacular will be able with this commentary to learn the Latin." Since the book was never published outside Italy, however, we must take the first of these processes to mean that the Latin of Terence could inform and improve writing in Tuscan, not actually teach the language to foreigners. The author also claimed that his book contains "an interpretation of both the vernacular and Latin in which are declared the general rules of both languages." (76) The ultimate goal was that the reader should be able to "express any and all vernacular words and ideas in good Latin, according to the usage of Terence." (77)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-folo.ij-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-folo.ij-recto.jpg','Dedication page as advertising (click to enlarge - 531 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-folo.ij-recto.jpg" />
     <figcaption class="mkdn-figcaption">Dedication page as advertising (click to enlarge - 531 KB jpeg file)</figcaption>
     </div>
@@ -43,7 +43,7 @@ Fabrini made all these claims on the title pages of early editions. They were ex
 Fabrini's work was imitated in Spain by Pedro Simón Abril (1530?-1595) who proposed a bilingual Latin/Spanish Terence as a way of learning Latin through translation. A first edition appeared in 1577, and it was revised in 1583 with an improved Latin text based on that of Gabriele Faerno. Abril acknowledged his debt to Fabrini in a dedicatory letter to young Prince Ferdinand of Austria, son of Emperor Ferdinand II, for whom he claimed the same solicitous care as Fabrini had displayed toward the Medici princelings. Abril made far fewer claims than Fabrini, however. He was mostly interested in helping Spaniards learn Latin; if they could also improve their vernacular style, that would be of benefit, but it was not the goal of reading Terence. On the other hand Abril offered an entire reading list of texts he says are best studied in bilingual editions: Terence, to be sure, but also, Aesop, Cicero, and the catechism of Pius V. Abril's intent was to make these classic texts, which every educated person should know well, easier to learn. (78)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-DETAIL-folio.20-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-DETAIL-folio.20-recto.jpg','Complex typography (click to enlarge - 734 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Greenlee-5100-.T31-1548,-Il-Terentio-latino-comentato-in-lingua-toscana,-DETAIL-folio.20-recto.jpg" />
     <figcaption class="mkdn-figcaption">Complex typography (click to enlarge - 734 KB jpeg file)</figcaption>
     </div>

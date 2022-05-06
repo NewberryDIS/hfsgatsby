@@ -15,7 +15,7 @@ On the other hand, extracts from official recipe books and academic sources were
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (1).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (1).jpg','Popularizing style, clear typography (click to enlarge - 741 jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (1).jpg" />
     <figcaption class="mkdn-figcaption">Popularizing style, clear typography (click to enlarge - 741 jpeg image)</figcaption>
     </div>
@@ -25,7 +25,7 @@ One much-reprinted ricettario was first issued at Venice in 1525 under the title
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (2).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (2).jpg','Downmarket but beautifully designed (click to enlarge - 517 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricet (2).jpg" />
     <figcaption class="mkdn-figcaption">Downmarket but beautifully designed (click to enlarge - 517 KB jpeg image)</figcaption>
     </div>
@@ -35,7 +35,7 @@ Though it was printed on the cheap, on poor paper with badly inked and broken ty
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricette,f.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricette,f.jpg','Clear headings (click to enlarge - 658 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.N54,-Opera-nvova-intitolata-Dificio-de-ricette,f.jpg" />
     <figcaption class="mkdn-figcaption">Clear headings (click to enlarge - 658 KB jpeg image)</figcaption>
     </div>

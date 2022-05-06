@@ -6,7 +6,7 @@ postid: 369
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_029.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_029.01.jpg','Wrong Love, 1536 (click to enlarge - 948 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_029.01.jpg" />
     <figcaption class="mkdn-figcaption">Wrong Love, 1536 (click to enlarge - 948 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ From the start, Alciati assumed active reader response in visualizing the images
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.03.jpg','Wrong Love, 1540 (click to enlarge - 865 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_026.03.jpg" />
     <figcaption class="mkdn-figcaption">Wrong Love, 1540 (click to enlarge - 865 KB jpeg image)</figcaption>
     </div>
@@ -27,9 +27,9 @@ Apparently the highly standardized iconography interfered with a proper understa
 Exactly the reverse iconographical drift occurred with Emblem 6, False Religion (*Ficta religio*). Early editions correctly showed an enthroned prostitute who offers the wine of delusion to her followers. Later in the century, the poem's passing reference to Babylon led artists to imagine the biblical whore of Babylon and show Alciati's strumpet seated on the seven-headed monster common in images of the Apocalypse. (9)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-detail-of-emblamatic.jpg')" data="/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-detail-of-emblamatic.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-detail-of-emblamatic.jpg','Straightforward image, multiple meanings')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-detail-of-emblamatic.jpg" />
-    <figcaption class="mkdn-figcaption">Simple image, multiple</figcaption>
+    <figcaption class="mkdn-figcaption">Straightforward image, multiple meanings</figcaption>
     </div>
 </figure>
 

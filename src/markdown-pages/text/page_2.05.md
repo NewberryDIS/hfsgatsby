@@ -7,7 +7,7 @@ For the Leto Cato of 1500 the De Gregori also employed the red-and-black style o
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.01.jpg','Red &amp; black for beginners; a Donat of 1500 (click to enlarge - 464 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_057.01.jpg" />
     <figcaption class="mkdn-figcaption">Red &amp; black for beginners; a Donat of 1500 (click to enlarge - 464 KB JPEG image)</figcaption>
     </div>
@@ -19,7 +19,7 @@ An interesting example of the application of red-and-black beyond the Donat is i
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-pg.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-pg.jpg','Red and black for beginners (click to enlarge - 875 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-pg.jpg" />
     <figcaption class="mkdn-figcaption">Red and black for beginners (click to enlarge - 875 KB jpeg image)</figcaption>
     </div>

@@ -10,23 +10,15 @@ import Nogo from '../components/nogo'
 import SearchResults from '../components/searchResults'
 import Search from '../components/search'
 
-
-// export default function Template({
-//   data,
-// }, props) {
   export default function Template(props) {
-    // const [ hTerm, setHTerm ] = useState(props.location.state.highlightedTerm || '' ) 
-    // console.log(hTerm)
     const { markdownRemark } = props.data 
     const { frontmatter, html } = markdownRemark
     const [ showComments, setShowComments ] = useState(false)
     const [ query, setQuery ] = useState(props.location.search || '' )
 
-    // const [ colorIndex, setColorIndex ] = useState(0)
     const page = pages.find(p => "/text/" + p === frontmatter.slug)
     const prev = pages[pages.indexOf(page) - 1]
     const next = pages[pages.indexOf(page) + 1]
-
     return (
         <PageCss id="toplevel" >
           <Helmet title="Humanism For Sale" >
@@ -38,28 +30,7 @@ import Search from '../components/search'
             <div className="sidebar">
               <div className="homelink-wrapper">
                 <Link to="/" className="homelink" ><h1>
-                  <p className="title-top">
-
-              <span className="title-letter">H</span>
-              <span className="title-letter">u</span>
-              <span className="title-letter">m</span>
-              <span className="title-letter">a</span>
-              <span className="title-letter">n</span>
-              <span className="title">i</span>
-              <span className="title-letter">s</span>
-              <span className="title-letter">m</span>
-                  </p>
-              <p className="title-bottom">
-              <span className="title-letter">F</span>
-              <span className="title-letter">o</span>
-              <span className="title-letter">r</span>
-              <span className="title-letter"> </span>
-              <span className="title-letter">S</span>
-              <span className="title-letter">a</span>
-              <span className="title-letter">l</span>
-              <span className="title-letter">e</span>
-</p>
-                  {/* <p className="title-top">Humanism</p><p className="title-bottom">For Sale</p> */}
+                  <p className="title-top">Humanism</p><p className="title-bottom">For Sale</p>
                   </h1></Link>
                 </div>
               <Sidebar pageSlug={frontmatter.slug}  main={frontmatter.slug?.indexOf('text') > -1} />
@@ -114,12 +85,11 @@ const PageCss = styled.div`
     padding: 2px;
     font-family: var(--fontSerif);
     p {
+      text-align: center;
       margin: 0 10%;
       width 80%;
       // margin: 0;
       padding: 0;
-      display: flex;
-      justify-content: space-between;
 
     }
   }
@@ -138,6 +108,8 @@ const PageCss = styled.div`
     background: var(--bg);
   }
   .mkdn-figure, .next-page, .previous-page {
+
+    cursor: pointer;
     border: 1px solid var(--textNormal);
   }
   .mkdn-figure:hover, .next-page:hover, .previous-page:hover {
@@ -233,7 +205,6 @@ const PageCss = styled.div`
   .previous-page, .next-page {
     flex: 1;
     text-align: center;
-    cursor: pointer;
     border: 1px solid var(--textNormal);
     margin: 5px;
     padding: 5px;

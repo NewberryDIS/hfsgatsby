@@ -7,7 +7,7 @@ The sources for this study are varied. Where possible I have consulted the archi
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-pg-DETAIL.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-pg-DETAIL.jpg','Advertisements on the title page, 1519 (click to enlarge - 454 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni-,-pg-DETAIL.jpg" />
     <figcaption class="mkdn-figcaption">Advertisements on the title page, 1519 (click to enlarge - 454 KB jpeg image)</figcaption>
     </div>

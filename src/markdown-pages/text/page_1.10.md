@@ -4,7 +4,7 @@ slug: /text/110
 postid: 102
 ---
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-title-page.jpg','Griffio title page (click to elarge - 475 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Griffio title page (click to elarge - 475 KB jpeg file)</figcaption>
     </div>
@@ -13,7 +13,7 @@ postid: 102
 By far the most prolific publisher of octavo Terences in the late sixteenth century was Giovanni Griffio the Elder. The Griffio printing family of Venice produced at least thirteen octavo editions of Terence between 1555 and 1590, standardized to 175 printed leaves. The exact history of the family is unclear, but the elder Giovanni Griffio printed from 1544 to 1576 in Venice, and in Padua as well from 1555 to 1563. He was succeeded by unnamed heirs who printed in 1576-77 only, and then by another Giovanni Griffio, probably his son or nephew, who was active from 1577 to end of century. The elder Giovanni established a basic format for Terence in 1555 and reprinted at least nine times before 1575. His heirs reprinted again in 1576. The younger Giovanni reprinted at least four more times.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-pg.87v-88r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-pg.87v-88r.jpg','Griffio layout (clilck to enlarge - 491 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.G8695,-Comoediae-sex,-accurate-sane,-pg.87v-88r.jpg" />
     <figcaption class="mkdn-figcaption">Griffio layout (clilck to enlarge - 491 KB jpeg file)</figcaption>
     </div>

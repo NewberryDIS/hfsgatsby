@@ -6,7 +6,7 @@ postid: 225
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-title-page.jpg','Four works on a chaste 1498 title page (click to enlarge - 856 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Four works on a chaste 1498 title page (click to enlarge - 856 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ While at Venice, Mancinelli tackled two other publishing projects, both aimed at
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-title-page.jpg','Chaste title page, 1493 (click to enlarge - 761 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Chaste title page, 1493 (click to enlarge - 761 KB jpeg image)</figcaption>
     </div>
@@ -26,7 +26,7 @@ Mancinelli's second new textbook of the period was *How to* *Speak and Write* (*
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.2v-3r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.2v-3r.jpg','Preface, 1493 (click to enlarge - 652 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.2v-3r.jpg" />
     <figcaption class="mkdn-figcaption">Preface, 1493 (click to enlarge - 652 KB jpeg image)</figcaption>
     </div>
@@ -36,7 +36,7 @@ The preface of *Scribendi orandique modus* is dated at Venice in June 1493 while
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.26r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.26r.jpg','Table of contents, 1493 (click to enlarge - 699 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5382.5,-Scribendi-orandique-modus,-pg.26r.jpg" />
     <figcaption class="mkdn-figcaption">Table of contents, 1493 (click to enlarge - 699 KB jpeg image)</figcaption>
     </div>
@@ -46,7 +46,7 @@ More than any other work of Mancinelli, the *Scribendi orandique modus* has a di
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (2).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (2).jpg','Bevilaqua contents imitated, 1499 (click to enlarge - 727 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (2).jpg" />
     <figcaption class="mkdn-figcaption">Bevilaqua contents imitated, 1499 (click to enlarge - 727 KB jpeg image)</figcaption>
     </div>
@@ -60,7 +60,7 @@ The typography of the *Scribendi orandique* is striking and original. Despite th
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni,-ver.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni,-ver.jpg','Late version of the table of contents (click to enlarge - ')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Case-X-67.548,-Omnia-opera-Antonii-Mancinelli-Veliterni,-ver.jpg" />
     <figcaption class="mkdn-figcaption">Late version of the table of contents (click to enlarge - </figcaption>
     </div>
@@ -70,7 +70,7 @@ Even in the collected editions of Mancinelli's works that began to appear about 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (3).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (3).jpg','Ulm edition, 1499 (click to enlarge - 733 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.2593,-Scribendi-Orandiq[ue]-modus-per-Anthonium-Manc (3).jpg" />
     <figcaption class="mkdn-figcaption">Ulm edition, 1499 (click to enlarge - 733 KB jpeg image)</figcaption>
     </div>
@@ -80,7 +80,7 @@ Northern European printers were less likely to preserve the chaste Venetian titl
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_061.06.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_061.06.jpg','Denidel's layout, Paris 1499 (Click to enlarge - 683 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/HFS_061.06.jpg" />
     <figcaption class="mkdn-figcaption">Denidel's layout, Paris 1499 (Click to enlarge - 683 KB JPEG image)</figcaption>
     </div>

@@ -9,7 +9,7 @@ Giovanni Battista Cantalicio (ca. 1450-1514?) composed a successful short gramma
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-ti.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-ti.jpg','Aldo Manuzio reprinted in 1519 (click to enlarge - 683 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-647.55,-Institvtionvm-grammaticarvm-libri-qvatvor,-ti.jpg" />
     <figcaption class="mkdn-figcaption">Aldo Manuzio reprinted in 1519 (click to enlarge - 683 KB jpeg image)</figcaption>
     </div>
@@ -21,7 +21,7 @@ A more modest success, but entirely Italian, characterized the two grammar books
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg','Scoppa's Epitome, 1517 (click to enlarge - 683 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg" />
     <figcaption class="mkdn-figcaption">Scoppa's Epitome, 1517 (click to enlarge - 683 KB jpeg image)</figcaption>
     </div>
@@ -31,7 +31,7 @@ Whether because the book was criticized as too long and detailed or just because
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg','Scoppa's Epitome as a separate (click to enlarge - 849 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg" />
     <figcaption class="mkdn-figcaption">Scoppa's Epitome as a separate (click to enlarge - 849 KB jpeg image)</figcaption>
     </div>
@@ -41,7 +41,7 @@ In 1517, the Neapolitan printer Antonio Frezza offered Scoppa's *Introductory Gr
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.8,-Grammatices-institutiones-et-in-calce-epit (2).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.8,-Grammatices-institutiones-et-in-calce-epit (2).jpg','Scoppa in 1524 (click to enlarge - 743 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.8,-Grammatices-institutiones-et-in-calce-epit (2).jpg" />
     <figcaption class="mkdn-figcaption">Scoppa in 1524 (click to enlarge - 743 KB jpeg image)</figcaption>
     </div>
@@ -51,7 +51,7 @@ By 1524, the Nicolini da Sabbio firm in Venice advertised that they had much imp
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (2).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (2).jpg','Anthology for teaching (click to enlarge - 863 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (2).jpg" />
     <figcaption class="mkdn-figcaption">Anthology for teaching (click to enlarge - 863 KB jpeg image)</figcaption>
     </div>
@@ -65,7 +65,7 @@ Petri briefly introduced the text by situating it as an ancient one rediscovered
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (1).jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (1).jpg','Commending Donatus (click to enlarge - 784 jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-764.67,-Expeditio-Francisci-Draki-eqvitis-Angli-i (1).jpg" />
     <figcaption class="mkdn-figcaption">Commending Donatus (click to enlarge - 784 jpeg image)</figcaption>
     </div>

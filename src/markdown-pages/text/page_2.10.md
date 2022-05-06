@@ -9,7 +9,7 @@ On the other hand, for some of these later editions we can infer other considera
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg','Calfurnio commends Perotti (click to enlarge - 632 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Wing-ZP-535.M68,-Regule-grammaticales,verso-of-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Calfurnio commends Perotti (click to enlarge - 632 KB jpeg image)</figcaption>
     </div>

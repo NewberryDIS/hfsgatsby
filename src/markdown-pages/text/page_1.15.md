@@ -7,7 +7,7 @@ Inside folio Terences, the base text and commentaries varied far less than the f
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_112.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_112.04.jpg','Scotto at his best, 1545 (click to enlarge - 726 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_112.04.jpg" />
     <figcaption class="mkdn-figcaption">Scotto at his best, 1545 (click to enlarge - 726 KB JPEG image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ Similarly, fewer and fewer options were exercised in ornamenting and illustratin
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_112.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_112.05.jpg','Another page from Scotto's Terence, 1545 (click to enlarge - 718 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_112.05.jpg" />
     <figcaption class="mkdn-figcaption">Another page from Scotto's Terence, 1545 (click to enlarge - 718 KB JPEG image)</figcaption>
     </div>

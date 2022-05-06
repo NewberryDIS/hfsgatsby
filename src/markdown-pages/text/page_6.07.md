@@ -4,7 +4,7 @@ slug: /text/607
 postid: 333
 ---
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.4v-5r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.4v-5r.jpg','h-39397-scorta-di-economia_-oe28099-sia-dialogo-di-scrittvra-famigliare-pg4v-5r-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.4v-5r.jpg" />
     <figcaption class="mkdn-figcaption">h-39397-scorta-di-economia_-oe28099-sia-dialogo-di-scrittvra-famigliare-pg4v-5r-thumb</figcaption>
     </div>
@@ -15,7 +15,7 @@ Much the most interesting aspect of Venturoli's booklet is the way in which he i
 Manzoni's, Casanova's, and Venturoli's preoccupation with the formal qualities of the ledger reflected a general tendency throughout our period to see careful record keeping (and good, clear handwriting too) as part of honest commercial practice. Tagliente and others published manuals in several fields relating to record keeping -- reading, writing, and *abaco*. Manzoni went so far as to offer a reading and calligraphy manual as an elementary introduction to his books on accounting. (40) Readers of bookkeeping manuals were repeatedly warned to keep their records neatly and accurately and to avoid falling into the vice of "ill kept accounts" (*scritture mal tenute*) which would later have to be "re-ordered" (drizzate). These are moralistic terms. Indeed, scrupulous bookkeeping served to legitimate business as a vocation. The good record-keeper was not only a good businessman, he was also a virtuous Christian. This attitude persisted well into the eighteenth century. (41)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.3v-4r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.3v-4r.jpg','h-39397-scorta-di-economia_-oe28099-sia-dialogo-di-scrittvra-famigliare-pg3v-4r-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/H-3.9397,-Scorta-di-economia_-o-sia,-Dialogo-di-scrittvra-famigliare,-pg.3v-4r.jpg" />
     <figcaption class="mkdn-figcaption">h-39397-scorta-di-economia_-oe28099-sia-dialogo-di-scrittvra-famigliare-pg3v-4r-thumb</figcaption>
     </div>

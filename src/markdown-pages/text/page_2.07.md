@@ -7,7 +7,7 @@ The practical response of the Italian humanists was to author new grammars for t
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.1-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.1-recto.jpg','Guarino presents basic concepts, 1493 (click to enlarge - 690 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.1-recto.jpg" />
     <figcaption class="mkdn-figcaption">Guarino presents basic concepts, 1493 (click to enlarge - 690 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ After the appearance of the first printed editions, the Guarino text stabilized 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.21v-22r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.21v-22r.jpg','Intense vocabulary study of a 1493 edition (click to enlarge - 632 jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-pg.21v-22r.jpg" />
     <figcaption class="mkdn-figcaption">Intense vocabulary study of a 1493 edition (click to enlarge - 632 jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ The last chapter, entitled *Carmina differentialia*, also circulated widely as a
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-title-page.jpg','Unpretentious title page (click to enlarge - 761 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Inc.5376.5,-Regule-grammaticales,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Unpretentious title page (click to enlarge - 761 KB jpeg image)</figcaption>
     </div>

@@ -7,7 +7,7 @@ Many of the criticisms of Alvares, and most of the revisions therefore, were bas
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_094.08.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_094.08.jpg','The Ratio of 1598 divides the textbook between classes (click to enlarge - 779 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/5.00_Chapter_Five/HFS_094.08.jpg" />
     <figcaption class="mkdn-figcaption">The Ratio of 1598 divides the textbook between classes (click to enlarge - 779 KB JPEG image)</figcaption>
     </div>

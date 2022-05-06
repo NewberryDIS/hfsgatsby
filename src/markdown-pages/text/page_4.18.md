@@ -7,7 +7,7 @@ Other Northern geographies had mixed success in Italy. Repackaging with a Veneti
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_086.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_086.01.jpg','Apian simplified (1533) for students (click to enlarge - 837 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_086.01.jpg" />
     <figcaption class="mkdn-figcaption">Apian simplified (1533) for students (click to enlarge - 837 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ Apian himself prepared and printed an abbreviated version in 1529 under the titl
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_085.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_085.03.jpg','Apian reformatted for the Venice market, 1535 (click to enlarge - 685 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_085.03.jpg" />
     <figcaption class="mkdn-figcaption">Apian reformatted for the Venice market, 1535 (click to enlarge - 685 KB jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ As a result, it was much easier to reprint, and it got at least six Venetian edi
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_093.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_093.01.jpg','Geography for Latin schools (click to enlarge - 707 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_093.01.jpg" />
     <figcaption class="mkdn-figcaption">Geography for Latin schools (click to enlarge - 707 KB JPEG image)</figcaption>
     </div>
@@ -37,7 +37,7 @@ A very similar publishing history characterized another influential geography te
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_093.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_093.03.jpg','Elegant placement of figures (click to enlarge - 631 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_093.03.jpg" />
     <figcaption class="mkdn-figcaption">Elegant placement of figures (click to enlarge - 631 KB JPEG image)</figcaption>
     </div>
@@ -47,7 +47,7 @@ Glareanus's *De geographia* was published at Basel in 1527 and again in 1528 in 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_081.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_081.01.jpg','Glareanus (1538) in crowded octavo (click to enlarge - 820 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_081.01.jpg" />
     <figcaption class="mkdn-figcaption">Glareanus (1538) in crowded octavo (click to enlarge - 820 KB jpeg image)</figcaption>
     </div>
@@ -57,7 +57,7 @@ By the end of the fifteen thirties, however, Venetian presses were repackaging t
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_081.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_081.03.jpg','Glareanus packaged for Italian hands (click to enlarge - 843 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_081.03.jpg" />
     <figcaption class="mkdn-figcaption">Glareanus packaged for Italian hands (click to enlarge - 843 KB jpeg image)</figcaption>
     </div>

@@ -7,7 +7,7 @@ In some cases, we know that book men chose to substitute other sorts of emblems 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/HFS_023.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/HFS_023.01.jpg','Cafaro's homemade emblem (click to enlarge - 600 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/HFS_023.01.jpg" />
     <figcaption class="mkdn-figcaption">Cafaro's homemade emblem (click to enlarge - 600 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ One such book to survive from the sixteenth century is the product of a provinci
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/EvenzioPico.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/EvenzioPico.jpg','Pico's custom-made title page (Photo: ANSAS, Florence) (click to enlarge - 702 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/EvenzioPico.jpg" />
     <figcaption class="mkdn-figcaption">Pico's custom-made title page (Photo: ANSAS, Florence) (click to enlarge - 702 KB jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ If a school master had the means to subsidize the publication of a textbook enti
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-last-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-last-page.jpg','A mysterious emblem (click to enlarge - 598 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-last-page.jpg" />
     <figcaption class="mkdn-figcaption">A mysterious emblem (click to enlarge - 598 KB jpeg image)</figcaption>
     </div>
@@ -37,7 +37,7 @@ An even more upscale grammar book was that of Francesco Priscianese (d. ca. 1547
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-t.p.jpg','The author on the title page (click to enlarge - 767 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Case-X-674.714,-Della-lingua-romana,-t.p.jpg" />
     <figcaption class="mkdn-figcaption">The author on the title page (click to enlarge - 767 KB jpeg image)</figcaption>
     </div>
@@ -47,7 +47,7 @@ The book was pretentious in several other ways too. It appeared in a stout quart
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.715,-De-primi-principii-della-lingua-latina,-oue.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-X-674.715,-De-primi-principii-della-lingua-latina,-oue.jpg','Standard, later title page (click to enlarge - 606 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Case-X-674.715,-De-primi-principii-della-lingua-latina,-oue.jpg" />
     <figcaption class="mkdn-figcaption">Standard, later title page (click to enlarge - 606 KB jpeg image)</figcaption>
     </div>

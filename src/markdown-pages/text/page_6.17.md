@@ -4,7 +4,7 @@ slug: /text/617
 postid: 353
 ---
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia...title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia...title-page.jpg','Bonaventura in Italian, 1518 (click to enlarge - 715 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia...title-page.jpg" />
     <figcaption class="mkdn-figcaption">Bonaventura in Italian, 1518 (click to enlarge - 715 KB jpeg image)</figcaption>
     </div>
@@ -14,7 +14,7 @@ At the humblest level stood the *Breviloquium Musicale* (later titled *Regula Mu
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg')" data="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg','"Poveri religiosi" (click to enlarge - 741 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.2r.jpg" />
     <figcaption class="mkdn-figcaption">"Poveri religiosi" (click to enlarge - 741 KB jpeg image)</figcaption>
     </div>
@@ -23,7 +23,7 @@ At the humblest level stood the *Breviloquium Musicale* (later titled *Regula Mu
 Physical examination of the two versions reveals that they were meant for different markets, even though both state the same ambition, to teach "poor and simple religious as well as others desirous of having the solid basics of plainchant." (91) The practical content is virtually identical in Latin or Italian, so the formatting choices were related to the marketing expectations of the printers.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg')" data="/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg','Old fashioned title page, in 1549 (click to enlarge - 695 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-MT860-.C66-1549,-Compendium-musices-confectum-ad-faciliorem-instructione,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Old fashioned title page, in 1549 (click to enlarge - 695 KB jpeg image)</figcaption>
     </div>
@@ -33,7 +33,7 @@ The 1497 edition and most later Latin versions assumed the quarto format favored
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg')" data="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg','Woodcut examples in text (click to enlarge - 726 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,-Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia..pg.9v-10r.jpg" />
     <figcaption class="mkdn-figcaption">Woodcut examples in text (click to enlarge - 726 KB jpeg image)</figcaption>
     </div>
@@ -42,7 +42,7 @@ The 1497 edition and most later Latin versions assumed the quarto format favored
 It differs in look from a simple *ricettario* only in having woodcut musical examples on almost every page. These cuts did not represent additional cost to the printer since they were simply blocks reused from an earlier Latin edition. Like the blocks, the text was a recycled product intended to make the original more widely available both by translating it into Italian and by cheapening the book in terms of paper, type, and format.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,--Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia-Ordinis-Minorum-cover.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-3A-725,--Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia-Ordinis-Minorum-cover.jpg','A humble binding (click to enlarge - 719 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-3A-725,--Regula-musice-venerabilis-Fratris-Bon-Auenture-de-Brixia-Ordinis-Minorum-cover.jpg" />
     <figcaption class="mkdn-figcaption">A humble binding (click to enlarge - 719 KB jpeg image)</figcaption>
     </div>
@@ -58,7 +58,7 @@ A similar audience, though perhaps one more open to humanist ideals, was intende
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1022,-Scala-di-mvsica-title-p30-combined.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1022,-Scala-di-mvsica-title-p30-combined.jpg','Downmarket manuals (click to enlarge - 846 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1022,-Scala-di-mvsica-title-p30-combined.jpg" />
     <figcaption class="mkdn-figcaption">Downmarket manuals (click to enlarge - 846 KB jpeg image)</figcaption>
     </div>

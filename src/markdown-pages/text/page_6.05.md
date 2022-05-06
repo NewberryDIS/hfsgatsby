@@ -4,7 +4,7 @@ slug: /text/605
 postid: 329
 ---
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-folio.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-folio.1r.jpg','inc-5168-somma-di-aritmetica-geometria-proporzione-e-proporzionalita-folio1r-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-folio.1r.jpg" />
     <figcaption class="mkdn-figcaption">inc-5168-somma-di-aritmetica-geometria-proporzione-e-proporzionalita-folio1r-thumb</figcaption>
     </div>
@@ -16,7 +16,7 @@ A turning point came in the fifteen thirties, when the market matured to the deg
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-title-page.jpg','Selling parents on modern math (click to enlarge - 645 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Selling parents on modern math (click to enlarge - 645 KB jpeg image)</figcaption>
     </div>
@@ -25,7 +25,7 @@ A turning point came in the fifteen thirties, when the market matured to the deg
 Pietro Cataneo (d. ca. 1569) presented a more progressive approach in his 1546 *Practice of the Two Basic Mathematics*. Cataneo went on to be an architectural writer but this was his first work to see print, apparently self-published in three editions. (31) Cataneo arranged his entire course to address the commercial prejudices of the market. He took some forty eight pages for an outline of essential arithmetic notions and then went on to discuss merchant situations almost exclusively. These occupy an additional hundred pages.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-pg.30v-31r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-pg.30v-31r.jpg','case-l-1015-le-pratiche-delle-dve-prime-matematiche-di-pietro-cataneo-pg30v-31r-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-L-10.15,-Le-pratiche-delle-dve-prime-matematiche,-di-Pietro-Cataneo,-pg.30v-31r.jpg" />
     <figcaption class="mkdn-figcaption">case-l-1015-le-pratiche-delle-dve-prime-matematiche-di-pietro-cataneo-pg30v-31r-thumb</figcaption>
     </div>
@@ -35,7 +35,7 @@ The transition between the two parts came in the form of a long chapter on propo
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_008.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_008.05.jpg','Profit and loss problems (click to enlarge - 710 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_008.05.jpg" />
     <figcaption class="mkdn-figcaption">Profit and loss problems (click to enlarge - 710 KB jpeg image)</figcaption>
     </div>
@@ -45,7 +45,7 @@ He proceeded to demonstrate the method with problems of increasing complexity co
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_008.07.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_008.07.jpg','Theory to practice, measuring land (click to enlarge - 774 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_008.07.jpg" />
     <figcaption class="mkdn-figcaption">Theory to practice, measuring land (click to enlarge - 774 KB jpeg image)</figcaption>
     </div>

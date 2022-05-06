@@ -7,7 +7,7 @@ Music differed from other disciplines of the sixteenth century in two important 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_021.08.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_021.08.jpg','Gaffurius 1496 - Humanist philosophy of music (click to enlarge - 855 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_021.08.jpg" />
     <figcaption class="mkdn-figcaption">Gaffurius 1496 - Humanist philosophy of music (click to enlarge - 855 KB jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ Music textbooks had to bridge the gap between theory and practice. Although at t
 Music was expensive to print, and different kinds of music books came onto the print market at different moments. It took sixty years of printing experience before well-developed music textbooks appeared, significantly longer than in any other field we have considered. Liturgical books for performance, a luxury genre, appeared in the earliest years of printing. Advanced music-theory books also had medieval precedents; these were printed in Latin for university-level audiences very early on. Later textbook treatments derived from such academic books; and the textbook authors often had already published at the specialist level. But well into the sixteenth century, it is often not clear when a given writer was popularizing or what audience he envisioned for his book. (88)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg')" data="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg','Guidance for singers, ca. 1500 (click to enlarge - 672 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1005,-Tractatvs-mvsices,-pg.1v-DETAIL.jpg" />
     <figcaption class="mkdn-figcaption">Guidance for singers, ca. 1500 (click to enlarge - 672 KB jpeg image)</figcaption>
     </div>
@@ -36,7 +36,7 @@ Music was expensive to print, and different kinds of music books came onto the p
 More or less practical guides to theory for performers (singers in the first instance) were new creations of the late fifteenth century. They appeared around 1480, still in Latin since most concerned liturgical music. Separate music scores for performance -- both liturgical and secular in character and so in Latin and the vernaculars both -- began to become common in print in the years just around 1500. Practical instruction booklets in Italian that aimed at teaching music performance (again, singing earlier than other kinds of music making) began to be published, as nearly as we can tell, only toward 1520.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg','Humanist title page, 1516 (click to enlarge - 621 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Humanist title page, 1516 (click to enlarge - 621 KB jpeg image)</figcaption>
     </div>
@@ -45,7 +45,7 @@ More or less practical guides to theory for performers (singers in the first ins
 The first full-scale music textbooks for Latin-school use appeared in the fifteen teens in Northern Europe and in the mid-twenties in Italy. These first humanist-inspired music textbooks (both in Latin and in the vernacular) were not based on any pre-print forms. Their authors could already draw upon an enormous printed literature for theory, practice, and repertoire alike. The new textbooks were fully typographic creations, not dependent on manuscript formats, and more sophisticated than other textbooks we have discussed in this chapter.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg','Woodcut diagram in Glareanus 1516 (click to enlarge - 612 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-4A-1006-(Vault)-Sagoge-in-mvsicen-Henrici-Glarea,-pg.10v-11r.jpg" />
     <figcaption class="mkdn-figcaption">Woodcut diagram in Glareanus 1516 (click to enlarge - 612 KB jpeg image)</figcaption>
     </div>

@@ -6,7 +6,7 @@ postid: 110
 Although the choices of text and editor continued to expand in the last half of the sixteenth century and into the seventeenth, the Italian market remained highly traditional in terms of format and presentation. Octavos like those of Griffio and the Aldine press got more and more annotation, but really substantial folio editions for teachers also continued to appear, especially at Venice and Milan. These folios offer a useful index of how printers constantly tinkered with the building blocks of text, commentary, illustration, and layout. That new editions appeared every few years means that Terence remained a staple of textbook publishing. The plays commanded a substantial number of new customers each year who demanded a certain look and feel and who expected to find this text in every serious bookshop. Latin teachers probably did not give such books to their students; but apparently most teachers wanted to own a Terence with extensive commentary and critical apparatus, front matter arranged strictly to pattern, and indexes to help in using the text and commentary for comparison to other classical authors.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-title-page.jpg','A monumental title page (click to enlarge - 401 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">A monumental title page (click to enlarge - 401 KB jpeg file)</figcaption>
     </div>
@@ -15,7 +15,7 @@ Although the choices of text and editor continued to expand in the last half of 
 The model for the front matter typical of the last half of the century was the beautiful Venice edition of 1545 printed by Girolomo Scoto. We find many variations on the pattern there established but they are usually just that, variations on a formula Scoto devised and others admired. Scoto's front matter occupied fourteen leaves (two gatherings of six and eight leaves respectively).
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-verso-of-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-verso-of-title-page.jpg','More advertising (click to enlarge - 512 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S42,-P.-Terentia-Afri-poetae-lepidissimi-Comoediae,-verso-of-title-page.jpg" />
     <figcaption class="mkdn-figcaption">More advertising (click to enlarge - 512 KB jpeg file)</figcaption>
     </div>

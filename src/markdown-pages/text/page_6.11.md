@@ -7,7 +7,7 @@ The birth of the reading-instruction textbook in Italian can be just as precisel
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.01.jpg','The first First Reader (click to enlarge - 551 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.01.jpg" />
     <figcaption class="mkdn-figcaption">The first First Reader (click to enlarge - 551 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ Outside Latin and *abaco* schools, the catechism would become the most common el
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.04.jpg','Learning the syllables (click to enlarge - 543 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.04.jpg" />
     <figcaption class="mkdn-figcaption">Learning the syllables (click to enlarge - 543 KB jpeg image)</figcaption>
     </div>
@@ -27,7 +27,7 @@ Throughout his reading book, Tagliente modeled the teacher-student relationship 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.03.jpg','Letters of the alphabet (click to enlarge - 992 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.03.jpg" />
     <figcaption class="mkdn-figcaption">Letters of the alphabet (click to enlarge - 992 KB jpeg image)</figcaption>
     </div>
@@ -37,7 +37,7 @@ Although Tagliente explicitly disparaged the long and complicated course of Lati
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.06.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.06.jpg','Writing samples in woodcut (click to enlarge - 531 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.06.jpg" />
     <figcaption class="mkdn-figcaption">Writing samples in woodcut (click to enlarge - 531 KB jpeg image)</figcaption>
     </div>
@@ -47,7 +47,7 @@ Anne Schutte believes that the sample letters, the moral proverbs, and some spec
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.05.jpg','Sample letter (click to enlarge - 536 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.05.jpg" />
     <figcaption class="mkdn-figcaption">Sample letter (click to enlarge - 536 KB jpeg image)</figcaption>
     </div>

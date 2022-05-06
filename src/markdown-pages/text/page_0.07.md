@@ -6,7 +6,7 @@ postid: 35
 The potential of such sources to give us useful clues may be clearer if we listen briefly to the authorial, editorial, and pedagogical voices present in one modestly successful Latin grammar, that of Pescennio Francesco Negro (1452 - ca. 1523). Negro was an influential author. His *Forms of Letter-Writing* was published repeatedly in Italy and in Germany, France, the Low Countries, and Spain. His more basic schoolbook, *Ten Chapters On Grammar*, had more modest success both North and South of the Alps. (37)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Wing-ZP-535.D175.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Wing-ZP-535.D175.jpg','A handsome 1508 title page')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Wing-ZP-535.D175.jpg" />
     <figcaption class="mkdn-figcaption">A handsome 1508 title page</figcaption>
     </div>
@@ -33,7 +33,7 @@ Tropes of parental piety and of the teacher acting *in loco parentis* were more 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/HFS_017.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/HFS_017.02.jpg','An avuncular ideal')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/HFS_017.02.jpg" />
     <figcaption class="mkdn-figcaption">An avuncular ideal</figcaption>
     </div>

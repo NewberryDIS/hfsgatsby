@@ -6,7 +6,7 @@ postid: 274
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_055.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_055.02.jpg','Brecaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_055.02.jpg" />
     <figcaption class="mkdn-figcaption">Brecaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ An alternative, equally literary form of Renaissance geography was the compilati
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.04.jpg','Formal opening for Lilio's treatise (click to enlarge - 973 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_088.04.jpg" />
     <figcaption class="mkdn-figcaption">Formal opening for Lilio's treatise (click to enlarge - 973 KB jpeg image)</figcaption>
     </div>
@@ -26,7 +26,7 @@ Another influential work in the toponymic genre was the *Orbis breviarium* of Za
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.05.jpg','Brief discussion with diagrams (click to enlarge - 639 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_088.05.jpg" />
     <figcaption class="mkdn-figcaption">Brief discussion with diagrams (click to enlarge - 639 KB JPEG image)</figcaption>
     </div>
@@ -36,7 +36,7 @@ It opens with a brief, discursive discussion of the continents and the climate z
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.03.jpg','A reader adds emphasis (click to enlarge - 852 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_088.03.jpg" />
     <figcaption class="mkdn-figcaption">A reader adds emphasis (click to enlarge - 852 KB jpeg image)</figcaption>
     </div>
@@ -46,7 +46,7 @@ One early reader underlined a passage that emphasized the accomplishments of mod
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_090.04.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_090.04.jpg','Lilio in Italian, 1551 (click to enlarge - 796 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_090.04.jpg" />
     <figcaption class="mkdn-figcaption">Lilio in Italian, 1551 (click to enlarge - 796 KB jpeg image)</figcaption>
     </div>

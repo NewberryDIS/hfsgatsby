@@ -6,7 +6,7 @@ postid: 349
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_024.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_024.01.jpg','Pompous title page (click to enlarge - 628 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_024.01.jpg" />
     <figcaption class="mkdn-figcaption">Pompous title page (click to enlarge - 628 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ Giovambaptista Verini, whom we met earlier (section 6.10) as an author of handwr
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_024.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_024.02.jpg','Humble design inside (click to enlarge - 862 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_024.02.jpg" />
     <figcaption class="mkdn-figcaption">Humble design inside (click to enlarge - 862 KB jpeg image)</figcaption>
     </div>

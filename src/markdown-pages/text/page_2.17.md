@@ -6,7 +6,7 @@ postid: 180
 It is well recognized that Erasmus was one of the most accomplished polemicists of the early sixteenth century, an able apologist and propagandist for his own worldview. Scholars are not in the habit of describing Erasmus as a marketing man, but some of his prefaces read remarkably like other advertising prose we have seen or will examine later in this book.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.03.jpg','Erasmus interprets Pseudo-Cato (1538 edition) (click to enlarge - 521 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_096.03.jpg" />
     <figcaption class="mkdn-figcaption">Erasmus interprets Pseudo-Cato (1538 edition) (click to enlarge - 521 KB JPEG image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ The best single example may be his thoughtful and well made revision of Pseudo-C
 This Cato represents, moreover, a small installment in Erasmus's ongoing project of collecting and commenting proverbs, his *Sayings* (*Adagia*), which first appeared in 1500 and was continuously revised and enlarged until his death. The *Adagia* began as a sort of schoolbook too, as did another many-times-revised phrase book, *On Abundance of Words and Things* (*De utraque rerum ac verborum copia*). Modern critics have recognized that for Erasmus the proverb or adage was an historically situated literary artifact that could be immensely fruitful both of eloquence and of wisdom. Erasmus's Cato remained an elementary schoolbook, in keeping with its traditional place in the curriculum, while the *De copia* and the *Adagia* multiplied beyond their original dimensions into full-fledged monuments of humanist erudition. All three books stood in the tradition of rhetorical study as a pursuit of wisdom. Aphorisms and proverbs especially were closely associated with moral philosophy and with a tradition of prayerful meditation. In humanist hands the ethically succinct proverb could expand almost to a moral infinity. Even a teaching tool of the most elementary sort had this potential, and Erasmus' version of the Cato was already an expanded collection. (105)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.02.jpg','Erasmus slams the competition (click to enlarge - 754 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_096.02.jpg" />
     <figcaption class="mkdn-figcaption">Erasmus slams the competition (click to enlarge - 754 KB JPEG image)</figcaption>
     </div>

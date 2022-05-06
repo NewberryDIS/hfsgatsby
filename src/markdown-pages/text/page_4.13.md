@@ -6,7 +6,7 @@ postid: 268
 <p style="text-align: center;">
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_087.01.jpg','Teacher &amp; students in dialogue (click to enlarge - 725 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_087.01.jpg" />
     <figcaption class="mkdn-figcaption">Teacher &amp; students in dialogue (click to enlarge - 725 KB jpeg image)</figcaption>
     </div>

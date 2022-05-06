@@ -6,7 +6,7 @@ postid: 373
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_018.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_018.02.jpg','Image on a wall calendar, 1511 (click to enlarge - 701 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_018.02.jpg" />
     <figcaption class="mkdn-figcaption">Image on a wall calendar, 1511 (click to enlarge - 701 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ There were many precursors to the fully-formed emblem in popular and learned cul
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_015.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_015.01.jpg','Vittorino's emblem on a medal (click to enlarge - 161 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_015.01.jpg" />
     <figcaption class="mkdn-figcaption">Vittorino's emblem on a medal (click to enlarge - 161 KB jpeg image)</figcaption>
     </div>
@@ -29,7 +29,7 @@ Sixteenth-century children probably learned to read emblems actively for the fir
 Medieval European towns boasted a welter of pictorial shop signs. Early modern streets and shops were also increasingly cluttered with printed posters or broadsides announcing everything from royal and municipal laws to the latest news events to public ceremonies and even private ones like christenings, weddings, and funerals. The communicative problem in any poster is to attract members of the target public and keep them standing long enough to get the message. (17)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342.jpg','Cluttered informational design (click to enlarge - 646 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342.jpg" />
     <figcaption class="mkdn-figcaption">Cluttered informational design (click to enlarge - 646 KB jpeg image)</figcaption>
     </div>
@@ -39,7 +39,7 @@ Take, for example, a festival announcement from seventeenth-century Rome for the
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342-DETAIL.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342-DETAIL.jpg','Words inside the picture')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Case-Wing-+ZC-93.185,-Italian-Festival-Posters-342-DETAIL.jpg" />
     <figcaption class="mkdn-figcaption">Words inside the picture</figcaption>
     </div>

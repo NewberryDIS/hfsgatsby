@@ -17,7 +17,7 @@ Lastly, almost all of the respondents to the questionnaire about the *Ratio Stud
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_094.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_094.01.jpg','The final Ratio Studiorum mandated Alvares for all (click to enlarge - 628 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/5.00_Chapter_Five/HFS_094.01.jpg" />
     <figcaption class="mkdn-figcaption">The final Ratio Studiorum mandated Alvares for all (click to enlarge - 628 KB JPEG image)</figcaption>
     </div>

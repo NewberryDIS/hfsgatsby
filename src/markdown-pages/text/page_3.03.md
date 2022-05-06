@@ -6,7 +6,7 @@ postid: 207
 All these prefaces advertise the value of *reprinted* books, that is, corrected ones. Still, we notice a distinct difference in tone between Mancinelli's own words and those of his editors and printers. Mancinelli advertised by explaining and insisted upon the need for continuous correction. His boosters were less modest and more aggressive. They claimed Mancinelli's diligence as a corrector for their texts, even after his death.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.41v-42r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.41v-42r.jpg','The reader corrects and adds on (click to enlarge - 648 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.41v-42r.jpg" />
     <figcaption class="mkdn-figcaption">The reader corrects and adds on (click to enlarge - 648 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ One might expect that the writers of advertisements would gloss over the inheren
 Readers, too, often calmly took the imperfections of printed books in stride. They had, after all, been correcting their manuscript books for centuries; and it was an important part of a humanist education to learn to be critical of received texts, that is, to look for errors to correct. A copy of Mancinelli's *Verses on the Figures of Speech* (*Carmen de figuris*) now at the Newberry Library was heavily annotated by a humanist reader. At one point the reader remarked in the narrow bottom margin, "Two articles, those on Sylepsis and Dialyton, are missing here. For lack of space at this point you will find them transcribed at the beginning of this book. Farewell." (15) Turning back to the first page of the treatise, we find these two articles fully transcribed in the ample left margin, and then another note to future readers:
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.40v-41r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.40v-41r.jpg','Missing text supplied by a reader (click to enlarge - 635 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.40v-41r.jpg" />
     <figcaption class="mkdn-figcaption">Missing text supplied by a reader (click to enlarge - 635 KB jpeg image)</figcaption>
     </div>
@@ -28,7 +28,7 @@ Readers, too, often calmly took the imperfections of printed books in stride. Th
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.40r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.40r.jpg','Outline style annotations (click to enlarge - 637 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.40r.jpg" />
     <figcaption class="mkdn-figcaption">Outline style annotations (click to enlarge - 637 KB jpeg image)</figcaption>
     </div>
@@ -37,7 +37,7 @@ Readers, too, often calmly took the imperfections of printed books in stride. Th
 This personable reader was fully capable of finding another edition of Mancinelli in order to correct the printed text he owned, just as he added hundreds of lines of notes from other authors on the figures of speech. He seems only mildly annoyed at the trouble this caused him; but he did want other readers (his students, perhaps?) to be clear that the fault, if fault must be found, was that of the printer.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.43r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.43r.jpg','&quot;This page printed twice&quot; (click to enlarge - 484 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-DETAIL-pg.43r.jpg" />
     <figcaption class="mkdn-figcaption">&quot;This page printed twice&quot; (click to enlarge - 484 KB jpeg image)</figcaption>
     </div>

@@ -9,7 +9,7 @@ The work of BartolomÃ© Aneau as editor, translator, and arranger of the emblem
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_027.05.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_027.05.jpg','Elaborate commentary (click to enlarge - 846 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_027.05.jpg" />
     <figcaption class="mkdn-figcaption">Elaborate commentary (click to enlarge - 846 KB jpeg image)</figcaption>
     </div>

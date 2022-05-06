@@ -8,7 +8,7 @@ The fifteen thirties and forties also saw the first Italian manuals for learning
 Behind the title pages, however, the contents could vary considerably. Most instrumental instruction books included a brief discussion of theory, thorough examples of notation, substantial discussions of the use of the hands or lips in playing, and some advice on style. This material was followed by exercise pieces for practice, sometimes graded in difficulty.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-6A-138,-Prima-seconda-parte-del-Transilvano,--pg.1r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-6A-138,-Prima-seconda-parte-del-Transilvano,--pg.1r.jpg','A fictional public (click to enlarge - 704 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-6A-138,-Prima-seconda-parte-del-Transilvano,--pg.1r.jpg" />
     <figcaption class="mkdn-figcaption">A fictional public (click to enlarge - 704 KB jpeg image)</figcaption>
     </div>
@@ -19,7 +19,7 @@ Some authors clearly intended their discussions for beginners or do-it-yourself 
 The audience for a given music book is often hard to judge, though we can make some inferences based on content and formatting. Books that concerned instrumental practice often seem to have been aimed at amateur students or their teachers. Books on plainchant were clearly directed to professionals, though often performers of no great sophistication. Polyphony books almost always concern compositional norms as well as performance, and so we may assume that they were usually intended for professional musicians. (103) But the evidence for these conclusions is indirect or partial, except in the case of Lanfranco mentioned above (section 6.17). Only toward the end of the sixteenth century do we regularly find full-scale descriptions of the potential audience for music-instruction books in the vernacular.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/MT-870.C37-R4-1989,-Le-regole-piu-necessarie-per-lintroduttione-del-canto-fermo,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/MT-870.C37-R4-1989,-Le-regole-piu-necessarie-per-lintroduttione-del-canto-fermo,-title-page.jpg','A prettified title page, 1609 (click to enlarge - 709 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/MT-870.C37-R4-1989,-Le-regole-piu-necessarie-per-lintroduttione-del-canto-fermo,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">A prettified title page, 1609 (click to enlarge - 709 KB jpeg image)</figcaption>
     </div>
@@ -28,7 +28,7 @@ The audience for a given music book is often hard to judge, though we can make s
 Pietro Cerone (1566-1625), a theorist and singing master at the church of the Santissima Annunziata in Naples, is typical of the new clarity. He published a short manual for student choristers in 1609. He labeled it clearly as a popularization, *The Rules Most Necessary as an Introduction to Plainchant*. His readers were beginners, or at any rate not highly skilled or well informed. His dedication described an audience exactly like that named by Bonaventura da Brescia in 1497, "poor churchfolk and others desirous of learning the basics of chant," but he elaborated on their poverty by saying that many choristers worked like blind men, to whom he hoped his booklet would bring light. (104) Cerone was even more explicit about the limitations of a song-school education in the afterward to his book, where he provided a long list of things he had not covered in his *Regole*. The list concluded, "and many other minor things too, which I think are not as necessary to a simple chorister as they are useful to the perfect choirmaster. What I have said thus far is great plenty for the service of the choir." (105)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-VMT-6.C416m-(VAULT)-El-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica,-3v-4r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Case-VMT-6.C416m-(VAULT)-El-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica,-3v-4r.jpg','Pompous royal dedication (click to enlarge - 688 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Case-VMT-6.C416m-(VAULT)-El-melopeo-y-maestro-tractado-de-musica-theorica-y-pratica,-3v-4r.jpg" />
     <figcaption class="mkdn-figcaption">Pompous royal dedication (click to enlarge - 688 KB jpeg image)</figcaption>
     </div>

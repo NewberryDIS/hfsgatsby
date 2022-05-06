@@ -6,7 +6,7 @@ postid: 211
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg','The author addresses his reader (click to enlarge - 713 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/Inc.5455,-Carmen-de-floribus-ad-Veliternos,-pg.2r.jpg" />
     <figcaption class="mkdn-figcaption">The author addresses his reader (click to enlarge - 713 KB jpeg image)</figcaption>
     </div>

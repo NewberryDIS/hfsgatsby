@@ -11,7 +11,7 @@ Bibliographers rightly treat the *Luminario* as two different books with the sam
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente,-title-page.jpg')" data="/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente,-title-page.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente,-title-page.jpg','A wordy title page (click to enlarge - 611 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">A wordy title page (click to enlarge - 611 KB jpeg image)</figcaption>
     </div>
@@ -20,7 +20,7 @@ Bibliographers rightly treat the *Luminario* as two different books with the sam
 One unusual aspect of Giovanni Antonio Tagliente's achievement was family collaboration. A second, highly successful mathematics textbook that bears the family name was authored by Girolamo Tagliente (dates unknown) who mentioned the help of his teacher and kinsman Giovanni Antonio. We may discern Giovanni Antonio's distinctive voice on the wordy title page. It starts with a descriptive, generic term, *A Book on Commercial Maths*..., and only six lines later gives the formal title, *Universal Treasury*. It is unclear how much else Giovanni Antonio contributed to the original form of this textbook, which first appeared in 1515, but he is generally regarded as its co-author. The book treats a few basics in highly summary form: simple arithmetic functions, money systems, the computation of interest, practical plane geometry, and international exchange rates. This *Thesoro*, though much more extensive and systematic than the *Luminario*, similarly avoided theory in favor of problem solving. A large part is taken up with multiplication tables, presumably for memorization, but also, given the pocket size of the book, for visual reference. It is hard to imagine a reader learning from the book entirely on his own. The treatment of multiplication "by columns" for example, provides several diagrams, including one in the form of a chalice and host, but does not explain the method, saying only that it will be clear from the diagrams. (14)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente.jpg','wing-zp-535p133-libro-de-abacho-tagliente-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,-Tagliente.jpg" />
     <figcaption class="mkdn-figcaption">wing-zp-535p133-libro-de-abacho-tagliente-thumb</figcaption>
     </div>
@@ -31,7 +31,7 @@ In 1525, no doubt as part of a program of developing small, pretty textbooks en 
 The *Ragione* was apparently never reprinted, but the *Thesoro* in its original form received many editions. Only a few copies of any given printing survive, as is the case with most small commercial arithmetics. It is hard to tell how or if they competed with one another or with other books on the market. Still, it seems likely that books of the sort were produced in large numbers and that they had a long shelf-life in bookshops. One copy of the 1525 *Ragione* has the ownership mark of a velvet weaver who bought it, presumably new, in July of 1564. (16) Editions of the *Thesoro* continued to appear until 1586. The preface to a 1548 edition of the *Thesoro* from the presses of Giovanni Padovano seems to imply that the book had been off the Venice market for some time, but that assertion is hard to verify. Instead it was probably mere convention when the editor said of his copy text that, "soiled and marred by numerous stains, it had passed through the hands of many students of the arithmetical art" before he picked it up for reprinting. (17)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,Tagliente-folio.aii.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,Tagliente-folio.aii.jpg','wing-zp-535p133-libro-de-abachotagliente-folioaii-thumb')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Wing-ZP-535.P133,-Libro-de-Abacho,Tagliente-folio.aii.jpg" />
     <figcaption class="mkdn-figcaption">wing-zp-535p133-libro-de-abachotagliente-folioaii-thumb</figcaption>
     </div>

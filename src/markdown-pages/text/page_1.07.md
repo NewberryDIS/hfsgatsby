@@ -6,7 +6,7 @@ postid: 96
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_107.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_107.03.jpg','1493 Illustrations for a play of Terence (click to enlarge - 962 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_107.03.jpg" />
     <figcaption class="mkdn-figcaption">1493 Illustrations for a play of Terence (click to enlarge - 962 KB JPEG image)</figcaption>
     </div>
@@ -15,7 +15,7 @@ postid: 96
 Beginning in the fourteen nineties, it became common to ornament the more ambitious Italian editions of Terence with small woodcuts at the start of each scene showing the characters on a stage that more or less accurately imagined the interior of a classical Roman theater. These illustrations were based on those in medieval codices discovered and studied by humanists in the fifteenth century. The first illustrated edition was that published by Jean Trechsel at Lyon in 1493. The program of its illustrations is to be attributed to Josse Bade (1462-1535), a Flemish schoolmaster working for Trechsel in the period. Bade also edited the text, as he did for many other schoolbooks, and he provided a preface suggesting the pictures were added for the edification of those illiterate in Latin (presumably those who might hear the plays read aloud from this edition without themselves being able to read Latin with facility). The book was immediately imitated throughout Europe. The first illustrated Italian edition dates from later in the same year, 1493, supervised by Milan printer/publisher Lazzaro Soardi, who reprinted Bade's text and commentary as well as the illustrations. Soardi applied for several privileges from the Venetian authorities to protect his investment in the text, commentaries, and woodcuts. He reprinted the book with additional commentaries into the first decade of the sixteenth century. (37)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-pg.25.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-pg.25.jpg','Schematic illustrations (click to enlarge - 705 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-pg.25.jpg" />
     <figcaption class="mkdn-figcaption">Schematic illustrations (click to enlarge - 705 KB jpeg image)</figcaption>
     </div>
@@ -24,7 +24,7 @@ Beginning in the fourteen nineties, it became common to ornament the more ambiti
 Since the illustrative scheme was complex, only a few sets of woodcuts for the six plays of Terence were ever made. These were used and reused by printers across the half-century in which this style of illustration was popular. Typically they consist of one cut per scene with many repeats, to a total of about 150 cuts for the 300-odd scenes in the six plays, plus an author portrait which typically stood at the head of the prologue to each play. Almost all the sequences that survive are close copies of the Trechsel/Bade cuts. (38) Giorgio Rusconi made an attempt to simplify the Trechsel illustrations in 1518. Rusconi created blocks to represent each single character, arranged against a uniform background of drapery. These were assembled in various combinations to represent the persona in each scene. (39)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum-interpretationibus,-DETAIL.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum-interpretationibus,-DETAIL.jpg','&quot;Comic Strip&quot; Illustrations (click to enlarge - 433 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum-interpretationibus,-DETAIL.jpg" />
     <figcaption class="mkdn-figcaption">&quot;Comic Strip&quot; Illustrations (click to enlarge - 433 KB jpeg image)</figcaption>
     </div>

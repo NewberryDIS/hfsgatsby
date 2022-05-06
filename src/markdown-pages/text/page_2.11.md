@@ -7,7 +7,7 @@ It is likely that Calfurnio would have numbered the Donat in this same company o
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_104.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_104.01.jpg','')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_104.01.jpg" />
     <figcaption class="mkdn-figcaption"></figcaption>
     </div>
@@ -16,7 +16,7 @@ It is likely that Calfurnio would have numbered the Donat in this same company o
 Giovanni Sulpizio (1450-ca 1513), by contrast, accepted the entrenched place of the Donat and simply created a corrective Latin grammar to follow immediately upon it. Sulpizio probably intended his work to be called *Opus grammaticum*, but it circulated under several other titles, most often just *Regulae Sulpitii*. It was often printed together with the author's work on prosody (commonly *Scansiones Sulpitii*) and the two works in effect cover an entire intermediate Latin grammar course. Sulpizio expressly said his book was to be given to students right after the Donat; but he assumed that they have little understanding of the inflectional paradigms. He did not give the students new paradigms to memorize, but he rehearsed the definitions of the parts of speech in an introductory poem to be memorized and then explained the regular structure of inflected forms at length. He also provided long lists of irregular forms to be memorized. In other words, he was repeating some basic material from the rote-memorized Donat but insisting it be thoroughly understood through repeated, intelligent drilling. Sulpizio made extensive use of mnemonic verses so the rules would be easier to digest. Although the book is presented in a format confusing to modern readers, with repeated prefaces, inserted passages from earlier grammarians, short reading texts, and irregular headings, it was popular with humanist teachers for its wealth of drilling materials. One of the reading texts, Sulpizio's own poem on table manners, was widely excerpted and anthologized by other authors. (69)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.-5438.4-(2)-(3)-combined.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Inc.-5438.4-(2)-(3)-combined.jpg','Both front and back covers have a title (click to enlarge - 910 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Inc.-5438.4-(2)-(3)-combined.jpg" />
     <figcaption class="mkdn-figcaption">Both front and back covers have a title (click to enlarge - 910 KB jpeg image)</figcaption>
     </div>

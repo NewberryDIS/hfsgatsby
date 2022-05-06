@@ -8,14 +8,14 @@ The earliest Italian editions of Terence were handsome, straightforward and rela
 Because the plays were so often recommended for school use, however, they also attracted new humanist commentaries, which appealed to printers as added value in a competitive market. Indeed, we may well call the first thirty years of Terence in print the age of commentary. So we find such titles as *Terentius cum duobus commentis* or *Terentius cum quattuor commentis*. By the end of the century Venetian printers could offer *Terentius cum quinque commentis*, a standard collection with the commentaries of Donatus and Servius from the ancient world, and those of humanists Giovanni Calfurnio (d. 1503), Guy Jouenneaux (d. 1507), and Josse Bade Ascensius (1462 "“ 1535). (32) This collection reflected the internationalism of the school use of Terence, for only one of the humanist commentators was Italian. The others were Northerners first published in France and imported by Venetian printers in the fourteen nineties to enhance the competitiveness of their books. Needless to say, five commentaries printed in parallel alongside the base text vastly enlarged the book. The late-century folios of this type often run to 250 or even 300 leaves with printed matter crowding out to the limits of the margin. Editions of the text without commentary virtually disappeared, though some printers at the end of the century continued to offer the slimmer format of Terence with a single commentary, usually that of Donatus.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..title-page.jpg','Terence with three commentaries (click to enlarge - 458 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..title-page.jpg" />
     <figcaption class="mkdn-figcaption">Terence with three commentaries (click to enlarge - 458 KB jpeg file)</figcaption>
     </div>
 </figure>
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-t.p.jpg','Terence with five commentaries (click to enlarge - 452 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Terence with five commentaries (click to enlarge - 452 KB jpeg file)</figcaption>
     </div>
@@ -24,7 +24,7 @@ Because the plays were so often recommended for school use, however, they also a
 Commentaries were increasingly part of the marketing strategy of printers. As early as 1474, a Neapolitan publisher also decided to highlight the humanist editor's work in his title: "Terentius Afer of Carthage revised from other editions and corrected by comparison with several ancient manuscripts by praiseworthy poet Angelo Sabino." (33) The publisher vaunted the work of Sabino (ca. 1450-1510) as that of a humanist with access to ancient manuscripts. This glorification of editors and commentators eventually found expression in the handsome title pages and frontispieces that appear in editions late in the fifteenth century. They show Terence lecturing from his professorial cathedra surrounded by admiring disciples making notes at desks, each labeled with the name of one of the commentary authors. The humanists presented themselves in these images in scholarly conversation with an ancient author. (34)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-fron2.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-fron2.jpg','Terence surrounded by his commentators (click to enlarge - 543 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,-fron2.jpg" />
     <figcaption class="mkdn-figcaption">Terence surrounded by his commentators (click to enlarge - 543 KB jpeg file)</figcaption>
     </div>
@@ -37,7 +37,7 @@ In the first half of the sixteenth century the number of available commentaries 
 Glareanus had the exaggerated claims of publishers in mind as well as the work of the annotators and editors.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.6v-7r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.6v-7r.jpg','Text with commentary (click to enlarge - 673 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.6v-7r.jpg" />
     <figcaption class="mkdn-figcaption">Text with commentary (click to enlarge - 673 KB jpeg file)</figcaption>
     </div>
@@ -46,7 +46,7 @@ Glareanus had the exaggerated claims of publishers in mind as well as the work o
 Through most of the incunable period, Italian printers favored setting Terence in the usual medieval and early humanist form of text-with-commentary. They would lay out each double page spread with the base text occupying a window at the inside center, one column on each side of the inner margin or gutter. On each page the window was surrounded on three sides by commentary and the overall effect of the double-page spread was that of a framed picture or a carpet with a central medallion.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.142v-143r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.142v-143r.jpg','The page dissolves (click to enlarge - 859 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S417,-Terentius-cum-tribus..pg.142v-143r.jpg" />
     <figcaption class="mkdn-figcaption">The page dissolves (click to enlarge - 859 KB jpeg file)</figcaption>
     </div>
@@ -55,7 +55,7 @@ Through most of the incunable period, Italian printers favored setting Terence i
 When the commentary was long, the corresponding text was fairly short so the commentary filled the page; the double-page spread appeared to have a single small window and a broad frame. In cases with less commentary, the inner window of text could be enlarged relative to the frame. And when the base text was particularly long in relation to the commentary, the format dissolved into a four-column layout with the commentary occupying the outside columns on each spread and the base text in long columns at the center.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum..pg.16v-17r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum..pg.16v-17r.jpg','An alternate layout (click to enlarge - 900 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.ZP-535.R85,-Habes-hic-amice-lector.-P.-Terentii-Comoedias-vna-cum..pg.16v-17r.jpg" />
     <figcaption class="mkdn-figcaption">An alternate layout (click to enlarge - 900 KB jpeg file)</figcaption>
     </div>
@@ -64,7 +64,7 @@ When the commentary was long, the corresponding text was fairly short so the com
 Starting about 1495, especially in editions with four or five commentaries, some printers of Terence favored an alternate layout, also based on manuscript models, with a window centered on each page and commentary on all four sides of the window. In such a format, the double-page spread appears to have two windows within the commentary frame. Since the text of Terence also breaks into acts and scenes, this layout not rarely produced double-page spreads that have three or even four distinct windows floating like islands in the commentary. Eventually, printers would abandon the medievalizing windows entirely and resort to a simple two-column-per-page format, alternating text and commentary in each successive column. In all these formats, the base text was set in larger type than the commentary and leaded more generously, so that the two hierarchically related blocks of text were sharply distinct.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,-Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,pg.66.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,-Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,pg.66.jpg','A third possible layout (click to enlarge - 668 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-f.-ZP-535.S673,-Terentius-cum-quinque-commentis-videlicet-Donati,-Guidonis,-Calphurnii,pg.66.jpg" />
     <figcaption class="mkdn-figcaption">A third possible layout (click to enlarge - 668 KB jpeg file)</figcaption>
     </div>

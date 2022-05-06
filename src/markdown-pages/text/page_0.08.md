@@ -8,7 +8,7 @@ Beyond such advertising prose, it is important to look for other evidence in sur
 Annotations in surviving textbooks offer a particular set of interpretive problems, but they can be as valuable for understanding textbooks as for other kinds of authorship and readership. (46) I have employed them sparingly in this book, primarily to explicate how the marketing of some books seems to have been reflected in actual classroom usage. In other words, the annotations of students and teachers can be a test of the effectiveness of the often extravagant claims made on title pages or in prefaces. As Kristian Jensen has noted, most annotated schoolbooks that survive bear marks made by teachers not students, no doubt because teachers and institutions were more likely than individual pupils to reuse books from year to year, to have them bound, and to save them. Annotated schoolbooks, then, tend to witness the opinions and practices of a professional class of humanists struggling to make do with the textbooks they found on the market. (47)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.109-verso.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.109-verso.jpg','Boys will be boys')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.109-verso.jpg" />
     <figcaption class="mkdn-figcaption">Boys will be boys</figcaption>
     </div>
@@ -18,7 +18,7 @@ The biggest problem with notes in schoolbooks, however, is that they can be *abo
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.15-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.15-recto.jpg','Conventional marginalia')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-pg.15-recto.jpg" />
     <figcaption class="mkdn-figcaption">Conventional marginalia</figcaption>
     </div>
@@ -37,7 +37,7 @@ On early leaves, an attentive student or teacher has added notes that index some
 A distinctive formal hand, probably of the early sixteenth century, added a single long note in the margin to Perotti's discussion of comparatives and superlatives. As this annotator indicated punctiliously, he copied here a passage on the superlative taken not from another grammarian but from a standard university-level philosophy text, a commentary on Duns Scotus' *Quaestiones super universae Porphyrii*.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-DETAIL-pg.109-recto.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-DETAIL-pg.109-recto.jpg','Ownership mark (click to enlarge - 156 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/0.00_Introduction/Inc.4423.5,-(folio,vault)-Rudimenta-Grammatica,-Perottus-DETAIL-pg.109-recto.jpg" />
     <figcaption class="mkdn-figcaption">Ownership mark (click to enlarge - 156 KB jpeg file)</figcaption>
     </div>

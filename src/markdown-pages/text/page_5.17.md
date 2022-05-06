@@ -7,7 +7,7 @@ By the end of the sixteenth century, after only twenty five years in use, the gr
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_095.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/5.00_Chapter_Five/HFS_095.01.jpg','Printed in Budapest for Croatian students, 1817 (click to enlarge - 719 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/5.00_Chapter_Five/HFS_095.01.jpg" />
     <figcaption class="mkdn-figcaption">Printed in Budapest for Croatian students, 1817 (click to enlarge - 719 KB JPEG image)</figcaption>
     </div>

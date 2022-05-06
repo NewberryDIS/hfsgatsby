@@ -7,7 +7,7 @@ Emblems functioned as machines for interpretive reading, and as such they could 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.01.jpg','Lion and Boar (click to enlarge - 505 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_028.01.jpg" />
     <figcaption class="mkdn-figcaption">Lion and Boar (click to enlarge - 505 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ The printed image could complicate the reading of the emblem or simplify it. In 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_028.02.jpg','Obscure and complex (click to enlarge - 507 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_028.02.jpg" />
     <figcaption class="mkdn-figcaption">Obscure and complex (click to enlarge - 507 KB jpeg image)</figcaption>
     </div>
@@ -30,7 +30,7 @@ Many of Alciati's emblems, however, were less naturalistic in form and lent them
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_027.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_027.02.jpg','Obscurity explained (click to enlarge - 695 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_027.02.jpg" />
     <figcaption class="mkdn-figcaption">Obscurity explained (click to enlarge - 695 KB jpeg image)</figcaption>
     </div>

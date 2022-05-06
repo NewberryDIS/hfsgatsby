@@ -7,7 +7,7 @@ Paul F. Grendler's 1989 overview of education in Renaissance Italy includes an i
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//6.00_Chapter_Six/HFS_019.02.jpg','Readers and listeners (click to enlarge - 311 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//6.00_Chapter_Six/HFS_019.02.jpg" />
     <figcaption class="mkdn-figcaption">Readers and listeners (click to enlarge - 311 KB jpeg image)</figcaption>
     </div>

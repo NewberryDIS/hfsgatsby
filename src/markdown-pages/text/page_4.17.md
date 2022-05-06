@@ -7,7 +7,7 @@ Theodore Cachey has pointed to the fact that Italian humanism was in general unc
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_083.03.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_083.03.jpg','Honter's geography in verse (click to enlarge - 794 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_083.03.jpg" />
     <figcaption class="mkdn-figcaption">Honter's geography in verse (click to enlarge - 794 KB jpeg image)</figcaption>
     </div>
@@ -19,7 +19,7 @@ Joachim Vadianus (1484-1551) at St. Gall in Switzerland and Johannes Honter (149
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.01.jpg','Vadianus' voluminous manual (click to enlarge - 844 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_084.01.jpg" />
     <figcaption class="mkdn-figcaption">Vadianus' voluminous manual (click to enlarge - 844 KB jpeg image)</figcaption>
     </div>
@@ -33,7 +33,7 @@ Both Honter and Vadianus employed printers who knew how to make books in the lat
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.02.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_084.02.jpg','Vadianus in the types of Frischauer, 1534 (click to enlarge - 820 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_084.02.jpg" />
     <figcaption class="mkdn-figcaption">Vadianus in the types of Frischauer, 1534 (click to enlarge - 820 KB jpeg image)</figcaption>
     </div>

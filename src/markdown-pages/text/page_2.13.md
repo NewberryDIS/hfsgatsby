@@ -6,7 +6,7 @@ postid: 171
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.172-Citadella-Methodus,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.172-Citadella-Methodus,-title-page.jpg','Small, downmarket, and radical (click to enlarge - 743 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.172-Citadella-Methodus,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Small, downmarket, and radical (click to enlarge - 743 KB jpeg image)</figcaption>
     </div>
@@ -18,7 +18,7 @@ The most radical reformers suggested teaching Latin entirely in Italian. An earl
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.714,-Della-lingua-romana,-DETAIL-portrait-on-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.714,-Della-lingua-romana,-DETAIL-portrait-on-t.p.jpg','Portrait of Priscianese (click to enlarge - 848 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.714,-Della-lingua-romana,-DETAIL-portrait-on-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Portrait of Priscianese (click to enlarge - 848 KB jpeg image)</figcaption>
     </div>

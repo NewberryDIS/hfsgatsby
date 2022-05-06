@@ -14,7 +14,7 @@ For Erasmus, even the simple logic of putting together a school book spelled con
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.021.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_096.021.jpg','Erasmus on the dignity of textbook authorship (click to enlarge - 272 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_096.021.jpg" />
     <figcaption class="mkdn-figcaption">Erasmus on the dignity of textbook authorship (click to enlarge - 272 KB JPEG image)</figcaption>
     </div>

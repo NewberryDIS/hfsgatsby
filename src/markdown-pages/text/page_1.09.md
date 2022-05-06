@@ -6,7 +6,7 @@ postid: 100
 Still, the fact of these rare quarto experiments calls into question the commonplace of bibliographical history that the Aldine octavo was the inevitable "œbest" format for poetry. It is true that the largest number of editions of the text without commentary were octavos and that Aldo pioneered that format. But if we look more closely at small-format Terences, we can see that even when other printers imitated Aldo's achievement they often chafed at the limits of the Aldine format. This was especially true in the case of complex dramatic texts like Terence where the frequent scene changes and indications of character made for complicated layouts. Terence in fact was a latecomer to the Aldine list. Aldo himself had planned a small-format Terence but the first Aldine octavo edition appeared only after his death. Not entirely independent of Aldo's experiments on the octavo, then, but essentially different in meaning and expectations were a number of attempts to present Terence without commentary in extra-small formats -- 12mo, 16mo, and 24mo.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae-26v-27r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae-26v-27r.jpg','The Aldine page (click to enlarge - 522 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae-26v-27r.jpg" />
     <figcaption class="mkdn-figcaption">The Aldine page (click to enlarge - 522 KB jpeg file)</figcaption>
     </div>
@@ -15,14 +15,14 @@ Still, the fact of these rare quarto experiments calls into question the commonp
 In a classic Aldine format, the text of Terence appeared in long columns on the abnormally tall and narrow Aldine octavo page. Aldo and his heirs tolerated no marginalia, and the severity of such a scheme created problems for dramatic texts. In the Aldines, only the indications of scene change (centered in all caps) and the names of the speakers (abbreviated and hung into the left margin) were permitted to violate the strict march of the poetic lines. Indeed, the tightness and austerity of the format was emphasized by hanging the character indications exactly two letters' width into the left margin.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae,-DETAIL-pg.57v.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae,-DETAIL-pg.57v.jpg','Aldine italic typography (click to enlarge - 349 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535-.A3625-Comoediae,-DETAIL-pg.57v.jpg" />
     <figcaption class="mkdn-figcaption">Aldine italic typography (click to enlarge - 349 KB jpeg file)</figcaption>
     </div>
 </figure>
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A36322-Terentii-Comoediae-Sex-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535-.A36322-Terentii-Comoediae-Sex-title-page.jpg','Aldine Terence, 1555 (click to enlarge - 219 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535-.A36322-Terentii-Comoediae-Sex-title-page.jpg" />
     <figcaption class="mkdn-figcaption">Aldine Terence, 1555 (click to enlarge - 219 KB jpeg file)</figcaption>
     </div>
@@ -32,7 +32,7 @@ Whenever possible the names were abbreviated to two characters. When it was abso
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_106.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_106.01.jpg','A Giunta title page - more &quot;Aldine&quot; than Aldo! (click to enlarge - 439 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_106.01.jpg" />
     <figcaption class="mkdn-figcaption">A Giunta title page - more &quot;Aldine&quot; than Aldo! (click to enlarge - 439 KB JPEG image)</figcaption>
     </div>

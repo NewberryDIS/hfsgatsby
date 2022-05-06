@@ -7,7 +7,7 @@ Terence in folio was so standardized a format that we can discern a single desig
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_099.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_099.01.jpg','Terence 1511, a typical French quarto edition (click to enlarge - 827 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_099.01.jpg" />
     <figcaption class="mkdn-figcaption">Terence 1511, a typical French quarto edition (click to enlarge - 827 KB JPEG image)</figcaption>
     </div>
@@ -18,7 +18,7 @@ Quarto Terences were common in France and England and normal in Spain and the Ne
 We may discern three distinct periods at which Italian printers experimented with presenting Terence in quarto. In the early fourteen seventies, a few large quartos were offered, especially at Rome, as an alternative to the folios without commentary. Alessandro Paganino produced an experimental quarto Terence in 1526 as part of a textbook series. And in the fifteen forties and fifties, a few further experiments in quarto were attempted at Venice. The only one of these latter to be reprinted was the bilingual Terence of Giovanni Fabrini, which will concern us later as an experiment in editing and translation. The fifteenth century quartos were made on very large paper so they differed little in final size from the usual small folios of the period. The form probably died out after only a few experiments because it did not offer any design advantage over the folios and because the paper it required was not significantly cheaper. (42)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-t.p.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-t.p.jpg','Paganino title page, 1526 (click to enlarge - 659 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-t.p.jpg" />
     <figcaption class="mkdn-figcaption">Paganino title page, 1526 (click to enlarge - 659 KB jpeg file)</figcaption>
     </div>
@@ -27,7 +27,7 @@ We may discern three distinct periods at which Italian printers experimented wit
 The 1526 Terence printed by Alessandro Paganino at Toscolano, exemplifies the design problems a printer faced in offering Terence with commentary in smaller quarto form. It is an ambitious volume, if somewhat backward-looking. (43) It opens promisingly enough with a typographically sophisticated title page. The handsome roman title is surrounded by a broad white-on-gray interlace border of a sort that was used repeatedly by Paganino for quarto textbooks in Latin. There are almost 300 folios numbered in roman numerals and the layout of the whole follows the folio Terences of the time in displaying the base text in a window on each page, so the double-page spread has two small windows entirely surrounded by commentary. Marginal index notes are an aid to reading, but they are squeezed rather tightly into the small space available. There are five commentaries, so Paganino was marketing to the humanist schoolmasters of Italy and their most advanced students.
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-folio.144v-145r.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-folio.144v-145r.jpg','Comic strip illustrations (click to enlarge - 606 KB jpeg file)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/Wing-ZP-535.P12,-Pub.-Terentii-Afri-Comoediae-in-sua-metra-restitutae,-folio.144v-145r.jpg" />
     <figcaption class="mkdn-figcaption">Comic strip illustrations (click to enlarge - 606 KB jpeg file)</figcaption>
     </div>

@@ -6,7 +6,7 @@ postid: 379
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_016.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_016.01.jpg','The Aldine Anchor, 1555 (click to enlarge - 437 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_016.01.jpg" />
     <figcaption class="mkdn-figcaption">The Aldine Anchor, 1555 (click to enlarge - 437 KB jpeg image)</figcaption>
     </div>
@@ -16,7 +16,7 @@ The educational power of this emblem dynamic on title pages might be clearer if 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-title-page.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-title-page.jpg','A missionary emblem (click to enlarge - 559 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/Wing-ZP-535.M4677,-Alphabetum-arabicum,-title-page.jpg" />
     <figcaption class="mkdn-figcaption">A missionary emblem (click to enlarge - 559 KB jpeg image)</figcaption>
     </div>
@@ -26,7 +26,7 @@ Most printer's marks were less mysterious. The typical printer chose an emblem w
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_031.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_031.01.jpg','Mr. Pozzo's mark (click to enlarge - 552 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_031.01.jpg" />
     <figcaption class="mkdn-figcaption">Mr. Pozzo's mark (click to enlarge - 552 KB jpeg image)</figcaption>
     </div>
@@ -40,7 +40,7 @@ Sometimes these thoroughly Christian and bourgeois qualities were not quite enou
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_030.01.jpg')" data="/images_full/0.00_Introduction/Wing-ZP-535.D175Negrotitle.jpg" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_030.01.jpg','More than just a lily (click to enlarge - 249 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_030.01.jpg" />
     <figcaption class="mkdn-figcaption">More than just a lily (click to enlarge - 249 KB jpeg image)</figcaption>
     </div>
