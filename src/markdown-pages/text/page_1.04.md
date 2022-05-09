@@ -22,7 +22,7 @@ Meanwhile, Terence got a broader immediate reception in print, but a slower crit
 * (15) Villa 1984, 217-236; Black 2001, 209, 254-56.
 * (16) Villa 1984, 262-276; compare Celenza 2004b, 59. Terence's reputation in this regard went back to his own day; see Bloomer 1997, 15.
 * (17) Monfasani 1988b; Farenga 1994, 61-67; Avellani 1994, 114-123; Davies 1996, 55-58; Rossini 1997, 104-109; Jones 2004, 200-206.
-* (18) Moog-GrÃ¼newad 1979, 15-20.
+* (18) Moog-Grànewad 1979, 15-20.
 * (19) Quaquarelli 1994, 42-47.
 * (20) These figures based on IGI; compare Jones 2004, 31-100.
 * (21) Lamarque 1981, 17-19.

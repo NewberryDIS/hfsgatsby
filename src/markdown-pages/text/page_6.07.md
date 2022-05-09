@@ -27,5 +27,5 @@ Bookkeeping usage was as important to merchants of the sixteenth century as clas
 * [Open Bibliography](/bibliography.pdf)
 * (40) Manzoni 1550, cited in De Blasi 1993, 392-393.
 * (41) Davis 1960, 22; Tucci 1973, 367-371; Grendler 1989, 322-323; Carruthers and Nelson-Espeland 1991, 36-44; Jaffe 1999, 65-76; Ciocci 2003, 227-230.
-* (42) Venturoli 1666, dedication: *...con questa mia Operetta avrÃ  campo di promuovere il loro profitto, come si farebbe Ã  chi studia lingua Latina adoprandovi le regole di qualche Grammatica*.
+* (42) Venturoli 1666, dedication: *...con questa mia Operetta avrà campo di promuovere il loro profitto, come si farebbe à chi studia lingua Latina adoprandovi le regole di qualche Grammatica*.
 * (43) Manzoni 1574.

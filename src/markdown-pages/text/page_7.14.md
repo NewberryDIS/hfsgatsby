@@ -80,4 +80,4 @@ Inventing emblems was part of the rhetoric curriculum in Italy too, but few Jesu
 * (60) The inclusion of children was widely practiced in mannerist literature of all sorts; see for example, Gareffi 1981, 70-76.
 * (61) *Typus* 1697, p. 9: *Juvenes sumus, Rhetores sumus. Si grande quid expectas, ludimus*. The words for studying and playing, of course, are the same in Latin; *ludimus* here means both "we study" and "we play."
 * (62) Maggi 1998a, 123, 129-31; Maggi 1998b, 373-377; further on the Italian tradition of Marian emblems, Caldwell 2004, 259-273.
-* (63) *Imprese* 1603, 33: *...dalle quali parole, e pitture traher potrÃ  qualsivoglia mezzano ingegno nobilissimo sentimento*.
+* (63) *Imprese* 1603, 33: *...dalle quali parole, e pitture traher potrà qualsivoglia mezzano ingegno nobilissimo sentimento*.
