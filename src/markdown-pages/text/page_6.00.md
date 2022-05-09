@@ -4,9 +4,9 @@ slug: /text/600
 postid: 319
 ---
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-DETAIL-folio.1r.jpg','inc-5168-somma-di-aritmetica-geometria-proporzione-e-proporzionalita-detail-folio1r-thumb')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-DETAIL-folio.1r.jpg','Luca Pacioli imagined by a woodcut artist, 1494')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Inc.-5168,-Somma-di-aritmetica,-geometria,-proporzione-e-proporzionalita,-DETAIL-folio.1r.jpg" />
-    <figcaption class="mkdn-figcaption">inc-5168-somma-di-aritmetica-geometria-proporzione-e-proporzionalita-detail-folio1r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Luca Pacioli imagined by a woodcut artist, 1494</figcaption>
     </div>
 </figure>
 

@@ -53,7 +53,8 @@ slug: "/cv"
 * “The Maiuscole Moderne of Giovambaptista Verini Fiorentino: From Music Texts to Calligraphic Musicality,” In Writing Relations, American Scholars in Italian Archives, Essays for Franca Petrucci Nardelli and Armando Petrucci. Edited by Deanna Shemek and Michael Wyatt. Florence: Olschki, 2008. Pp. 41-70.
 * “Grammatica Despauteriana: L’adattamento di libri di testo provenienti dal Nord Europa per il mercato editoriale italiano, 1540-1600,” Bibliología 3 (2008), 35-53.
 * “Moral Analogies in Print: Emblematic Thinking in the Making of Early Modern Books,” Philosophica 70 (2002, but 2004), 91-107. [Special issue, Diagrams and the Anthropology of Space, edited by Kenneth J. Knoespel.] 
-* “Religion and Politics in the Market for Books: The Jesuits and Their Rivals,” Papers of the Bibliographical Society of America 97 (2003), 435-460. Co-authored with Kevin M. Stevens, “The Eye of Commerce: Visual Literacy Among the Makers of Books in Italy.” In The Art Market in Italy. Edited by Sara Matthews Grieco. Ferrara: Istituto di Studi Rinascimentali, 2003. Pp. 273-281.
+* “Religion and Politics in the Market for Books: The Jesuits and Their Rivals,” Papers of the Bibliographical Society of America 97 (2003), 435-460. 
+* Co-authored with Kevin M. Stevens, “The Eye of Commerce: Visual Literacy Among the Makers of Books in Italy.” In The Art Market in Italy. Edited by Sara Matthews Grieco. Ferrara: Istituto di Studi Rinascimentali, 2003. Pp. 273-281.
 * “La storia dei tipi può essere una buona storia?” Progetto grafico 1 (July 2003), 34-38. This talk,  to ATypIRoma 2002, was republished in the original English as a book under the title A Meditation in Rome, 2012 (see above).
 * “Latin Orthopraxes.” In Latin Grammar and Rhetoric in the Middle Ages. Edited by Carol Dana Lanham. London: Continuum, 2002. Pp.1-21.
 * “Military Courtesy in Sixteenth-Century Lithuania: Il Cavaliere of Domenico Mora,” Archivum Lithuanicum 3 (2001), 55-76. 
@@ -63,7 +64,8 @@ slug: "/cv"
 * “Credit-Sales Strategies in the Late Cinquecento Book Trade.” In Libri tipografi biblioteche.  Ricerche storiche dedicate a Luigi Balsamo. Edited by Arnaldo Ganda and E. Grignani. Florence: Olschki, 1997. Pp. 193-206.
 * “Libri per donne: le monache clienti del libraio Piero Morosi, 1588-1607.” In Donna e disciplina. Edited by Gabriella Zarri. Rome: Edizioni di storia e letteratura, 1996. Pp. 67-82.
 * “The 1615 Statutes of the Sienese Guild of Stationers and Booksellers. Provincial Publishing in Early Modern Tuscany,” I Tatti Studies 6 (1995), 215-253.
-* “Preachers, Teachers and Translators: The Social Meaning of Latin in Trecento Tuscany,” Viator 25 (1994), 289-323. Co-authored with Kevin M. Stevens, “Giovanni Battista Bosso and the Paper Trade in Sixteenth- Century Milan,” La Bibliofilía, 96 (1994), 43-90.
+* “Preachers, Teachers and Translators: The Social Meaning of Latin in Trecento Tuscany,” Viator 25 (1994), 289-323. 
+* Co-authored with Kevin M. Stevens, “Giovanni Battista Bosso and the Paper Trade in Sixteenth- Century Milan,” La Bibliofilía, 96 (1994), 43-90.
 * “Watermark Evidence for the Competitive Practices of Antonio Miscomini,” The Library, ser. 6, vol. 15 (1993), 281-305. This piece was selected as “a key article” for the first, retrospective “Virtual Issue” of The Library online in 2015.
 * “An Augustinian Catechism from Fourteenth-Century Florence, the Epigrammata of Prosper of  Aquitaine,” Augustinian Studies 19 (1990), 93-110.
 * “Latin Readers in Fourteenth-Century Florence: Schoolkids and their Books,” Scrittura e civiltà  13 (1989), 387-440.

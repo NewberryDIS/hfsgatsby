@@ -6,9 +6,9 @@ postid: 144
 Aelius Donatus was one of the many writers between the second and the fourth century who helped preserve classical Latin for later ages by composing formal grammars. His great reputation led to the confusing situation throughout Europe that almost any basic grammar could be called a Donat. Two authentic compilations have come down to us under his name, the so-called *Donatus major*, a substantial treatment of morphology, and the *Donatus minor* or *Ars minor*, a question-and-answer style introduction to the same material intended for drilling basic rules. This authentic minor Donatus was widely used in medieval Europe, where beginning Latin students were often called *donatistae*; but by the thirteenth century it was replaced in most Italian schools by Pseudo-Donatus, a different catechetical primer with a verse preface that begins *Ianua sum rudibus*..., "I am a doorway for beginners..." (6)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.02.jpg','HFS_057.02-thumb')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_057.02.jpg','Difficult material, dense page')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_057.02.jpg" />
-    <figcaption class="mkdn-figcaption">HFS_057.02-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Difficult material, dense page</figcaption>
     </div>
 </figure>
 

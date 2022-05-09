@@ -10,9 +10,9 @@ Literary geography derived from two traditions. First there were ancient and med
 Writing about travel was an important early Renaissance genre. No less a humanist celebrity than Petrarch provided a model with his guidebook to the Holy Land, in Latin, compiled entirely from literary sources for the use of a friend who would travel there. (Petrarch himself never did, and probably never even wanted to.) In content it is fairly traditional, recounting an itinerary in some detail but without reference to broader geographical context. Other writers of the fourteenth and fifteenth century also offered itineraries. Those in the vernacular were usually versified. It was, if not a distinct literary genre, a fairly common and popular form offered to a variety of armchair travelers in the early Renaissance. (61)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.02.jpg','Date describes the earth in a 15th-century manuscript (click to enlarge - 962 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_089.02.jpg','Dati describes the earth in a 15th-century manuscript (click to enlarge - 962 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_089.02.jpg" />
-    <figcaption class="mkdn-figcaption">Date describes the earth in a 15th-century manuscript (click to enlarge - 962 KB jpeg image)</figcaption>
+    <figcaption class="mkdn-figcaption">Dati describes the earth in a 15th-century manuscript (click to enlarge - 962 KB jpeg image)</figcaption>
     </div>
 </figure>
 

@@ -26,7 +26,7 @@ Most printer's marks were less mysterious. The typical printer chose an emblem w
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_031.01.jpg','Mr. Pozzo's mark (click to enlarge - 552 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_031.01.jpg','Mr. Pozzo\'s mark (click to enlarge - 552 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_031.01.jpg" />
     <figcaption class="mkdn-figcaption">Mr. Pozzo's mark (click to enlarge - 552 KB jpeg image)</figcaption>
     </div>

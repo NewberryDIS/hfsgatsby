@@ -41,13 +41,13 @@ Josse Bade, editor of this and many other schoolbooks, is a particular case whos
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (90)Â  Gehl 1993, 109-122; Baldzuhn 2006, 34-40. See also sections 4.01 and 402.
-* (91)Â  Baldzuhn 2006, 354.
-* (92)Â  Glauche 1970; Gehl 1993, 13, 114.
-* (93)Â  Blasio 2005, 15. Black 2007, 123-126, recognizes the combination as "a standard duo" for basic reading instruction in fourteenth-century Tuscany; but elsewhere (46, 110) treats the Cato as a reading text in the elementary Latin course, especially in the late fifteenth century. It seems more logical to me to see both texts as one highly traditional and conservatively preserved unit across the whole manuscript period, adopted as such by printers from the fourteen seventies on.
-* (94)Â  Pseudo-Donatus 1500b, GW9014; the only recorded copy is at the Newberry Library, Chicago.
-* (95)Â  fol. b8r: *Marci Catonis viri singularis ad vitam adolescentulorum liberis artibus instruendam utriusque virtutis felicissima instituta.*
-* (96)Â  Pseudo Donatus 1496; GW 9027, IGI 3562.
-* (97)Â  Mancinelli 1518. It survives in this form in many libraries, sometimes with a general title page for the whole set; see section 3.16.
+* (90) Gehl 1993, 109-122; Baldzuhn 2006, 34-40. See also sections 4.01 and 402.
+* (91) Baldzuhn 2006, 354.
+* (92) Glauche 1970; Gehl 1993, 13, 114.
+* (93) Blasio 2005, 15. Black 2007, 123-126, recognizes the combination as "a standard duo" for basic reading instruction in fourteenth-century Tuscany; but elsewhere (46, 110) treats the Cato as a reading text in the elementary Latin course, especially in the late fifteenth century. It seems more logical to me to see both texts as one highly traditional and conservatively preserved unit across the whole manuscript period, adopted as such by printers from the fourteen seventies on.
+* (94) Pseudo-Donatus 1500b, GW9014; the only recorded copy is at the Newberry Library, Chicago.
+* (95) fol. b8r: *Marci Catonis viri singularis ad vitam adolescentulorum liberis artibus instruendam utriusque virtutis felicissima instituta.*
+* (96) Pseudo Donatus 1496; GW 9027, IGI 3562.
+* (97) Mancinelli 1518. It survives in this form in many libraries, sometimes with a general title page for the whole set; see section 3.16.
 * (98) Pseudo-Donatus 1548 prints the distichs in the usual large gothic type but also provides thematic notes in the margin in minuscule roman type. On commonplace and paraphrase: Ong 1977, 147-181; Grafton and Jardine 1986, 22-25; Grendler 1989, 194-201; Moss 1999, 148-154; Frazier 2005, 192-202.
 * (99) Renouard 1908 ii, 264-267; on Bade's commentaries, Schmidt 1975, 67-70; on the *Sylvae*, Crane 2005, 29-35. On Bade and Erasmus, Vanautgaerden 2008, 89-11, 200-213, 229-232.

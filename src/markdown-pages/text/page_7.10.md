@@ -7,7 +7,7 @@ In some cases, we know that book men chose to substitute other sorts of emblems 
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/HFS_023.01.jpg','Cafaro's homemade emblem (click to enlarge - 600 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/HFS_023.01.jpg','Cafaro\'s homemade emblem (click to enlarge - 600 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/HFS_023.01.jpg" />
     <figcaption class="mkdn-figcaption">Cafaro's homemade emblem (click to enlarge - 600 KB jpeg image)</figcaption>
     </div>
@@ -17,7 +17,7 @@ One such book to survive from the sixteenth century is the product of a provinci
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/EvenzioPico.jpg','Pico's custom-made title page (Photo: ANSAS, Florence) (click to enlarge - 702 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/7.00_Chapter_Seven/EvenzioPico.jpg','Pico\'s custom-made title page (Photo: ANSAS, Florence) (click to enlarge - 702 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/7.00_Chapter_Seven/EvenzioPico.jpg" />
     <figcaption class="mkdn-figcaption">Pico's custom-made title page (Photo: ANSAS, Florence) (click to enlarge - 702 KB jpeg image)</figcaption>
     </div>

@@ -16,7 +16,7 @@ There were many precursors to the fully-formed emblem in popular and learned cul
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_015.01.jpg','Vittorino's emblem on a medal (click to enlarge - 161 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_015.01.jpg','Vittorino\'s emblem on a medal (click to enlarge - 161 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_015.01.jpg" />
     <figcaption class="mkdn-figcaption">Vittorino's emblem on a medal (click to enlarge - 161 KB jpeg image)</figcaption>
     </div>

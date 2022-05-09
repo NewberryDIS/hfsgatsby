@@ -5,6 +5,20 @@ module.exports = {
   },
   pathPrefix: `/hfsgatsby`,
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "UA-5551324-9",
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        pageTransitionDelay: 0,
+        // Defers execution of google analytics script after page load
+        defer: false,
+        enableWebVitalsTracking: true,
+      },
+    },
     `gatsby-remark-images`,
     {
       resolve: `gatsby-plugin-mdx`,

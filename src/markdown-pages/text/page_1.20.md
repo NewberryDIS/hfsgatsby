@@ -10,6 +10,6 @@ The great English text critics of the seventeenth and eighteenth centuries would
 
 **NOTES**
 * [Open Bibliography](/bibliography.pdf)
-* (93) Paulli 1668 and Beyer 1660 offer new editions; compare the much older stock of the Widow DÃ¼mmler at Nuremberg in 1652, six editions all of the sixteenth century. On the availability of these many texts, Bury 1996, 126-127.
+* (93) Paulli 1668 and Beyer 1660 offer new editions; compare the much older stock of the Widow Dämmler at Nuremberg in 1652, six editions all of the sixteenth century. On the availability of these many texts, Bury 1996, 126-127.
 * (94) Schoppe 1671, 84-85; Barberini 1681.
 * (95) The epithet is that of Crinito 1505.

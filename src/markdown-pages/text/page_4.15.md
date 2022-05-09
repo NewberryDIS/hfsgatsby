@@ -27,7 +27,7 @@ The last part of Dati's *Sfera* introduced the genre of a sailing itinerary illu
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_091.02.jpg','Bordone's collection of islandds, 1528 (click to enlarge - 895 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_091.02.jpg','Bordone\'s collection of islandds, 1528 (click to enlarge - 895 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_091.02.jpg" />
     <figcaption class="mkdn-figcaption">Bordone's collection of islandds, 1528 (click to enlarge - 895 KB jpeg image)</figcaption>
     </div>

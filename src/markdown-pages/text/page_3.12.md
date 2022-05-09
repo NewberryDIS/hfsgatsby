@@ -80,7 +80,7 @@ Northern European printers were less likely to preserve the chaste Venetian titl
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_061.06.jpg','Denidel's layout, Paris 1499 (Click to enlarge - 683 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/3.00_Chapter_Three/HFS_061.06.jpg','Denidel\'s layout, Paris 1499 (Click to enlarge - 683 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/3.00_Chapter_Three/HFS_061.06.jpg" />
     <figcaption class="mkdn-figcaption">Denidel's layout, Paris 1499 (Click to enlarge - 683 KB JPEG image)</figcaption>
     </div>

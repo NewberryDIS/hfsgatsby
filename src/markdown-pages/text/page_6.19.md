@@ -42,7 +42,7 @@ Cerone's forty-page *Regole* contrasts sharply with his larger manual, *El Melop
 * (101) These epithets from Diruta 1609, part 2.
 * (102) The first edition of part one dates from 1593, that of part 2 from 1609; see Diruta 1984; Gargiulo 2004, 173n.
 * (103) Boorman 1986, 227-230; Owens 1996, 13-14.
-* (104) Cerone 1609, 3: *poveri Ecclesiastici ed altresi de lÃ¬ desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati*. On Cerone, Sánchez Garcì­a 2007, 67, 171-172.
+* (104) Cerone 1609, 3: *poveri Ecclesiastici ed altresi de là desiderosi di tenere i principij de la Musica piana. ... molti, che si essercitano in quella come ciechi, vengano ad essere illuminati*. On Cerone, Sánchez Garcì­a 2007, 67, 171-172.
 * (105) Cerone 1609, 37: ... *nè di molte altere cosette: per quanto mi pare no essere tanto necessario ad un semplice cantore, quanto utile ad un perfetto Chorista: che per servitio del Choro, lo detto fin qui, basta*.
 * (106) Gargiulo 2004, 180-182; Cerone1989, ix-xv.
 * (107) For this ideal in chancery manuals, Trovato 1994, 71-74.

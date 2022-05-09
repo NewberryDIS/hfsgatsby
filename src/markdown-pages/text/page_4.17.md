@@ -46,4 +46,4 @@ Vadianus's printers also dressed his work in Venetian style. The *Epitome* was m
 * (72) Cachey 1996, 63-64.
 * (73) Karrow 1993, 302-315; Engelmann 1982, 58-63 and 84-90; Török 2001, 70-72.
 * (74) Vadianus 1534, 17-18; Bonorand 1962, 91-96.
-* (75) NÃ¤f 1945, 21-26. Most of Froshauer's output was in a Germanic style using gothic types, but he was capable of excellent Italian-style typography for classical texts, humanist literature, and science; see Staedke 1965, 60, 72-79; Leemann-Van Elck 1040, 163-167.
+* (75) Näf 1945, 21-26. Most of Froshauer's output was in a Germanic style using gothic types, but he was capable of excellent Italian-style typography for classical texts, humanist literature, and science; see Staedke 1965, 60, 72-79; Leemann-Van Elck 1040, 163-167.

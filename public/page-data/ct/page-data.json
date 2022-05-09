@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
+    "path": "/ct/",
+    "result": {"data":{"markdownRemark":{"html":"<p>Readers are invited to quote and cite the text freely under the terms of its Creative Commons copyright statement. We recommend citing the text by section number, thus: Paul F. Gehl, Humanism For Sale, [url], [section number]</p>","frontmatter":{"slug":"/ct","title":"Citing Humanism For Sale","postid":null}}},"pageContext":{"id":"9c1d9103-94eb-5c04-9336-ac7ee52542b9","frontmatter__slug":"/ct","__params":{"frontmatter__slug":"ct"}}},
+    "staticQueryHashes": ["4191026804"]}

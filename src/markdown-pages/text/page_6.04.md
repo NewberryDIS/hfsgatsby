@@ -10,9 +10,9 @@ We know that an extensive, multi-year course in commercial mathematics was avail
 More influential by far than the *Treviso Arithmetic* was the nearly contemporary course book of Pietro Borghi, usually titled simply *Book on Commercial Math* (*Libro de abacho*). It saw at least seventeen editions between the first known one in 1484 and the end of the sixteenth century. Early editions advertise Borghi's ambition to provide a business-school course, "Here begins the noble work On Arithmetic, in which all things concerning business practice are treated." Later versions are more specific about the elementary character of the work, by way of distinguishing it from more substantial books. In 1517, for example, Melchiore Sessa and his partner Pietro Ravani advertised the Borghi with a bit of doggerel: "To the guy who really likes his maths / (first step on higher learning's paths): / Before you cross that brook, / you better read this book." (21)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-6352-(Vault)-Philippi-Calandri-ad-nobilem-&amp;-studiosu-Aritmetic-pg.1v-2r.jpg','inc-6352-vault-philippi-calandri-ad-nobilem-studiosu-aritmetic-pg1v-2r-thumb')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/6.00_Chapter_Six/Inc.-6352-(Vault)-Philippi-Calandri-ad-nobilem-&amp;-studiosu-Aritmetic-pg.1v-2r.jpg','Prologue to Calandri\'s Arithmetic, 1492')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/6.00_Chapter_Six/Inc.-6352-(Vault)-Philippi-Calandri-ad-nobilem-&amp;-studiosu-Aritmetic-pg.1v-2r.jpg" />
-    <figcaption class="mkdn-figcaption">inc-6352-vault-philippi-calandri-ad-nobilem-studiosu-aritmetic-pg1v-2r-thumb</figcaption>
+    <figcaption class="mkdn-figcaption">Prologue to Calandri’s Arithmetic, 1492</figcaption>
     </div>
 </figure>
 

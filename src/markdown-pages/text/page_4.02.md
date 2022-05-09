@@ -9,7 +9,7 @@ By contrast to this ideal, international world of advanced scholarship, much ele
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_096.01.jpg','Erarsmus of 1538 (with a censor's note added) (click to enlarge - 529 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_096.01.jpg','Erarsmus of 1538 (with a censor\'s note added) (click to enlarge - 529 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_096.01.jpg" />
     <figcaption class="mkdn-figcaption">Erarsmus of 1538 (with a censor's note added) (click to enlarge - 529 KB JPEG image)</figcaption>
     </div>

@@ -21,7 +21,7 @@ More than rules, Perotti invited his students to memorize long lists of words th
 In their work of annotating Perotti, readers were helped along by the format of the printed book, although it is clear that Perotti's own manuscript fair copy was formatted for study and consultation in an even more thorough way than the earliest editions. (54) Perotti numbered the rules in each section of his grammar and used other mnemonic devices derived from teaching practice. (55) Printers dealt with these innovations with differing degrees of success. Early editions used broad margins and centered, all-caps section heads to imitate the spacious look of humanist manuscripts. This was true whether the printed book was in quarto, imitating small-format manuscript schoolbooks, or in folio, more closely resembling larger and more luxurious humanist manuscripts. The numbering of the rules was emphasized by centering even simple heads like "First rule on supines," "Second rule," etc. (56)
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_116.02.jpg','Perotti's word lists in quarto format (Click to enlarge - 662 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/HFS_116.02.jpg','Perotti\'s word lists in quarto format (Click to enlarge - 662 KB JPEG image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/HFS_116.02.jpg" />
     <figcaption class="mkdn-figcaption">Perotti's word lists in quarto format (Click to enlarge - 662 KB JPEG image)</figcaption>
     </div>

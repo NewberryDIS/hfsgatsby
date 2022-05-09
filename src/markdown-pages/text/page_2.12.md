@@ -21,7 +21,7 @@ A more modest success, but entirely Italian, characterized the two grammar books
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg','Scoppa's Epitome, 1517 (click to enlarge - 683 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg','Scoppa\'s Epitome, 1517 (click to enlarge - 683 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.124r.jpg" />
     <figcaption class="mkdn-figcaption">Scoppa's Epitome, 1517 (click to enlarge - 683 KB jpeg image)</figcaption>
     </div>
@@ -31,7 +31,7 @@ Whether because the book was criticized as too long and detailed or just because
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg','Scoppa's Epitome as a separate (click to enlarge - 849 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg','Scoppa\'s Epitome as a separate (click to enlarge - 849 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/2.00_Chapter_Two/Case-X-674.798,-Lucii-Ioannis-Scoppae,-Epitome,-folio.title-.jpg" />
     <figcaption class="mkdn-figcaption">Scoppa's Epitome as a separate (click to enlarge - 849 KB jpeg image)</figcaption>
     </div>
@@ -79,7 +79,7 @@ The surviving Pseudo-Palaemon text, however, only presented grammatical informat
 * [Open Bibliography](/bibliography.pdf)
 * (74) D'Amico 1983, 91-102; Rizzo 1996, 16-18; Rizzo and De Nonno 1997, 1597-1598; Black 2001, 137-139.
 * (75) There are many examples. In addition to the Roman ones cited by Grendler 1989, 189, see: Donat and Guarino at Florence, in Sermartelli's editions of in 1597 and 1596 and at Modena, ca. 1590; Donat and Bossi at Milan, edd. of 1595, 1597, and 1611.
-* (76) The opening words of the title vary from edition to edition, the most common being *Summa perutilis*, while others are called *Compendium* or *Canones grammatices*; this last appears in the earliest editons and was probably Cantalicio's own title. Editions I have seen are listed in the Bibliography. On Cantalicio, Sanford 1953, 267-269; Blasio 1992, 289-294; Trovato 1994, 28; SÃ¡nchez GarcÃ­a 2007, 19-42. Morici 1905, 24 says Cantalicio's grammar was so popular that his name became a common word in Tuscan for "grammar book."'
+* (76) The opening words of the title vary from edition to edition, the most common being *Summa perutilis*, while others are called *Compendium* or *Canones grammatices*; this last appears in the earliest editons and was probably Cantalicio's own title. Editions I have seen are listed in the Bibliography. On Cantalicio, Sanford 1953, 267-269; Blasio 1992, 289-294; Trovato 1994, 28; Sánchez Garcí­a 2007, 19-42. Morici 1905, 24 says Cantalicio's grammar was so popular that his name became a common word in Tuscan for "grammar book."'
 * (77) Jensen 1998, 247-252, 272-273, and 279-283 describes some sixty editions in all, twenty eight of them Italian. The largest number appeared before 1530; significantly fewer came out between 1530 and 1556. Paolo Manuzio revived the work in 1558 for the Italian market after other Italian printers had largely left off publishing it; and he and his son Aldo Jr. published a dozen editions before 1575. Manuzio's 1558 edition was presumably that on offer at the Lanciano fair in 1559; see Marciani 1958, 434.
 * (78) Fuiano 1971, 44-45; Sabbatino 1995, 76-86.
 * (79) See Scoppa 1517a, 1517b, 1524, 1534,1566 and 1616 for this pattern. It was not by any means universal, however: Scoppa 1540 relegates the *Epitome* to an appendix in tiny type. Scoppa's textbooks remained influential, especially in the Kingdom of Naples, as evidenced by the inventories edited by Cosi 2006, 645-656. The same source lists a number of works by Scoppa's student, Luigi Antonio Sompano, called Sidicinus (d. 1557), as does another inventory edited by Ottone 2006, 694-699.

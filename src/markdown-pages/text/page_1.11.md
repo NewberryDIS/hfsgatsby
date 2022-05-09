@@ -7,9 +7,9 @@ We come away from these Griffio editions with the distinct impression that the e
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_117.01.jpg','')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_117.01.jpg','Editor more prominent than author')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_117.01.jpg" />
-    <figcaption class="mkdn-figcaption"></figcaption>
+    <figcaption class="mkdn-figcaption">Editor more prominent than author</figcaption>
     </div>
 </figure>
 
@@ -21,9 +21,9 @@ Giovanni Griffio, as we have seen, promoted the text edited and annotated by Ant
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_130.03.jpg','')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/1.00_Chapter_One/HFS_130.03.jpg','Same editor, more modestly')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/1.00_Chapter_One/HFS_130.03.jpg" />
-    <figcaption class="mkdn-figcaption"></figcaption>
+    <figcaption class="mkdn-figcaption">Same editor, more modestly</figcaption>
     </div>
 </figure>
 

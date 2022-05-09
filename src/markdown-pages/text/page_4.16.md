@@ -6,9 +6,9 @@ postid: 274
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_055.02.jpg','Brecaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_055.02.jpg','Boccaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_055.02.jpg" />
-    <figcaption class="mkdn-figcaption">Brecaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)</figcaption>
+    <figcaption class="mkdn-figcaption">Boccaccio on topography, 1512 edition (click to enlarge - 877 KB jpeg image)</figcaption>
     </div>
 </figure>
 
@@ -16,7 +16,7 @@ An alternative, equally literary form of Renaissance geography was the compilati
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.04.jpg','Formal opening for Lilio's treatise (click to enlarge - 973 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full/4.00_Chapter_Four/HFS_088.04.jpg','Formal opening for Lilio\'s treatise (click to enlarge - 973 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full/4.00_Chapter_Four/HFS_088.04.jpg" />
     <figcaption class="mkdn-figcaption">Formal opening for Lilio's treatise (click to enlarge - 973 KB jpeg image)</figcaption>
     </div>

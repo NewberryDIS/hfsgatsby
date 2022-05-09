@@ -66,5 +66,5 @@ Another *Rudimenta grammatices*, that of Niccolo Perotti (1430-1480), started it
 * (21) This version of the Donat is discussed at greater length in sections 2.04 and 2.05. Leto also wrote a more general (and equally innovative) grammar published in 1484. It too had very limited influence; see Zabughin 1910, vol. 2, 208-223; Ruysschaert 1954.
 * (22) Kirkenheim 1951, 54-55.
 * (23) Cittadella 1535, fol. 1v.
-* (24) Â HÃ©brard 1983, 79-80; Colombat 1999, 37.
+* (24) Hébrard 1983, 79-80; Colombat 1999, 37.
 * (25) Ricardini 1510, apparently the only edition.

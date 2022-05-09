@@ -7,7 +7,7 @@ Unlike most literary genres, we know the precise date and personalities involved
 
 
 <figure class="mkdn-figure">
-    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.02.jpg','Alciati expounds Aldo's anchor (click to enlarge - 865 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
+    <div onClick="createLightbox('/images_full//7.00_Chapter_Seven/HFS_026.02.jpg','Alciati expounds Aldo\'s anchor (click to enlarge - 865 KB jpeg image)')" class="mkdn-image-link" id="lbimage">
     <img class="mkdn-image" src="/images_full//7.00_Chapter_Seven/HFS_026.02.jpg" />
     <figcaption class="mkdn-figcaption">Alciati expounds Aldo's anchor (click to enlarge - 865 KB jpeg image)</figcaption>
     </div>

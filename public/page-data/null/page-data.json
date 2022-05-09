@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
     "path": "/null/",
-    "result": {"data":{"markdownRemark":{"html":"<p>Looking closer, it seems that this change really is more apparent than real. At some places in the text (as here) we have chosen to use partial, detail images in text and a full-page shot in the pop-up. Elsewhere the pop-up is merely and enlargement. In any case you should always be able to zoom in further on the pop-up by merely clicking on the portion fo the image that interests you.</p>","frontmatter":{"slug":null,"title":"","postid":null}}},"pageContext":{"id":"b6c2bd92-a0d7-542b-b6dd-2a9060b52053","frontmatter__slug":null,"__params":{"frontmatter__slug":"null"}}},
+    "result": {"data":{"markdownRemark":{"html":"<p>I am going to ask for help on this apparent change of aspect in the pictures, which was not intentional.</p>","frontmatter":{"slug":null,"title":"","postid":null}}},"pageContext":{"id":"c7c6c651-f57a-5382-825d-8bbfbaa6e782","frontmatter__slug":null,"__params":{"frontmatter__slug":"null"}}},
     "staticQueryHashes": ["4191026804"]}

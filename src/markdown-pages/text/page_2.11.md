@@ -34,7 +34,7 @@ This practical development, denigrating the Donat by marginalizing it and minimi
 * [Open Bibliography](/bibliography.pdf)
 * (66) Jensen 2001, 117-118.
 * (67) Black 2001, 60.
-* (68)Â  There were several revisions of this work and many editions especially of a so-called *secunda editio*; see bibliography for editions I have examined. To my knowledge there is no study of Piazzoni.
+* (68) There were several revisions of this work and many editions especially of a so-called *secunda editio*; see bibliography for editions I have examined. To my knowledge there is no study of Piazzoni.
 * (69) Pecci 1912, 33-45; Scaccia Scarafoni 1954, 3-7; Blasio 1986, 495-497. Sulpizio may have been at least partly responsible for the complex and confusing layouts of some editions. That of 1489 contains a particularly extensive and wittily described set of *errata*.
 * (70) An example survives in an early binding at the University of Illinois/Urbana-Campaign. Tacuino used the same types and format for a Perotti he published in the same year, suggesting he had a comprehensive course of study in mind.
 * (71) On the fifteenth-century editions see Scaccia Scarafoni 1954, 10-13. I have consulted Sulpizio1489, 1490, 1495a and b, 1500, 1504, 1507, and 1508.
